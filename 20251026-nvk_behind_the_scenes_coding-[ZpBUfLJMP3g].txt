@@ -1,0 +1,1361 @@
+0:07 Let's see. There's my microphone.
+0:13 And capture Discord.
+0:19 I can switch over Discord. What am I doing? I
+0:26 laying in bed here for one thing. Um, but I'm trying something new and this is
+0:34 a first stream. This is a behind the scenes. Let me make sure before I start
+0:39 talking that it's actually up and running here. So,
+0:45 uh, bam. This should be behind the scenes coding.
+0:53 This should be a behind thescenes coding. And this is a behind the scenes coding.
+1:00 Okay. So, we're up and running on you. Um,
+1:14 not really sure how this is going to go or what I'm doing. And, um, I'm
+1:22 obvious I'm laying in bed. um
+1:27 coding and I thought of trying out this as a small
+1:34 attempt first without um
+1:40 broadcasting to the org or anything. This is kind of my channel on my Discord, which I should put up here on
+1:45 the screen as a global.
+1:51 Let's go into uh studio mode and come over to global and add to global
+1:59 um text
+2:04 so that we have our discord
+2:09 um
+2:15 and let's get our discord link
+2:22 What is our Discord link?
+2:27 Yeah, I've got an invite. I don't know why. That way.
+2:34 Come on. There we go. Um,
+2:40 let's get my Discord link, which I thought was on
+2:45 thought I had it in here. Um,
+2:52 I got it on my
+2:59 this my Discord. Yeah, Discord me.
+3:04 Make sure this is still um I haven't been here in a while. Discord
+3:11 me. Log in.
+3:22 Logged in. What have I got on my dashboard?
+3:29 Okay. Um,
+3:36 that's okay. That's the URL. And I think it's permanent. So, let me put that into
+3:45 new uh drop shadow. Always drop. I don't know why they don't have this on. Want
+3:51 it white. I want it font on moon.
+3:57 That's kind of the font that I'm choosing. It's hard to read, but I kind of like it.
+4:04 And then we'll stick that.
+4:10 What is my stream quality? Just double checking that we're
+4:18 um Yeah, we're 4K. And put this up top. And then make that
+4:27 global. I'm playing with global. And then if I
+4:32 come to MacBook filters, this is the main stream you're seeing. And I add a
+4:44 um what about that?
+4:49 The the drop the um drop source or what is that drop source?
+4:56 I just installed a
+5:01 downstream keyer. How do I use downstream key?
+5:11 How do we use it?
+5:16 Um, installing instructions. Oh, I don't want to do that.
+5:23 Um, yeah, it's already in the this plug this downstream here dock to
+5:31 the OBS Studio. So, there's a dock.
+5:38 Okay. Docs downstream here.
+5:44 Right here. Where do we want to shove you? I could
+5:50 shove you in here. um touch of key one
+5:56 and then how does that
+6:11 Yeah, that's fine. We destroy we ran out of that. So add transition fade lower
+6:16 thirds. So
+6:22 um add transition
+6:28 add. No add
+6:34 global.
+6:39 I don't want that. I want you global
+6:46 and then
+6:54 transaction show.
+7:00 Um that's that is it's already on there. Um,
+7:08 if I hide here. Yeah. Okay. That's have an effect.
+7:13 All right. Um, and it's on the top. I could move it
+7:22 to the bottom and make it smaller.
+7:31 Please don't be so wide.
+7:38 That's plenty wide. Um and SH
+7:52 up there and expect at any moment that my kids might
+7:59 have um that was a media source I was trying
+8:06 to play with. I get rid of that.
+8:11 Um, don't really need this at the moment. I want to set this text a little bit
+8:19 smaller.
+8:29 There we go. Let's go see what that looks like on the stream.
+8:38 It's always so far behind.
+8:50 Hello.
+8:58 Like this YouTube preview. I might as well just go to the kick preview.
+9:03 See what it looks like.
+9:13 Cool little hollow effect
+9:19 and Twitch. So, request for tablet. Okay.
+9:28 You're welcome. Send the request away.
+9:35 I turned this off. No, that was
+9:40 just two hours ago. I'm looking at the Discord channel that shouldn't have gone
+9:46 live on uh just making sure that I turned that
+9:52 off. Coding,
+9:57 I had turned you off. H. All right. Well, apologies
+10:28 stream. I was pretty certain.
+10:34 Maybe I didn't apply. Maybe I didn't apply.
+10:40 Oh well. Um I'll look at it in a second. Turn off notifications.
+11:01 Uh, let's just grab a screenshot of that because here is this and that is this
+11:06 and it should show paused.
+11:15 Yeah, it shows paused.
+11:27 Weird.
+11:50 All right. Let me uh go into uh I can add a
+11:59 be right back. An AFK type of 4K media stream. I'll add that. Um
+12:15 because it's still showing that I haven't ever transitioned away. Uh it's down at the bottom. Uh, let me add that.
+12:22 So, I'm basically still getting I'm getting this behind the scenes up and running. But this is what I worked on
+12:28 today and what I may spend some time to show as I'm getting this up and running. I wanted to have prioritywise the one of
+12:36 the very first things is to be able to redact the screen. And if I leave studio mode
+12:43 there, I can uh redact and unredact the screen. Um I I learned a lot
+12:52 about um blur and hot keys and the complication
+12:59 with this was getting the whole scene to blur.
+13:05 Uh so I will consider this. Okay. I have a hotkey control shift uh
+13:14 tick. Did it turn on? Okay, it's on. All right, send me a notification.
+13:25 Um,
+13:32 domestic stuff. This is just um not necessarily my
+13:37 curse, but um this is just reality.
+13:43 And I plan to integrate chat better onto this. like I'll this behind the scenes um on on my gaming streams. It's still
+13:51 only one channel right now. I thought about making a separate channel, but I don't have um I don't feel like I have
+13:57 enough subscribers to justify um two channels at the moment. Uh if
+14:04 what I'm doing on the behind thescenes stuff, I I prefer more of the behind the scenes. that the reason I'm doing this
+14:11 and the reason why I'm kind of crazy in the stream stuff is I'm almost more interested in the
+14:18 behind thescenes stuff than the actual gameplay. It's 95% behind the scenes, 5% gaming.
+14:29 Uh, is she Oh, that's not okay. Looking for my wife to show up. Um, so if I lose
+14:38 subscribers or something from the behind the scenes stuff, then that's that's not what the channel was about. Um, be the
+14:45 channel's not about the gaming um, extreme gaming or competitive player
+14:54 versus player type of stuff. This channel really is about me tinkering with technology and writing apps to kind
+15:01 of automate the stuff. Did it send? It sent. Okay. and mixing blending that into uh my
+15:10 families and my time and responded.
+15:15 So if you get this is IRL stuff if what
+15:23 and did that make you upset? Is it plugged in?
+15:29 All right, I'll be right there. So IRL stuff. Um, I'm going to not really going
+15:35 to pause the stream, but I'm going to do a away from keyboard right now. Um, so,
+15:40 uh, I should mute when I go when I go away from keyboard. I should mute, but I'll just do that right now.
+15:47 Bam. And
+16:43 laptop mic back there. All right. And you know what? I just realized this
+16:50 uh and tmi tmi share. I am going to put um
+16:58 I'm put it initially in this um
+17:04 text uh notes
+17:10 and I'm going to put and I'm I have a notes doc that I'll drop in
+17:16 on the side. Um
+17:22 go go go goals or agenda to do your goals
+17:32 ideas. Um
+17:38 let's see here. Let's put that on the screen over here. Well, I'll shrink
+17:43 this. I should be doing it in studio mode. But I'm going to bring up the
+17:54 thought I had the text source
+18:00 source doc scene scene do scenes.
+18:06 Pretty sure I had that in here. Um,
+18:14 scenecustom browser docs reset docs. How did I have that in the
+18:21 um,
+18:27 social stream? Sure. But I had the text doc the text source
+18:33 right in here. And if I stop this, then it's not going
+18:38 to There's the custom downstream cure multiple output events
+18:44 controls mixture sources right scenes sure
+18:52 but where's the text source if I put in here that's text output
+18:59 source
+19:06 oh man I did this on the other profile I don't want to switch way. Um,
+19:12 this kind of lame looking the way it is right now.
+19:18 Um, I will put in those notes though.
+19:27 Um, I'm working on uh music player.
+19:36 I'm not completely scattered here. Um
+19:42 and then the notifica and then the um redaction which redaction I'm going to
+19:48 call it redaction but also calling it blur
+19:53 and then the um cyray
+20:00 notification. That's a big word. I don't know if how
+20:06 that'll fit on the screen there with these notes and how small these notes are going to get,
+20:13 but you can still read it. Um,
+20:18 always do drop shadow. Um, word rap. Maybe
+20:33 that's the focus. I say my it's kind of I hope to cover those topics. Topics I
+20:38 could call them topics.
+20:44 And now I've stumbled across a new one which is um I'm going to I'm going to pri kind of prioritize these things and
+20:51 make I can't strike them out. Um, so it's just text. Wonder if you can
+20:58 drop a rich text or a browser source in probably do a browser source.
+21:04 Um, yeah, I could do a browser source and just have a rich text file show up. That
+21:11 be nice if it did a markdown source. Is there a markdown source?
+21:21 um source dock. Um
+21:28 I'll get to that in a second. Source doc and
+21:34 if there is a markdown source, great. If not, then
+21:39 uh browser source.
+21:48 Okay. source stock. I I'll get to these other
+21:54 things in a moment and chat. I also plan to drop in chat.
+22:00 Uh this may be a growing list here.
+22:05 Uh
+22:10 in stream chat, I want to get that working better.
+22:20 My wife is home, so I might pause this to in IRL type stuff. I totally plan to
+22:26 pause this if I if I need to stop and restart. And that's where I wanted to
+22:32 make sure the chatter in the channels isn't um too bad
+22:39 on my Discord server. It'd be fine. Um but I don't want the Arie my org's
+22:45 Discord server to get all noisy.
+22:53 Um,
+23:00 yeah, we're home. Uh, Maddie and Maddie said, I don't know. Uh,
+23:08 directions, I think.
+23:32 And I've got I think these are charged enough.
+23:41 I'm also watching the battery.
+23:46 If it's actually charging, if it's going up. It's still not going up. Wow.
+23:52 That's a 140 watt charger in it. I I
+23:58 made it shallower, but I guess I need to plug the 180 in, which
+24:04 I've got the 180. Let me go grab the 180. And um when I do
+24:12 redaction with the mute, I guess I could mute
+24:20 the mics. when I with like a command zero
+24:26 that'd be an away from keyboard. Oh, I put that as a note.
+24:32 Um, almost want that
+24:47 and
+25:07 It's fine. The source
+25:13 the the source text that's annoying me because you can I can edit it straight in there. I don't want to have to like
+25:18 keep popping this up. Um,
+25:28 source doc. OBS. Source doc. How do I How do I get this
+25:33 to work?
+25:38 Source docs. The checkbox. There we go. Source doc. This is what I
+25:45 did where I added source which is notes
+25:53 notes
+26:08 which where did it go? This seemed a little odd. notes.
+26:17 Is that a baby squirrel
+26:23 source?
+26:28 All right. And then notes. I'll rename it. And then there's this.
+26:35 There we go.
+26:41 um filters properties. I just want it visible.
+26:52 There it is. And then from here I can dock
+26:59 and make it editable.
+27:05 Source stock notes
+27:17 properties.
+27:25 Was it under notes itself? How did I do that
+27:31 to make it editable? Don't want to see it.
+27:49 Controls, media, switch scene, various filters,
+27:55 text input. There we go. This lets me edit it. I don't want the
+28:02 preview.
+28:07 There we go. That's what I want.
+28:13 Um, that
+28:19 I could put you. There's plenty of white space over there. I could put you right here.
+28:27 Shrink you. And then now as I type this
+28:32 um and the very first thing I should do here is put
+28:38 away the dishes.
+28:45 All right. So source do which is actually what I call
+28:50 source stock. Thought that that's what I had. So source do.
+28:58 All right. Um,
+29:04 still would like to look into markdown source doc or if I could do a markdown
+29:09 notes
+29:18 looking to see doing that. Um and then
+29:25 away from keyboard in order to go there that I need a
+29:38 YouTube 4K.
+29:48 Um,
+30:04 yeah, that's me. I How do I do that? Um, stock footage.
+30:20 There was the be right back.
+30:41 10 seconds. 11 seconds. Got
+30:46 that
+30:52 kind of waiting stream paused.
+31:01 It's not too bad as long as it loops clean. So, if I were
+31:07 to grab you
+31:12 and
+31:20 download you 4 seconds
+31:28 and then put you in the media source for
+31:34 motion. And I've got a note for this. I can delete this because this this scene was my note
+31:40 um about the blurred stuff. I will
+31:48 and I will add a be right back scene.
+32:06 Wonder if I uh had a toggle maybe for a source.
+32:12 Maybe try to make up the source media source
+32:17 back browse to
+32:24 I've got it under here is
+32:34 I think I can move from here.
+32:42 I can't move from here. Go figure. So,
+32:50 music.
+33:00 That's fine. Be right back.
+33:05 Movies. Be right back.
+33:11 Um, you don't know how to play MKVs.
+33:20 It does. Yeah, there it goes. And I want to loop it. Loop.
+33:27 I will restart that one.
+33:32 Try that.
+33:40 And if I hotkey zero, if you're showing, then I'll
+33:47 automate muting the mic. So advanced scene switcher
+33:55 be right back. If
+34:02 source If media
+34:10 be right back is playing showing showing.
+34:24 I also want to delete that and do if source
+34:33 If be right back is active then
+34:41 um mute audio
+34:48 mute laptop mic. I'll do a lapel mic eventually. So then
+34:55 bam. So if I change this visibility, I should
+35:00 go mute.
+35:10 Now I need to toggle it back. So
+35:15 on the knots if it is showing not otherwise
+35:29 unmute.
+35:34 So, if I show you unmute
+35:41 um and then make a hotkey for that
+35:48 to show that source in the scene.
+35:57 She'll be right back. Uh zero and
+36:30 Yeah. So now I'm talking
+36:36 um
+36:52 And
+36:59 and then
+37:09 Um, so I've got away from keyboard kind of done
+37:19 say done this
+37:24 could always improving and then I go put away the dishes. So I'm going to try not
+37:33 This battery is still dropping fast. Go get the 180 charger.
+37:43 and see if that makes any difference. Okay,
+37:49 I will. How much dead time do I want? I should I
+37:55 should stop a stream, but I'm going to do this as a test to see how it goes.
+38:01 So, this is going to be an intentionally awkward uh be right back and we'll see
+38:07 how long it is till I get
+48:49 Still just playing around with some of the layouts right now. Be right back.
+52:29 And so when I do that, I want to turn on
+52:35 the be right back. Well, then we'll mute the audio and redact the camera.
+52:43 Add filter.
+52:49 uh on the source of webcam
+52:55 we will enable that filter
+53:00 and then when we're not right back
+53:05 will copy paste and we will disable that filter.
+53:14 So now when I come in and say
+53:19 it can be right back where not. So I can go
+54:41 All right. So, um, what I've realized is that I don't I can
+54:47 redact the whole source by doing this. And that scrambles the whole source. Um,
+54:53 and this is if if I'm going into password mode, basically.
+54:58 Um, and then to go away from that. Yeah. Yeah. Yeah. Yeah.
+55:05 Go. Um, so in this live stream setup that I'm
+55:11 trying to do and show off more live coding and what I'm working on as I'm
+55:17 kind of getting more comfortable, I don't know,
+55:25 recording things that I enjoy doing. Um, I've realized in order to do this
+55:32 spontaneously and realistically, I need to be able to redact what I'm showing on the screen and not
+55:40 going to be automatic. I need to basically do this and that'll um
+55:47 toggle I can just toggle it back. I can toggle it. So if I do that and say settings
+55:57 hotkeys um it's this one
+56:05 disable. Yeah. Yeah. That's going to it's going
+56:11 to have to toggle back and forth. It's not going to know how to do that.
+56:18 Um, so this is a I haven't intentionally have it as a fairly easy to go into a
+56:26 redacting mode. Um,
+56:31 and I've got that set here.
+56:41 Um, I got rid I got rid of all that. Oh, so I can just togg Oh, I can toggle back
+56:47 and forth. So, it's now not going through the motion and I can just do it through settings. So, now that makes
+56:54 things a lot smoother where I can basically
+57:00 toggle back and forth. Okay.
+57:07 So, this allows me to uh redact and unredact or
+57:15 um away from
+57:26 and I'd need to do a shift a modifier like an option option shift if I want to
+57:32 keep the microphone enabled. How would I do that? advanced scene switcher.
+57:41 Um, that's that one.
+57:49 The be right back is if it's showing
+58:02 kind of do a hotkey press. There's a hot key which is B right back.
+58:15 No, which I wouldn't really ever And then there's a
+58:22 um do a hot key.
+58:28 Hot key. Hot key is pressed. Hot key is released.
+58:34 Um right back
+58:42 then
+58:48 show
+58:55 source which is be right back.
+59:03 and
+59:10 audio. Let's grab this one. Actually,
+59:22 can I grab two? Copy.
+59:31 Paste that. And blur
+59:44 that if the hot key is pressed. I see. I don't know if this is going to
+59:50 work. This is with the mic. So if I come into
+59:57 hotkeys and then be right back. No mic. If I say
+1:00:04 I know that's got a conflict. I'm going to delete that as I'm testing this.
+1:00:25 So
+1:00:34 we're in here to simple
+1:00:51 That's
+1:00:58 then I just want to do the source enable. We'll be right back. And I know about this warning.
+1:01:03 Probably want the scene item visibility. Get it.
+1:01:10 Okay. Current scene.
+1:01:16 Be right back. Show. Mute the mic. Blur the camera
+1:01:23 if it's pressed.
+1:01:35 Now we got to uh toggle it
+1:01:45 and that one will cause a problem. Can't just toggle back and forth easily.
+1:02:00 I could make the m if I toggle the microphone off and on, then that could automate
+1:02:08 the blur. I could just do that. So, hot keys,
+1:02:15 we get this zero. Um, this one's going to be
+1:02:27 Laptop mic show or hide. Zero zero.
+1:02:46 I just want to really mute it. Yeah.
+1:02:51 Yeah. Yeah. So then advanced scene switcher
+1:02:57 no mic is if the audio
+1:03:03 or scene source if scene item visibility of the current
+1:03:09 scene laptop
+1:04:17 This is with a mic.
+1:04:22 Okay. Now, when an option to opt into showing the mic,
+1:04:31 which that's going to be a hotkey toggle to basically
+1:04:44 If I blur the camera, then be right back.
+1:04:49 I could automate that.
+1:04:56 I renamed this to mute
+1:05:03 mic.
+1:05:09 toggle camera blur.
+1:05:16 And that's just going to do I'll keep you there for a second.
+1:05:27 This is going to be camera blur
+1:05:34 toggle be right back.
+1:05:41 And this is if scene visibility. If if the filter
+1:05:52 for MacBook camera blur is enabled,
+1:05:59 then show be right back.
+1:06:08 Otherwise, I'd be right back.
+1:06:33 Yeah, I did that backwards.
+1:06:53 move. So, and then that one's going to be
+1:07:03 hot keyed to
+1:07:13 turn on the Was it? That is the scene filter.
+1:07:37 Interesting. The individual filter
+1:07:51 I'm going to try my Bluetooth headset here.
+1:08:20 thing. It didn't
+1:08:30 just didn't wake up.
+1:08:53 So frustrating.
+1:09:02 Got these new fancy
+1:09:08 nothing year 3es. I'm definitely impressed with them, but
+1:09:16 I don't understand why they're not turning on.
+1:09:28 So, put microphone on.
+1:09:36 I can do it for you.
+1:09:48 That That means the mic, but it shows to be right back.
+1:09:56 If I mute the mic,
+1:10:11 I'm blurring the
+1:10:20 off.
+1:10:29 care about here.
+1:10:44 The laptop mic is hidden.
+1:11:01 Why is it start camera blur toggles? Be right back.
+1:11:06 It's the wrong camera blur.
+1:11:20 It's the laptop webcam. Composite blur is enabled. There we go.
+1:11:26 That was the wrong one. So now that just keeps that keeps the mic because I'm
+1:11:32 just redacting for password reasons. Okay, that's good. And here.
+1:11:44 And I can I can toggle that. Yeah.
+1:11:50 Uh, the mic is working here. But then I'm trying to get it so I can leave the
+1:11:55 mic on when I toggle this.
+1:12:04 But I want the option right now. I could It's It's really cheesy, but
+1:12:33 Got to get the 180 watt charger is actually be able to charge this pretty well.
+1:13:00 Turn the filter on and off. I can't do it if here advancing switcher has a
+1:13:11 hot key if hot key is pressed released.
+1:13:19 So that's fine. Now we can say
+1:13:30 advanced scene switcher.
+1:14:00 Yeah, we'll just do that. That's fine.
+1:14:06 This one's going to be
+1:14:27 filter. I think there's a toggle.
+1:14:44 There's a toggle that'll work as a blur. So then I guess no matter what it is and
+1:14:50 then the settings hot keys and I say
+1:14:56 you I can say
+1:15:09 And now I can there you blur and I can still talk. So
+1:15:16 that's I had an option if I throw down an extra key and I I I've got an
+1:15:24 um stream deck Neo I can automate some of this stuff with later
+1:15:46 Mike. This is with Mike and that's with Mike.
+1:15:59 That works. So improved the
+1:16:09 um okay
+1:16:56 Yeah, it's kind of I've got
+1:17:02 I can make another note we'll call these um
+1:17:14 uh focus server
+1:17:25 and then I'm going to make another note
+1:17:44 to me makes you not visible. Oops.
+1:17:50 But yet I'm going to dock you over here with the source dock.
+1:18:00 I'm going to add
+1:18:05 notes and my Q.
+1:18:11 take text input
+1:18:17 and uh of course we OBS crashed there. So um
+1:18:24 I do and check the channel so I didn't disturb anybody.
+1:18:32 And now I check the streams make sure they're still running.
+1:18:40 so bad.
+1:18:56 Okay, it's live. Live.
+1:19:02 Good.
+1:19:12 That was
+1:19:22 source stock. I was adding
+1:19:29 notes to be editable.
+1:19:38 and it crashed again. So, um, let's turn off
+1:19:46 that. Um, move. I'll probably do it off stream. I'll get it to work off stream.
+1:19:53 So,
+1:20:30 I can move the done stuff as I'm done with things.
+1:20:36 Um, probably not going to get to mark down those
+1:20:42 things for the stream.
+1:20:49 channel
+1:21:04 tweaks
+1:21:09 to the microphone. When I'm done with the stream, I'll of
+1:21:15 this the coding the music player the cy tray modification
+1:21:21 I got this working pretty well if I redact unredact
+1:21:32 okay I'm liking that
+1:21:38 Um,
+1:21:49 the microphone. Why is the microphone not working?
+1:22:14 or
+1:22:27 that's my
+1:22:54 Okay.
+1:23:06 Two. Three. Four. Five. Six. Seven.
+1:23:20 That's just pairing. Okay.
+1:23:46 I don't want to reset.
+1:24:11 There's one thing in case red light flashes three times following by flashing.
+1:24:19 That's just a charging light.
+1:24:43 Yes.
+1:24:48 If she could go to Yeah.
+1:25:01 Nice. Nice.
+1:25:12 It's cuz it's harder. I can't hold on.
+1:25:18 You're slipping. You're falling. You random pages. Yep.
+1:25:24 already and take the watch. Yeah, she has one over there already.
+1:25:32 Don't know why I won't wake up.
+1:25:37 Um, I was hoping to use the Bluetooth mic
+1:25:50 static sounds. Yeah. Reset
+1:25:56 the device.
+1:26:13 Oh, that's the reboot.
+1:26:18 Close
+1:26:29 the lid and wait for 30 seconds.
+1:26:39 Okay.
+1:27:05 So the whole point of this me doing all this is
+1:27:12 to um
+1:27:27 There is
+1:27:39 so bad. It's so delayed. Can't stay current.
+1:27:47 I think it's been more than 30 seconds. The whole point is to show coding and
+1:27:54 these two things that I'm working on which
+1:28:02 um the first thing is this media player which is this this that I'm working on
+1:28:09 and it works. I'm I'm evolving it and it's working pretty well now.
+1:28:14 Um but I got this project uh Should I bring it up in here or in
+1:28:20 the other? Should bring it up
+1:28:25 in here.
+1:28:31 I'm not signed in. So, here is where I Let's see if it
+1:28:42 remembers. And then what I'm going to do is I'm going to redact which is control
+1:28:50 and I'm going to do this on the side. I'm going to watch the stream on the side as I do this. So bring up you and
+1:28:57 then bring up you and then I'm going to
+1:29:02 um redact the screen as then I've just pull up my password
+1:29:08 manager which is where my two factor. This is not really critical and my
+1:29:13 password manager is pretty safe anyway, but it's showing account names and
+1:29:18 stuff. So now I can copy that. Paste that.
+1:29:24 And now I'm in I can close my password manager. And now unredact. And we're back here.
+1:29:33 And um I want to go to
+1:29:41 It's actually um Yeah, it is knight versus knight.
+1:29:51 It's this guy. This is where I want to um work through these issues. And
+1:30:01 they're saying tar. Okay.
+1:30:08 What's up? I don't think so. Helena.
+1:30:20 Nope. That's my wife talking to me.
+1:30:32 Toggle that back. Works. Okay.
+1:30:39 to the microphones
+1:30:46 there. Now it's coming.
+1:31:02 Okay, I've turned on transparency mode on you. Bluetooth is enabled on you and
+1:31:09 you should see the nothing ears. And now I can um copy the laptop mic
+1:31:19 with all the filters. Oops. Didn't want to do that.
+1:31:30 Um I just remove
+1:31:36 and then add audio input capture of
+1:31:42 nothing
+1:31:47 earbud. These are going to be the nothings
+1:31:56 and earbud mics, laptop mic, echo.
+1:32:10 Gonna mute the earbud mics while to avoid the echo
+1:32:17 while I now configure them to work the same
+1:32:33 and grab these filters. Noise suppression. Yeah. Audio
+1:32:38 microphone filters.
+1:32:56 Hello.
+1:33:04 Um, so I have no filter on. I could put um
+1:33:11 noise suppression on here. I don't know how the quality is. The
+1:33:17 quality might be really bad. It might be really bad.
+1:33:28 my suppression on you.
+1:33:34 Um, streams crashed a few times.
+1:33:41 Curious to come in and test how these um, nothing earbuds sound
+1:33:49 compared to the laptop mic. Assuming the laptop mic
+1:33:55 is going to be superior. And then the other catch is I want to
+1:34:00 need to be able to mute 15%. That's why they weren't actually
+1:34:07 charging. I guess I have to close the lid. So,
+1:34:14 never mind on these at the moment because we're just going to let these charge. Um, they're at 15% battery. So,
+1:34:23 I will ignore these for the moment
+1:34:35 and I'll let this charge.
+1:35:02 Okay.
+1:35:09 Uh, let me put
+1:35:17 my webcam over the goals. It's off screen. It's off screen. It
+1:35:23 doesn't need to be over my face. It just looks weird. Less a less a
+1:35:30 narcissistic thing and more it just looks weird, right? I mean,
+1:35:38 that looks weird to have text over me. It's kind of a forcing factor.
+1:35:45 Or I could just do that. I know that I'm working off the top of the list
+1:35:51 anyway. Be right back.
+1:36:57 suppose I could always option zero
+1:37:02 to turn on mic
+1:37:14 setting. Okay.
+1:37:52 Got to turn the mic independent.
+1:38:14 I see the switcher can handle that.
+1:38:22 This is not
+1:38:45 That's the option.
+1:38:57 And then the webcam blur.
+1:39:08 the heart
+1:39:26 option zero. Command zero.
+1:40:02 on settings if I went.
+1:40:07 Okay.
+1:40:20 Option Z.
+1:40:35 I just decoupled here. If it would be better.
+1:41:11 Anyway,
+1:41:18 what I really wanted to get into Oh, we I know I spent way too much time on that. Why am I doing 60 frames per
+1:41:25 second? I don't need to do 60 frames per second. I don't know if I can change my output right now.
+1:41:35 Yeah, I don't need 60 frames per second this. So that's that's a waste.
+1:41:43 I'll drop this to a note stream.
+1:41:49 Drop FPS to 30.
+1:41:56 um showing
+1:42:07 this player. And as the test if you can if it's
+1:42:12 picking up on the stream and these are all um
+1:42:19 stream
+1:42:24 think of
+1:42:33 It's live right now.
+1:42:47 Okay.
+1:42:54 And
+1:43:09 about 10 second
+1:43:24 About 12 second delay
+1:43:31 if you can hear it um on the stream. So I'm going to
+1:43:36 pull you to the side.
+1:43:43 And that should be auto capturing play. Hello gorgeous.
+1:43:52 I am hoping another lady who just contacted me
+1:43:58 about a woman who has twins. So much
+1:44:04 but she's a four-year-old girl. So that would be like
+1:44:09 I can get rid of the table. I can get rid of the stroller. Get rid of the Hold on. I didn't
+1:44:17 hear
+1:47:21 Um, why did that not I know I messed with the hot keys a second ago and I got
+1:47:26 rid of the alt zero to mute
+1:47:34 to mute the microphone. I was going to skip past that and then within five
+1:47:41 minutes of me skipping past that and starting the topic. Um I ran into a need for it. So I'm
+1:47:49 going to go back to um those are the generals. Here's the MacBook. Here's the alt zero.
+1:47:54 Show this is what I thought I had. Show and hide the laptop mic.
+1:48:06 So all zero should have shown behind the laptop mic
+1:48:11 command zero. Why is it not
+1:48:17 tapping? Laptop mic
+1:48:23 hot keys. Laptop mic option zero.
+1:48:39 And we're back. Option mic. option Z. I want um
+1:48:47 command Z to be everything. Command Z should mute the and that would
+1:48:55 be a toggle. Okay, is this I can simplify this by just
+1:49:02 saying um
+1:49:09 SS camera
+1:49:17 rename asss be right back.
+1:49:31 Um, no mic.
+1:49:43 We're just going to do it all. I think that gets it.
+1:49:48 And then this is going to be I'll fix it up.
+1:49:54 be right back.
+1:50:05 Delete. You
+1:50:12 set the hot key.
+1:50:23 is that that's the no mic and this is going to be
+1:50:31 hot key mic.
+1:50:39 So if the hot key is not pressed then
+1:50:47 toggle that
+1:50:54 and as long as I stay in sync
+1:51:07 invisibility current scene.
+1:51:12 Be right back.
+1:51:22 I could say if the hot key is pressed and the right back is not showing.
+1:51:38 Is there grouping? There used to be grouping.
+1:51:45 That gets complicated.
+1:52:06 the audio mute
+1:52:14 the laptop mic. I want toggle mute.
+1:52:26 That could work. and actually delete you
+1:52:34 and duplicate you
+1:52:44 and leave the mic alone.
+1:52:54 So now I come to Um, yeah, I guess I realize I'm redacted
+1:53:01 there. Settings, hot keys,
+1:53:06 and I say move
+1:53:13 view. Nothing else. Good.
+1:53:24 Um,
+1:53:36 there's the be right back. No mic. It's just going to be
+1:53:43 from zero with the mic is it's command zero off from zero.
+1:53:48 So, if I get you set
+1:53:53 to there,
+1:54:01 um, this will work, but I can see it getting out of sequence.
+1:54:10 Okay.
+1:54:17 to turn the mic back on.
+1:54:26 Um, option that that's fine. Scene switcher.
+1:54:34 Um, ass mic on.
+1:54:45 Um
+1:54:51 audio laptop mic
+1:54:59 toggle.
+1:55:04 Okay.
+1:55:18 All right, here we go.
+1:55:28 Yep. But it might
+1:55:36 I can run another action. the
+1:55:44 I'll play with that. At least this one I know.
+1:55:50 That one's guaranteed. This one I can always override it with a
+1:55:58 second key sequence. But then if I do this and I do that,
+1:56:07 that toggles off the microphone and I want to absolutely turn the microphone back on when I when
+1:56:14 I leave be right back mode. So I can work on that.
+1:56:22 I very rare that I'm going to go into be right back and and then come out of my
+1:56:28 commute. Okay,
+1:56:35 I was showing this and I was getting ready to play audio and it would be the
+1:56:40 laptop audio capture. So if I start playing this now wish
+1:57:11 Okay, that echo.
+1:57:27 Okay. Anybody need to put a limiter on you in the first place?
+1:57:57 kids. Look out. I love them. All right. Laptop audio capture. Oh, do I have a
+1:58:04 duplicate? Laptop audio capture.
+1:58:13 Mac OS screen capture is getting the audio.
+1:58:20 You grab the audio also. I didn't realize you also grabbed the audio.
+1:58:27 Okay. Laptop audio capture
+1:58:34 application. I got the desk.
+1:59:22 Kelly for Halloween day.
+1:59:28 Uh, not too long cuz they're already um I've
+1:59:34 got I'd have to 15 minutes.
+1:59:39 I don't know where I'm going to put the um I'll try my
+2:01:32 Is this all they can see? This is This is um what I see. This is
+2:01:38 me sending it up and then this is the broadcast of a 12 second delay.
+2:01:43 So it'll back down and Yeah, there you go. All right, reach over and now you can
+2:01:48 hear. Bye. All right. Bye. Bye. Bye. See you later.
+2:01:54 See you. Um, that I don't have the monitor. Oh
+2:02:03 gosh. Yeah, that's the but I'm listening to the music and monitoring it.
+2:02:10 That was Creatures from Hyperia by Audio. Now turn you off.
+2:02:17 Now um settings. And it should be monitoring. Oh, the sources because you
+2:02:24 have to do this on the sources. You have to tell it to monitor.
+2:02:32 Monitor and output. Monitor and output.
+2:02:40 Here we go.
+2:02:47 Should be hearing The music is is it between songs
+2:03:01 cuz you got put into NDI.
+2:03:07 Um because you're outputting to NDI. Yeah, that's why.
+2:03:14 Um I could put an NDI music capture in here. It's not going to
+2:03:19 hurt too much.
+2:03:31 And we'll call you audio only.
+2:03:42 India music uh is not being monitored.
+2:04:03 Weird.
+2:04:21 should stop in a second. 12 second delay. So, I'm listening to the stream over here because it's not coming up on
+2:04:28 the monitor. It looks smooth.
+2:04:35 I should put a limiter on you waste.
+2:04:51 That kind of screen capture, but that audio shouldn't go into the screen, which is odd.
+2:05:04 Maybe
+2:05:21 why do I not hear why don't I hear my own mind?
+2:05:30 monitoring device. Okay. Test.
+2:05:37 Hello.
+2:05:49 Monitoring device.
+2:05:57 Some I have in the past seen the monitor not go not work right. So I'm going to move on to the ducking on the advanced
+2:06:04 scene switcher. Um audio ducking
+2:06:11 um like that was on first sight. Now playing
+2:06:18 inspire um
+2:06:31 And then this is if the audio of the source of my laptop mic is above
+2:06:40 certain amount of I did
+2:06:48 was above test one too. test two
+2:06:56 and
+2:07:02 then we're going to drop.
+2:07:12 Set source volume of laptop audio caption
+2:07:19 to
+2:07:32 Heat. Heat.
+2:07:46 Where?
+2:08:10 24. That's pretty low. You should be able to hear my voice a little bit better now.
+2:08:24 Testing one too. And what I want to do actually is is level raise my voice so that I'm my voice boosted.
+2:08:32 That's where the filters come in.
+2:08:39 Um, and then if not, then restore it back. But I don't want to restore it to
+2:08:44 100%. I want to restore it to
+2:08:53 um, set source volume of the laptop audio capture to
+2:09:02 12. When I talk, it goes down.
+2:09:09 But then if I fade, this is where I need to check my other.
+2:09:21 I talk it goes down. If I talk, it goes down.
+2:09:45 within the last
+2:09:52 3 seconds. Testing one, too.
+2:10:03 Okay, that gets me a nice um I want to drop you fast
+2:10:10 in one second.
+2:10:20 Drop you in one second.
+2:10:29 and then raise you in two seconds.
+2:10:45 Is the level okay?
+2:11:00 very
+2:11:21 within the last. All right.
+2:11:33 Skipped black hole merger by Riley. Now playing Mass Extinction by White Bat
+2:11:38 Audio. Ow. I need to fix my laptop mic. I want
+2:11:45 to
+2:12:17 What's the compressor? Sir,
+2:12:30 now if I talk, it should keep my voice kind of level.
+2:13:06 getting slow. It's gaining it.
+2:13:16 Gain 10 dB. 10 dB. Come on.
+2:13:29 If I talk for this, it should drop and I should talk. And I'm talking over the music and it should sound pretty good.
+2:13:34 My voice over the music.
+2:14:07 That was mass extinction side chain ducking. It's a singular
+2:14:14 and I really want to duck multiples which is what I'm doing with the
+2:14:20 advanced scene switcher ducking multiples.
+2:14:35 And then I do want to also add a limiter so that if I yell at the microphone, it
+2:14:42 finally it clamps it to a maximum level.
+2:14:52 Okay, so my audio the audio should be much better now if I talk or the music.
+2:14:59 And again, this is um a behind the scenes stream, which is
+2:15:06 where I'm experiment I'm showing off where I'm experimenting with different settings. I don't expect the stream is
+2:15:12 very interesting um except to just sort of get more familiar with recordings and
+2:15:19 broadcasting uh what I'm working on behind the scenes.
+2:15:26 So, um, is there any sort of a
+2:15:34 how far as YouTube say?
+2:15:44 You say I'm
+2:15:57 if I talk over that.
+2:16:06 So, 2 hours and 15 minutes into the stream, I should listen to
+2:16:13 uh the quality afterwards. Not while I'm standing here. This would be afterwards.
+2:16:19 Um, I could come into the stream itself.
+2:17:06 can't comment on the stream until it becomes a video afterwards. I could chat
+2:17:12 and say
+2:17:41 Okay, that was Ember by Riley. Now playing City of Drones by White Bad Audio.
+2:17:50 Um, I will switch away from showing that.
+2:17:58 And so the player itself,
+2:18:05 I'm working on the spectrum analyzer just cuz it's cool to have
+2:18:11 the this gizmo, the circle thing. A lot
+2:18:17 of stuff is written by AI. Um, but I kind of direct stuff. And so I wanted to
+2:18:23 I've got some more improvements on how I want to
+2:18:32 turn this down. I think I got the hang of the audio is okay.
+2:18:39 Um, I want to migrate it to a standalone app instead of an embedded web app. um
+2:18:45 where I can like um skip star ratings for songs and um kind of autoimp import
+2:18:52 songs. And right now I'm working on the play history which is this thing which
+2:18:59 um that's what I'm working on is this play
+2:19:04 history. It's a work in progress. And then I thought it'd be kind of neat to show off the what I'm doing. to see
+2:19:13 what goes on and kind of
+2:19:20 why I'm writing this stuff, why I'm writing this software, cuz it's just weird. And I've been watching a lot of
+2:19:27 streams is I'm like now 2 hours and 15 minutes into the stream, I think I finally got
+2:19:36 things out of the way. And uh
+2:19:45 hopefully the music's not too distracting. And again, this being behind the scenes. This is me testing
+2:19:52 outside of a game stream. This is me testing how this works. Um
+2:19:59 uh oh, one thing one thing I've done. Oh, I can add it in here. I can totally I can totally add this in. Uh
+2:20:07 OBS. So, I'm going to go ahead and add this to the done. Um, now playing.
+2:20:16 Um, you can't see the done. The done's gone off the screen. But watch this. If
+2:20:21 I go text source now playing
+2:20:29 and I say from file and I browse to
+2:20:37 you and then I can drop shadow
+2:20:45 and shrink you down. What happened to my global
+2:20:54 desperate links there? Why is it not showing there?
+2:21:06 Yeah, when it crashed docs downstream keyer, it totally lost that setting when
+2:21:13 it crashed. There we go. Now it's showing.
+2:21:20 That was City of Drones by White Bat Audio now playing Val by Riley.
+2:21:26 Um, and I actually want to add the now
+2:21:31 playing into the global. Can't drag it in. I can
+2:21:41 paste.
+2:21:49 Oh, sturdy.
+2:22:09 That's so wide.
+2:22:31 Um, I talk. The audio should be
+2:22:38 the audio should be dropping there. Yeah, it's not always dropping. There's some um there was the abort.
+2:23:01 Okay.
+2:23:08 When I talk I should abort that
+2:23:14 And now note to self
+2:23:24 that
+2:23:33 2 hours and 20
+2:23:43 The audio improves. Let me see. Yeah.
+2:23:56 22 minutes.
+2:24:03 Um, and then that should be a boarding. Yeah. Okay. So, before it wasn't dropping down, but now it's dropping
+2:24:08 down. Now I've got the active player. Um, and let me add the other now
+2:24:15 playing, which is here. Um
+2:24:21 text
+2:24:27 label.
+2:24:45 Okay. Uh, shrink cube.
+2:25:00 Uh, 20 2022 2070. That kind of works.
+2:25:10 Probably put you I don't know where I'm going to put you on the screen.
+2:25:16 That was val. It could be up there at the top. It's going to kind of mush up a little bit
+2:25:22 with you. Um,
+2:25:29 here 270. I'm set you to 270.
+2:25:34 Okay. And change your font.
+2:25:42 Now put that. Okay. Now playing crack
+2:25:50 and moon font moon
+2:26:02 drop shadows. Okay, change that.
+2:26:09 We go back to 270 now.
+2:26:17 There we go. It was already set. I was editing on the inside.
+2:26:24 So, you now should be able to see the song play.
+2:26:30 And that's something the audio player can do
+2:26:37 is um
+2:26:45 show chat.
+2:26:57 Why? Oh, because I'm not viewing it on YouTube. I'm viewing it on New Pipe.
+2:27:03 That's why I'm actually surprised that New Pipe can even um
+2:27:11 uh
+2:27:25 Try not to duck my head. I ducked my head to the side while I was looking at that. Shouldn't have it more like right here in front of me
+2:27:35 up above.
+2:27:43 And that text is okay. Uh
+2:27:54 Discord link
+2:28:01 It's not very visible. MS,
+2:28:12 hold on. Hold on. Um,
+2:28:19 tablet time. Yeah, I request.
+2:28:30 switch over to
+2:28:37 don't think uh new pipe doesn't background play.
+2:28:43 Um,
+2:28:51 that was
+2:28:58 um, what if I moved you and you
+2:29:07 down here and moved you
+2:29:13 up to the middle where not much sits around here.
+2:29:20 And if we transform center horizontally and shrink you even more.
+2:29:31 Okay.
+2:29:38 Responded. and shrink you to even smaller.
+2:29:48 I'll probably shrink you to be even smaller.
+2:30:07 Um, that still doesn't fit. That's still too
+2:30:12 big.
+2:30:19 Hello. Can you go
+2:30:31 um I can I can't The thing is you can't edit the downstream key without being in studio
+2:30:40 mode and then I can't zoom without being there. So
+2:30:55 that's a little bit of a
+2:31:06 It works. How does it look on the stream? I come back to bigger stream.
+2:31:32 There's some other text there. Don't know if I like where that is placed.
+2:31:41 I could bump it down below because there's that title. Do that.
+2:31:51 Let me shove it right here.
+2:32:00 Let's see how that looks. Now, when I'm doing a Chrome browser, it's not going to be so pretty.
+2:32:16 But if I'm in Visual Studio Code and others, it might not look too bad. It's a lot of noise
+2:32:24 and it's real small.
+2:32:29 What if I shoved you over on
+2:32:35 this side and
+2:32:41 that was radiant. Now made you a little bigger. Dreams.
+2:32:46 That's too big. Shrink,
+2:32:55 man. But if the song title is too long, then
+2:33:03 it's going to be hard to see. I could stack you right above
+2:33:12 and
+2:33:34 in full screen over there.
+2:33:52 It's a lot of text down there. Have to improve with like a lower thirds or something.
+2:34:19 You can hear my wife talking in the background.
+2:34:27 Like I think noise capture the the noise cancellation actually is cutting her off pretty well.
+2:34:36 That's actually doing a pretty good job. And laptop's charging 100%.
+2:34:47 Um, I can hear her talking, which is
+2:34:53 distracting me. You can't hear her, but I can.
+2:34:59 Um, let's double check how the audio is going on. Um, new pipe
+2:35:07 should be playing.
+2:35:37 If I talk over the music, um, I'm at a small disadvantage in that I can't hear
+2:35:51 laptop audio capture. Sure.
+2:35:58 Um my the monitor OBS audio monitor output is not outputting to the speaker
+2:36:06 that I want to hear. Um I could try you. Um
+2:36:14 see what difference listening on you makes.
+2:36:23 Okay, that and
+2:36:29 monitor. Let's go to studio mode
+2:36:37 audio. um
+2:36:42 advanced go to view and I don't hear I don't hear any audio
+2:36:50 monitor out. I've seen this happen before. Um I don't know why and I have in the
+2:36:57 past they've been like oh well I didn't have monitoring output set here. Um but even then it still doesn't
+2:37:05 I just don't hear any audio monitor outs right now. They're all active.
+2:37:12 Um like a sang mono.
+2:37:26 I hope you're coming in both ears and not one ear if someone's listening on earphones.
+2:37:33 Kind of also kind of dizzy cuz I haven't had anything to eat. Quite dizzy. So,
+2:37:39 I'm gonna uh grab a snack, something to put in my stomach, and I'll be right back. So,
+2:37:48 practice. Be right back.
+2:42:45 I don't want to stop streaming because it'll actually probably
+2:42:52 logically end the stream. I'd rather just crash out.
+2:43:03 Um,
+2:43:16 check the music again.
+2:43:30 That was Lucid Dreams. Now playing Rustler's Run.
+2:43:42 Do a hard cut when I talk. Um
+2:44:04 drop change you make you instant. Oh yeah.
+2:44:14 Eight over zero.
+2:44:31 Um some water.
+2:44:37 Be right back.
+2:44:49 Heat. Heat.
+2:44:58 Heat.
+2:45:17 Heat.
+2:45:23 Let's
+2:45:34 see. At least there's no real
+2:45:41 A 12 second echo is not really an echo.
+2:45:48 Let me see how the audio decking is.
+2:45:59 12 seconds there.
+2:46:10 I keep gravitating towards that screen.
+2:46:16 Now playing the witch by white bat audio.
+2:46:29 I'm watching a lot of videos. I'm
+2:46:36 as I'm not finding a job.
+2:46:44 I actually kind of stopped looking.
+2:47:12 Why did you stop?
+2:47:23 I still live streaming.
+2:47:40 I'm seriously laded. So
+2:47:48 feeling like sitting down.
+2:48:01 And I can also wear a lapel mic cuz Bluetooth mics and I'm using a laptop
+2:48:06 mic right now. So I'll experiment with what's the better. This is when I'm not gaming.
+2:48:16 He's behind the scenes.
+2:48:31 How can I
+2:48:37 um Sorry, just I need food.
+2:48:46 and drink. Um, how can I improve the audio quality of the behind the scenes, which is
+2:48:52 different, more mobile, more in real life type stuff than when gaming? Gaming
+2:48:58 is kind of the end goal pinnacle of
+2:49:07 um that's what we're striving towards. That was the witch. now playing.
+2:49:16 So this player, you can see it says listening if I skip. So I I've worked on all these uh you can see at the bottom
+2:49:22 it has the shortcuts where I can space I can pause and the
+2:49:29 history is what I'm working on the history task right now. This I got a pull request. I don't actually have a
+2:49:35 pull request. I've been working on this locally. I can make a pull request out of this. Um, and this is where it gets
+2:49:42 interesting is that um, this is that and this is this. This is my codec session
+2:49:49 for it. Um, and this is it's been working on
+2:49:57 improvements. I I last I haven't even done any of this since
+2:50:03 the stream started. So, like for two and a half hours now. The audio is sounding pretty good at
+2:50:12 make another note to self. Um, two hours and 50 minutes in. How about
+2:50:20 at 2 hours 50 minutes?
+2:50:27 Um, so I think it's going to
+2:50:32 I think audio is going to be okay. This is the coding and coding is so
+2:50:40 different nowadays than it has ever been. It is it's natural language programming and it's just being able to
+2:50:49 articulate yourself as like a lawyer in a courtroom so that you can convince the
+2:50:55 judge that you're right or wrong. now trying to articulate
+2:51:02 to an AI bot as as the
+2:51:08 it's really controlled it's it's it's more cooperative than
+2:51:13 like in a um courtroom but it's in a courtroom you kind of the more
+2:51:20 articulate person wins the plaintiff and the defendant whoever can manipulate the
+2:51:27 judge the the most without them knowing about it. Um, whoever can convince the
+2:51:35 judge. Anyway, rambling, but with programming, it's now natural language
+2:51:40 programming and I'm just asking it to do something and writing out
+2:51:46 an issue. And I I I'm I'm
+2:51:51 my process that I'm doing, which I'm finding pretty well, is I I launch Codeex
+2:51:59 um command line. I'm I've been trying to use the Visual Studio plugin, but it's it's so bad. Like, it just doesn't do
+2:52:08 some of the stuff that I want it to do. And it's MCP integration. I'd have to
+2:52:13 launch. There's an environment variable to get to get this to work. There's an environment variable that I set to get
+2:52:20 the MCP the way you configure the MCP. I can show that. No,
+2:52:27 no, let's show the config. I think you can do this. Show the MCP settings.
+2:52:32 Open config to practice redacted here by doing this. Got a lot of stuff.
+2:52:46 lots of projects. All right, here we go. So, in the future, if I think I'm going
+2:52:54 to show something of any sort of consequence, I will redact and then I
+2:53:00 will confirm what I'm looking at. And now I can do this. I can move these out.
+2:53:07 Um,
+2:53:13 this this
+2:53:21 um, copy this
+2:53:26 that was crash. And if I'm redacted, I could show redacting as overlay text.
+2:53:34 Okay. Um, I'm in the middle of redacting Stumpton right now, so you'll have to
+2:53:42 just bear with it. Um, what I want to do is open
+2:53:53 a folder to to you.
+2:54:16 Uh, let's see. Game here.
+2:54:29 Up in here.
+2:54:35 and put you in here. So, I have you. I can close you
+2:54:43 now. I can clean you out.
+2:54:56 I can at least put you as
+2:55:05 And hint a generic in there.
+2:55:17 Um,
+2:55:24 don't need you anymore. Don't need you anymore.
+2:55:30 Okay, now I can unredact.
+2:55:36 Making sure window. You're the only window.
+2:55:48 Weird. That text edit is not letting me.
+2:55:54 Crazy. All right, unredacting and then trying this again.
+2:56:02 That um I thought I only had this in there. I forgot that I actually had my actual
+2:56:08 token in there. Um
+2:56:17 so you set an environment variable. So there's an environment variable, but then in order for it to get picked up,
+2:56:23 it has to be set. And then you're going to put that in your in your profile in your login profile. And um
+2:56:30 I don't find that a good idea to just have sitting around. I mean any process that runs can get it. I this is um I'm
+2:56:39 running this in a process. So anyway, I digress on that. And then and I totally risked showing my
+2:56:46 um keys. And I'll note to self to reset my keys.
+2:56:53 Offream reset all open AI and GitHub
+2:57:02 keys. Boom.
+2:57:11 Okay. But here's the stream. Here's the code
+2:57:18 and my process as a tangent through the MCP. The configuration of
+2:57:25 the MCP inside it. I'm not using Visual Studio Code. That was where I got distracted.
+2:57:32 If I click on this because the MCP is not set up as an environment variable, but this thing hangs. uh Visual Studio
+2:57:40 Codeex codeex for Visual Studio Code um hangs and it's kind of bad. So I still
+2:57:49 continue to run it inside the command line and loading it from the command line it
+2:57:55 now has it sees the source code and so in the context of the source code I will
+2:58:01 ask it I ask it to open a bug. So natural language opening of a bug of a
+2:58:08 ticket and so that's what all these
+2:58:13 all these were opened created by um
+2:58:20 um codecs and if you look at them they're all pretty well I mean well
+2:58:27 written and even this uh this was me talking
+2:58:35 to Codeex and then asking Codeex, put
+2:58:40 everything that we just said into a comment on this issue. And then we talked a little bit more and
+2:58:48 then summarized what we just talked about since the last comment as a new comment.
+2:58:55 And then again, summarize what we last talked about since the last comment as a new comment. And so it can open these
+2:59:01 and it it's able to articulate this stuff. Um, in a in a maybe not
+2:59:08 necessarily better than I can articulate, but it will articulate it into a consistent if if a robot
+2:59:16 generates the text than a robot reading the text might be
+2:59:22 might be able to read the text from a robot more than a human.
+2:59:28 It's just more of its own natural language. Um, so I have some tasks here to work on
+2:59:36 and right now I am working on number five which is this. And so it took this
+2:59:41 task I I just from the command line on uh
+2:59:49 again if I can do this without showing off the redaction there's a long history. Let me redact
+3:00:04 uh seeing it if uh is now alive. No, it's it's already scrolled off for so it
+3:00:10 we're good. So I can um Oh, control that does that.
+3:00:16 Well, there you go. Well, that's not cool.
+3:00:25 That's why it was handy. I recognize that key sequence is something handy.
+3:00:31 So, I'll unredact. I can't do um
+3:00:36 redact inside of it. Won't work. It'll just
+3:00:41 close. Yeah. How about option tilled?
+3:00:48 Option tilled.
+3:00:53 No, it's it's actually typing stuff in there. Option T. Command T.
+3:01:01 Command T.
+3:01:08 What if I did command T? Settings.
+3:01:14 Hot keys. Command T.
+3:01:25 Oh, it wouldn't let me. Right. That's right. I wanted command tilt and it
+3:01:30 wouldn't let me. For some reason, OBS won't let command tilt be a hotkey.
+3:01:36 Okay. So, I can kind of remember that if I hit command tilt here, it's it's going to do
+3:01:41 that and be like, "Oh, well, it's not redacting." But I do have to switch over to OBS. I bet it does. If I do this and
+3:01:48 hit control tilt and come in, it's redacted and do this and then it's not redacted.
+3:01:54 So, I'll have to switch out when I notice it.
+3:02:00 Um, yeah. How do I
+3:02:07 That's annoying. Okay,
+3:02:13 I got to work on that key sequence. Um, but this is me working on the
+3:02:18 history and I basically from the command line
+3:02:24 from the codec CLI I said launched a fresh codec session and said
+3:02:32 at the prompt codeex enter here's your prompt implement GitHub issue number
+3:02:37 five and poof it started implementing code um and
+3:02:44 it created uh it's all doing it locally. So now I can
+3:02:49 come out to the command line and I can say create a full request for this code.
+3:02:58 Before I do that, I want to make sure that it's staged.
+3:03:05 It seems okay. Um,
+3:03:13 it's it's doing all this commenting. We'll we'll figure this stuff out as part of the
+3:03:20 um pull request. So, um I can say
+3:03:33 generate a
+3:03:38 get commit message and description
+3:03:44 for the staged code.
+3:04:01 And
+3:04:07 yeah, out of the whole all of all changes.
+3:04:22 for all of the changes.
+3:04:39 for all of the staged code. It's just how can you articulate yourself coherently so that you're getting out of
+3:04:46 the judge. If you think of AI as kind of a courtroom judge,
+3:04:53 they're just flawed people. So,
+3:05:01 but all of the staged code, not just like not just what we were just talking about.
+3:05:13 That was the hero's journey. Now playing cyerspace
+3:05:19 history with richer scrub insights. Yeah, I guess so. Oh, I mean that's the
+3:05:25 whole thing it seems. Um,
+3:05:33 uh, get Kraken can generate, but for some reason it's not working. Um, I don't know if it's turned off or I have
+3:05:39 to close Get Kraken if Kraken an update or whatever, but
+3:05:45 so I'm using and and I don't like the uh what the messages that get Kraken comes
+3:05:51 up with. It's all fluffy and it elaborates and makes up
+3:05:58 like reasons why it was implemented and it feel good warm fuzzies and it's like
+3:06:05 that doesn't help at I don't find that helps at all. So just give me fact of the matter what
+3:06:11 the changes are. Don't don't give me the warm fuzzies on why it
+3:06:18 was implemented. All right. and hot
+3:06:25 committed to main. Let me uh reset soft
+3:06:42 and branch. Um history
+3:06:55 And now past here in
+3:07:02 here.
+3:07:10 Okay, now that I have a pull request, I could have had it do this.
+3:07:17 I like to have some hand on the wheel nowadays. So here I've got um
+3:07:26 code is going to say as a branch make a pull request and then say create pull
+3:07:31 request and request
+3:07:40 co-pilot. Let's see what co-pilot says about this.
+3:07:47 Hello. Bugs. Bugs. Bugs. I request a co-pilot.
+3:07:53 Reviewers. Where's the reviewer?
+3:08:01 I didn't remove.
+3:08:12 Okay. Um,
+3:08:18 I think it'll work fine. Batter's going to get I can always plug
+3:08:24 back in. Just going to sit for a little while.
+3:08:34 How does the camera you like my umbrella up there?
+3:08:44 You see the keyboard down there? You see my belly? That's sure. Um, you can see the camera,
+3:08:52 I guess. So, it's a I didn't realize it makes my
+3:08:58 the kind of it's a vertical fisheye lens effect. Um, it's just weird to look at it that
+3:09:06 way. Perspective. Um,
+3:09:17 see what that was like.
+3:09:41 There's not a crazy There's a lot of changes. So
+3:09:49 500 lines, 570 lines, almost 600.
+3:09:56 This is to add history into the player.
+3:10:11 How is it local audio capturing? That is where I'm
+3:10:23 desktop audio capture. It's just it's just grabbing the desktop audio. It's not actually even
+3:10:31 limiting it to a specific. It's getting everything. It's not even just a source.
+3:10:38 And this is the one that they prefer over
+3:10:43 Mac OS audio capture. That's what this is. And
+3:10:49 yeah, it's just grabbing everything. it the audio deprecated audio
+3:10:58 output capture is what I had been doing.
+3:11:11 Um
+3:11:19 so then this was
+3:11:28 Right. When I started to integrate this with OBS,
+3:11:37 it's currently export the currently playing track. So, it it came up with the
+3:11:43 wording of all this. It's pretty I mean, for a prototype, it's
+3:11:50 pretty impressive. Um,
+3:11:57 but I was wanting to manipulate this history a bit. I'm not
+3:12:05 It's okay. What my main my last
+3:12:10 That's pretty weird that it highlights all those. You can't just do this.
+3:12:19 very odd.
+3:12:27 Um, I would be fine with more of a list view, a detailed view.
+3:12:56 I'm trying to segue into the tasks here.
+3:13:05 So, I'm not going to deal with this. It's charged by now, but I'm not going
+3:13:10 to deal with this next time.
+3:13:23 I improved it. Done.
+3:13:52 That was moments before. Now playing Prismatic.
+3:14:00 I got that pretty well doneish.
+3:14:09 I'm not ready to do you yet, but for now, next time.
+3:14:49 stream is fine because I just be followup notes. I'm kind of done with the stream tweaks.
+3:15:03 Oh, one thing I added to the playlist is if I hit pause, I can do it right here on the keyboard.
+3:15:11 Um, and then I got to set the There we go.
+3:15:17 Advanced scene switcher. If um now
+3:15:25 playing
+3:15:32 This is if the file
+3:15:44 I just did the whole path. I I browse to it. I did the whole path.
+3:15:51 Um music if this file
+3:15:58 matches empty
+3:16:05 then
+3:16:17 scene at visibility. All right. See,
+3:16:29 all right.
+3:16:47 That was
+3:17:05 Okay. Now when I hit
+3:17:11 Pause.
+3:17:49 And they did content changed.
+3:17:56 manes.
+3:18:10 I think that's what I'm doing.
+3:18:16 Still not done.
+3:18:23 And it's in the globe scene. That's current currency. Any scene glo.
+3:18:32 Wonder if that would be more efficient.
+3:18:54 Hide the label. Hide the track. Show the label. Show the track.
+3:19:17 Test on to him.
+3:19:25 That was Prismatic by Arthur Riley. Now playing Blissful Darkness by White Bat
+3:19:31 Audio. It's not evaluating
+3:19:43 the file.
+3:20:00 For some reason, it's not doing it. This worked fine on the stream and I don't
+3:20:06 want to switch over cuz it'll um worked fine.
+3:20:15 Just testing it. uh not streaming and just testing the other scene collection,
+3:20:28 but I'll want to kind of I guess figure out
+3:20:42 Anyway,
+3:20:47 it updates that file. It's supposed to be working where it just updates the now playing
+3:20:53 .txt file. It's It's a little hard to read, but I mean it's Yeah, it's there.
+3:21:00 And when you change it, the fact that
+3:21:06 I can go to the next song. Darkness by white bat audio. Now playing dilation by Riley.
+3:21:21 ignore entering
+3:21:28 running parallel to others.
+3:21:36 Skip dilation. Now I know why it's not Clang the Conqueror.
+3:21:45 Skip Clang the Conqueror by After Riley. Now playing Transcendence by Mike Battle
+3:21:50 Audio. I don't even see it pulsing.
+3:22:01 Sounds reactive.
+3:22:12 That is the file. You pull up that file.
+3:22:23 It's a now playing file right here. If I just hit track next
+3:22:31 go, it updates that file. It's updating the file.
+3:22:37 I don't know why you're not evaluating as
+3:23:20 Sure.
+3:23:47 Heat. Heat.
+3:24:26 Oh, I don't know if I say skipped blissful darkness by white bat audio.
+3:24:32 The forgotten by Riley.
+3:25:01 Skip the forgotten by after Riley. Now playing music for YouTube podcast and
+3:25:07 Screen intros by white battle here.
+3:25:29 Skip music for YouTube. Podcast and stream intros now playing. Run like
+3:25:35 hell. Skipped Run Like Hell by White Bat Audio. Now playing See You on the other
+3:25:41 side by Riley.
+3:25:49 Oh, see what I
+3:25:56 That's in the wrong key. That was in the wrong key.
+3:26:27 What am I doing wrong? I feel like I'm losing it here.
+3:27:10 Is that what I was? Thought I had them both in there, but
+3:27:16 guess not.
+3:27:28 Okay. So when I hit pause,
+3:27:33 I hide
+3:27:45 when I resume. Okay,
+3:27:51 that's weird. That
+3:28:02 co-pilot threw in these. Okay. Wants to fix those here locally.
+3:28:14 Um, and while doing this, I also thought
+3:28:20 it'd be cool while coming up with the redaction, as I was trying to redact, I
+3:28:25 thought, well, there'd be a it could be handy to be note to notify
+3:28:32 here in the tray because often um there's these things
+3:28:40 the notifications, but these when you're streaming, they
+3:28:47 they're not observant. Like, in fact, I should probably turn that
+3:28:52 off. It's just a waste of
+3:29:02 Let's turn this off cuz they're not useful.
+3:29:12 So now at least those are gone.
+3:29:27 And
+3:29:34 are we playing
+3:29:39 Okay, gotcha.
+3:29:45 I had it. So that if you skip, it skips. It'll be kind of
+3:29:50 counting metrics. Like if I skip songs, and this probably means there's something a little off about it.
+3:29:57 But if I go backwards and rewind,
+3:30:04 then we're good.
+3:30:19 I can go scrubbed, but still
+3:30:26 don't know why it's prioritizing scrubbed. Um, it's not it didn't pick up the
+3:30:34 logic very well, but I asked it.
+3:30:49 That was See you on the other side. Control titching out by audio.
+3:31:02 What if I change it to control shift tile?
+3:31:46 Um, I had just asked it to keep track of
+3:31:57 forward only jumps, backwards only jumps. And then if they've got them both
+3:32:25 Just thinking about how
+3:32:53 And I'll eventually add in uh like I said stars or likes.
+3:33:00 I don't know if I can track the music a little better.
+3:33:23 It's a little un exhausting to me. Oh, first of all, cuz
+3:33:30 I haven't really eaten very well, but also it's kind of exhausting while coding
+3:33:38 to narrate and talk out loud. I'm not used to doing that while coding,
+3:33:46 you know, typically talk to inanimate objects. Now playing the void is calling.
+3:33:57 Um, I do sit here and think a lot as I'm coding this and talking to an AI,
+3:34:03 chatting with an AI,
+3:34:11 watching that battery drop.
+3:34:30 Hey,
+3:34:43 are
+3:34:55 Um, so I was trying to think in my head of all the stuff if I was going to do live coding of this music player, I need
+3:35:01 the redaction and I would need to know that I'm in redaction mode or I'm not in
+3:35:08 redaction mode. And so then I started to write a a work with AI to write a system tray
+3:35:16 application which I did add in over here. it's this OBA trade guard and
+3:35:23 in having that conversation with chat GBT it basically
+3:35:30 said like asked it why not it wrote Python code
+3:35:36 and then it wrote Python code that's out of date and needs an older version of Python
+3:35:43 um which isn't too old and I could go back to this um Pi side six.
+3:35:52 I'm not sure really what pi side six is.
+3:36:15 Yeah, it was sending me to QT for Python when it knows that I
+3:36:22 It's hard to read this white text.
+3:36:27 Very, very bright.
+3:36:45 I never used anyway. This is a distraction. all these distractions just like it's insane these distractions
+3:36:54 um that I keep running into this and then of that and just like that's what
+3:37:00 kind of prompted me to do these live streams to do this live stream and
+3:37:05 um not that anyone's watching and it's not
+3:37:12 about the watches. I don't I'm not sure why. Um, it's more about the community
+3:37:19 and seeing if anyone finds what I'm working on as an intrigued and
+3:37:25 interested is I don't care about the watch, the view and the watch. I care about the oh,
+3:37:32 someone finds this interesting and engaging. It doesn't matter whether you subscribe or not. The the fact that
+3:37:39 someone might be like, oh, I've seen those same problems, too. I like what
+3:37:44 you're doing is interesting. Um, let's help out. I don't think anyone in
+3:37:50 the world this this is what makes me weird. And I've been hearing a lot about
+3:37:56 just do what makes you weird. And so this is what makes me weird.
+3:38:04 This is where it's playing 37. But then it said I don't even know what pi6 is. So I mean I I know now but I asked it
+3:38:15 I get a pi six pi side 6 error and it goes oh well it only supports Python
+3:38:21 less than 314. So like this is stupid. I don't want to deal with that.
+3:38:27 Um, silly. Like, of course,
+3:38:34 why give me a code that works with an old only an old version of Python?
+3:38:42 Assume I'm running the latest version of Python. I know that's a weird thing, but
+3:38:50 um, so assume by default. And of those, which is the best? But, but why even
+3:38:55 write a Python app? and no QT why not just write a QT cy tray application
+3:39:01 totally with you if you want the latest runtime and you write no QT the best pass right tion QT I get the proper menu
+3:39:08 bar on Micronex tie controller below is minimal production ready starter
+3:39:18 yeah so there's this
+3:39:23 so I try this and it's just going to open up
+3:39:30 a websocket and then this this tool would be then something that I could
+3:39:36 release as an open- source project that
+3:39:42 it just knows like here's the OBS but it doesn't tell me I'd like to be
+3:39:50 able to have an app that monitors this. So, um, this was yet another distraction
+3:39:56 of things. And so, if I come into you
+3:40:02 and I never even got this going so because
+3:40:08 of the pi six, pi side six. So, just delete all
+3:40:15 this crap.
+3:40:21 Delete you. I don't even
+3:40:26 I can put you there as humor.
+3:40:31 But here I'm more interested in
+3:40:43 cmake list.txt. I could ask it to create a zip file, but
+3:40:48 I'm not. Just this helps me familiarize myself with the code more.
+3:40:58 I forget if it's list or lists. Lists.
+3:41:14 Just enter. I guess not double click though.
+3:41:24 Um, info about P list.
+3:41:51 H, that looks fishy. I don't know. just
+3:42:02 I mean if it hand rolled it accurately sure it's only like 50 lines of code
+3:42:31 Source. Source.
+3:42:57 Trey app.h
+3:43:13 Would
+3:43:40 you suggest a python? QT application using an old version of
+3:43:46 Python. Makes sense.
+3:43:52 And let's see if it be
+3:44:27 That was out There by Riley. Now playing Nexus 6 by White Bat Audio.
+3:45:00 30 minutes. Our time is still going.
+3:45:10 Thanks.
+3:45:16 Tell her stop. You know it's been I have told
+3:45:22 dad Meline get off the tablet.
+3:45:32 I gave you 30 minutes. Like,
+3:45:39 you've been on there an hour and 15 minutes.
+3:45:45 This is exactly why I don't like to give you technology time cuz you lose track
+3:45:50 of time.
+3:46:00 distraction.
+3:46:24 Wave browser
+3:46:44 um to build this byt. It's not in there. If
+3:46:50 I run that command, will it actually
+3:46:58 does it? It doesn't do that cuz I don't have QT installed by Brew. Oh, do
+3:47:06 install QT by brew. I thought I had the QT maintenance app.
+3:47:21 Okay.
+3:47:46 Yeah.
+3:47:56 Okay. So, I thought I didn't have it installed here. So,
+3:48:11 Launch Creator here from QT Creator.
+3:48:21 Let me in it again here.
+3:48:38 and put you into Kraken.
+3:48:46 Don't
+3:49:15 Okay, now Hold on.
+3:49:36 69. Probably have
+3:49:48 QT maintenance.
+3:49:55 I thought it was in here. It's under a different folder.
+3:50:14 Yeah. No,
+3:50:23 this is the installer itself.
+3:50:29 I don't want the installer. I want the maintenance tool, which
+3:50:36 I just thought was handy. already around.
+3:51:09 17 48.
+3:51:14 Okay.
+3:51:37 wife is on
+3:51:46 I'm sorry.
+3:52:20 Everybody.
+3:52:37 I think I once tried the brew install of QT and
+3:52:42 that was endurance at end now playing moments before going very well.
+3:53:18 Um,
+3:53:24 why did you why were you on the tablet so wrong. I don't know.
+3:53:31 It is your fault for not being aware of time. Even if the
+3:53:38 things break, software breaks all the time. They're bugs. The satellites have to link up in outer space and do all
+3:53:44 sorts of things to make things work. Like if you go over 5, 10, 15 minutes,
+3:53:50 that's because the computer's not working right. That's reasonableish. You were on an hour and 15 minutes. You
+3:53:58 didn't notice at any point in time in an hour and 15 minutes that it's been too long.
+3:54:04 I thought the computer was working.
+3:57:35 That was moments before. Now playing, not on my watch.
+3:58:25 Heat.
+3:58:42 Heat.
+3:59:14 Heat. Heat.
+3:59:37 Heat.
+3:59:59 Heat.
+4:00:30 Get in the shower. Okay, get in the shower.
+4:00:38 Get your clothes off fast.
+4:00:51 That was not on my watch by Riley. Now playing radiation storm by white bat
+4:00:57 audio. freezing cold.
+4:01:06 Um,
+4:01:17 no source is given. Well,
+4:01:31 Hello.
+4:01:48 Heat.
+4:02:00 Heat.
+4:02:23 Um, it's gota sources. I don't know about
+4:02:29 these resource QC that's probably can be re generated.
+4:02:38 Sure. Let's Okay. So, just
+4:02:57 where?
+4:03:02 Oh, wow.
+4:03:22 Okay.
+4:03:29 Yeah.
+4:03:57 Find kits. Manage kits.
+4:04:05 Okay, devices.
+4:04:22 Armor 64.
+4:04:35 That was Radiation Storm by White Bat Audio. Now playing inspired by Ato
+4:04:41 Riley.
+4:04:55 Heat. Heat.
+4:05:19 Heat. Heat.
+4:06:40 Hey.
+4:06:48 That was inspired by Ato Riley. Now playing The Visitor by White Bat Audio.
+4:08:46 Heat. Heat.
+4:09:50 Oh man.
+4:09:59 Yeah. Heat.
+4:10:22 Heat.
+4:11:05 Okay.
+4:11:18 And it works. Okay. It was just needed something very small.
+4:11:26 Uh we'll ignore the build.
+4:11:39 That was the visitor now playing. Is it too late?
+4:11:50 Uh, ignore the dot user files.
+4:12:06 So, that runs. There are no remotes, of course.
+4:12:27 Okay.
+4:12:41 Heat.
+4:13:00 What's that? Toggle my flip on initial query.
+4:13:08 Let's
+4:13:35 Okay, so that's that um
+4:13:42 cy trade notification. I can't see when I highlight that.
+4:13:49 Interesting. That's where a markdown editor of some sort
+4:13:57 be cooler than just these raw notes, just the showing text.
+4:14:17 Um, well, I've been streaming for a while now.
+4:14:23 Uh, what are we at? 4 hours and 15 minutes. I am going to
+4:14:29 say I'm going to take a break. Um,
+4:14:37 I can't do this at night necessarily when the kids are asleep cuz people will still hear me.
+4:14:45 But um yeah,
+4:14:51 let's see what I can do about being a little more
+4:14:56 visible on some of the things I'm working on and running into.
+4:15:03 So, I need a closer, don't I? have a closer
+4:15:15 uh create a scene.
+4:15:30 That was Is it too late? White bat audio. Now playing the forgotten by
+4:15:36 Riley.
+4:16:59 Oh,
+4:17:26 heat.
+4:17:48 I'm not this [ __ ] night, [ __ ]

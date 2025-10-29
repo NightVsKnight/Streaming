@@ -1,0 +1,2045 @@
+0:07 There we go. Now we're verifi doing the stream.
+0:13 But it's black. Why are we black?
+0:21 Where's my video? There we go. Now we're not black.
+0:29 So, YouTube is working. Verify. Uh, yep. I can see kick. I can see
+0:37 Twitch. Okay, we're good. And go off that. And it probably sent a
+0:42 notification to the Discord uh creators. Yeah,
+0:49 did that. That's fine. At least it's not spamming the main channel. It's this
+0:54 content creator channel. Um,
+1:00 and then this thing is so slow, but I don't really need it anyway. What am I doing?
+1:06 Uh, not that. Was it in another window? Yeah, it was.
+1:12 It was in my canary window. um
+1:17 kind of got inspired
+1:22 um to
+1:28 Yeah, I kind of want to get the instream chat up and running even though no one talks to me. I just want to do it for my
+1:33 own uh educational purposes. Uh, might even do uh remaster
+1:44 outro and remaster.
+1:50 Um, old man.
+1:59 Does it fit on the screen? Yeah, it does.
+2:05 Um, and then in stream overlay chat and then get the behind the scenes channel up and running. That those could be kind
+2:10 of good things. Um, I think I will do the behind the scenes so that um
+2:16 uh I have something to do and I think I will do the behind the scenes. Um,
+2:26 why I started the stream. I've been sitting here for a couple of hours um working on more improvements to my
+2:35 audio app. And
+2:40 uh this one works pretty well. I'm going to go off onto the side and monitor
+2:49 uh the other way. This way.
+2:55 And make sure Do you dock?
+3:01 Yeah, you're going to dock. And then this is uh
+3:07 uh the audio app got the stream deck going to sleep.
+3:17 And if I change its timeout to be
+3:22 I guess never have it always on. I've learned that um
+3:30 quick tangent here. Default profile OBS profile stream on
+3:37 the Neo right here. This is the Neo. Uh we'll pull it up.
+3:43 Okay. um this little overlay on the on the Neo. It's a cute little
+3:53 um it's it's a lot handier than the the big stream decks. Even even the original
+3:59 uh the Mark1 um but especially those XL's are huge. Like this one's just a handy thing to just have for impromptu
+4:06 traveling type stuff. My favorite feature on it is that it's got a USBC
+4:12 cable that can plug straight into the MacBook and a laptop.
+4:17 Like I I don't know if the uh I don't have one if a Stream Deck XL if the
+4:23 cable is a USB A or C. Um, but I learned that the little
+4:31 this little info bar, this thing at the bottom, uh, I briefly looked into it yesterday
+4:38 and, uh, there's no there's no SDK for this thing. You can't
+4:44 write your own info bar. They only have, excuse me, this digital times page indicators only written by Elgato. And
+4:51 there's no SDK to go off and write your own. And there's just some forum entries that say
+4:58 requesting the feature and Elgato saying yeah we hear you.
+5:03 So um my uh idea to uh make a Stream Deck Neo
+5:12 uh will have to be in the future and I just put that as a note as a future idea.
+5:19 Um and I'll get that out of the goals here.
+5:24 Um, otherwise I'm coding the music player and then I'm I'm on a again I'm
+5:30 doing this mostly for myself. Maybe one day when I get the instream chat working and ever have someone chime
+5:37 in and join in. Um, I will occasionally peek over for the you never know factor.
+5:46 Um,
+5:54 Yeah, it's it's this window, but it'd be this one. And I I expect a spam at spam
+6:01 spam. Um
+6:07 just to be honest, like I hate that phrase actually, but to be transparent, the
+6:13 YouTube maybe I should lean into Twitch or kick more. Um, but I was talking about
+6:21 yesterday that streaming I just stream and content is the side effect
+6:27 that seems more natural to me and maybe that's why this channel would never
+6:34 um like grow whatever is cuz I'm almost an
+6:40 exclusive streamer. That that just seems so much easier and I have the time for
+6:46 that. Content creation is like sitting down and editing a video and doing a
+6:51 good job at it and then putting it out there, which is work. That's for sure.
+6:58 Why am I showing the screen? I'm not sure why I'm showing the screen. Um,
+7:05 it it is work, but um, and I guess running a channel is
+7:13 work, and I appreciate and I get that, but I I just can't I can't sit down and
+7:18 edit videos. And it it seems backwards
+7:24 again to me, like I just I would stream the content. Do I expect people to watch
+7:30 a 4hour stream? No, but from that stream
+7:35 I could lift out snippets or content and
+7:40 maybe put those as shorts or individual um snippets as videos that I pull out
+7:47 like how I did this or how I edited that and that would be the content that I pull out of a live stream. But that's
+7:52 not how YouTube works, which is kind of unfortunate. And that almost sounds like a
+7:58 service, product, business idea right there is just live stream first.
+8:04 kind of IRL stuff in a way. But um oh, I changed the headset levels um
+8:11 before I get into the um kind of the music player and what I how
+8:16 I got to where I am and started the stream, which I wasn't going to. Uh I
+8:22 was kind of feeling a little off on doing that. But basically, I simplified
+8:28 the setup yesterday. the hot keys there. I'm not going to pull up the pages, but
+8:34 there are um forums, even the OBS forum is like a fouryear plus year old
+8:39 article, forum entry discussion about the MacBook hotkeys not working. And
+8:45 everyone's saying, well, it's if you're using options or command strokes, they won't work or um only when it's in the
+8:53 foreground. And that's even with this setting. I even showed it yesterday, the setting
+8:59 this um I think it's advanced never disable hotkeys. This is in some people
+9:04 say you have to come into accessibility um so you come into privacy and say
+9:09 input monitoring well OBS is there and it was it was turned on the whole time
+9:15 um and then there's accessibility and well OBS was in there and it was on the whole time. The catch is I actually have
+9:22 three versions of OBS running there. I have uh one that's in the applications
+9:27 folder. I have a another one that's in the applications folder. Um but it's a
+9:32 previous version where I was trying to debug whether a newer version of OB.
+9:38 Yeah. Whether debug with a newer version of OBS caused a problem. By doing that, I AB tested with an older version.
+9:46 That's related to NDI stuttering. And I I think it's on the sender side. I don't
+9:52 think it's on the receiver side. It could be on the receiver side because the receiver is what's blipping, but I
+9:57 don't have proof of that yet. Um,
+10:04 and that's and I have a theory about the hardware acceleration since OBS can't do hardware acceleration on the encoding.
+10:12 Um, maybe there's a checkbox on the NDI sample. So, this is what like all sorts of stuff there. That's the reason I have
+10:18 that one. And then there's this one which is a compiled version of OBS. And I think when I set up my stream deck
+10:24 yesterday to launch OBS, my stream deck is this.
+10:31 Um, I have these um this default profile and I have like an auto version that's a
+10:39 fancy multi multistep that will launch OBS. And it was in this
+10:45 that when I just selected OBS, when you go in here and you select your app, it's
+10:51 not very obvious what app you're using. So, you can say other
+10:57 um I think they had OB OBS in here multiple times.
+11:05 They've got these, right? One of they had they had it in there three times. If I actually unselect this, if if I say
+11:11 none now and I scroll down to OBS, there's going to be three OBS's in here. And I
+11:17 didn't know which one. And [ __ ] now I don't know which one it is. I just kind of messed it up. Maybe I can cancel. I
+11:22 don't think there's a cancel. Um, I'll figure this one out.
+11:30 If I do it on this stream, it should work fine. So, I think it's this one. I
+11:37 don't know. Here's feedback to Elgato that you need to differentiate this.
+11:42 Even the operating system when I say OBS, they're at least differentiating. This one's an applications. This one's in another folder. And then this one's
+11:51 doesn't need to be disambiguated. Um, but here I don't know which one it
+11:56 is. So, they need to disambiguate what folder is in what. I could browse. Um,
+12:03 so I guess I could just browse and I can come down to
+12:08 uh this is the safer way to do it is to just say you and now I know that we're
+12:14 back again to that the version that I want
+12:20 which is different. Notice that that OBS is different than these other three.
+12:26 That's kind of weird.
+12:32 Come on. Long list. Nope. Okay. So, it it did take it out. It figured it out. All right. So, that's that's all right.
+12:40 Um, hot keys is what I'm talking about. That
+12:49 uh, and the reason I have the headset on is because of the music stuff. It sounds much better on headsets. I play with
+12:54 headset on. So, um
+13:01 I didn't mean to close it. I just meant to step back.
+13:06 So, those dive in and launch and so that's why when I did that um when I set
+13:12 OBS launching when I set Stream Deck to launch OBS, excuse me. Have a mute
+13:18 button on here. I don't know if it mutes. You'll just have to hear me. Oh, I could mute here. Uh, I can safe
+13:26 dive into the that I can mute I can mute the headset.
+13:33 I can mute the headset when I have to sneeze from the Neo.
+13:39 Um, yeah, it goes live. And then here's the
+13:44 redact.
+13:50 Um, this is uh setting for the redact that um now I'm
+13:58 only redacting the uh actual screen capture. I'm not
+14:04 redacting me or the or the notes. And then here's the be right back. And I
+14:09 noticed yesterday my Neo was working on the Pixel 7 Pro which is not streaming.
+14:17 It's not plugged in and running right now. Yeah, it turns
+14:23 the mic headset. It should turn off the um Oh, yeah. And set the be right back
+14:30 headset. Okay, that's a that's something I got to do in the notes. I set the
+14:36 stream deck uh mic and be right back to use the
+14:44 desired mic. Okay. And then that's this and that
+14:50 would be the be right back which you don't have text. So
+14:57 there you go. But you're a multi-action and I want to basically um I need to
+15:03 select the mic that I want to use which I changed the mic and I want to use the headset mic.
+15:09 I could give it a name but I'm not going to. So that now when I do this
+15:16 uh be right back
+15:29 and then be right back off. I need to go back be right back on and off.
+15:44 off. So I need to come in here to the B right
+15:50 back. This is the on or this is the off, sorry. And this is the on headset.
+16:00 So, I was doing this when I was figuring when
+16:06 I was noticed the hotkey problem yesterday that I thought was working.
+16:13 Um, some things were the Pixel 7 Pro was because it was using the uh Stream Deck
+16:20 OBS plugin. the others were just sending function keys and I was setting it up so
+16:26 that F 13 14 15 16 17 18 would be driving these scenes and it wasn't
+16:32 working um on the hotkeys, but it was on the OBS
+16:39 plugin. And so I ended up just simplifying this. I just I got it to
+16:44 work. I noodled on it a little bit and I've really simplified my advanced stream switcher. I got rid of all those
+16:50 hotkeys and now these are my only advanced scene switcher um automation
+16:56 macros is this one that uh ch that does the audio ducking. Um
+17:03 I could use the filters built-in ability to audio duck. But um on the game stream
+17:10 I'm ducking multiple audio streams and the filter could only duck one audio stream. This one can do as many as I
+17:17 want to chain together. And this is the seed. Um, this is the playground for how
+17:23 I set up the gaming streams. And thus why this is actually going to be a eventually this will be a separate
+17:31 channel. It's part of the task. There's the now playing stuff which uh I don't
+17:37 have anything running at the moment. Um, but this will basically uh do that. And here's the closer. That's it. The So
+17:43 none of these. This one needs me to set the mic. Um, I wonder if I could make a variable
+17:50 for that, but I don't think I can
+17:56 configure the scene source name variable name. Can I pick it from a variable
+18:01 name? And then I just change the variable here and that would pull it.
+18:08 Source name matches pattern. Can I pull it from How do you pull from
+18:14 a variable name?
+18:19 when this add new variable
+18:26 um mic
+18:33 desired mic I'll try this desired mic current value
+18:40 uh if I say mic headset that.
+18:49 Um,
+18:56 just save the value. And if you come to variables, it should
+19:03 be mic headset. Oh, I did that wrong.
+19:15 No, I guess it it that's the variable name
+19:25 and the variable is mic headset and that should be evaluating true. Okay, that's
+19:31 good. That's good. And this so I didn't have any variables.
+19:36 There's a bug in advanced scene switcher here. If you don't have a variable defined, sometimes it doesn't do um
+19:43 uh give you those the ability to drop it in. So you have to close advancing switcher and then reopen it. And now I
+19:52 get the this variable. This was not there before. So now I can say um that's
+19:57 the variable. I don't want that. I want this to be the variable.
+20:03 But this is where they're not letting me this set this to be a variable. And that makes this kind of useless. So that's
+20:09 kind of a bummer. I'd like to be able to
+20:16 set them all to be one, but set the variable to be the desired
+20:24 mic. And then that could be in the drop down as Hey, desired mic. Look at that.
+20:33 Right on. I saw that yesterday. Desired mic. desired mic. Okay.
+20:39 Uh, that works. And now I can just set the variable. So,
+20:46 let me add that to the stream. Set ass desired mic.
+20:53 Var desired mic.
+21:00 Just set the far desired mic to use desired mic.
+21:12 Yeah.
+21:19 OBS set as stream deck
+21:25 set my computer right back on off
+21:35 to use desired mic. Okay, that's cool. I can do that. Uh advancing switcher
+21:43 killer then that just
+21:52 changes drops the uh screen capture. I got rid of I think I got rid of the echo and this will be a test as I'm segueing
+21:59 finishing up the the changes from yesterday and last night
+22:05 and looking at um the setup. Those are the notes. These are the goals.
+22:11 Um the hot keys were the big one.
+22:17 Um the multiple video uh um audio captures that
+22:24 I had. I simplified those.
+22:29 Um, and then I pretty much just continued to work on I don't know what else I did
+22:36 done the hotkeys. Um
+22:41 yeah, the some of the songs had um uh in the playlist the the player
+22:53 I download all I do is just download the songs from YouTube and I have them stored locally and some of those uh file
+22:59 names had um not your basic characters in it and the
+23:08 OS OS could handle it fine and the player could handle it fine and the and then saving the the file name to saving
+23:16 the the playing file name to the uh now playing text file works fine and it
+23:23 shows up just fine and in fact OBS is reading it just fine but I had selected
+23:28 a font the Moonhouse font um which is what's showing in the lower left corner
+23:33 with the Discord me it's this weird kind of edgy font I like it, but it it's
+23:41 apparently a flawed font and it can't display some characters. So, I had to change that to
+23:48 um uh use a font that does support extended
+23:55 characters. It's not really that extended though is the thing. So, I don't know what the deal with the font is. The font just doesn't have the
+24:01 glyphs for all the characters. I guess someone has to handedit all those. I
+24:06 guess it's kind of hard to make a font to support all the characters.
+24:12 Um, so I can show you the player. This is it. And if I hit
+24:24 So if I talk, that should drop that. Yeah. Um,
+24:35 that's playing uh stream back here. So, let me just do this.
+24:46 That seems pretty loud. Um, but hopefully my voice right here, uh,
+24:52 hopefully there's no echo. And the what I've been working for on the audio player is starring the songs so that I
+24:59 can pick and choose what songs are pretty much all these songs
+25:05 must be and everything's relative here. I I won't pick a song in the stream that
+25:12 I think is a two star. Um so they're just there's no song in
+25:18 here that's below a three star song. Everything being relative, since all
+25:24 these songs are three star and above, some of the songs
+25:29 are on the lower end. So, if if I ever come in here and put a one or a two star, it's only because it's a weak
+25:36 three star just to kind of get me some um this is mostly up talking to a test
+25:42 to see is this audio level too high or too low. Um, but what I really want is the
+25:50 this one song. Uh, this is just kind of normal. It's I gave it a three. It's
+25:55 basic. It's just decent background, but I can fast forward this a little bit. I can
+26:00 even just go next. And I'll say next, and you'll hear the announcement. Skipped into the void by White Bat
+26:07 Audio. now playing Unbound by Arthur Riley.
+26:14 So, I let it speak there. Uh, and the test here is in the stream where I see
+26:21 we're 30 minutes into the stream. Uh, note to self,
+26:27 uh, I'll check the transcript later for note to self and 28 minutes into the stream. How is the, uh, music player
+26:36 announcement? This is the music player that I'll be using when I'm gaming.
+26:41 And uh the song is Uther Riley. Most Uther Riley songs are four stars cuz they're
+26:49 really epic and they're really good. And then some of the songs are just like, "Fuck yeah, that spine tangling. That's
+26:56 a five star." This one, this one could be a five star. Again, I haven't rated
+27:02 it yet. Um, so we'll see.
+27:09 Um, if I shut up, you can listen to the music. And the point is, shut up for a
+27:17 second.
+27:32 Sounds really good on the on the headphones. And it's just I'm interrupting to test the audio ducking.
+27:37 This is all playground for the stream game stream.
+27:53 Quality on this actually sounds kind of low. The quality it sounds like
+27:59 it's 86 kilobit or something. 128 kilobit.
+28:18 So I can control the without changing the system volume. I can control the
+28:24 music volume.
+28:32 And I might want to leave that at 50.
+28:50 Even even 22 is still pretty loud. But, uh, at least it's makes my voice 20.
+29:00 If I just really want to 11, you know, turn it to 11 on the amplifier.
+29:06 Um, maybe 20 is where I want to keep the music at all times.
+29:15 And was this epic? I think this was usual Uther Riley, which I would call a
+29:20 four. For some reason, it sounds I don't know what's going on with
+29:30 sounded cloudy. It sounded lower resolution.
+29:44 I just call that a usual U Riley. Fantastic. Uh I've emailed him several times
+29:50 appreciating his music.
+30:00 Now the announcement doesn't that was unbound now playing.
+30:06 The announcement I don't think honors the uh volume. I think the announcement honors the system volume
+30:15 uh because the volume slider is only tied to the music
+30:20 bit rate. I don't have a slider for the volume. I could probably investigate
+30:26 investigate if I can um where's my read me?
+30:40 How to control announcement
+30:46 volume.
+31:03 Again, unrated. As I'm listening to Aluth Riley's, I
+31:09 love him. I could for right now I could listen to these songs almost all the
+31:14 time. Um they're very motivational, driving. I'm not tired of them yet. I I
+31:21 can get even fantastic music I can get tired of. Um I once tried to listen to
+31:27 Led Zeppelin, the whole box set, and I just Yeah, I didn't get to the end. Um I
+31:34 don't know if I've ever gotten to the end. Like if I were to listen to all the Nineish Nails, nothing's uh nothing.
+31:40 One, two, Halo one, Halo 2, Halo 3. Um I I don't think I can make it through
+31:47 all those albums. It's just exhausting.
+31:53 I'm not saying I don't like U Riley's music. What I am saying is
+31:58 he follows a pattern. It is predictable almost. It's it's it's almost
+32:05 predictable that oh, he's probably going to have these halfway. It's almost exactly halfway into the song where he
+32:12 builds and then he goes it's like it's just this gentle gent
+32:19 gentle build. It's a tease, 50% tease, and then
+32:25 and then just like this orgasmic, just symphonic, epic, over-the-top
+32:31 awesomeness. And like that that hasn't gotten old, but it's gotten predictable.
+32:38 And predictable leads to getting old, but I got enough variety here. Um, I
+32:46 hear it a lot. people don't watch the game streams that won't they won't be overwhelmed or inundated by this music
+32:53 too much
+33:07 close you
+33:13 I was doing some other investigating here.
+33:34 YouTube stream gets so far behind like it just doesn't update when it's in the background.
+33:42 So, this one I'd call I'd call this a I'd almost call this a
+33:47 It was really nice and it's good. It's for for background. The the the purpose
+33:52 of this music is different than just listening to it because you really want to listen to it as in that's the song.
+33:59 This this music is almost always background music. So, for background music, that was a four star. Um,
+34:09 it had emotion. The um the white bat that was far by Riley. Now playing
+34:16 radiation storm by white bat audio. Why is it not dropping?
+34:24 Uh, it's not dropping the test. Hello. One, two. Why did the fade?
+34:31 Why is it not fading? There it goes. Interesting. If the I was watching the
+34:36 fader there, it wasn't going down. Again, these behind the scenes are to
+34:41 get me familiar and work out the bugs in the system. And it's pretty simple. I mean, it's getting simplified.
+34:57 The purpose of this music is background while I'm game streaming and to make to
+35:04 give some ambiance. If I'm in a space, if I'm running around
+35:09 in space, flying a spaceship, walking through a spaceship, walking through a
+35:15 cave, walking through a city, this type of music, I think, would be awesome.
+35:22 They're calling this retro horror stuff. I went through the white bat. I'm picking up some of their videos. Uh I'm
+35:29 through a playlist. I'm going through this stuff. I I I kind of put them into
+35:34 a playlist and figure out what I want and then then I'll download that playlist.
+35:41 Um I think this is pretty good background
+35:47 stuff. It is kind of dark. It is mysterious. Space is dark. surprise people. um
+36:00 this one. But I call this a
+36:06 I'd almost want to call it a fourstar um for background,
+36:14 but the because it's more on the neutral side, it's not quite so much emotion. And I've
+36:21 got another task in here um to take notes and add genres.
+36:26 Um uh here's the take notes. These are kind of all the things I want to do on the
+36:33 player. I actually had a uh
+36:39 frustration. And the thing I'm working on now is this ability to um I'm working on it. So, it's not
+36:47 it's not working, but I need to be able to point
+36:54 uh a web page to a specific audio device. And I can do that. And so then I
+36:59 would take this um prototype code here and I would from the command line. I
+37:07 might even do it in here. Um
+37:14 here's the prompt.
+37:19 Cheers. Just make sure where I am on these props.
+37:39 This was all pushed.
+37:46 Yeah, I don't really. So, that that's all done. This is from a previous session and I'm done with that. All
+37:53 right. Now, I'm back on main. Um, close ex. That was Radiation Storm by White Bat
+38:00 Audio. Now playing Beating Heart by Arthur O'Reilly.
+38:06 Um, I can pause here with the Neo. Um, but I can pause on the keyboard too. Um,
+38:14 so this was I was downloading this distraction of
+38:21 it is a distraction, but most distractions are good.
+38:26 It's this remaster outro. Uh, you can't see it when I highlight it. That be
+38:31 that'd be the the idea of getting a um markdown note working.
+38:45 I don't know there's a markdown OBS markdown text.
+38:52 There probably is. Um and it's probably hidden in behind uh
+38:57 browser source or something like that. Um, this is me actually just want to use
+39:03 browser source notes that I can put them in there and I think it would file a refresh. If you if you edit the HTML it
+39:10 would refresh. I can make these topics that are showing on the right edge a bit
+39:16 prettier. Um, I think the Bluetooth microphone
+39:22 this one's okay. I hope actually yeah I hadn't even
+39:28 bothered testing AB testing um
+39:33 I would want to do a um
+39:39 A B C test microphones
+39:48 um to find out
+39:53 microphone uh microphone quality microphones
+39:59 quality just to know if this uh has if this
+40:07 microphone I'm using right now is shitty or not. Uh the lapel mic I think was
+40:13 pretty good. Um and it's my normal go-to, but if I'm
+40:19 listening to music, I'm going to do it like this. And I listen to music a lot.
+40:26 Um I try to I don't really listen to that much, but it's important to me and
+40:31 it's important to me to incorporate music into my stream.
+40:38 Um
+40:45 not really going philosophical here or anything, but
+40:50 I'm curious why
+40:57 my stream is not interesting when I game. Um,
+41:04 it could be that I don't have a personality or I don't have interesting things to do when I'm uh streaming Star
+41:11 Citizen. Could be just the game itself, but that gets part into it. I don't
+41:18 understand what about streaming Star Citizen isn't interesting. Why is Fortnite interesting? Why is
+41:26 Grand Theft Auto? Grand Theft Auto maybe for sure, but if it's just a shooter
+41:32 game, what Battleground 6, Battlefield 6, whatever it is there, No Man's Sky,
+41:39 there's there's a lot of games. I I get it. There are a lot of games. Um I think
+41:44 Star Citizen is is a cool game. Now, it's controversial
+41:50 and that it hasn't released yet. Don't even get me started about the white knighting or black knighting of Star
+41:56 Citizen. But regardless of the game I could be
+42:01 doing, any popular game, I could be doing the same setup in. I could probably grow the channel that way by
+42:09 picking a popular game and trying it for a while. chat GPT.
+42:16 What's the most popular game to play to get me viewers?
+42:21 Um, but I'm kind of afraid to go that route because it's it's not it's not about the viewers. If I if I wanted to
+42:28 get just the viewers, um, then I would be
+42:34 uh Can I drop in the um
+42:40 YouTube scene? um brow custom browser docs. I know there's
+42:48 a browser doc and and I could look at the chat and embed the chat and put that
+42:54 on the side and see the chats.
+43:03 I just I had a tangent here to to if I could look at the chat
+43:08 um instead of want to swap out and everything and that because that's on the block. It's on the to-dos is get the
+43:15 instream overlay chat working or come up with a better solution because I think the social stream
+43:21 Yeah, I think the social stream solution is like I'm thinking it's over complicated but maybe it isn't.
+43:29 Um, but the music is important to me in my
+43:34 stream incorporating the picture and picture. Um, I've tried to get bring my fe in. This is a few years ago. I
+43:41 brought my friends in on a picture and picture. So I had here in the house I can bring up five computers and stream
+43:48 five computers in and I even have a setup where I can do the Brady Bunch style but you know with priority for the
+43:55 the two main ones and then the other ones are just kind of off on the side. It's basically game conferencing.
+44:03 Game conferencing. I wonder if that's a thing. Um but it's streamed live streamed like
+44:11 like why is this not a thing? I don't understand why this isn't a thing. Um, I also don't understand like why music
+44:18 isn't a priority. So, I I want to take the priority. I want to
+44:24 make in my game stream that I'm not after the views, but I am
+44:33 um to be honest, I hate that phrase. Um, I am
+44:39 interested in the engagement and the feedback and the interest and the the
+44:45 actual tangible interaction. And if the result of that is view count and
+44:52 subscribership, then that's fine. It would be selffulfilling, self-evident
+44:58 that if you make good content, the viewers and subscribers will come. So, I'm more interested in doing something
+45:06 interesting, but I don't want to make it interesting for the world. I want to make it interesting for me so that I'm engaged in it. Um,
+45:14 so rambling, that was a slight philosophical diet tribe there.
+45:22 Um, on the goals, I don't know if I'm going to actually
+45:28 get to the remaster out. verified the stream. Sorry. Let's get that out of there.
+45:36 Um, that's and uh checklist.
+45:44 Got that X.
+45:52 Start stream verify stream
+45:58 deck. Stream verify. Stream. Okay.
+46:07 Um, add redacted only when redacting. When redacting. I got that.
+46:12 Um,
+46:19 only redact MacBook screen,
+46:24 which that's what that's what that is right there.
+46:32 Um, and then and and put the redacting on top of it. So, redacted redacting.
+46:40 Um, I think I've solved the uh the echo in the music announcements.
+46:46 I don't think I have to reset all the API keys. I still might do that, but
+46:51 maybe. ABC test the microphones. Is there a browser source notes? Um, goals. A
+46:58 browser source the goals. Stream tweaks would be browser source.
+47:05 the goals.
+47:10 Um, I don't know if I want to do this live in stream. I might, but I it's something
+47:17 I'd have to listen to afterwards where I'd have a moment in the stream where I do mic A, mic B, mic C, and I'm not
+47:23 really interested. That's lower priority. Uh, this is NDI stuff. I'm not interested in dealing with that right
+47:29 now. Um, yeah, I'm not interested that.
+47:36 I'm not answering that. Um,
+47:48 quick tangent on um,
+47:53 voluntarily jumping into a tangent here
+47:58 of I noticed some someone posted a comment
+48:05 on one of my videos which is actually on the Canary. It's over here.
+48:13 And this is what I wanted to do. This is what it's I've got this window open.
+48:21 Um yeah, the URL
+48:29 just because when I launched told it to open this thing, it did
+48:36 that. Um, cat read me.
+48:43 So, I wanted to download this song as far as
+48:52 Come on, man. window. It's in Canary.
+49:01 Close this. Oh, yeah. That was just me rephrasing
+49:08 something. This That's the wrong one.
+49:19 Um, I think it's in my history.
+49:27 Oh, that was hide. Dang it.
+49:35 Uh, official. This is the official. Start my day with me as a jeweler at
+49:40 Shane Company. Uh, this if I played this, I'm curious.
+49:45 I don't think this would get me a copyright strike. It does say copyright.
+49:52 Or what's that? What's that? P. What's this character?
+50:09 A sound recording copyright symbol stands for phonogram. Copyright.
+50:14 Phonogram from the Greek word. Yeah. Obviously, for example,
+50:23 the recording performance captured on record is owned
+50:28 or controlled, the phongraph, but the written music or lyrics.
+50:34 So the actual recording the content is that but the originator
+50:44 who wants to write to the recording itself would you like me to show nah I mean
+50:52 um educational stream fair use teaching
+50:59 people how to use and follow along follow the rules don't do what I'm going to do. Um,
+51:08 I'll show you five ways we make your engagement ring special. One, we
+51:14 So, can I play this in the stream and not
+51:20 get a strike? Um, where I was going to snip this down
+51:27 to a section. All I really want to do is not get a not get a copyright strike and
+51:32 just grab this URL and um
+51:40 YouTube DLP it. Uh
+51:48 oh yeah, that was that's something else. It's this one that I want here. So, and
+51:56 I'm in this folder. Um, it's not really the best folder for it, but that's good
+52:05 enough. X. Bam. Get that.
+52:19 And now we've got the But I don't want the Opus. I I wanted
+52:27 the MP3. And I think I already closed the Reddit on that.
+52:33 So Reddit.
+52:44 That one just gets me Opus.
+53:03 then convert to open MP3. But yeah, I I mean I have it already installed. So
+53:12 on the MP3 audio format MP3
+53:23 um do I have that in the editor here
+53:29 as a
+53:35 can add folder to workspace a sec.
+53:42 Yeah, right here. I got it already. Um, but I want that read me. That's one
+53:51 back. So, um,
+53:57 good grief.
+54:05 Open west. here.
+54:11 That
+54:21 which is
+54:26 what I want here with
+54:32 you. I don't think it matters.
+54:43 Someone commented on there's the MP3.
+54:51 All right, get rid of the arus. So, I might remaster
+54:56 since I've got this body count in the house. Um,
+55:02 someone commented on and that's that video.
+55:08 Do I dare get a cop? The thing is I already have um I don't know if it makes a difference
+55:14 because I've already done the one time exception, but the exception said if you do it again then you'll get a strike and
+55:20 and they'll bring it back. It's like probation. So, um I don't know if I can play the
+55:27 whole song. Um, I have a video. So, here this is the
+55:33 song. Uh, this me following along with myself trying to figure out if what I
+55:41 was doing is legal. So, in my videos, I have body count.
+55:54 And so I have this, but you can't I have this as a um
+56:02 got 267 views. Amazing. Yeah. Um
+56:10 live streaming. The fact that I'm live streaming means that I can't have copyrighted stuff during a live stream,
+56:17 but in a recording you can. uh
+56:23 especially on fair use. So, can I live stream fair use stuff? I don't know.
+56:29 Um in this video, uh I am walking
+56:35 through and I'm playing body count and I'm counting as body count body count and I jump into body count in the house.
+56:42 And then at the very end here, I this is where I came up with this two years ago, August 2023.
+56:49 um over two years a Yeah. Um I was trying to remember that in my comment to
+56:57 this guy. Um,
+57:03 someone asked me what the outro song was,
+57:09 and I replied, I thought it was a request for me to
+57:15 clip from the movie, the outro song, and put it as a clip out on my channel. So,
+57:21 I misunderstood and I didn't see his reply a month later,
+57:27 which was, "Yeah, give me a date." I guess not. The
+57:32 song that I use at the end of my videos. Oh, and so I just replied earlier today. Oh, my outro song that that's body
+57:41 count. Um, and I probably should put it in the
+57:48 um music usually from that if I put closer from
+58:00 uh actually I don't want that because they they they do weird things to the
+58:05 I want that. Um, so someone commented,
+58:14 uh, I'll put this in the upload notes or channel defaults.
+58:19 So I replied to him what it was. I officially took that snippet from this and dubbed it in my channel in my
+58:26 channel name. I hope I doesn't mind. Peace. He said, "Thanks." And then now that's
+58:33 inspired me to as I was listening to this, there's this section in there, again, I'm not going to play it for
+58:39 possible strike reasons during live streaming, but um where he grunts. He goes like in
+58:47 my version that I have, can I do that?
+59:00 I'm not this [ __ ] night. That right there. Um,
+59:08 I guess that came through. Okay. Um,
+59:17 just processing a thought I had in my head that I just explained how I to this guy
+59:23 that I did that. But as I'm listening to the song again two years later, there's
+59:30 this section there with better riffs where he's grunting in there. Oh, come
+59:36 on. Yeah. Yeah. Um and so I might remaster that. And that's what this uh
+59:43 topic is about for um remastering the outro. And then
+59:51 that was on That was on this conversation, but that
+59:58 was only because that conversation was related to this. That was F1 the movie 4K Paddock
+1:00:06 Showdown Crash. But to John Fogerty, the old man down the road by Night versus Night, now playing F1, the movie 4K Bad
+1:00:14 Assy. Um, that was where someone just
+1:00:20 responded to sort by newest. Someone put in who's GP and
+1:00:25 um I just commented earlier and that had me notice the count on this is 26. Oh,
+1:00:33 I watched this and at the end there was the tile that sent me to uh my John
+1:00:39 Fogerty because I hadn't seen it in a while. I watched it and I saw another comment and that's that's kind of how all that happened. There is a method to
+1:00:46 the madness. But as I'm watching the John Fogerty one
+1:00:52 now, that was F1 the movie 4K bad as I used to be by Night versus Night. Now
+1:00:58 playing F1 the movie 4K Paddock Showdown Crash but to John Fogerty the old man
+1:01:04 down the road by Night versus Night. Is that voice annoying?
+1:01:10 Kind of. Yeah, I like to hear it. Um
+1:01:16 I like to hear it. It annoys me a little bit, but my desire to hear it is more
+1:01:22 important than its slight annoyance. But this is just this video is just
+1:01:30 music because I I didn't have the AI processing
+1:01:36 or um skills basically either the skills or
+1:01:41 the AI processing to pull out the dialogue and mute attenuate the music.
+1:01:51 They there are many things that go I I think you can do either or uh both ways. I think you can attenuate the voices and
+1:01:59 just have the music. I know that's how people remove vocals. Um, and you don't have to have AI to do
+1:02:06 that. There's there's just discrete ways of doing that, functional ways of doing
+1:02:11 that. Um, but the AI ones do a really good job, a better job lifting out the
+1:02:17 voices, taking out the voices and just leaving the music. But can you do it the other way around? take out the music
+1:02:28 because he's got um Do I risk the copyright strike on
+1:02:36 the um on this one?
+1:02:41 Now playing F1 the movie 4K Bad As I Used to Be by Night.
+1:02:46 I'm just as bad as I used to be. Um that's my singing.
+1:02:52 I blame that I'm getting sick. Um,
+1:02:57 I blame that I was sick. I'm getting better. I don't want those voices. So, there's
+1:03:06 and now I have to sit down and like pull out the sections where and they did a
+1:03:12 good job. This is fantastic movie I find in my opinion. um
+1:03:19 if they do a good job at producing the audio video of the movie, they won't
+1:03:26 unintentionally if it if they ever have the vocals talking over dialogue. Um
+1:03:32 then it's in then it is intentional. It would be intentional.
+1:03:38 Um, so I would have to go in and figure out the sections of the vocals of the song
+1:03:45 and drop those, but I want to keep all the other voices. So I want to remove all the music and all the song vocals,
+1:03:53 but keep all the movie vocals. And that's I then I would want to take that as a
+1:03:59 remastered.
+1:04:05 There's my cough. Um, and lift out the
+1:04:10 movie vocals. Not the audio song vocals, not the music vocals, but the movie
+1:04:17 vocals, the dialogue or speech, whatever,
+1:04:25 and then lay those back down on top of the John Fogerty and then mix them, level them, and that sort of stuff.
+1:04:32 So, that's what this uh remaster old man is about.
+1:04:39 Um, instream chat overlay. And I don't know if I'm going to get to the remaster
+1:04:48 stuff. I don't I'm pretty sure I won't. And I do need to take a bio break. So,
+1:04:54 I'm going to practice it. Be right back.
+1:07:55 Okay. Um, so I'm probably not going to get to
+1:08:00 the remaster stuff.
+1:08:12 I'm my mind is still on the music player right now
+1:08:18 and I'm I don't know if I'm being kind of irrational about it or obsessed about it
+1:08:25 or kind of too laser focused or narrow
+1:08:32 narrow-minded obsessed that I've I've built this web page. So,
+1:08:42 I don't know if I'm going to do these right now. They're they're on the block
+1:08:47 for an idea, but they were there. I think I'm done with these comments.
+1:08:53 Um, I got you. I downloaded you. I've got
+1:08:58 that. Um, this was a fork of another music player that I just kind of a
+1:09:07 waste. It was an idea. Um, didn't see anything inside of you.
+1:09:14 This was the
+1:09:23 This was where I thought that I had problem with the font uh text not showing some characters. That was all
+1:09:28 because of the um the font itself. Not not anything to do with OBS.
+1:09:35 Um there's the player itself. This is my pull request that I'm
+1:09:41 currently working on for the previous uh playback. And just got two last comments
+1:09:47 on that. So this I could get this out of the way and get this enabled and enable like
+1:09:54 it's it's not walking backwards right now on the player. If I hit previous on the keyboard, it's basically going to
+1:10:01 randomly, it's not going to walk back up the history. So, here's the history
+1:10:06 page. And here, I want to change this so that uh I get
+1:10:13 um the stars that show up here, but I also want to add play count. And that's
+1:10:18 a whole other pull request here. There should be two pull requests.
+1:10:26 Um,
+1:10:32 did I already merge that in? No.
+1:10:39 Um, automatic play count. Let me send off uh
+1:10:45 co-pilot to implement that. Yeah, I send that off. I think it's the
+1:10:53 addition is define what constitutes a a play. Um,
+1:11:03 yeah, whatever. I mean, it's sure important.
+1:11:11 What does what does constitute a play? The fact that it completed
+1:11:22 Um, would it be worth
+1:11:29 tracking play count as both a
+1:11:39 started and completed?
+1:11:59 metric so that
+1:12:08 if a song played to the end
+1:12:13 is there some other creative is a bad
+1:12:18 idea when you start letting an AI get creative because they're not there some other creative
+1:12:26 Um way to use the
+1:12:31 cursor to
+1:12:37 incorporate the
+1:12:45 seeking seek bar.
+1:12:52 Fast forward
+1:13:01 um into the play count metrics.
+1:13:09 something
+1:13:19 detailed tracking
+1:13:24 and nice but with nice simple summary
+1:13:33 and history. Uh, I don't know if I can tag Copilot
+1:13:38 yet at this moment. Uh, I can't at the moment because it's not really in here.
+1:13:46 So, I've got this stuff here. And if I assign it to C-pilot and let it go, uh,
+1:13:52 I think I've got enough uh, credits or whatever what the custom
+1:13:59 agent was for. So, I let that one go. Um, if I assign compat custom agent,
+1:14:07 create an agent. My own agent. Yeah, I don't want to do it.
+1:14:13 Okay. Um, that's a pull request. These are the
+1:14:20 issues. Get rid of that
+1:14:25 previous uh on the player.
+1:14:32 So here's the history. You would think that if this is the current song playing, it's paused. So if I resume,
+1:14:41 right? So we're playing beating heart. So then if I click track back, then it
+1:14:47 it would go to um radiant radiation storm is what I want it to play. So,
+1:14:54 right, like if you're in a song and like
+1:15:00 sure naively uh if you just want to go back a if you
+1:15:06 just hit the back arrow like but it doesn't make any back
+1:15:12 a random if you go back and hit a random song backwards
+1:15:18 that doesn't mean anything. Time moves forwards. So, you can't select a random
+1:15:24 song backwards. Um,
+1:15:31 let's reboot on me.
+1:15:43 Oh, she wants uh me to make something for her. So, I got to cook something.
+1:15:51 I might um
+1:15:58 need to
+1:16:04 uh take a break here and work on that. Maybe at the same time just start the
+1:16:10 cooking of it. Make dinner. I make a a soup for my
+1:16:16 wife.
+1:16:22 I think it's on now. That's correct.
+1:16:28 Um, let me do that. I've got plenty of power. I was at 100%.
+1:16:35 But it doesn't make the the AI implemented backwards and forwards and it basically added a backwards as
+1:16:42 random. Like that's just a hallucination concept that I can actually see someone
+1:16:48 who isn't thinking coming up with that. And as far as initial proof of concept
+1:16:53 and prototype, it is reasonably understandable that previous
+1:17:00 would just randomly like that's it. It's it's it's amateur, but come on.
+1:17:09 It's hard to call an AI amateur. It's supposed to know everything, right?
+1:17:15 So um
+1:17:23 I wanted to tie it into I had to track in order to do what I want to do. I have to track history and that was a play a
+1:17:29 task for yesterday. And now that history is in,
+1:17:35 I can add um
+1:17:43 being able to go backwards in history. So right now it if I were to hit play and go backwards, it would just pick a
+1:17:49 random song. It would not go to horror. And that's what this pull request is is to implement previous. And then I've got
+1:17:56 um just two two tiny little snippets here. This one doesn't make any sense. This is like I have another channel that
+1:18:03 I'm creating for kind of a more of a personal project related to my
+1:18:09 profession and the title of the channel is look at what AI can do. I was very
+1:18:14 surprised that that was available like there's Instagram, Tik Tok, YouTube,
+1:18:20 Facebook, Twitch, kick, uh all the I think. Yeah. Uh I don't think I can grab
+1:18:27 quick kick. I didn't grab kick. Um,
+1:18:34 but this is an example like what is this is stupid and I've seen co-pilot like
+1:18:40 how I can just like highlight my own when I run into AI fails basically.
+1:18:48 Um, I don't know how I'm centered on the screen. It's it's fine.
+1:18:55 So, uh, but this is kind of an AI fail here that it wanted to
+1:19:02 replace update previous button state with two calls to update previous button
+1:19:09 state. That doesn't make any sense to me.
+1:19:17 Make soup for me. Make soup for me. The deep immune put the fans away in the basement. more
+1:19:22 honeydew list stuff. This is just stupid what I was doing
+1:19:28 there. So, I didn't understand it and that's where I um
+1:19:35 I got to put this stuff away. But this is for the girls. The girls are supposed to do this like
+1:19:43 um six cloves of garlic smashed.
+1:19:48 Okay. Um, I probably should be right back
+1:19:54 while I do this, but
+1:20:01 let me
+1:20:10 I may at least put you over here
+1:20:17 and over here and move you
+1:20:24 over here so that
+1:20:30 I can basically attempt to see
+1:20:36 how off camera I might be
+1:20:44 while standing here in the kitchen cooking.
+1:20:50 But that was a ridiculous thing on that
+1:20:57 co-pilot. Copilot's come up with some really weird doozies and I'll even tell um
+1:21:05 my codeex session. I'll I'll just go into codeex. I'll take the co-pilot
+1:21:10 comment. Some of them I understand most some. I'm
+1:21:17 not going to even quantify how many. I'm leaving this for the girls
+1:21:22 and rinsing this off. Um,
+1:21:31 some I will not quantify whether it's the majority or the minority of the
+1:21:38 co-pilot comments, code comments, reviews,
+1:21:44 code review comments. There we go. I understand. I understand some of them.
+1:21:54 Some of them I don't like. Wow. That's And some of them are amazing catches actually.
+1:22:02 Um what
+1:22:07 the summer says find it's like wow man like fine tooth combed. really did go
+1:22:13 through the code and find like nitpicking on in my readme document
+1:22:21 um in the read me. Where is the that knife? But I want this knife.
+1:22:29 Five cloves of garlic. Six cloves of garlic.
+1:22:36 Six cloves of garlic. Okay. Well, that that's probably this
+1:22:42 whole thing. Um, in the read me, it goes
+1:22:50 it makes a comment in the readme that it says nitpick.
+1:22:57 Uh, your read me here says that your threshold is greater than 50%.
+1:23:05 But it's really equal to 50%. and blah and blah and such and such and so and so
+1:23:11 and like detailed I know know it all type of explanation which is fine
+1:23:18 because it kind of does know it all. Um and it's like wow like that's a good
+1:23:26 catch. One.
+1:23:33 Two.
+1:23:43 I should put on the topics list. Make soup for wife.
+1:23:50 One, two, three, four, five,
+1:23:56 six. Okay.
+1:24:05 Um, goals
+1:24:23 baking suit for the wife.
+1:24:29 Some of them are like, "Wow, amazing." Dishes, dishes pulled. They're going to
+1:24:34 do that and smashed.
+1:25:08 I do have thoughts in my mind just trying to get through the garlic here. Um
+1:25:17 anyway, and then some of them are just like wow bad where codeex
+1:25:24 basically um I I pasted into codeex. So the
+1:25:31 command codec cli I paste it in file such and such so and so file name
+1:25:40 colon line number like file name colon 1
+1:25:45 2 3 4 meaning just standard line number syntax of a file name
+1:25:53 GitHub copilot says
+1:26:00 x y and Okay.
+1:26:06 Uh, and that's all I do. I don't I don't tell it whether it's right or wrong. I just I tell I tell Codeex that GitHub
+1:26:13 Copilot says X, Y, and Z. And I can let it It's doing a pretty good job
+1:26:19 determining because it basically pushed back on one of them and said, uh, that's the exact opposite of what we want to
+1:26:26 do. It was funny. Um, so that's a kind of another look at what AI can do. And
+1:26:33 I'd like to find a way to capture these moments
+1:26:38 and they're not relevant for this channel. So, but how can I capture that moment and pull that out and snip that
+1:26:44 out? Uh, wow. These are uh
+1:26:56 was broken apart. So, how can I take these AI fails and AI
+1:27:01 wins? Really, look at what AI can do. Is it is a double meaning of all the of
+1:27:06 good good things it can do? Things that can just wow me. Um, one of the latest news things is
+1:27:12 that it what AI can do is it can lay off
+1:27:17 14,000 people at Amazon.
+1:27:22 14,000 people laid off of Amazon. and contract like cor corporate
+1:27:29 corporate jobs not just one two three four five
+1:27:36 okay it'll be garlic because she likes garlic I should have done the other one too the seventh but
+1:27:47 I don't know there's a faster way to do this I thought I was doing it faster way but
+1:28:05 My eyes are horrible. Come on. Come the [ __ ] on.
+1:28:16 There's a bad spot on here. Maybe that's why it's so hard to
+1:28:23 peel.
+1:28:51 Um, I almost should go be right back, but
+1:28:58 I thought I could get this done pretty quickly. Ah, you're bad.
+1:29:26 Um, I don't really have much to say while I'm making my wife's soup.
+1:29:45 must concentrate on cooking night versus night cooking
+1:29:52 channel.
+1:30:08 It just says smash. Six cloves of garlic smashed. Like,
+1:30:16 okay. Smash. Smash. Smash.
+1:30:23 Smash. Like how smashed.
+1:30:57 smashing because it's like an onion.
+1:31:02 My wife and I were talking about smashing onions the other day and what what that does to them. So,
+1:31:10 smashing is very deliberate.
+1:31:20 Batman cooking channel.
+1:31:27 Um
+1:31:36 yeah, I guess this one
+1:31:46 uh 3inch piece of fresh ginger root
+1:31:51 chopped. Do you want me to um
+1:32:01 smash the
+1:32:16 smash the garlic but chop the ginger?
+1:32:22 Um, I'm guessing you want it peeled, too.
+1:32:44 I don't know. I ever peeled frozen ginger before.
+1:33:24 Yeah, sorry for the distraction,
+1:33:32 but it's not every day you see
+1:33:37 Batman cooking. a soup.
+1:33:51 Ah, this is going to be a [ __ ]
+1:34:32 Picked the wrong ginger.
+1:34:40 Smells good though.
+1:35:06 Okay, whatever. Freezing cold
+1:35:23 because I wonder why. Cuz they're frozen.
+1:35:32 Okay. Rinse
+1:35:37 and chop. Sliced. Is the difference between chopped and sliced?
+1:36:24 Probably one a lot thinner sliced, but what ifs?
+1:36:32 Olive oil.
+1:36:39 Miso paste.
+1:36:45 Miso paste. Is that in the fridge?
+1:36:57 One cup of carrots. Miso paste. One cup of carrots.
+1:37:17 Miso paste. I don't know where the [ __ ] the miso paste is.
+1:37:24 Miso. Aha.
+1:37:30 Miso paste. Water. Eight to nine cups of water.
+1:37:42 What?
+1:37:48 One cup of carrots. And I'm putting this all in what?
+1:38:03 stockp
+1:38:09 to nine cups. Add olive oil. Two to three
+1:38:17 tablespoons. Three tablespoons is like a cup or
+1:38:25 something. Three tablespoons
+1:38:30 is almost a quarter cup.
+1:38:36 Fine, I'll just measure you instead of eyeballing you.
+1:38:49 One, two,
+1:39:00 three.
+1:39:08 two to three. Um, one to two tablespoons organic miso.
+1:39:16 Sauté all ingredients except miso for two to three minutes, stirring often.
+1:39:22 So, it just says smashed.
+1:39:27 So,
+1:39:33 Um, I'm not really comfortable with the smashed smashed and lightly sliced
+1:39:59 But these chunks of ginger are going to be so ridiculous, too. So,
+1:40:05 whatever. It just says sliced ginger. So,
+1:40:15 I haven't heated the oil yet
+1:40:24 because now I need to make get the um one cup of carrots.
+1:40:38 My carrots make a cup.
+1:40:50 Three.
+1:41:39 I don't know if it's going to make a cup.
+1:41:47 Yeah, I apologize. Like um
+1:41:53 IRL domestic stuff gets in the way. I don't see how I'm thinking in my head
+1:41:59 these thoughts and realizing I should probably just say them out loud because they're not
+1:42:05 necessarily doing me any good staying only in my head
+1:42:10 that I don't see I don't it it must be hard being
+1:42:19 an IRL streamer like h like
+1:42:25 Casey and these stat says he streamed every day for 800 days,
+1:42:31 over three years.
+1:42:36 That math doesn't work out. Anyway,
+1:42:43 um
+1:42:52 chopped One cup of carrots. It doesn't say
+1:42:59 what to do to the carrots. Like obviously you slice them.
+1:43:10 This is a soup.
+1:43:20 You wouldn't necessarily They don't say what to do.
+1:43:26 But I can't imagine that you would just put whole carrots into a soup.
+1:43:59 Like I'm not really trying to be a YouTube
+1:44:06 streamer. Um I'm trying to get My goal is to not
+1:44:13 be a YouTube streamer. My goal is to find people with similar interests.
+1:44:20 Uh, it says all ingredients except miso. So, I'd call this a cup. This is over a
+1:44:26 cup, but carrots aren't going to hurt anything.
+1:44:32 It's carrot heavy. Greens.
+1:44:38 Spinach. Spinach.
+1:44:59 Wrong.
+1:45:10 One cup of spinach. Ah, whatever.
+1:45:20 That's Not really spinach.
+1:45:27 Maybe that was spinach. Uh, it looks like a cup to me.
+1:45:53 I'm just going to put them in. I'm not going to chop them.
+1:46:34 One whole onion. What? A whole onion haved.
+1:46:45 A whole onion hald. Taking the onion, cut it in half, and
+1:46:51 put it in the pot.
+1:47:01 Be right back.
+1:47:53 This is why I hate cooking. I re I really just it doesn't make any sense. It's like sewing. I tried to sew
+1:48:01 uh craft or whatever. Um make design pattern
+1:48:08 make a costume. much. It's like sewing a costume.
+1:48:13 This does because the person writing these instructions I don't get.
+1:48:21 Um, it's like a it's similar to uh
+1:48:27 my wife and I have joked about like I don't know the person that invented the tampon was
+1:48:34 a man or so or the man the person that invented the bra was a man like like the
+1:48:40 person the person that creates this thing doesn't realize how it's used.
+1:48:49 The what I don't get the instructions say one whole onion haved
+1:48:58 one whole onion haved then add olive oil to a stock pot and sauté
+1:49:05 all ingredients except miso for two to three minutes. How do you sauté
+1:49:13 half an onion? I don't know how to sauté half an onion.
+1:49:20 That doesn't make any sense to me why anyone would ever say sauté half an onion
+1:49:28 there. We're obviously missing something. There's something lost in translation.
+1:50:00 So, who has who are It just says have
+1:50:08 Shouldn't I give it some help? I got to like pop that top off.
+1:50:23 I'm going to do this. I don't get the
+1:50:31 sautéing half an onion thing.
+1:51:00 Does that make any difference? Um
+1:51:26 They say haved. So, I'm going to compromise here.
+1:51:34 I'm going to give them their halves, but I'm going to have precored it to fall apart.
+1:51:49 Okay. Sautéing.
+1:52:00 That don't make any sense to me. Onions, carrots, eight to nine cups of
+1:52:07 water.
+1:52:13 Just enough to cover.
+1:52:22 We'll make it
+1:52:44 Uh, that's afterwards. Saute it for two to three before. Right. So sautéing like
+1:52:49 this weird. Weird.
+1:53:21 Um, I have this up for the chat. I want to they pop this out
+1:53:27 and I don't really need you up.
+1:53:38 And this is what I want to put in the address in the custom browser bar of OBS.
+1:53:49 That doesn't make any sense to me why you would sauté half an onion.
+1:54:48 It says I don't like
+1:54:55 and these
+1:55:03 these are the actual that's the
+1:55:09 nettle broth. This is the immune broth.
+1:55:17 Put this in there, I guess.
+1:55:31 I guess I'm sautéing. That makes no sense to me.
+1:56:36 set up cameras. I set up my OBS camera. I could totally bring it out. It's I
+1:56:42 don't I don't mind the camera. It's a pretty nice camera.
+1:57:51 Don't know what I'm going to do when the wife comes home.
+1:57:57 Move the stream back into the bedroom and probably get nagged and yelled at.
+1:58:05 She's not that bad. No, she's not. She's not that it's not she's not even not that bad. She's not bad. Um I'm just
+1:58:12 being a little facicious. Um
+1:58:19 the music stuff. Got to play the music.
+1:58:28 And then that's audio level.
+1:58:35 I see you.
+1:58:51 Boost its volume a little. I could have it listen for another a sub
+1:59:00 hotkey. Maybe this one and pick it up. I don't know.
+1:59:26 Heat. Heat.
+1:59:35 Heat.
+1:59:48 Heat.
+2:00:08 Almost all these ratings that I do for these songs are going to be a loss.
+2:00:13 Um, this is just me practicing because it's not really stored into a reliable database. It's not just going it's built
+2:00:20 into the browser. And I have a plan to move the browser into a standalone use
+2:00:28 the move this app into a standalone application.
+2:00:33 That that starts to get too serious.
+2:00:56 Do I call this a five? Heat. Heat.
+2:01:09 Heat. Heat.
+2:01:51 Um, the Rally has a really nice website. um
+2:02:04 about his music.
+2:02:09 He worked hard on this website by Frasier or something. But here's all of his music and uh so there you can you
+2:02:17 can see all the music, but like not all of it is great.
+2:02:26 And I kind of only want the the great stuff.
+2:02:32 And I want some variety. I don't want just UO fascinating places.
+2:02:40 I'm going to say this is well more than two to three minutes
+2:02:49 and it's ready for water. So here's two cups of water.
+2:03:08 Four cups of water.
+2:03:17 Six cups of water. Eight to nine. Enough to cover.
+2:03:25 Six covers.
+2:03:31 I'll put in eight cuz they said eight.
+2:03:38 But I'm not putting in nine.
+2:03:48 That's just water. So this is clean.
+2:04:07 This song's I think I've rated this song already.
+2:04:14 I think this song just kind of meanders a little bit.
+2:04:22 But it's good background music, too, right? If you're exploring in space,
+2:04:28 um, it's good background music, too.
+2:04:53 Let that come up to a boil.
+2:05:10 20 30 minutes.
+2:05:18 20 cuz I need to go pick up the kids I think in 20 minutes if my wife isn't
+2:05:24 home. So cover.
+2:05:38 So the song is borderline lame
+2:05:44 as as a song, but it's background when you're flying through a nebula. I think
+2:05:50 this would be a pretty cool tunes to have going.
+2:05:56 This is more than a simmer.
+2:06:18 So, I'll leave it as a three, but in the right context,
+2:06:25 you could make that a five.
+2:06:35 That was fascinating places. Now playing a classical approach.
+2:06:59 I have rated this one I believe. So,
+2:07:25 whatever.
+2:07:32 Whatever.
+2:07:39 Whatever.
+2:07:45 There she is. All right. Whatever.
+2:07:53 I may uh especially when other people are in the house, I'll probably go into
+2:07:58 uh be right back mode a lot. 47%. I've blown through half a battery in just this uh small time.
+2:08:25 Wow.
+2:08:40 Heat.
+2:09:09 Um, we can pause the music.
+2:09:16 tones also
+2:09:23 for
+2:09:33 um that was just Riley stuff. So
+2:09:44 he categorizes it like not massively popular, but he has a
+2:09:51 YouTube channel and thought it was on Soundcloud, too. Yeah,
+2:09:59 it's a nice site. especially for a
+2:10:07 musician. Um,
+2:10:16 the music player. The music player. The music player. This code review.
+2:10:22 What I wanted to do. And let me get the charger.
+2:10:29 Did she already go and get the girls? No. She's sitting in her car.
+2:10:58 Think I can turn this off.
+2:11:27 charger.
+2:11:39 The review Uh so what I do for this is I come to
+2:11:49 um is a kind of a new session. So as long
+2:11:55 as I'm in the right folder, I can basically say
+2:12:05 I'm on main. I I almost think I'm on main.
+2:12:11 I am on main. I'm not in the This is the audio sync. I wanted to add
+2:12:17 the audio sync. So, I'm not ready to do that. This is me experimenting with the audio sync because what I need to do is
+2:12:23 route the audio in. And I didn't like how I came up with
+2:12:30 um some of the stuff.
+2:12:38 This stuff's okay.
+2:12:43 Adds the logging helpers acid to add logging. That's cool.
+2:12:51 But basically, there's a meter that doesn't make any
+2:12:58 sense.
+2:13:04 And then I don't care about resilient like that. So, I want to add this um
+2:13:13 adding test audio. I don't already have it on there,
+2:13:18 do I? I don't. audio sync
+2:13:26 page
+2:13:31 prototype.
+2:13:38 So, and then the risk it get out of control. Yeah, that's fine. Um, I could
+2:13:45 put you in there. That's fine. What I also do is since it already knows the
+2:13:51 code, I can just say use GitHub MCP to
+2:13:57 create issue
+2:14:05 to investigate how to control announcement volume. And then it usually
+2:14:10 in my experience it knows the code and it will articulate almost everything
+2:14:17 needful to uh write. So this is an issue that does not
+2:14:23 exist. Here's my general throw it out there idea.
+2:14:31 Hello. That's your soup simmering.
+2:25:28 I can I can unmute.
+2:25:41 But then if I'm on the live mic, I can go into be right back mode.
+2:26:10 Um, but with that and then the ability to like change scenes. I could jump around in scenes. Um, or end the stream
+2:26:17 or hit the final closer. Um, now that lets me
+2:26:24 uh spontaneously spin up a stream and talk about
+2:26:31 something and jump between this microphone or the laptop microphone or the lapel
+2:26:37 microphone, whatever. I end up coming up with
+2:26:43 finding is the easiest best audio quality. And here is where I
+2:26:50 keep in the chat right now. This is just kind of weak because I just started this yesterday.
+2:28:54 Heat.
+2:29:10 Heat.
+2:29:36 That was a classical approach. Now playing Oasis.
+2:29:53 Heaven
+2:30:07 say
+2:30:12 Oh
+2:30:23 my god.
+2:30:42 Heat. Heat.
+2:30:53 Heat.
+2:31:00 Heat.
+2:31:10 Heat.
+2:31:30 Heat.
+2:31:35 Heat.
+2:31:53 Heat.
+2:32:15 Heat up here.
+2:32:54 That was Oasis by Arthur Riley. Now playing Silver Shamrock by White Bat
+2:33:00 Audio.
+2:33:46 All right. This is a good song. I like this. This is like I like this. I'm gonna call this This is like badass.
+2:33:55 I find this [ __ ] badass. Silver Shamrock. What a
+2:34:03 But this is This is like great [ __ ] bumper music
+2:34:08 right here is what this [ __ ] is. I got I'll come back here with the this
+2:34:16 is I find this five this is short and sweet five star and sometimes this
+2:34:22 emotional too. Sometimes it's content driven which is showing on the screen.
+2:34:27 Um I think this is badass. I'll crank it up
+2:34:33 and I'll show you on the history. It's a little it's a little lame but
+2:34:39 come on games. These are games. Um,
+2:34:44 if I rewind, I'm going back in I go back all the way.
+2:34:52 There we go. This is the end. That's beginning of the song. I'll go volume all the way up and just
+2:34:59 let it crank while I'm going to put some miso in the soup.
+2:35:10 No.
+2:35:31 Heat.
+2:35:53 I think this is badass.
+2:36:02 That's a bumper. Like this is just like Get your attention.
+2:36:27 I could have done that, but whatever. I don't know what difference it makes on that broth.
+2:36:35 It doesn't matter. She pulling out of there.
+2:37:23 So this is I would make this my intro or my be right back. Bam. Be right back. Bam. Just loop this song.
+2:37:55 Is that clicking? That was Silver Shamrock by White Bat Audio. Now playing Nothing to Give But
+2:38:02 My Heart by Arthur Riley. And then UTO does some of these um
+2:38:10 romantic Nothing to give a powerful emotional uplifting. It's not It's not bad. And
+2:38:16 you need I like in the dynamicness of the Star Citizen universe, you kind of
+2:38:23 need some romance in there. It's beautiful. It's majestic.
+2:38:29 It really is.
+2:38:34 Ah, just made a mess.
+2:38:49 But is this a fivestar? So far, this is definitely not a fivestar.
+2:39:19 Heat. Heat.
+2:39:44 Heat. Heat.
+2:40:05 Okay. Steeping, steeping, steeping, steeping.
+2:40:11 I give this a three star. and the right setting maybe of four.
+2:40:21 And this is typical UO. Halfway through it just becomes this blockbuster.
+2:40:28 Yeah. Halfway through. Oh my gosh. Orgasmic is now four star.
+2:40:39 That's sitting. There's no need for the fan.
+2:40:53 I can hear the low quality.
+2:41:17 Two hours
+2:41:26 six.
+2:41:55 Okay. Don't want to let any heat out. I just want to make sure it was stirred.
+2:42:15 song was had a good part in That was nothing to give but my heart by
+2:42:21 Arthur Riley. Now playing interdimensional horrors by white bat audio.
+2:42:41 And you can see the text there on the now playing.
+2:42:53 I don't need this anymore.
+2:43:07 just going mad. That's cheese.
+2:43:14 That's cheese. Surprised it hasn't yet.
+2:43:24 I am going to do something weird and just eat just eat it.
+2:43:33 Is that a lot of cheese? Yeah.
+2:43:39 Why is the asparagus out?
+2:43:45 I think my wife was talking to me.
+2:43:51 This song.
+2:43:57 Would it be good on a be right back bumper
+2:44:08 in the microphone so much? Three star.
+2:44:15 Yes.
+2:44:26 skipped interdimensional horrors. Now playing Creatures from Hyperia.
+2:44:48 You can't really hear my chewing.
+2:44:56 suppression seems to be doing a pretty good job with that.
+2:45:01 Grab some water.
+2:45:36 Um, the quite bad audio is it's some of it's pretty good. It's kind
+2:45:43 of cheesy commodity music, but pretty good.
+2:46:08 I can change the
+2:46:15 guess. how powerful a 100% volume is on the stream. Note to
+2:46:23 self, two hours 48 minutes into the stream,
+2:46:28 how is my audio, my speech
+2:46:34 to the power of this loud music, full 100% volume music. It's the wrapping up.
+2:46:41 The song's wrapping up. So hopefully the next song is a kicker. I can just go back.
+2:47:11 I wait 3 seconds. It will reset to some sort of a
+2:47:28 my track. If I rewound the song and I'm replaying it,
+2:47:35 then I'll know that I it's I I liked it so much. I liked a part of it that I
+2:47:40 went back and then the opposite. If I fast forward, um, then I'll have
+2:47:45 listened to it or skipped. So, that's enough for me to be like, yeah, the song maybe wasn't
+2:47:53 good, but there could just be context based on based on the situation or the scene or the environment or my emotions
+2:47:59 or my feelings or whatever.
+2:48:14 I'll give it a three. Probably could be a four.
+2:48:20 Oh, I should charge.
+2:48:30 That was Creatures from Hyperion by White Bat Audio. Now playing back to
+2:48:36 back by Ato Riley.
+2:48:48 Um, they're just in alphabetical order. Random is on. It doesn't matter now.
+2:49:01 I think this gets good.
+2:49:09 This might become most of the rallies that I've selected
+2:49:14 are all four stars.
+2:49:30 Put this in.
+2:49:50 What did you choose?
+2:49:58 Yeah, you took this. That one. That one made sense. This is an example.
+2:50:05 I could be like, "Note to self, look what AI can do. Look at what AI can do."
+2:50:13 Hashtag um
+2:50:19 this one that I collapsed already. This one I got I I understood this one basically.
+2:50:38 I've got the back stack and when it exceeds the limit that's inefficient
+2:50:49 just popping one
+2:50:56 but then this I didn't get I'm talking loud because I hear music in my ear.
+2:51:04 Um and I'm also testing how again this is behind the scenes
+2:51:10 and how well my voice competes with that. Note to self 2 hours 53 minutes in
+2:51:16 how is my voice competing with the sound of this song which is backto back by Uto
+2:51:22 Riley. That was now play back to back by UTO Ri.
+2:51:28 Uh, and here, uh, it's kind of ugly here the font that I'm showing.
+2:51:34 Um, I may find another font or robotto or something like that to put there, but
+2:51:40 this is a monospace font. I wanted sort of I wanted a little
+2:51:45 bit of a squishy non-monospaced font. Um,
+2:51:52 I didn't get this. This doesn't make any sense what it's saying here. This is a hallucination.
+2:51:58 Look at what AI can do bad. Back now playing when skies turn to ashes.
+2:52:04 that if the play index fails, if that await
+2:52:10 play index on line 2868 fails, then the candidate entry is pushed back directly
+2:52:18 bypassing. And uh if you look at the original code,
+2:52:25 they're not showing the whole context here. It's part like why didn't they show a little bit more code context?
+2:52:32 If I look at that code, it's this code and they're throwing an error right
+2:52:38 there on 2872. This is make
+2:52:44 the CA pushes back bypassing update previous state. If there's an error, then update previous state. The previous
+2:52:50 state will be stale until the next stack operation. Add update previous button
+2:52:56 state. It's already there. 2871 is already it. So, it removed that line and
+2:53:02 added that line. And not only did it do that, it doubled it. Idiot.
+2:53:08 So, what did a what did co-pilot do? Copilot says
+2:53:13 it's already is present already after the push. So, the previous button state is refreshed.
+2:53:19 No code changes needed. Thank you for confirming that.
+2:53:26 Okay. So I will just package up this small chain just one chain
+2:53:32 that such a small change
+2:53:43 and then come back and there it gets refreshed.
+2:53:49 Uh this song is
+2:53:57 four.
+2:54:10 What I'm looking for are songs. Again, this is behind the scenes. I'm testing if my voice competes with this or not.
+2:54:16 What I'm looking for are do should I remove a song? Is a song just so bad that I should just remove it?
+2:54:25 um this little um this little uh irregularity, especially where it pops
+2:54:31 out here, the the five stars are always consistent. So, I'm thinking of actually swapping the stars and the track so that
+2:54:39 the the stars go over there and that um I'm convincing myself that that is what I want to do.
+2:54:46 I want that to be right justified and then have the uh counter flex to that so
+2:54:53 the the the stars aren't jagged. I want the stars to all line up and they could
+2:54:59 stars be on the rightmost. And I can easily ask chat to be to do that. So that's already committed. That's already
+2:55:06 pushed. You are refreshed. And did I request?
+2:55:12 No. So I request a new review. Find some other error. But this just gets into a
+2:55:17 black hole. Um, meanwhile, I come back and I say,
+2:55:23 uh, I can just do it. That's all committed. So, I can jump back to main.
+2:55:32 Um,
+2:55:40 new set new. I'm in here. This is lightweight one where I can just say um
+2:55:49 swap the
+2:55:55 track times and star rating in both the now play
+2:56:06 section and the uh
+2:56:11 playlist. The star
+2:56:17 rating should be right justified.
+2:56:23 And the time that was win to ashes by Riley. Now
+2:56:31 playing the witching hour by white bat audio to the
+2:56:36 left. Check time.
+2:56:50 Just defy it.
+2:57:00 So here, so this is what programming is nowadays. This this is it's frustrating to me. There's no code change. I give
+2:57:08 this simple prompt and let's away we go.
+2:57:15 Some banging music here.
+2:57:21 This is white man.
+2:57:30 I think I've seen this before. I don't know if I really want to call it a fourstar, but
+2:57:56 It's one of the more kind of memorable. Is it really any more memorable than the
+2:58:02 others?
+2:58:11 Is it already done? It's probably already done. No, it's not done yet.
+2:58:17 Not no code change yet. Uh, the other change I was going to make was I'm going to add in
+2:58:43 Oh. Oh, no. I can just resume that. That was fine.
+2:59:02 create a GitHub issue to um
+2:59:09 select the audio output device using what is the
+2:59:17 code.
+2:59:25 That was The Witching Hour by White Bat Audio. Now playing Dying Star by Arthur
+2:59:31 Riley. What is the element?
+2:59:55 It's more complicated than I really care it to be.
+3:00:07 element sets empty.
+3:00:32 player out. Oh, where's the out audio play?
+3:00:59 That was down here on the
+3:01:34 audio output devices and select your output sync. I think
+3:01:41 that might be enough to open a ticket. Um
+3:02:05 was the how to discover the devices. This is
+3:02:16 great outputs.
+3:02:33 Makes a little better.
+3:02:48 So all I want to do is just have it do this uh and
+3:02:54 to do a p and that should that might be enough.
+3:02:59 This code all it does is get the user media numerate devices. Devices await. Now playing dying star.
+3:03:22 All right. Way that goes it'll create an issue.
+3:03:30 Dying Star is at least a three. I think it becomes a four.
+3:03:40 Stinking on that one. Oh, there it goes. It created it. Sport selecting audio output device.
+3:03:46 This will let me send to NDI, which is what I want to do um when I'm game
+3:03:52 streaming. so that then it comes across
+3:03:58 uh to my other PC and I can listen to it.
+3:04:08 That looks fine. Like all I did was give it like three bullet points and then it came up with this and it's going to tell
+3:04:14 it what to do and then it will go off and do it. So cool. And co-pilot will do
+3:04:19 it until I run out of co-pilot tokens. Um and I can get codeex to do So between
+3:04:25 codeex and co-pilot I can like make some pretty good automation progress on this.
+3:04:42 This is kind of emotional. I'm less about the emotional stuff.
+3:04:48 Although I'm an emotional guy
+3:05:08 to get a result back from co-pilot
+3:05:17 first due to Low confidence keyboard shortcut triggers appears like without
+3:05:23 checking if the button is disabled.
+3:05:48 Fine. So, here found a few. And now here is the battle,
+3:05:54 the battle of the AIS. CH co-pilot battling Chad GP. Yeah, co-pilot
+3:06:01 battling Codex.
+3:06:15 I can switch back to you.
+3:06:21 I have conflict. All right. This is what I tell it to do.
+3:06:35 I swap I want to swap those elements. So I can refresh this.
+3:06:43 So, it's gonna get emotional, get epic here because we're a little over halfway.
+3:06:48 It had a crescendo earlier, but now it's gonna get crazy.
+3:06:57 And he does it like in a measure.
+3:07:08 I was in band. I had a band director
+3:07:13 It's very musical.
+3:07:24 Uh, I need to make sure I have my phone with me. Go grab my phone.
+3:07:52 I haven't seen like the I think dying star. Maybe it doesn't have that. Maybe. Is it Is it growing? Is it Is this it
+3:07:58 building? Here's my phone.
+3:08:22 What's she doing here?
+3:08:32 I don't know. I kind of want to leave it a That was Dying Star by Arthur Riley.
+3:08:38 I want to give it a four. Knee Deep in the Dead by White Bat Audio. These are cool. These little heavy
+3:08:48 do like these in the right situation.
+3:08:58 Oh, so pause. And we swapped. So the code is implemented to do the So here's
+3:09:04 uh the player change to swap the I asked the the request
+3:09:10 was um
+3:09:17 there's a bug here in the terminal in the scrolling up swap the track time and star rating in both the now playing
+3:09:24 section and the playlist. The star rating should be right justified and the track time right justified to the star
+3:09:31 rating. Did I articulate that well enough? But
+3:09:37 that's what programming is nowadays is I didn't I don't think I did write that
+3:09:44 well enough. Um but it's just natural language programming. I very rarely go in and
+3:09:52 write for loops and stuff. If I just tell it, give it an idea, throw out this idea. Um, it's almost like abstract
+3:10:00 expressionism uh in coding.
+3:10:05 Um, that's an interesting thought. A abstract expressionism as a coding concept where I just throw
+3:10:12 an idea out there. I just let the paint splatter onto the canvas and see where
+3:10:18 it sticks. And then I'll come in and I'll tweak it. But rarely do you come in, rarely would Jackson Pollock come
+3:10:24 into the paint and like fiddle with where it's supposed to be. But I would
+3:10:29 throw another dash of natural language into it. Um, but I will come in and
+3:10:35 still tweak the nuts and bolts if I see a problem. But this code is this code is
+3:10:40 ridiculous. I would never write code that looks like uh this over here. That's the wrong app.
+3:10:50 Um, this code is ridiculous. This is a monolithic
+3:10:55 3,00 3100 line code. Redonkulous.
+3:11:01 Never write code like this. But what does it do? It generates this code. This
+3:11:07 is all the code that it took. It swapped the time and put it before that. And
+3:11:13 swapped those rows pinned. Appended the rating and the dur. That's fine.
+3:11:19 The dur is now right justified and the rating is now gets what that had maybe
+3:11:28 whatever. There was a men size that I got rid of. We're going to see how ugly this is. Here we go. Refresh. The star
+3:11:37 is on the right side now. And that's not bad. I was afraid the padding was off,
+3:11:44 but once you include the little wrapper uh the pillbox or the hover effect over
+3:11:50 it, that's not bad. That's not bad. That's not bad. It now puts the
+3:11:58 I don't know if there's a need for that bar
+3:12:05 I don't know if there's really a need for any of those bars. Um,
+3:12:13 I can see the one here, but I don't think the one there is needed. I don't think the right bar is necessary.
+3:12:19 So I come into this and I say um
+3:12:29 let's try
+3:12:36 let's try removing the now playing stars
+3:12:46 right order.
+3:13:00 Um, and I think that if I just look at the code, if I get a kind of educated
+3:13:05 guess, display gap, font size, uh, rating, um, color variant muted,
+3:13:14 div class rating, there's now rating,
+3:13:20 um, class now rating.
+3:13:30 the now rating
+3:13:37 ratings.
+3:13:43 Let's see what happens there. And what I do is I stash this uh
+3:13:48 so that it it's it can it can totally [ __ ] up the code.
+3:13:55 But if I have it staged and so here it basically there it was the now rating
+3:14:01 removed the border on the right. So now when I refresh this little border
+3:14:06 should be gone and bam. Um now there was no reason for that border
+3:14:14 before. Do I want a border between that and the time? No. But the these two are tied together. The track time is that
+3:14:19 and so that's fine and I like it. So that's it. I'm on main.
+3:14:26 I stage you and give me uh I have in my agents file
+3:14:33 um uh
+3:14:40 did you give me a commit message write a line rating
+3:14:49 and duration? Yeah, I guess. Reorder time and rating in the seek bar
+3:15:07 swap
+3:15:12 time and rating. So rating is right most
+3:15:20 Um and in the agents uh markdown file I had tell it I added always generate a
+3:15:28 summary uh commit message and so it usually
+3:15:33 volunteers this to me. Sometimes it doesn't um but I can easily ask for it.
+3:15:43 All right. And then I commit that on the main and I push. And then hopefully when
+3:15:49 I come back over to you and I uh rebase, you should have no conflicts.
+3:15:58 And I push you and then you're going to be fine. And
+3:16:04 now I'm back to the previous where I can basically refresh. And now the previous is going to work correctly.
+3:16:14 But I got some code reviews here. And we're going down that slippery slope of
+3:16:21 this is where I want to copy what that says. And then I exit this
+3:16:31 and I start a new codeex where I basically say player HTML
+3:16:39 line 10:29
+3:16:44 10:32
+3:16:54 10:32 um has history.
+3:17:02 I did jump around. This is different. So I have to actually go look for that text.
+3:17:14 It's right there. 10:49 10:32.
+3:17:20 This is saying 10:49.
+3:17:29 GitHub co-pilot says bam.
+3:17:37 So this is where they battle each other. Copilot says this.
+3:17:43 Codeex, what do you think?
+3:17:48 And uh C-pilot, sorry. Codeex wins most of the time.
+3:17:58 Okay.
+3:18:06 and it catches these redundant things which which does do a good job. So it
+3:18:12 regardless of the outcome I've dealt with that. Um
+3:18:18 so now if I say um
+3:18:24 search for you in the code
+3:18:30 line 1102 I can say player I like to give it just
+3:18:36 a little bit of a 11 uh it's not really 11:02 so much as that
+3:18:43 whole section of 1095
+3:18:49 to 11:03. And could I automate and could I have an agent that kind of a mediator
+3:18:55 agent that like works between these two agents?
+3:19:00 Maybe I say get hub co-pilot says
+3:19:09 I already have the text here. Um,
+3:19:15 yeah, I could just do that. I just grab it from here.
+3:19:23 It's the same text. So, uh, then I I stash before I hit enter. I stash. It
+3:19:30 agreed. And so, usually if they both agree, then it's less chance of a
+3:19:36 hallucination. Um, and plus I I I don't disagree.
+3:19:45 We'll see what it does to that.
+3:19:51 Uh, we're not playing any music. Let's play some music.
+3:20:22 So it pseudo agreed.
+3:20:38 Okay. And then when I push it back up now, Killpilot's going to see what Codeex
+3:20:44 did, and it's going to be like, "Uh-uh, you didn't do what I told you to do.
+3:20:55 That was that one. Um, regardless of the outcome, it's it's
+3:21:02 done.
+3:21:20 Candidate entry is this restoration doesn't preserve the original position in the stack. It also always pushes to
+3:21:25 the end if the stack had other entries beyond. So it's like but pushed splice
+3:21:31 into zero the entry.
+3:21:37 Okay. So I basically
+3:21:56 go
+3:22:07 and the whole try lock. So 2885
+3:22:13 to
+3:22:27 you.
+3:22:37 All right. Anything to stage before it corrupts my code.
+3:22:44 This is
+3:22:52 Who's playing? Oh, it's the other. Gotcha. This guy audio.
+3:23:00 I hadn't heard this before.
+3:23:06 Um, I wasn't prepared to listen to new music. I'm still going through this. So, I thought it would have done that.
+3:23:16 Uh, let's see. Um, what did you think?
+3:23:33 Take the splice zero and otherwise Why did it change the
+3:23:41 indentation? Why did you change the indentation?
+3:23:50 Okay.
+3:23:59 That's all it is. Okay, that one's
+3:24:13 at least dealt with
+3:24:19 backstack limit. And see, it catches some pretty good stuff here.
+3:24:25 Um, all I have to do is find this
+3:24:32 and the code
+3:24:47 player HTML because it's going to have to it's it goes to seek this stuff where
+3:24:53 it's if I not specific it now has to go pull from memory or go find this. So if
+3:25:01 I just tell it the line which is 116 and the line is different than what this has
+3:25:07 because code is moved around a little bit.
+3:25:16 Bam. Um, and if it sometimes in its text it
+3:25:23 will mention line numbers. And if I see it, I will try to at least put a tild there or an approximation. If it's way
+3:25:31 off, I may just kind of redact it or remove it and let it figure
+3:25:36 it out. Uh, real quick, it's already stashed. So,
+3:25:43 it's thinking that was kneedeep in the dead. Now playing Starink.
+3:25:51 I've rated this one, so I'm just going to skip skipped Starlink by White Bat Audio. Now
+3:25:56 playing Ian's by Arthur O'Reilly. Um, as my star ratings, I accept that when I
+3:26:05 move this around or if I close this browser or reboot and relaunch, I may
+3:26:10 not get any of these ratings back again. I don't really trust that it's persisting the settings between a fresh
+3:26:19 browser session. How how is it going to remember that it's open on this file?
+3:26:26 So, and I have to start serving this through
+3:26:31 uh local. I wonder if I have to
+3:26:39 uh through a local host. I think I can just do it this way.
+3:27:29 You definitely hear a lower resolution. I'm not worried about the resolution. I'll just go find higher resolution
+3:27:36 versions of these songs if possible. These have been banging. I don't know if it's these headphones or whatever. Um,
+3:27:43 so let's go see what you clarify the comment around the back statement. So it now explains why we leave the cab at
+3:27:50 given the initial. Heat.
+3:28:19 Heat.
+3:28:24 Is the song really doing anything for me?
+3:28:58 Yeah. H skip now playing Gloatas.
+3:29:05 Um it just said improved the comment is all it did.
+3:29:10 So what were you saying? The back segment is set to history, but
+3:29:16 history entries is fetched with 200. This means the backstack will never reach its full capacity of 500. Consider
+3:29:21 either using the history limit for the backstack element or loading more history entries during installation to
+3:29:26 populate a full back stack capacity.
+3:29:45 solved. Um,
+3:29:57 maybe around line 1152.
+3:30:06 surround line. Let me go through previous track.
+3:30:12 uh you don't have a comment around you
+3:30:21 can back to you and I can say you're wanting to fix the
+3:30:31 it's just the play previous 1152.
+3:30:36 So player HTML
+3:30:42 1170 get pilot says. Now I'm just a mediator. I'm
+3:30:49 just sitting between two AIS. And is this fulfilling or anything? I don't know.
+3:31:14 X
+3:31:22 Y controll Krl K. Let's see what control K does. It
+3:31:31 does it. intro. Okay,
+3:31:42 we'll see what it says here. I have everything staged. Yep.
+3:31:47 Does this song do anything for me? Is that was just kind of a
+3:31:55 chaos? I would call that a three star. That was Globe Tatas now playing. Legend
+3:32:00 has it. See what you say on this nitpick.
+3:32:24 All right, you agreed.
+3:32:38 I don't have any reason to disagree. That conversation is
+3:32:46 resolved. I do want to consider this one.
+3:32:54 Keep our shortcut triggers.
+3:33:07 152.
+3:33:19 And I got to be careful. Sometimes it is a hallucination and it can kind of
+3:33:25 corrupt the other AI and be like, "Oh, this is something we should do." So I can say player HTML 3172.
+3:33:36 Is that about what you said? Yeah, you're close. Get up. Coilot
+3:33:44 says, "Are we staged?" were staged.
+3:33:51 This now just becomes bean counting is is just I'm not using my brain and this
+3:33:57 takes a lot of the a lot of the self-fululfillment out of programming.
+3:34:04 But if it pays well, [ __ ] it.
+3:34:12 Agreed.
+3:34:19 I don't know why the confidence was low. It kind of concerns me
+3:34:26 that that might corrupt something. All right.
+3:34:32 Um I see no reason to I see no reason to call those out as
+3:34:40 specific changes. It's really, really, really minor.
+3:34:47 And it just put it in just squash it down to the original commit is all I'm
+3:34:55 doing.
+3:35:11 Hurry up.
+3:35:16 This one's
+3:35:26 the audio quality for some reason.
+3:35:33 A lot lower quality.
+3:35:43 That was Legend Has It by Arthur Riley. Society by White Bat Audio.
+3:35:54 All right. Uh, where are you at?
+3:36:06 So now I could go off and it's already got a pull request in here.
+3:36:12 So I can start looking at this other one. And it's just it's just that's what I'm working on now. This is what Copilot
+3:36:19 came up with. Track automatic play counts per song.
+3:36:27 to the read me.
+3:36:34 These are tests. Like that's a lot of a lot of tests.
+3:36:47 Whatever. Show me the code.
+3:36:55 Then I got to swap over. I'm all committed.
+3:37:01 I could uh check you out.
+3:37:18 Refresh. You play count.
+3:37:26 Why is there so much? Oh, because we're back. We're back again. You didn't incorporate that in there. Okay.
+3:37:34 Um now playing Society by White Bat Audio.
+3:37:47 Skip Society. Now playing Dark Odyssey. How does it come up with?
+3:37:56 What did it decide to do?
+3:38:09 Like this sounds like Flash. Gordon
+3:38:15 Flash.
+3:38:25 It's more a horror.
+3:38:39 I think it gets
+3:39:03 I can see it as a good bumper.
+3:39:21 Thank you. Thank you.
+3:39:48 This thing gets rid of those version twos, version 3es. Like, keep them.
+3:40:04 What do we know?
+3:40:36 skip the skip threshold which I think is 50%.
+3:40:47 50%. So if if I play over half of it,
+3:40:54 which I did, then this will show up as a phase one.
+3:41:01 That was Dark Odyssey by White Bat Audio. Now playing Deliverance by Arthur
+3:41:07 Riley. So, where this is going to in the future change a little bit is instead of having
+3:41:13 a growing growing growing growing history,
+3:41:18 um
+3:41:25 the actual visually seeing the history and tracking the history isn't clear. It doesn't the
+3:41:32 ephemeraless, the importance of capturing that is not as important as knowing what the play count was.
+3:41:38 And so instead of having thousands of entries of the history and
+3:41:44 the play count that's growing, there's 198 songs. So just be 198 entries in the
+3:41:50 database and the database would just insert the play increment the play count of that song.
+3:41:58 And like if you have a thousand songs, you have a thousand in the database and then the listening history becomes moot
+3:42:05 and irrelevant. we can kind of sunset it. It would be just an ephemeral thing. We
+3:42:13 would never really want to come back and reload the page and play the previous
+3:42:18 song. That just doesn't seem like it's necessary. How dark am I?
+3:42:25 Not too bad.
+3:42:38 Co-pilot reviewed anything? No comments. We'll [ __ ] merge it.
+3:42:44 This was previous. All right.
+3:43:05 A conflict. Heat.
+3:43:16 Heat.
+3:43:26 Previous
+3:43:32 instrument. Start
+3:44:20 So you added that, but I want to see the previous one.
+3:44:26 That was deliverance. Now play. It breaks flames when you do that. Interesting.
+3:44:43 I'm going to grab that. Put you in the editor for
+3:44:48 you.
+3:45:06 That was kind of bugging me.
+3:45:14 And do I want to handle the merge? Um, so get Kraken's not
+3:45:26 stashes. This doesn't have any stashes. So there's no stashes. There's nothing to pop.
+3:45:38 Stash this. I'm back to you. Oh,
+3:45:43 back to you. Rebase.
+3:45:49 going to have
+3:45:58 conflicts. I'm pretty sure there's going to be some conflicts
+3:46:04 three
+3:46:14 um duration was already there.
+3:46:26 That dirt
+3:46:32 time's already there.
+3:46:44 There. We don't want that one.
+3:46:57 Time's up there. You can see it. It's already
+3:47:06 swapped that. But
+3:47:21 Heat. Heat.
+3:47:32 Now
+3:47:55 it's at the end.
+3:48:14 Putting play count at the end.
+3:48:46 That was This isn't over by Arthur Riley. Now playing Crash Site by White
+3:48:52 Bat Audio. You had a lot of comments there.
+3:49:22 Heat. Heat.
+3:49:44 Don't need any of this. I've already summarized.
+3:49:52 Heat. Heat.
+3:50:13 Heat up
+3:50:27 here.
+3:50:49 Heat up here.
+3:51:26 I don't know why you went crazy on the comments there.
+3:51:43 really verbose tests. No reason to be that verbose.
+3:52:21 Uh, I think that's fine.
+3:52:33 Okay, we should have. And did that song do anything for me? This is just normal.
+3:52:43 Let it finish. Go to you and then refresh the page and hopefully
+3:52:49 we're not that crazy. That was Crash Site by White Bat Audio.
+3:52:55 Now playing, we take to the skies by Arthur O'Reilly.
+3:53:01 And then we should be able to pop.
+3:53:06 Yeah, it's version 34. And
+3:53:31 Um push
+3:53:39 refresh. Now playing we take to the skies by Riley.
+3:53:47 Uh I can get the asparagus prepped is what I can do.
+3:53:55 Uh, we're fully charged. 100%. Got on batteries. I can move again.
+3:54:00 We dropped down to 50%. It's touching the 40% after a couple of hours.
+3:54:19 I think it's getting a little chilly in the house.
+3:54:56 Uh, slippers.
+3:55:14 How can I remotely mute? If I need to remotely mute, I just turn
+3:55:21 off the headset. I guess that'll work, right?
+3:55:30 Oh,
+3:55:50 like steady at home. Makes me think of steady at home. This UI
+3:56:08 Um, I've got
+3:56:22 reminds me of this
+3:56:40 reminds me of that in a way. This audio quality is
+3:56:48 doesn't feel as dynamic. Um,
+3:57:01 back on the cooking show where I am cooking.
+3:57:09 All right. This is a joke. That's funny, right? Cuz
+3:57:15 that's what they're looking for from the aliens. That's 1998. 1999. Crazy.
+3:57:28 Um,
+3:57:40 close to open. So I push that.
+3:57:47 I pushed to change force pushed and that's going to confuse probably GitHub
+3:57:55 where I look at its play counts per song.
+3:58:00 And if I refresh, did I [ __ ] up the columns is
+3:58:06 um kind of I put the play count on the side there, but there's a
+3:58:13 one play play one. What does that mean? I'm not sure really what that
+3:58:20 means. Like why there's that little icon played one time. I I mean I I get the
+3:58:26 played icon, but there's going to be a lot of them there. It's just they'll
+3:58:34 be 198 play icons in a while. And that
+3:58:39 just seems like a lot of noise. Um,
+3:58:49 there's a deliverance.
+3:58:54 This isn't over. We take to the skies.
+3:59:03 Uh, there's a few of those.
+3:59:09 Now playing Solar Wind by Arthur Riley.
+3:59:27 Sounds so low res.
+3:59:33 Um, I'll keep this out. Excuse
+3:59:57 me. Not near the mute button.
+4:00:31 It's just is my hearing going bad over the day. Heat.
+4:00:56 Heat.
+4:01:14 She must keep that
+4:01:46 Heat. Heat.
+4:02:19 That was Solar Wind by Arthur Riley. Now playing Frozen in Fear by White Bat
+4:02:25 Audio.
+4:02:34 I don't think I actually rated that one.
+4:02:58 All right.
+4:03:09 [ __ ] Heat.
+4:03:26 Heat.
+4:03:50 Uh, let's the the track the play count on that side. Do I want it to be
+4:03:59 do I want it to be in that column?
+4:04:11 I do want to add in I mentioned before add in the star ratings here. Uh, in
+4:04:17 fact, why don't I just make a do that here?
+4:04:29 Add star.
+4:04:34 I Let me try something else. See if there is already an
+4:04:44 G. Be sure to add
+4:04:53 star the ability to set.
+4:05:18 do that. Bam. Like I like AI. It's pretty cool
+4:05:26 like that. I can natural language something to do that and with its expert
+4:05:34 knowledge and ability go out and do that as in look for a duplicate
+4:05:45 before you always look for a duplicate bug. In fact, I can put that in the agents text. Always open if instructed
+4:05:51 to open. I can I can add that as a prompt right
+4:05:57 now.
+4:06:07 That was Frozen in Fear by White Bat Audio. Now playing Night Sky by Arthur
+4:06:13 O'Reilly.
+4:06:20 Put all these over here. I'll put you in here.
+4:07:18 Whoa, that was big snap.
+4:07:40 All
+4:08:03 right. Well, let him let him go this way.
+4:08:22 They're going to splatter a lot with Heat.
+4:08:44 Heat.
+4:09:00 Heat. Heat.
+4:09:09 Those
+4:09:20 will kind of percolate a little bit. What you say? Sprinkle salt and pepper
+4:09:26 on
+4:09:39 for the empanadas
+4:09:46 tracker. No open issues regard targeting history tab star ratings. Just the earlier general rating feature now
+4:09:51 closed. Add issue for you to cover adding a rating control direct like
+4:09:56 persisting and updating docs recommended commit message
+4:10:02 like this that that's it like first part cool second part uh note to self that um
+4:10:11 let me lower the uh I'm going to lower the inline audio um that I don't need it
+4:10:18 so loud for right now I'm going to put it back to 20%. %
+4:10:23 uh so that we're not really testing that. I'm not I'm not testing
+4:10:31 the audio dynamics right now. And I do want to like point out here's another
+4:10:37 this is kind of a a note to self hashtag look at what AI can do. Um I just asked
+4:10:45 it really cool a good thing. Um, I asked
+4:10:50 it right here.
+4:10:57 That's the This is a This is a word terminal wrapping problem. It went off
+4:11:04 the screen. Add you audio. Nope. That was that
+4:11:10 opened issue. Uh, I think I just went too far.
+4:11:18 No, it still went up the screen.
+4:11:27 Track audio output selection description called no files changed. I'm
+4:11:33 trying to see where it breaks where the break is.
+4:11:41 Yeah, there's some break in here. So I asked it to um check if there are any
+4:11:49 issues related to um adding a star rating in the history and if there
+4:11:55 aren't then open an issue about that and basically it came back and says I
+4:12:00 checked and created this this uh here's you that's the JSON of it but I could go
+4:12:06 out there and look at it on the uh issues
+4:12:14 Nope. This is uh let's go to issues and move
+4:12:19 you over here and allow it created. This one is perfectly reasonable. Good. Um
+4:12:27 first impression is it seems reasonable. It even linked to the related article like bug like awesome. Cool. Um and
+4:12:36 that's good. But where this is a fail is it basically now is saying here's a
+4:12:41 commit message. Well, there is no commit message for this. Um there's no reason to commit message this.
+4:12:50 Um anyway, but now here's going to be is this going to be a success here? add to
+4:12:58 agents MD
+4:13:04 uh an instruction to the agent
+4:13:11 to that if
+4:13:17 uh asked to open to create if instructed
+4:13:26 instructed to create a
+4:13:32 that was night sky. Now playing in hub issue to always
+4:13:40 check for a duplicate
+4:13:49 first before opening.
+4:13:55 a new issue. If there is a duplicate,
+4:14:02 then respond to the user with info and ask if they still want to
+4:14:14 proceed. Um, so will this be is this a good prompt? Is this a good idea to do? I
+4:14:20 don't know. But I can the agents the agents MD file is what instructs the
+4:14:27 agents how to behave and you can tell them over time. It's kind of like your
+4:14:32 master prompt. And is this going to work out well? I don't know if it's going to work out well.
+4:14:39 salt.
+4:15:09 kind of can't have too much salt, can you?
+4:15:22 All right. When asked to create a um here we go.
+4:15:31 It added, "When asked to create a GitHub issue, search the tracker first if a duplicate exists. Share the details with
+4:15:38 the user and confirm they still want a new issue before opening one. Added an
+4:15:44 agent tip. Telling future agents to search for existing GitHub issues and confirm with the user before filing
+4:15:51 duplicates. Recommend a commit message." Well, there is no commit message, so whatever.
+4:15:59 There is there is a commit message on this one because it's actually making a change to the file.
+4:16:07 Um, we're not on main. We can switch to main
+4:16:13 and
+4:16:30 Yeah. Add guidance.
+4:16:44 All right, that's in there. That's just an agent's txt. We can push that and jump back over to you. Everybody's
+4:16:51 happy. Um,
+4:17:02 so I created that one. We're good. This is the I've got two of these.
+4:17:14 It's still It is still a draft. I'm looking at the changes.
+4:17:20 Um, do I want to have it move the
+4:17:30 play count
+4:17:36 that was entwined by Arthur Riley now playing the devil's eyes by white bat
+4:17:42 audio in the history. So here we natural language programming here.
+4:17:49 Um, I'm in here.
+4:17:56 Those are those things. So now this is a fresh codeex.
+4:18:02 um
+4:18:10 on this branch fresh codeex to basically tell it that I want
+4:18:20 on the playlist.
+4:18:29 Yeah. See, it added this play count here.
+4:18:38 I don't know if I'm liking that or not.
+4:18:59 It's probably okay. This play count over here. I mean, it's a little noisy. This
+4:19:04 is going to be real noisy over here. I don't I don't like I don't know if I'm going to like that
+4:19:10 play icon and it's going to be varying in range. It's going to cause a jaggedness.
+4:19:16 So,
+4:19:22 um
+4:19:29 one in
+4:19:34 on player playlist change
+4:19:42 play Count
+4:19:52 play count
+4:20:00 from rightmost column.
+4:20:08 I want to probably put it
+4:20:29 I want it.
+4:20:43 These are ready. And to uh
+4:20:51 preheat these, make sure there's no plastic on that. Okay.
+4:21:06 That was the devil's eyes. Now playing. Get out.
+4:21:13 Uh, what temperature should I bake asparagus at?
+4:21:35 Do 350
+4:22:02 just thinking here. Um, lots of ideas in the head.
+4:22:13 Um, they're going till 6:00. 6:30.
+4:22:26 They're going till 6:30.
+4:22:32 They won't be home until 7. This is too early to do that. All right.
+4:22:43 Column, column, column. What column do I want? I can ask it.
+4:22:53 I can just have a conversation with it. I don't particularly
+4:23:05 particularly. Can I just speak to the Is there a voice
+4:23:10 input?
+4:23:21 Is there a way on a Mac that I can just speak into a microphone and it dictates
+4:23:27 uh stenographer speech to text into the command prompt, the terminal command
+4:23:33 prompt, so that it types in my command for me. preferably using more of an AI
+4:23:38 fluent uh way than a old-fashioned just dumb speech to text.
+4:23:53 Turn on dictation. All right, let's turn on dictation
+4:24:03 keyboard.
+4:24:08 Is there dictation?
+4:24:16 There we go. Use dictation wherever you start. Use the shortcut or select
+4:24:24 enable microphone source
+4:24:30 automatic. The shortcut press the mic. Okay,
+4:24:45 that was Get Out. Now playing Radiation Storm. Uh, hello. Can you hear me?
+4:24:54 Hello, can you hear me? Hello, can you hear me?
+4:25:10 Okay, that took the Siri.
+4:25:28 Okay, I set that up and I pressed the mic and Siri just came up. It wasn't letting me type into a terminal.
+4:26:00 Well, I was there.
+4:26:18 Right command key twice. Press globe twice.
+4:26:23 I don't know where the globe key is. Oh, press the function twice.
+4:26:37 Hello. Can you hear me? Hello. Can you hear me?
+4:26:46 Hello. Can you hear me?
+4:26:56 I heard you beep at me, but
+4:27:27 Um,
+4:27:36 I was hoping do something kind of nifty there. But I don't particularly
+4:27:46 like the
+4:27:58 placed.
+4:28:05 It will vary in
+4:28:12 length and cause
+4:28:19 being on the right edge
+4:28:24 will cause elements. That was Radiation Storm by
+4:28:31 White Bat Audio. Now playing artificial by Arthur Riley.
+4:28:39 To um be jagged.
+4:28:58 The time duration will also
+4:29:07 the time duration will also be jagged. I obviously want it left of that. The time duration will be jagged if it's
+4:29:16 um
+4:29:37 Heat. Heat.
+4:29:56 Heat. Heat.
+4:30:18 I'll just ask it. I skeptical. Have no changes. So this should be safe
+4:30:24 to change.
+4:31:07 I opened all these issues today. It kind of makes me a little nervous.
+4:31:23 It's already a pull request on you which is attract. This is the play counts.
+4:31:32 Uh I could have co-pilot go off and do this.
+4:31:41 That one's pretty minimal.
+4:31:47 That was artificial by Arthur Riley. Now playing Is it too late by White Bat
+4:31:52 Audio?
+4:32:10 That's different. it. If it's the same, then it needs to always speak the current
+4:32:18 artist's name, unless it differs from the previous,
+4:32:27 unless it is the same.
+4:32:32 That's
+4:32:38 I'm being very meticulous on that one.
+4:33:21 So much GBT. It had a
+4:34:18 Heat. Heat.
+4:35:35 I am looking into that was is it too late now playing
+4:35:41 Kletariat
+4:35:48 else right Now got a message from
+4:36:01 and then I redact and I check All right.
+4:36:20 checking on the stream until I get uh
+4:36:34 comfortable with
+4:36:49 I have to factor on.
+4:37:12 Um, and then back to
+4:37:31 I have to factor on
+4:37:40 I'm configured. I don't know what to
+4:37:57 factor is enabled. Preferred two factor.
+4:38:17 It's already configured. So,
+4:38:29 all right. Whatever.
+4:38:40 Update two factor authentication.
+4:38:45 I am here.
+4:39:04 So
+4:39:16 back to settings
+4:39:22 I have to download or print. Fine. That was proletariat by white bat audio.
+4:39:27 Now playing Indistinguishable from Magic by Arthur Riley.
+4:39:33 I have
+4:39:39 here's another browser. I am two factored. I don't understand
+4:39:44 what is going on here.
+4:39:59 Okay,
+4:40:08 but I already have a two factor.
+4:41:46 What the [ __ ]
+4:42:01 and
+4:42:10 save and close. Okay.
+4:42:17 Pop you in here.
+4:42:25 Okay, that was indistinguishable from magic by
+4:42:31 Arthur Riley. Now playing Silver Shamrock by White B.
+4:42:44 Remove SMS.
+4:43:01 That's all it was. I just had to remove SMS. Weird.
+4:43:35 Yeah. I don't know what's going on with the
+4:43:41 DroV weirdness. Yes.
+4:44:22 Ah. Looks clean to me.
+4:44:27 All right. Some password
+4:44:33 snappers and weirdness.
+4:44:46 I didn't like that. Um, this doesn't really help
+4:44:55 like zero 1 2 3 4 5 like uh
+4:45:03 if I get a
+4:45:09 if I make this a standalone app, then I'll probably get that. I'm not going to bother with
+4:45:15 this comment.
+4:45:23 Where are we with
+4:45:29 track counts per song? I was talking to that shamrock. Now playing Fallout.
+4:45:38 Here are a few plays that keep the layout stable even when the play count grows.
+4:45:44 Shift it into the left rail by stacking it with the track number inside.
+4:45:53 Player 295.
+4:46:02 I don't know what player 295 is all about.
+4:46:09 Num. You can give nutnum a tiny flex column.
+4:46:15 So the top line says the track index and the pill style badge under it shows the
+4:46:21 play count column width, but the new row height will grow.
+4:46:33 So they're saying shove it in here.
+4:46:44 Keep it near the title, but treat it as a badge in the name. Append a small
+4:46:50 inline chip with subdued styling. Long counts wrap inside the badge rather than
+4:46:57 pushing other columns around. If you want it to remain a dedicated column, move it to just before the duration and
+4:47:04 give that column a fixed width. The explicit width prevents the earlier
+4:47:11 columns from shifting while still aligning the counts.
+4:47:17 I know the fixed width,
+4:47:23 but if I was going to fix width it, I'd put it in between the time and the
+4:47:29 rating because the time is going to be a variable width.
+4:47:37 If I was going to do option,
+4:47:44 it'd be really nice if I could. If I was going to Hello. Can you hear
+4:47:49 me? Stop.
+4:47:56 How's this work? I think I'm in the terminal.
+4:48:05 Hello. Can you hear me? Yeah, that works.
+4:48:14 But if I come over to you and I say,
+4:48:21 "Hello, can you hear me?" Hello. Can you hear me? No, it's not.
+4:48:33 Number three. Just going to do the third option.
+4:48:49 Control K would put the play count between the
+4:48:59 duration and breathing.
+4:49:30 Uh, that song's a little Um
+4:49:36 that little is the radiation was that was a good one.
+4:49:48 That was Fallout by White Bat Audio. Now playing Dying Star by Arthur Riley.
+4:49:55 Dying raided. Uh, I wish I used to search add a search
+4:50:00 it feature.
+4:50:40 Um, jumping all over the place.
+4:50:46 So, this came back with a
+4:51:15 changes. So then send it off to do the task.
+4:51:22 Um, dying star. Yeah, me. It's a It's a little
+4:51:35 skip Dying Star by Arthur O'Reilly. Now playing Sabotage by White Bat Audio.
+4:51:41 Whereas the radiation one was what I really liked.
+4:52:13 This
+4:52:34 skipped sabotage. Now playing radiation sickness.
+4:52:40 Maybe there might be another radiation or something.
+4:52:46 You're done already. Okay, let's check out you.
+4:52:55 Whoa, that is fixed width.
+4:53:02 Wow, way too wide.
+4:53:27 All
+4:53:39 right.
+4:53:46 Then we got this player down here. And then we got this in the in the history,
+4:53:52 too. Those I'm not so worried about because they kind of have their own.
+4:53:58 They're going to fit inside of the plays headed column.
+4:54:16 See? Yeah. Yuck. Yuck. Um,
+4:56:24 Heat. Heat.
+4:56:44 Flow wave. Wa.
+4:56:53 Now playing radiation signal by night audio.
+4:57:07 I second time this happened. Now playing Radiation Sickness by White
+4:57:13 Bat Audio. I didn't rec I mean I recognized the song because I've heard it once more
+4:57:20 when I accidentally started playing it.
+4:57:31 I don't know. It's better. Something's got to get jagged.
+4:58:11 I don't want to get crazy with the layout and I want to proceed. I want to get to the audio source task.
+4:58:20 I'm going to call this good enough for now.
+4:58:41 Heat.
+4:59:01 Hey, Heat.
+4:59:14 Yeah, we're over 50% through. So, we can skip and this will show as a play.
+4:59:20 If I go here, skip radiation sickness. Now playing Dark Odyssey.
+4:59:33 That's a large. That's kind of stupid there, too.
+5:00:23 It is the number of plays is related to number of stars. So um all right that's
+5:00:28 okay. So lift lift the now playing
+5:00:37 lift. There we go. Natural language programming here. Pro plug in and charge. I moved over here to charge.
+5:00:52 All
+5:01:17 right, let's save this. That seems okay.
+5:01:28 I want to get to the audio device. That's going to be complicated.
+5:01:42 I sent codeex off to implement what
+5:01:48 now playing.
+5:02:14 You should just reuse existing code.
+5:02:23 It's all ready.
+5:02:36 That was Dark Odyssey by White Bat Audio. Now playing Unbroken Spirit by
+5:02:41 Arthur Riley.
+5:02:51 That works. Um
+5:02:57 I think I can tell from that that'll work. Okay. Uh what are you doing?
+5:03:04 I mean this this is kind of an adder's dream is to just like have like a dozen
+5:03:09 different things going off and programming for you. Uh here we refresh this. This is going to have moved.
+5:03:16 Expect that this play is going to tuck in between here. And I wonder if it's going to volunteer to insert a bar.
+5:03:25 It didn't insert a bar. So,
+5:03:31 um, I want there to be a border
+5:03:38 left. I want there to be a border left.
+5:03:49 Let's try that. Okay.
+5:03:56 Now playing Unbroken Spirit by Arthur O'Reilly. Does this make any sense to have a
+5:04:48 That's not bad. Move you. Move you. Good border with the
+5:04:54 autos. This is
+5:05:01 just that.
+5:05:07 force.
+5:05:25 See if I get get a review from you.
+5:05:53 See what you find wrong with your own code. That would be weird to find things wrong
+5:05:58 with your own code, but even humans do it.
+5:06:33 Yeah. Like why did it came up with that first? Yeah. And then it moves it down there.
+5:06:39 What it What's this? This messed up.
+5:06:49 Looks reasonable there.
+5:07:14 Skipped Unbroken Spirit by Arthur Riley. Now playing Distant Planet by White Bat
+5:07:20 Audio.
+5:07:26 Squishing a lot of stuff in there.
+5:07:36 What if I squished you out?
+5:07:49 say
+5:07:57 a GitHub issue to
+5:08:30 See if I can if I can in the prompt. Can I override? Can I just, you know, fast
+5:08:36 track it? Can I fail safe? You don't need to go off. I I I know there's no
+5:08:42 Can I override? I confirm there is not already one
+5:08:50 to use the same code that
+5:08:57 gets the artist and the short artist and track name.
+5:09:12 That is used to announce the song.
+5:09:20 To also be used to display
+5:09:26 the
+5:09:31 song as a much shorter
+5:09:42 Song name.
+5:09:47 Use the song name. Can I go up? Yeah.
+5:09:56 It gets the short track name.
+5:10:08 that is used to announce a song.
+5:10:21 Use it to show the track name
+5:10:28 as
+5:10:34 short. There's the spoken short track name.
+5:10:40 Um, have the hover tip
+5:10:47 continue to show the to show the full long
+5:10:55 of the track. So, can I override it with this? I
+5:11:02 confirm there is none. It's going ahead and searching. Anyway, so
+5:11:08 that was Distant Planet. Now playing Lone Survivor
+5:11:22 43. How does 43 come out?
+5:11:44 Heat. Heat.
+5:11:59 So we can tidy up this UI by not showing all that stuff. Just lone survivor.
+5:12:05 That's all I need. It's just lone surv lone survivor and all those especially in that column.
+5:12:36 Did Co-Pilot review come up with anything?
+5:13:00 You
+5:13:08 see you.
+5:13:14 Line 2788.
+5:13:52 297. What the [ __ ] is 297?
+5:14:11 I suppose just net pics. That was Lone Survivor by White Bat Audio. Now playing Beyond the Veil by
+5:14:17 Arthur Riley.
+5:14:41 Heat. Heat.
+5:15:34 the columns. And what is this line? 290.
+5:15:56 Heat. Heat.
+5:16:17 Heat. Heat.
+5:16:33 Item. Item hover. Item active.
+5:17:05 for but I don't I don't understand
+5:17:17 they're just saying this like is Is that all I need to change is
+5:17:23 just move this.
+5:17:28 That was Beyond the Veil. Now playing moments before
+5:17:57 Num name.
+5:18:04 Num name. Duration. Play count. Rating. That seems
+5:18:10 pretty straightforward.
+5:18:25 Okay, that'll fix that, I guess. And then 28. What' you say? Line
+5:18:36 2788.
+5:18:52 row duration play count.
+5:19:02 I don't I don't get you.
+5:19:09 So, I almost think I'm losing it. Like, I've been doing this too long here.
+5:19:18 Like, do I need a break? I don't know.
+5:19:24 Push.
+5:19:39 force pushed.
+5:19:49 I want to implement this.
+5:20:14 It could possibly
+5:20:43 Um, I have nothing there. So, I can check out you and see what you look like and go ahead
+5:20:49 and approve you.
+5:21:02 Um, no folder selected. Hello. Did Did we fail?
+5:21:15 Okay. Version three. Version four. Um, here we're in here at the top. Let's
+5:21:23 get rid of you. top of the code.
+5:21:42 Um,
+5:21:50 this should be compatible.
+5:22:02 Now playing Moments Before by Arthur. Now playing Moments Before by Arthur
+5:22:09 Riley.
+5:22:47 I'm go ask uh
+5:22:57 Codeex to go do it.
+5:23:56 I don't know if it should pause.
+5:25:17 Not an error. Not an error. Just I told you to stop.
+5:25:27 Maybe it's fine. Um maybe I don't want to interrupt. If I'm playing a song, I
+5:25:32 just click on that link. Yeah, just let this keep playing. That'll We
+5:25:41 can add that later. So, it functions and I like the code you're because
+5:25:48 you're reusing. So, yeah, let's approve.
+5:26:03 merge. It's pretty self-contained. Delete the
+5:26:09 branch. Close you up. Refresh.
+5:26:20 Have co-pilot. Do you
+5:26:39 Okay. Um, my battery at
+5:26:48 48. Not bad.
+5:26:53 Um, 6:30. They should
+5:27:03 be done
+5:27:09 and the wife and kids.
+5:27:16 So, if I get that the short track name in the playlist, that's
+5:27:23 going to buy me a lot of space. It's going to make the layout nice. And now I
+5:27:28 think if I finish this, if you didn't
+5:27:33 find any errors,
+5:27:44 but the DOM are pended in a different order.
+5:28:39 That's not the natural visual order. What does that mean?
+5:29:03 icon name elementation.
+5:29:14 There's that. We're getting ready to leave. Fire up the oven.
+5:29:33 Firing up the oven.
+5:29:52 Um
+5:30:03 yeah. And fan. Jeez.
+5:30:30 I I I don't understand the natural
+5:30:40 columns. So,
+5:30:51 did I merge you now? Playing calls. I did.
+5:31:00 So, I can
+5:31:09 discard you.
+5:31:19 But wait a minute.
+5:31:28 You should have taken the Oh, that's the that's in that pull. That's
+5:31:34 the four. That's because I've got that. Okay, we're good. pull.
+5:31:46 And then we can delete you.
+5:32:07 Is that one done too?
+5:32:14 Work in progress.
+5:32:35 Okay. Come back to you.
+5:32:42 Pre-base you on you. You should be fine.
+5:32:48 Push. Force. Push.
+5:32:56 Now I ask
+5:33:02 you
+5:33:13 in a fresh session. I need to go find this line.
+5:33:40 Get co-pilot is complaining.
+5:34:03 And that's then all the way down on you.
+5:34:34 There's no reason I couldn't just put the asparagus in right now.
+5:34:56 And then uh what
+5:35:02 15? What the girls do that [ __ ]
+5:35:12 Uh when the family shows up, I will be 2806. Uh ending the stream. I'm kind of
+5:35:20 How long have I been going?
+5:35:32 Five and a half hours. Good grief. So, yeah,
+5:35:38 dude. End this.
+5:37:10 how to fix this episode. Copilot does not uh seize it sees
+5:37:21 so that the ordering.
+5:37:44 So, I do I have any changes? I don't have any changes. So this is fairly big prompt but it's just these
+5:37:52 are the only bugs on this in this pull request is the ordering. That's it. There's nothing else. So if I
+5:38:00 just resolve that then this is play tracks per count is good.
+5:38:16 How you want it? Name, duration, play count, rating. Name, duration, play count, rating. Name, duration, play
+5:38:22 count, rating.
+5:38:48 Auto. Auto. Auto auto.
+5:39:11 Okay, you
+5:39:17 look okay. Now playing Moments Before by Arthur
+5:39:24 O'Reilly.
+5:39:29 Is that
+5:39:49 okay? Um, the only change was that
+5:39:56 which That was the play count column.
+5:40:07 So, I don't understand why that's an issue, but
+5:40:17 push force push. Come over here.
+5:40:23 Um, resolve resolve.
+5:40:29 request. Please don't have any more
+5:40:35 comments.
+5:40:47 That's still going. Oh, but it looks done.
+5:40:57 I mean, it seems done. So,
+5:41:08 are you still whipping? No.
+5:41:41 pretty small. I thought it might be kind of small.
+5:41:49 No code changes. So we can flip
+5:41:55 to you and refresh.
+5:42:01 You're not working. You're done.
+5:42:10 So the version we haven't merged. We just had changed the version.
+5:42:22 to four because I haven't merged that version yet.
+5:42:33 That buys us a lot of space.
+5:42:45 Lots of space saved there.
+5:42:50 I could almost scrunch them in.
+5:43:14 They'll improve the layout later. Uh, this is functionally what I wanted.
+5:43:24 Now playing Moments Before by Arthur Riley.
+5:43:31 Skip Moments Before. Now playing The Greater Good.
+5:43:41 Yeah, that's fine.
+5:43:48 cleans up the that guy. Yeah,
+5:44:00 I like that.
+5:44:08 That's that display the short name.
+5:44:16 It's pretty short code. Ready for review.
+5:44:37 And then We don't need to be on you anymore.
+5:44:45 Discard you
+5:45:04 rebase on you. No conflicts. I expect no conflicts.
+5:45:16 Is there anything pending, processing, thinking
+5:45:36 Heat. Heat.
+5:46:13 Heat. Heat.
+5:46:27 [ __ ] it. Nothing there.
+5:46:34 Rebase main course.
+5:46:42 scratch.
+5:47:08 That was the greater good. Now playing otherworldly realms.
+5:47:26 Okay, we're back on main. Refreshing. Now playing Otherworldly Realms by
+5:47:33 Arthur Riley.
+5:47:56 They're swinging by grocery store getting food and they'll be hungry when they get home. That was 10 minutes ago.
+5:48:10 Yeah, I just think my UI
+5:48:15 kind of looks like that with the whole look what I can do. Curved rectangle stuff.
+5:48:22 It's It's better than that. My UI is a little better than that,
+5:48:31 but it's it's close. But you know what? I kind of like this.
+5:48:36 It's retro. I think it's [ __ ] cool.
+5:48:42 All right. Hello.
+5:49:03 Yeah. Okay. So, let me guess. Someone got laid off of Amazon. Is
+5:49:10 Tik Tok layoffs? Yeah.
+5:49:18 World's going to crap on software jobs because of this. Like it's it's so easy,
+5:49:26 but if someone doesn't know what they're doing, then they're going to just vibe
+5:49:34 code accept everything and not know how to do stuff and just like go blindlessly
+5:49:40 into oblivion of things are working great
+5:49:45 when it doesn't. Are we 50% through this song?
+5:49:55 H. It's a
+5:50:03 that 20 minutes. The hover tip doesn't work.
+5:50:14 Add a hover tip to the
+5:50:43 song is a little a little bit all over the place.
+5:50:50 I'm almost going to call this a two star. I don't think I've ever heard this before.
+5:50:57 I don't really care for it. Skipped other worldly realms. Now
+5:51:03 playing quantum travel. Call it a one star.
+5:51:14 Um, probably going to end the stream soon because yeah, I'm been doing this for
+5:51:22 almost six hours and I'm getting
+5:51:27 getting a little a little a little little.
+5:51:35 Um, what else is there to do?
+5:51:40 Um, on the stream, where was I at on the list of the goals? We made the soup for
+5:51:47 the wife. It was a fantastic success. I'm sure.
+5:52:00 Um, we don't need to put that in the done.
+5:52:17 So, all we really worked on was the music player and uh
+5:52:26 I'm fine with that. There's a
+5:52:32 six hours in the stream. Um,
+5:52:41 I'm questioning whether it I want to continue down this route of the this
+5:52:47 audio path thing is going to kind of be the determining factor.
+5:52:53 Um, that if I can drop that in, then I have a quick patch on what I want to do. And
+5:53:00 I still may do a tam what's the name of the
+5:53:07 Atari. I may look into Atari standalone application so that I can do more
+5:53:13 filebased stuff and finally write stuff to it. MP3 ID3 tags.
+5:53:20 Um, but if I can get this audio output device working. And do I want co-pilot
+5:53:27 to do that?
+5:53:37 Why not? We're back on main. I got nothing else in the air right now. Nothing's in
+5:53:44 flight. Why not? I can always have codeex also make an
+5:53:50 attempt. My codeex status is 62% for three more four more days.
+5:54:01 I got to get 38% use out of that.
+5:54:08 Um I'm kind of so tired right now that these aren't really doing any none of
+5:54:14 these are doing much for me. Although I do know this song and I kind of like it.
+5:54:20 I'm going to I'm going to give it a four just cuz I know the song. In a better mood, it
+5:54:28 would be a four. Right now, it's a three.
+5:54:39 I'll clean this up later. I'm not too worried about it. like it can shrink some of that and maybe even increase the
+5:54:47 spectrum or shorten this like getting rid of all that noise. That was quantum travel now playing
+5:54:53 Prismatic.
+5:54:59 That was a good song. I think I'm pretty sure it's a good song.
+5:55:11 Uh so co-pilot's going with uh this is the test page that I I show
+5:55:19 that I can set those audio destinations.
+5:55:25 Crossing my fingers that co-pilot is able to run with this thing
+5:55:31 and go.
+5:55:37 We'll see. Um, if not, I can get Copilot to work on
+5:55:43 it. And I'm gonna uh I I do work obviously. I've
+5:55:51 only started streaming and I do a lot of work um on this, not work work, but work
+5:55:58 on this off stream. So maybe off stream I'll make some more progress and when I
+5:56:03 start my next stream, hopefully tomorrow I'll be in a better mood. I'm kind of in a washed out mood right now.
+5:56:11 But, uh, I'm going to go ahead and stop preemptively as this thing goes. There's nothing really after six hours of this.
+5:56:17 There's nothing really to show much of that. This isn't going to like
+5:56:24 I don't think this is going to implement something in mere minutes and have it be done. So, and because my kids are going
+5:56:31 to be here and wife in any moment now. So, I'm going to wrap up and practice a close. Um what I need to do on the close
+5:56:40 I have a task for um notes is that on close
+5:56:48 uh where is the on closeer
+5:56:59 needs to stop showing uh the now playing. So you're you're
+5:57:06 going to see them now playing and basically I can hide it. Uh it just little create a little custom tweak on
+5:57:12 the global downstream keyer. But how about at the end of this song we
+5:57:21 rate it. We rate the song. We give it a four star because it's
+5:57:27 going to be epic.
+5:57:36 That's kind of weird. Camera lens makes me look a little
+5:57:44 someone out there maybe. All right,
+5:57:50 it's a five minute song. I don't think I have five minutes. So, I'm going to say see you later. Like and subscribe.
+5:57:59 Bye.
+5:58:10 See, it's not cupping the audio right there.
+5:58:17 Uh, there it goes. Goes down now. All right. Later. See you.
+5:58:26 I'm not this [ __ ] night, [ __ ] Heat. Heat.

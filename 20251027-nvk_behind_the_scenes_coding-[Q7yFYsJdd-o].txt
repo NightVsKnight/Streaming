@@ -1,0 +1,1462 @@
+0:10 Let's go see if
+0:16 Dang it. It did in the channel again. Girl, can I just turn you off?
+0:27 Hold on. Yeah, you can see my desktop. That's what I want. Uh, turning this off.
+0:42 Uh,
+1:04 All right.
+1:10 And let me check stream. I don't even know if stream's running. Got slightly different reorganization here. It says
+1:16 they're running. So, I don't trust them. I come out of here and I look and look,
+1:23 we are streaming. Okay, we're streaming on YouTube. Um,
+1:30 streaming on kick and we're streaming on Twitch. Okay,
+1:38 we're good. Uh, I can minimize those. This This is
+1:44 what I want to turn off while I'm thinking about it.
+1:50 Surprised that it I could or I could move the I could move
+1:57 the channel to come on.
+2:03 Yeah,
+2:10 my laptop fan's going a little crazy.
+2:19 Here we go. Um, this carnival
+2:31 can United Carnival only. It says paused. I don't know why. I think I'll just move
+2:38 it to the streamer channel. I don't want that.
+2:45 Edit. I'm going move it to the um content
+2:52 creator and I don't know the channel status
+2:58 paused required like I did the paused so whatever
+3:12 I think for me and the content creator until I do some like uh more specific
+3:19 Um, I can do the specific stream. This is so
+3:24 slow. If I could do specific streams, if I broke it down into separate channels and
+3:30 I could say this channel is live and and this YouTube channel is live on this
+3:36 disc announced into this Discord channel and I can say this YouTube channel is live and announced into a different
+3:41 Discord channel. Um, u but I'm not going to do that.
+3:49 Yeah, yeah, yeah, yeah, yeah, yeah.
+3:54 Um, where am I? Well, I'm home
+4:00 and I've got I made a few changes yesterday
+4:06 and one of them is I turned off Yeah. So, I was I'm charging the lapel mic over here
+4:14 and I got a different setup on this I could show. And I've got a button where I can go to
+4:20 another camera here which is a little it's NDI so it shouldn't be really
+4:25 focusing on me. But I got set up my stream deck yesterday and I would show that on this
+4:33 um pull this uh I've only got on here on charging. It doesn't it could be
+4:40 wireless whatever. Um, so this is the setup. I've got my Neo set
+4:48 up where I can basically mute the microphone and I will change this so
+4:53 that it mutes all the whichever microphone I'm using. It's going to mute them all and unmute them all. Um, and I
+5:01 dive into my scenes, but I only have one scene really. Uh, I've got a closer, but
+5:06 I might move the closer. The closer is going to automate a stop. And so it's kind of how I stop streaming is doing
+5:12 that. And then this is the Pixel 7 Pro
+5:19 um focus. And that's pretty bad. That
+5:24 uh I can turn that on and off. Press this, it turns off. I press that turns on. And then I can go be right back.
+5:32 Um Hey, it didn't Oh, because it's it's over top. Yeah. Yeah. I got to put it
+5:37 under top. bug there. Um,
+5:44 on this if I basically move you down
+5:54 and below the be right back. There we go. So, the be right back would
+6:01 take over. And I'm not convinced the NDI music capture
+6:08 is working at the moment. So anyway, now that I hit be right back.
+8:26 All right, we're back. We have studio mode.
+8:32 Um, is that now?
+8:39 So, I had the mic muted there. But basically, if I go into be right back, what I would do, I was noticing and I
+8:44 when I'm be right back, the now playing, switch over here real quick.
+8:55 Turn off that automation. Uh, or disabled the now playing because I'm not playing music at the moment.
+9:01 I'll get to that in a moment. that um
+9:07 if I go be right back, it will mute the mic. Be right back is by default uh mute the mic,
+9:20 but I can also when I go be right back, I can basically turn on the mic with this. So, I'll go be what I'm going to
+9:26 do is hit be right back and then I'm going to unmute the mic.
+9:38 Yeah, I didn't remember the state.
+9:46 Okay. Um, something about the automation on that
+9:52 probably didn't mute their state, right? And then I've got redact. Um, this little over here.
+9:59 Um, if I hit redact the whole screen, and I've realized I
+10:04 probably don't want the whole screen redacted. Um, I probably only want the source
+10:14 redacted. So, I'm going to change that and I'll make a note of it. So, unredact
+10:19 and change the source. And then I'll turn off the pixel camera. Come back to here. So, a few more tweaks.
+10:28 Um, and then while the camera's not being used, I keep it charged
+10:34 because it uses up a little bit of power.
+10:40 Um, notes, goals. I will add a note.
+10:45 Uh, you can see these over here. These are the goals which show up in the um,
+10:51 stream itself. And then these are the notes that I kind of keep more internal,
+10:56 but they're more just kind of for my reference. But that was um change the source.
+11:05 And really the stream tweaks are going to really be for me. The stream tweaks have nothing to do
+11:12 unless I want to talk about them. um
+11:18 stream tweaks. For example, a stream tweak would be um adding redact
+11:30 redacted. I think I already had this written somewhere. Add redacted and
+11:36 redacting only redact.
+11:42 um MacBook screen. It's easy to do. Some of
+11:49 these things um
+11:55 documenting them makes them take like 10 times 100 times longer.
+12:02 keeping track of stuff and it's almost like keeping track of stuff
+12:08 um makes me more scatterbrained because now I have to remember it's
+12:15 counterintuitive. I have to remember where I have this documented.
+12:21 Um cuz I can't I do not find it possible to find one place, one location where
+12:27 you store all of your knowledge. That just seems like an unachievable goal.
+12:33 It's Halloween, so yeah, I'm wearing this. These are my actual PJs, that's
+12:40 for sure. Um, shitty stool.
+12:46 Let's shitty least least shitty stool
+12:55 as this is one of my work areas. Um,
+13:01 and I'm working on something right now on the goals is
+13:07 I don't know if I'm going to get in trouble and get docked and get a um
+13:13 copyright strike on this. Uh cuz I learned my lesson here is do goals of
+13:20 um
+13:29 uh NESB. Oh, I got it here.
+13:36 Yeah, Neistat. Sorry, this thing in case Nesbbit. Who's Nesbbit? Neistat.
+13:46 So getting a little kind of less techy here
+13:52 and more kind of I don't know about philosophical but it's kind of in the soulsearching arena which is in the area
+13:59 of um philosophy.
+14:07 Um, oh, and I was going to add the note for um, like things that I I am
+14:14 there's tweaks that I will just be making to the stream as I'm this is kind
+14:20 of from scratch. This behind the scenes stuff. I don't know if it was obvious from the stream yesterday that I
+14:25 starting this OBS scene collection from scratch, which is kind of exciting. I wonder about
+14:32 I'm not even a streamer as far as I'm concerned. Um, like I do it once a day,
+14:39 once a week. Uh, I'm going to try actually to stream try to stream one day
+14:46 a week every day this week and just see what happens. Um,
+14:52 and and I to do this, I need to engage more and get chat up and running. So, that's
+14:58 an example of if I come over to notes, see how scattered my brain is?
+15:07 and instream overlay
+15:15 uh code. The these are uh you can't see me highlight them in the in the sidebar,
+15:21 but you can see me highlight them in that. I want to get the instream chat overlay up and running.
+15:28 My streams have been pretty rough in the past um because I was using NDI and I think I
+15:36 think I'm at the point where I finally ponyed up. I'm a developer on the NDI
+15:41 OBS NDI um plugin DROAV
+15:47 and I used it and I have used it and it was a and it was awesome and it still is awesome for its use case but basically
+15:53 the target audience is people who don't want to pay money and if you don't if you want it for free and you don't want
+15:58 to pay Elgato $250 for a decent USB audio uh decent USB capture video audio
+16:05 video capture card then you're going to do it for free and NDI is great until it isn't great and you run into software
+16:11 limitations and bandwidth limitations and Wi-Fi complications and all sorts of that stuff.
+16:17 I am sad, heartbroken that I am now almost entirely done with NDI except for
+16:24 the fact that I use an NDI camera here. It has its place. I've got this NDI music that I broadcast onto the network.
+16:30 Um I I have a feeling that I know what the problem with NDI might be. I just
+16:36 haven't um solved the I haven't proven it.
+16:44 But I'm hoping I think I've resolved most of my stream's technical problems
+16:51 for the gaming side because I'm now using two $250 Elgato
+16:57 um 4KX capture cards. And the reason why I got those, I had an EVGA XR1 Pro and
+17:05 an Elgato HD60S, HD60, whatever. HD60X.
+17:12 Um, I'm not going to bother going to get them. Maybe I could. Maybe I could test
+17:18 out my I'll test out my Be right back. What do I do here? See you in just a moment. I'll be right back.
+18:20 Um, I'm going somewhere with this. Mostly that if I'm not engaged in the
+18:27 chat right now, it's because I'm setting up this behind the scenes. And I my goal is
+18:35 absolutely my goal is to have a behind thescenes channel, not
+18:42 not corrupt or crowd or no add noise to the gaming channel. I do recognize
+18:47 they're separate things, but at the moment I can't justify having them be
+18:52 separate channels, but if it's not about the views, then I should just do it anyway, right? It's not about the views.
+19:00 It's not about trying to grow the subscriber count. And I got to I'll get
+19:05 to that today in that Casey Neistat advice. I'm going to touch on that
+19:10 philosophically. So if I'm but if I'm not engaged with the chat at the moment, it's not that
+19:17 I'm not interested. It's that I'm still setting up this behind the scenes
+19:22 um stream. And I I already have the channel made. I have a behind-the-scenes
+19:27 channel made. Um, why does it it do this? Is that really?
+19:34 Wow. Um, yeah. So, I've got all these tabs, tabs,
+19:42 tabs, tabs.
+19:50 Um, bam. Yeah. Yeah. Yeah. It's actually the
+19:56 content. It's this that I want, not this. I have um Oh, I have other ch
+20:02 channels. Channels channels settings.
+20:09 That's the channel settings. If I come to
+20:15 um I do want YouTube. Is that That's weird.
+20:22 Um, that
+20:28 channels, channels, channels. Where do I go? Add or manage your channels. Here we go. I do have a behind the scenes. Um,
+20:40 so I could add that as a note to get that up and running. It's not about the
+20:45 views. Um,
+20:50 good. Uh, I forget MVK BTS.
+20:57 Um, can I just look at the URL notifications
+21:03 advanced settings? Um,
+21:10 don't want to make it the default. Move to a different brand account.
+21:16 Um. Yeah. Yeah. Yeah. Yeah.
+21:22 Um.
+21:31 Really? Come on. Bam. Redirects,
+21:39 man. I'm
+21:47 advanced settings. Viewer, manage your channels.
+21:52 Um, I just want to grab this. Get this up and running.
+22:00 And I need to switch out of the channel. Um, I want to go to this channel. Make
+22:06 sure that's the one that's active. All right. So,
+22:21 could do that chat.
+22:31 So, if I'm not engaged and responding to chat on my zero viewers cuz it's like um
+22:37 I'll get to this in a second. Number one in the list is is what I've been watching.
+22:44 It's not that I'm not interested, it's that I'm really just getting things up and running um on this behind thescenes
+22:51 channel and and that's going to actually simplify a lot of things. I can turn that back on. Okay.
+22:57 But I'm solving some technical problems. This this was my EVGA. This I even put
+23:05 these like crazy little um not that crazy but just HDMI right angle things
+23:10 under because this is going to be on my desk. This is going to sit on my desk and right there and and everything's
+23:17 going to be flush matter. It's going to be like and try I try to make my desk is the only area in my office that's
+23:22 actually kind of tidy. I try to keep my cables tidy in the drawers.
+23:29 Sometime I'll give a tour of the office, the huge office, the tour of it.
+23:35 Um, but I was going to use these. I had these stacked. I had this HD60X
+23:41 um HD60X and this EVGA XR1 Pro. Um, I've had these for several years and I'm
+23:48 having NDI problems and I'm gonna basically um make an attempt to eliminate NDI as
+23:55 much as possible because my theory is that it's the it's GPU bound and the GPU
+24:02 is doing too much and maybe it's the hardware acceleration if I disable that
+24:08 tangents. I don't know how I can avoid tangents and topics like like that's a whole like spiel of
+24:16 um that's a deep topic basically. I haven't solved the problem so why should you
+24:22 even bother talking about it um that I was going to solve the problem by just
+24:29 just doing ponying up the cash. Stop using NDI. Stop fighting GPU.
+24:35 I'm playing a game. I'm playing Star Citizen, which is not a trivial game on
+24:40 the GPU and the CPU. And of course, I'm always known that NDI is taxing on the
+24:46 system, especially when you enable hardware, but I think at once the GPU gets warm
+24:52 enough. So, it maybe it could be temperature throttling and that concerns
+24:57 me. I need to look into it because maybe I need to replace the the pads. I need to receat the pads on it. Maybe the GPU
+25:03 is overheating. I hear the fans on there. So, there's all that sort of stuff. Um, and this behind the scenes
+25:09 stuff notes is my G. Do I need to GPU? Um,
+25:15 I might as well just add it here. Um, diagnose
+25:23 GPU and if pads are if over diagnose GPU
+25:33 uh uh throttling um uh pads okay
+25:42 uh because that this could in uh NDI problems
+25:51 So, just making notes of that um as I'm trying to get that
+25:56 complication out of the way so I can remove the technical barriers on why I keep tripping over myself on this
+26:02 channel and why I can't just seem to engage
+26:09 in um the content that I want to create,
+26:16 not for the views, it's because I enjoy doing it. And uh
+26:25 so if I'm not engaged, if there's anybody on chat, I doubt there is. I'm assuming there isn't. And um
+26:35 yeah, there's no one there. See, I've been talking. Yeah, you're fake. Uh I wish I could
+26:41 block and Yeah. So kick's full of spam. Um,
+26:48 I don't like Twitch because it's such a juggernaut, but Twitch is like X
+26:57 Twitch is a juggernaut tw um
+27:02 if it was YouTube is like Facebook as far in the streaming stuff. YouTube
+27:09 is like Facebook, Twitch is like
+27:17 I don't know what I'm trying to say on that one. I'm trying to give Kick benefit of a
+27:23 doubt and except its growth path more than Twitch.
+27:31 But Kick, come on. You just got all sorts of spam in here. So, but this is proof no one's watching
+27:38 me. I'll get into this in a second. It's number one on the list.
+27:45 Um, but I'm afraid if I start going to do it, I'm going to get copyright strike.
+27:50 Um, so no one's chatting with me. No one's
+27:56 really engaged. And that's fine. But I want to set this up because I am curious to learn how to
+28:03 um do this live stream in an engaging way because I've watched Casey Neistat
+28:10 for um not I'm not the biggest fan. I'm not the biggest Batman fan. Seriously, I'm
+28:17 not a big Casey Neistat fan. I don't like I haven't watched but probably 10
+28:22 of his episodes ever. Maybe 15 to 20. I I doubt I've ever watched 20 of his uh
+28:29 videos, but I know who he is and I I respect the
+28:35 um [Music] the grunginess, the scrainess, the um
+28:43 the style of what he was trying to do. But I listen to him. I I I watch
+28:49 podcasts and whatever gets shoved down my
+28:55 um I feel like um
+29:03 Mythbusters Jamie, what's his name? Feel like those
+29:08 podcasts, right? Just had a mental distraction there. I
+29:15 am a bit scattered in my thoughts for sure. just something came to mind.
+29:20 Um Casey, he was as as I'm watching
+29:29 as I am presented with videos through the algorithm of the YouTube, most of
+29:36 the YouTube um the YouTube um
+29:42 and I say that kind of through through news and through news feeds and sometimes
+29:47 um you get the doom scroll of information there, but it's mostly through YouTube that I get fed the
+29:54 streamer um content creator type of
+30:00 content. Um, and it's it's kind of motivating or
+30:07 inspiring that uh
+30:13 especially being unemployed. If I was ever going to be a YouTube
+30:19 streamer, it would be while I'm unemployed. I've watched it. Uh, it's Jeeppy and a bunch of other unemployed
+30:25 streamers. Um, content creators. They're more content creators. And I don't get that's what I don't get.
+30:32 I don't get the content creation. I I I get it, but I don't get the exclusivity of the content creation and why someone
+30:39 wouldn't majorly stream because that's my kind of beef
+30:45 with Casey Neistat in some of these interviews that he's had. He's like, "Oh my gosh, like YouTube was like all the
+30:52 barriers dropped." Like he even talks about um in his I think it was diary
+30:58 CEO. It might have been this other second one I haven't finished watching yet where he's comparing himself to like
+31:05 the Kardashians and how artificial that is and how that post-prouction reality show that stuff is
+31:12 and how fake and contrived and it just it's scripted. But he Casey was like, I can just like I
+31:18 can be like but even his even his videography, his postp production, he
+31:25 goes out and films the footage and comes in and that's exhausting. Like like to
+31:31 me it's it's almost like I hated the movie, but it was that scene in um
+31:39 um Lost in Space. Is that right? with
+31:45 um the funny guy from Friends, whatever his name was, Joey the actor, where he was
+31:52 like the macho butch guy. um
+31:58 in there, one of the side characters, I mean the well the boy, one of the children, uh I think it was the
+32:04 daughter, she was like this streamer and and even um um
+32:12 the fifth element um and maybe not the fifth element so
+32:18 much Rod J Rod DJ whatever was it Chris Rock that was playing that was I don't
+32:24 think it was Chris Rock That's That's kind of racist. Um I know that actor's
+32:30 name. He reminds me of Chris Rock. But the barriers,
+32:36 if you are producing a video, then that's the barrier. Like this is authenticity.
+32:42 Me just talking live standing here in my jammies in my kitchen. This is no
+32:48 barriers. And this is what I want the behind the scenes to be. So, is it making any
+32:55 sense? I wonder if I had a bar down there if I had anyone chatting
+33:02 with me on the notification on the on the the Neo Delgato Neo.
+33:08 Um, so I think I'm going to get a copyright
+33:14 strike. The reason why I think that is if about a month ago, I thought that I
+33:22 had the through the ridiculous
+33:27 uh views that my F1 video got and videos
+33:32 I like throughout 12 20 F1 videos. Liked
+33:37 the movie. Um was not complaining about the likes and subscribes and views on
+33:43 that. Like if I build something and the side effect is that people if you build it and they come uh I can't stand that
+33:50 word because it just my dirty mind. Um, but
+33:59 I thought I could I'm using
+34:06 through the um excitement or
+34:12 uh calamity or whatever of
+34:17 the F1 videos kind of kind of going I wouldn't say viral for sure, not at all.
+34:24 Uh, but being successful, getting 200 plus,000 views, like that was
+34:31 unexpected. I did not expect when I made these videos that
+34:37 uh that that one would get over 200,000 views. And so that was kind of a taste,
+34:42 an addiction. And so on that kind of riding that wave
+34:47 where logic kind of gets thrown out the window. What else can I do to get that to ride that wave? I thought I know what
+34:55 I'll do. I'm going to that F1 was successful, right? I got 200,000 plus
+35:02 views. I think I got when you add them all up, I got over 500,000 something. I
+35:07 don't know 300 400,000 something views by time you add up all those those videos.
+35:16 What's another movie coming up? Tron Tron Aries. And I was ex was excited. I
+35:22 went to see it. Don't get me into that. um
+35:27 disappointed in the end for a few reasons, but I leaned into it and I was
+35:32 going to basically like um kind of push as irrational.
+35:37 I'm going to live stream Tron Aries. Um cuz the reality of I I thought I
+35:44 could get away with it. I thought the algorithm would not know the movie and the
+35:51 algorithm would would I could take a camera into Tron Aries with this water
+35:59 bottle. Took it downstairs already. Be right
+36:05 back. It didn't take.
+36:13 Huh?
+36:18 Weird. That one didn't take. What was in the foreground? Something.
+36:24 Huh? It's not taking. Only if OBS is in the foreground is that taking. I'm pressing um that would be
+36:33 F4. F15. I got that hotkey to F15. So really
+36:39 only if if OBS is in the foreground is taking. Make a note of that.
+36:45 Um OBS
+36:50 stream deck not
+36:55 hotkeying only hotkeys only work if
+37:06 work if OBS is focused.
+37:16 Focus has focus.
+37:22 See, that's why I'm practicing here. The stream deck hotkeys only work if OBS has focus. That's kind of bad. So, um,
+37:31 be right back.
+38:12 this beast this thing it's just a water bottle right so um I thought that I
+38:19 could naively take u start start small fish where I take this
+38:27 water bottle and it's got a double-sided magnet. Um,
+38:38 and I would take these. My phone case has a magnet
+38:44 on the back. It's not a big deal. Like many of them have them, but I can basically they make
+38:52 these water bottles with these magnets. They're advertised really weird. Um
+39:01 they're advertised so that like who is your audience for these these um water
+39:08 bottles with a phone holder on them? Okay.
+39:15 My thought was as I was doing this that I'm going to I'm going to record I'm
+39:20 going to live stream Tron Aries and what I need and I did this with the F1 video. I went and I recorded it the F1 video
+39:27 that I took in IMAX. Um I had a tripod. I went in with a
+39:35 tripod. I'm not going to pull that. But it was a fairly standard tripod.
+39:41 A little micro. You've seen them before, I'm sure. and I'm going to put it in the cup
+39:46 holder. So, I show up in the movie theater and I pull out the camera and I put it in the cup holder and I record
+39:51 it. But the the things that that's my goal. I'm going to walk in there. I'm going to do that. I set it in the cup
+39:57 holder and it teeters over the the cup's too wide.
+40:02 Um, which we'll get into that in a second. So, I learned from that F1 when I tried
+40:09 to record the IMAX. I I'm recording the IMAX, my F1 IMAX footage. I'm recording
+40:16 holding the video like the whole movie. It's 2 and a half
+40:21 hour movie and I'm record I'm holding it in place. I was able to um without
+40:28 bumping it too much able to finally let go and get it to rest there. And I don't
+40:34 think it drifted too much. But if I'm going to live stream, I'm going
+40:40 to improve that setup. And so, um, I kind of guessed that the cup holders are
+40:46 going to be, um, kind of largesized for the obese, um, gluttonous Americans
+40:55 that we are. And so, the cup holder is large because it was from the tripod. So, I thought, well, I should get a
+41:03 better tripod. I wonder if they make tripods that fit in cup holders.
+41:08 And if not, I would 3D print it. And so I thought started thinking about that. And then I thought, what's the simplest?
+41:15 Duh. There's the simple solution. What if they just made a cup that fits in the
+41:20 cup holder that is a tripod? And they do make them. So at that point, this made
+41:27 sense. Have you ever wanted to basically do this? Have you ever
+41:33 wanted to while you're out walking around socializing
+41:38 um on your doing your things, doing your running, stretching, exercise activities
+41:45 at a picnic, whatever? You carry a water bottle often. Um have you ever wanted to
+41:52 do this? So, this made perfect sense to me. But the problem is they were all
+41:58 this way. They're all like the magnet. They all had the magnet facing outside. They're
+42:05 all one-sided magnets. This is the only one out there that I ever found that's a
+42:10 dualsided magnet. Um, and so by being
+42:15 dualsided, I can do like who who's the audience of this? There's a picture of
+42:20 someone sitting like it's all photoshopped. someone sitting um in an airplane seat
+42:29 like on the airplane with this first class obviously of course or business
+42:37 class and they're sitting there with their water bottle and they're watching a movie right like that and it's like
+42:44 that doesn't make any sense when like who's going to do that because
+42:49 it's like this like um they were facing them or something. I don't know what I
+42:55 remember what like I'd have to go look at the picture. It
+43:01 didn't it didn't make any sense at all of them. And this was the only one out there that I found that had where you
+43:07 can do it this way because this is the side um
+43:13 if you do it this way. Oh, here's the problem. Here I remember the problem.
+43:19 Um, if I were to flip the camera, um,
+43:25 yeah, that was this is the front camera. This is a
+43:31 camera that's facing you. I don't want to use this camera when recording IMAX. I want to use the rear camera. So,
+43:37 here's the the audience that they're selling to is the narcissistic people that need to see themselves as they're
+43:44 talking. And that's fine if you're video conferencing. um if you're doing and if you're doing
+43:50 the engagement stuff and it's probably less narcissistic. It's more like just reality, but like there's a lot of
+43:58 ignorance on the cameras and that this camera, this front camera is very low quality. If you're going to record high
+44:04 quality video, you're going to use the rear camera. Well, the problem is you can't you can do that,
+44:12 but look what happens when you use the the rear camera. Now, the rearfacing
+44:18 camera. Um, let's see. Where is it? Um, this one's not good. There we go. What
+44:25 is that? Oh, wait a minute. I can see. I can actually even turn this on.
+44:32 Um. Oh,
+44:38 weird. It didn't flip. That's not showing what I'm showing.
+44:44 Is it right off the edge? Resize. Did the image resize?
+44:52 The image resized. I think if I reset this transform
+45:00 transform, reset, it's going to get big. There we go.
+45:05 Um, and then
+45:12 I want it I want it to go this way. I don't want to point that way. That was really weird when I was looking at it
+45:18 that way. I was surprised that it was defaulting to the front. It was on the frontfacing camera because that's what I was doing when I was gaming. Okay. But
+45:25 if you can see right here, there's no way that I'm going to record a movie um
+45:30 when this nubbing is in the is in the way. Like you can't I can't steal
+45:39 content with nubbing in the way. Okay. Well, I'll just collapse this. You can still see it. It's still there in the
+45:45 picture. I'd have to go way up here. But the thing is, the design of this, this
+45:51 one's not a good example. I bought a whole bunch
+45:57 of the I bought 20 of these bottles and I tried them all. And the way they were all designed, the just subtle difference
+46:04 and variations in where this magnet is located, you could always see if you used the rear-facing camera, you could
+46:12 always see in the video a hint of the bottle. It was always there. Um, it's
+46:19 not really visible. You Yeah, you can still see a hint right there. Especially if you want it level. Um, if you're in a
+46:25 movie theater, you're probably going to want it more on the level side. You're probably not going to necessarily be facing up. you you you don't want that
+46:32 kind of field of vision frustr you you want to be level and I can still
+46:37 see it. This one is um not a good example because this one's barely off
+46:43 screen. I'd almost let that one slide. Um but the others were not this far back
+46:49 and you would just see a big a big evidence of that it's on a water bottle.
+46:54 Very annoying and frustrating. Um, probably good for general use, but
+47:00 not good when you're actually wanting to just rip off and steal content.
+47:05 So, this is a double-sided magnet. And this allows me to put the camera like
+47:11 this. And now there is nothing in the way. It is like by design
+47:18 there's no obstacle in the way. So,
+47:23 um, I had been working on this to go in and live stream
+47:31 Tron Aries is what I was going to do with Blackmagic. Um, I had set up the
+47:36 Blackmagic camera RTMP and I was going to Blackmagic.
+47:42 Um, [ __ ] awesome camera app. The Blackmagic camera app is
+47:49 fantastic. Um, and I was going to live stream with it.
+47:58 [ __ ] fantastic camera application that can RTMP stream to a YouTube
+48:03 address. The movie theater has Wi-Fi. Oh, here's a problem. Maybe the movie
+48:09 theat's Wi-Fi isn't strong enough. Maybe they block YouTube streaming. So, I go
+48:15 to YouTube. Um, and uh, so
+48:22 train of thought here. Maybe they block YouTube stream.
+48:33 So, I go to the movie theater. I make a trip to the movie theater to do a test of the Blackmagic camera. Turn this off.
+48:43 Wrong button. Uh, that's probably fine if I do that in the background. Yeah, that's not too
+48:50 crazy. That's fine. Um, it'd be pretty rare if I were to
+48:58 switch camera. Let me turn this back on and I switch camera to that.
+49:05 Um, it resizes. So,
+49:10 um, okay. If I'm front camera, then it's one size. If I'm Yeah, I need to Is there a
+49:18 way to force that to not resize? I'll have to look into that. Can I force
+49:26 like I can note lower priority? Can I force NDI HX camera capture
+49:38 to be one?
+49:44 I know that I can change the resolution, but I want I want high res. I want OBS. Can I force OBS
+49:53 to
+49:59 uh resize front
+50:04 NDI HX camera to be the same as
+50:13 rear?
+50:23 All right. So, uh, back to rear, which is what I would be doing, and then turn
+50:29 you off. Um, so I go to
+50:36 the movie theater and it's a it's a good one. IMAX is really weird. I learned um
+50:44 not to get suckered by IMAX. There's some really bad IMAX theaters
+50:50 um where the screen is just like not very big. And there's that's the one that I I had gone to and I'm like, "Oh
+50:58 yeah, this this is not like the Boeing Air and Space Museum or actually sorry,
+51:04 it's the Pacific Science Center that's sponsored by Boeing in Seattle."
+51:10 um that is like this huge like that's IMAX like pinnacle five gold star standard. I
+51:17 don't know how they rate them but that's like the pinnacle IMAX size. There's many of them around the
+51:24 world. Um but that's one of them is here. And then there's other movie theaters. They'll set up iMacs but it's
+51:30 not the same IMAX. They're a lot smaller. You walk in there and just like this is not the the Pacific Science Center.
+51:37 And I did that. I went in there and I um for F1 I found one that was decent out in Isiqua. I went all the way out to
+51:43 Isiqua to a decent IMAX theater. It was like 2/3 the size of the Boeing Air and
+51:51 Space Museum uh uh Spacific Science Center. But for Tron Aries, I've learned and I'm
+51:58 going to go to the Belleview uh Cinemark where it's like 3/4 the
+52:04 size. So like Yeah. and it was and it show up and it is
+52:09 but before the movie day um there's like a website that shows these IMAX resolution sizes.
+52:18 I'm not going to pull it up. Um
+52:24 I'm watching the lapel mic charge and if it gets all the way up to
+52:31 the next dot. Um, so I'm in the lobby of the movie
+52:37 theater outside the ticket entrance on their Wi-Fi and I connect to their
+52:43 Wi-Fi and I start a live stream test. It's a test live stream. So, I'm using the Blackmagic camera app to live
+52:52 stream. Um,
+52:57 I'm only pausing because I'm wondering how I got onto this track. I'm sure when I look back on it, it'll all make sense,
+53:05 right? Let me finish my story. So, I'm on the track. I'm pot committed.
+53:10 So, I'm in the theater lobby pre- ticket entrance and I'm trying to be
+53:17 inconspicuous where I'm live streaming the Blackmagic camera application
+53:23 uh RTMP over their Wi-Fi to YouTube and it works.
+53:29 Awesome. and I'm done. And I get home and I see that I have a copyright strike because
+53:37 during that Oh yeah, I'm about because I think I'm about to get into trouble with
+53:43 what I'm about ready to show with Casey Neistat. That that's why I'm talking telling the
+53:48 story. um
+53:53 Mariah Carey music. There was music playing or Mariah Carey was singing a
+53:59 song or something like that. And because that song was playing while I was doing
+54:05 this 30 second one 60-second live stream
+54:11 Mariah Carey was playing. Boom. Copyright strike. you're not
+54:16 allowed to live stream um copyrighted material. And I'm like,
+54:23 "Oh, that's what that means. I knew that." So, I know that I'm I'm going my I'm
+54:31 naively thinking I'm going to live stream Aries. Like
+54:38 if anything went viral as in that would be one way to go viral is to
+54:43 do that is would be to live stream a movie. Um to just how ridiculous how
+54:49 stupid that is. But if you can get away with it I think that would be a cool blowup.
+54:56 Um, so that's what I was I was trying to lean into the absurdity and get away
+55:01 with it and see how it could spontaneously just wow like [ __ ] the
+55:07 system. If I got in trouble for it, [ __ ] it. I don't care. That's that was my whole
+55:15 attitude on I'm going to do this. And if anybody ever saw me
+55:20 saw my attempt to do that and thought that I'm a [ __ ] idiot, they're right. And I didn't care because I was going to
+55:26 try to do it anyway. I was going to try to pirate it. Um,
+55:33 but I caught the copyright strike. Um, I think meanwhile I had
+55:40 set up a live stream as a countdown where I put in a playlist where I was
+55:47 playing a playlist of all these Tron uh footage, Tron Aries footage from Disney
+55:55 and I was looping them as a playlist and and just letting them play out and then I put a countdown on top of it and my
+56:02 logo and that sort of stuff. came home to see actually two copyright
+56:08 strikes. One that one minute attempt um I think I had set it as private. I think
+56:14 it was a private key. I didn't go public with it, but I got a private copyright strike on that um in the movie theater
+56:24 lobby attempt. I was like, well [ __ ] And then second, I got a copyright
+56:32 strike for my live stream countdown because I was live streaming
+56:37 other people's content. I'm like, "Oh, well, you can't do that either." So now I know I learned that they're
+56:44 really serious about this. Um,
+56:49 and I do have a strike. I don't I don't have a strike. It's That
+56:55 was the one time exception. if I were to do this. Um, but I'm I'm
+57:01 going to do this under the guise and if I get caught on this, I'm going to show that I'm editing this video. This is a
+57:07 tutorial video of me editing this video. So, this is me showing how to do this.
+57:15 But I wanted and that's how I'm going to get away with this. But this Casey Neistat
+57:20 um video that I'm about ready to show, I can even just toggle over there. Um,
+57:27 should I monitor on this? The the camera is not doing any good, so I could basically swipe away
+57:33 and monitor. Um, how does the YouTube studio show my
+57:40 live stream right now? Doesn't rot. It does rotate. Does it
+57:46 show that I'm live streaming my content that I'm Doesn't show that I'm live right now.
+57:54 Um, yeah. Not not YouTube Studio. I've seen
+58:00 if YouTube Studio had that. Um, YouTube itself would.
+58:10 And if I close that and how who am I logged in as? Me on my content.
+58:20 Um, my videos show my live. This is me live.
+58:27 No, it's weird. It's not showing me live, but I know I'm live.
+58:34 Um, why does it keep doing that? That's always the tab. I thought it was because
+58:41 of um, let me just go to profiles. E,
+58:48 I'm live. I'm an hour into this stream.
+58:55 I noticed that it um it said
+59:03 um my video yesterday. I was looking at it watching
+59:15 this one. It says live chat replay is not available for this video,
+59:23 but I had like that's this tab right here. So, it's going to be the first YouTube tab.
+59:28 What's this? Is just Yeah, that's the edit. But I have on here. This is what I don't
+59:36 understand. Frustrating because it's made by humans.
+59:41 Live chat replay right there. Checkbox. It doesn't get any more clear than that. I have seen this not get checked.
+59:49 Um but and that was the the from yesterday.
+59:54 Shiver. Um but now it says live chat replace not enabled for this video. And
+59:59 the [ __ ] of it is I don't even have transcript. So I've been going through here. What is my count? I'm at three
+1:00:07 hours. I'm reviewing this mostly for audio reasons. Um three hours
+1:00:13 and Seven.
+1:00:19 Yeah, at least maybe I can jump forward.
+1:00:24 3 hours and 7 minutes. Fine. That's about right here. Um,
+1:00:32 the pitch of it is there it is. I didn't have this transcript. I should have shown you
+1:00:38 before I refreshed. Now I've got transcripts, but I still don't have live chat replay.
+1:00:45 So at least I have transcripts. So I couldn't find the place in the video where I was talking about something that
+1:00:52 I had timestamped something at about 2 hours 50 minutes. So at least I can now pull up
+1:00:57 transcript. And um there's a couple ways you can summarize your videos. You can
+1:01:04 copy and paste the transcript. You can't really export it. Um, there's probably a plugin that lets
+1:01:11 you grab the transcript. I if you know how to hack, you can grab it pretty easy. You can also just literally like
+1:01:17 copy and paste, grab the move your mouse and grab the whole thing.
+1:01:23 Um, and then you can paste that and summarize it and that sort of stuff. Um,
+1:01:32 I wanted to go do the case and thing before I get into technical stuff. And I
+1:01:39 got some chores. I have a list of chores to work on.
+1:01:45 Um, so this Casey Neistad, this is me editing
+1:01:52 a short that I might put out there if I'm allowed to even
+1:01:58 risk the copyright strike of that. Uh, and I wanted to before as I'm doing that
+1:02:05 pull up YouTube stream. It's not pulling up the YouTube stream. If I switch people,
+1:02:12 switch accounts to me personal,
+1:02:17 can I see that I am live.
+1:02:30 So, but I want to do this as me. Not as me.
+1:02:37 I want to go back to can I cast my screen showing
+1:02:45 um to in to NDI. I have a cable here. I
+1:02:52 could cable capture what I'm looking at. And I know you can chcast and that would be pretty cool to be able to chcast what
+1:02:59 I'm looking at on the phone. I I'm cabled. I could do the cable capture.
+1:03:06 I'm not going to uh it's something to look into. I'll make a note of it.
+1:03:12 [Music] I'll make a note off stream
+1:03:21 uh NDI or cable capture
+1:03:27 pixel screen. I might even write an app to do it.
+1:03:34 Um I'm unemployed. Why not? Why not just write apps and keep practicing?
+1:03:39 I don't want me I do want night versus night.
+1:03:47 I do want to see my live. I want to see my channel as if
+1:04:01 Oh, don't start playing that.
+1:04:09 Um,
+1:04:15 that might looks like something I might actually want to watch later, but save to watch later.
+1:04:24 Um, come to my channel.
+1:04:30 View channel. This is me live.
+1:04:36 Okay, now I can do the chat and I can see the chat and this is what I wanted
+1:04:44 to monitor um what I'm showing here. So,
+1:04:52 an hour in, hour and four minutes in, this is the video. And again, I hope I
+1:04:58 don't get a copyright strike for this.
+1:05:04 And I want to know if it's streaming out. And there I hope there's not any echoes. So I might turn up this volume.
+1:05:10 You're going to hear like a 10 an 8 second delay in the audio um over the
+1:05:15 microphone. That hopefully should be uh less. So I'm going to turn this up a little bit.
+1:05:22 I can hear it. And I curious if it mutes the mic. So
+1:05:29 I'm going to see if I mute the mic if it keeps playing that. So, I'm going to mute my own mic and and see if the sound
+1:05:34 quality is coming through. Okay. So, this is me editing and I'm going to
+1:05:39 convert this into a short. So, this is an educational video for anybody who's
+1:05:45 going to copyright strike me. This is an educational video on how to edit a
+1:05:52 segment into a short. So, here we go. Um, I'm going to mute
+1:05:58 while I play. This is what it is in its original. And then we're gonna short this. We're gonna now convert this down
+1:06:04 to a short. All right. I'm gonna mute my mic during the original so that you just
+1:06:09 get the original audio. And just so that it's completely clear and obvious.
+1:06:16 Um, how do I collapse? Yeah, you can hear that in the
+1:06:22 background. That's why I'm going to mute my microphone. This is I this the this splitter here is like oh my gosh it's so
+1:06:28 hard to grab and then this I don't need you but I can't re resize you any less and I can
+1:06:36 make you a little larger. So Dire of a CEO
+1:06:44 this was inspirational to me and I wanted to use this as an example of how to convert this inspirational twominut
+1:06:49 segment into a short. So, here it is in its entirety. Muting my microphone while
+1:06:55 I play this. No copyright strike, please.
+1:07:05 Is my mic muted? I heard it blip. I don't think it is. This is the hotkey
+1:07:11 thing.
+1:07:24 Yeah. So, it's not because OBS has to be in the foreground. It's confused.
+1:07:32 So, I have to basically uh hotkeys.
+1:07:38 I think there's a setting for um Anyway, I'm going to mute my mic, switch over,
+1:07:44 and do this. do the view and then we'll come back with my mic open and edit it
+1:07:50 down.
+1:08:00 19y old Casey when he first arrived into New York City, what is the advice that
+1:08:05 Casey needed to hear at that point that he he just didn't get? And I'm speaking to all the Jacks out there.
+1:08:14 I think that like nobody cares about you is something ever made clear to me and I
+1:08:20 mean that most positive, optimistic, inspiring, motivated way. Like I think
+1:08:26 that
+1:08:39 Yeah. Um the audio I had to pause that and listen to the audio and that's what I was afraid.
+1:08:47 There is an echo in here. So hopefully I didn't get a copyright
+1:08:53 strike on that failed attempt. Um,
+1:09:00 listen to the audio. That's what I was afraid. So
+1:09:06 I'm doing I was trying the
+1:09:13 laptop audio capture. I'm trying this laptop audio capture and it's I'm I'm
+1:09:18 just I think this is the cause of my problem.
+1:09:27 If I turn this off and replace it with my mic's working
+1:09:34 mic should be charged by now.
+1:09:42 Distractions getting a stream up and running. Test one, two. Lapel mic is
+1:09:47 muted. Lapel mic is not muted. And there is now
+1:09:52 an echo but to competing with this mic and the laptop mic. So I will be muting
+1:09:58 the laptop mic. So now the laptop mic is muted, but now
+1:10:06 I have to adjust all of my setup and scenes and advanced scene
+1:10:12 switcher. and rules. But at least I've got it bound to um
+1:10:20 mic on, mic off. And this is unmute the laptop mic. I could add in unmute
+1:10:30 the lapel mic and I could say
+1:10:36 um mute the lapel mic
+1:10:43 and I think the audio quality on this lapel mic is going to be more cons at at a minimum it's more consistent if I walk
+1:10:50 further away from the microphone. There is no walking further away from the microphone. So, I I think it's a decent quality. Um, it's not like it's a road
+1:10:58 or anything. I think I paid 20 or 30 bucks for it. It's a faux tree. Maybe
+1:11:03 Free wants to brand sponsor me or something. I don't know. Um,
+1:11:10 here I turn off the mic there. And I want to turn on the lapel mic. Now
+1:11:19 you're, if anybody's watching at home, they're going to realize the problem
+1:11:25 here. I want to prefer the lapel mic
+1:11:31 over that. That was weird.
+1:11:37 But um
+1:11:42 almost like if it was disabled or if I could memorize a script and assign a variable if it was in that'd be pretty
+1:11:49 cool. React on redact off. So I've got these in. So now if I'm going to use the lapel
+1:11:57 mic then I basically want to turn off the rule for the laptop mic.
+1:12:03 Um, and I basically just want to restrict everything to a lapel mic.
+1:12:08 And then I have to remember that that's what I don't I'm not going to do when I push this button and I fix the hotkey
+1:12:15 problem later on, which I think is just a setting inside of hotkeys.
+1:12:23 Um, advanced hotkeys. Hotkeys never, it says never disable
+1:12:29 hotkeys. So, that's where I don't understand why
+1:12:35 the hotkeys aren't working.
+1:12:43 It says never disable the hotkeys. So, if I
+1:12:51 could it be that Final Cut or something is taking over
+1:12:59 again. This is the tab. This is the tab that it brings up every [ __ ] time. That tab
+1:13:06 is not at the top of the list. Before it was I thought it was because of my IP addresses. In fact, I'm so annoyed by
+1:13:12 this. I had a reason for um one of this up. I'm so annoyed by this. [ __ ] it. I'm
+1:13:18 closing that. Hopefully it never again. So now if I Now what tab is it going to bring up?
+1:13:25 Of course I don't want that either. Like how what is the algorithm of this tab? Like I don't want that.
+1:13:34 Why why would you be the tab that it brings up? This tab has nothing to do with why I
+1:13:40 want to come bring to the foreground. How about I just do it the hard way
+1:13:48 here? Um if I bring up this and then I try to mute, what happens?
+1:13:56 It it blipped. So, it still didn't mute. I'll have to look into I have a note on
+1:14:03 why it is. I'm not going to deal with it. Now, stream hockey only work if OBS has
+1:14:08 focus. That that doesn't make any sense even though that setting is there. All right.
+1:14:15 So, now the audio capture. I've turned off
+1:14:22 um laptop audio capture.
+1:14:31 This is what I was using before. Audio output capture. But it's deprecated.
+1:14:36 Why is it a Why is it still here? If it's deprecated, why is it still here?
+1:14:43 Um, probably because the it's not working. The replacement, the audio capture isn't work. The only thing you
+1:14:49 can do with audio capture, cuz that's what this is, you can do desktop or
+1:14:54 application. I don't want either desktop or application. I want a specific
+1:15:01 endpoint. I want to capture a specific endpoint. And I think that's causing some of the
+1:15:08 echo what I was seeing on the audio player. So, I'm going to use the
+1:15:14 deprecated audio output capture. And that's going to be audio output
+1:15:20 capture. Um I think is but it's still system is what
+1:15:28 it is. But it's going to be whatever I send out to
+1:15:33 the default default and default down mixing. So yeah,
+1:15:43 because I don't have any of my other things turned on. A short list is shorter than I would
+1:15:48 expect, but whatever.
+1:15:55 So, audio output capture default should be at the top. Bring you down.
+1:16:10 Bring you down. I have this theory that I I have this
+1:16:15 theory that OBS walks from the bottom up.
+1:16:21 The it writes the lowest layer one first and then the neg layer on top of that and it it tiles and mosaics whatever
+1:16:28 layers put puts those things on a Z layer and it does the bottom one first and the next one the next one the next one next one. So the very top one is
+1:16:36 really the last one drawn. So audio being the highest priority should be at the bottom.
+1:16:43 So I try to put all my audio at the bottom.
+1:16:52 Um let's say earbud mic is least priority.
+1:17:00 And I could switch over to my um Steel Series headset that I have. The Pel mic's going to be the highest priority.
+1:17:08 um default. So now the theory is if I play this audio
+1:17:14 um and you're gonna hear it. So again, let's do take number two.
+1:17:21 Um I'm going to leave my mic on.
+1:17:28 No, let me let me do it again the same way. I'm gonna mute my mic, switch over, and start playing. So, uh, no copyright
+1:17:35 strike, please, on me previewing what I'm getting ready to edit into a short.
+1:17:42 Thank you very much. Muting the mic now and then playing the
+1:17:47 content. I can do it this way. I don't have to
+1:17:53 mute it that way. Since I have a lapel, I can mute it here. Um, and I'm going to mute it once I'm
+1:18:00 confident that it's playing sound. Okay. So,
+1:18:05 Final Cut, go back to the original.
+1:18:10 So, no copyright strike, please. I'm going to mute this and monitor that the
+1:18:18 audio sounds good. Once I'm certain that the audio is good,
+1:18:24 um, I may come off mic. I don't think that's going to introduce
+1:18:31 a bad echo. It's going to be a real short echo. Um, and I think built-in
+1:18:37 echo cancellation that pretty much has to exist will take care of that. We'll
+1:18:43 see. And I will look into this. We're an hour and 20 hour and 18 minutes into the
+1:18:48 stream. Hour and 19 minutes into the stream. All right. Uh, I will mute and play and then unmute
+1:18:57 once I'm comfortable with the quality.
+1:19:35 Interesting. It's like not capturing.
+1:19:44 Why is it not capturing? All right, let me just
+1:19:50 monitor its level then.
+1:19:57 I'll pull you down. Um, and my monitor is not working. Like
+1:20:03 normally I will my audio monitor is not outputting.
+1:20:12 Maybe there's some
+1:20:21 test one too. I should I should hear my voice. I am outputting
+1:20:41 weird. I'm not sure what I should know what that I should know what
+1:20:49 I shouldn't know it because I wrote it. I'm saying I should be made aware of I
+1:20:54 should learn what this is. Um, but I don't know why I can see my
+1:21:02 levels. I can see Oh, maybe. Oh, my lapel mic. I may not have set on monitor out.
+1:21:14 Yeah, lapel mic's off. Monitor and output. Hello.
+1:21:21 monitor output.
+1:21:27 Maybe I need to reboot.
+1:21:32 I don't know.
+1:21:39 Um I do not know why monitor and output is not working. I also now do not know why
+1:21:49 system audio capture is not working.
+1:22:00 Your default
+1:22:07 like why is it not showing on MacBook speakers? I am using um the sound source
+1:22:19 That's fine.
+1:22:27 Sounds sources detected. Another process capturing audio. This may result in
+1:22:33 doubled audio. To avoid issues, temporarily deactivating sound sources processing is recommended.
+1:22:42 disabling sound source. Um, I was I've this will be the first
+1:22:48 time I'm aware there's a conflict between sound source and
+1:22:54 OBS. I'm going to try it. Turning off sound source processing
+1:23:07 or deactive there. Now I have the monitor
+1:23:12 Interesting. Okay,
+1:23:18 now that's my echo. I hear it. I can hear the monitor. Um, I can hear the
+1:23:23 monitor now. I never knew.
+1:23:33 Okay, that changes things. So now if I close this and reopen that,
+1:23:40 why don't I have audio output of the default? And now what happens if I
+1:23:51 resize you and play you
+1:23:57 inspiring motivating way like I think that that's coming over the microphone. Why
+1:24:02 is it not capturing? I don't want to capture individual applications.
+1:24:09 So if I turn you off and turn you on, laptop auto capture capturing everything
+1:24:17 and I play you especially if you see yourself as a creative or you want to exist on YouTube
+1:24:23 or as a filmmaker or a musician or as an artist or a painter, any of those things like you think that everybody's paying
+1:24:29 attention and because of that it kind of controls how you think.
+1:24:36 The pel mic I was on muted the whole time. That's one of the problems with not having the
+1:24:42 status. I've been talking this whole time on mute.
+1:24:47 Um when I touch this button, I don't have visual indication.
+1:24:52 Um clearly not a professional. So I was talking to myself that I found
+1:25:01 I've been using sound source here. You probably hearing a small echo.
+1:25:07 um that there's this triangle on sound source and it it had a dialogue here. As soon
+1:25:15 as I say reactivate processing, OBS monitor is going to stop. So right now
+1:25:20 there is a small echo. I can hear a OBS monitor is working and if I say tell
+1:25:27 sound source to reactivate processing
+1:25:32 um then the monitor goes away. So now I can't hear the monitor and
+1:25:39 that's the source of deactivate processing. Now I can hear and I'm at least I can do that on the fly and I
+1:25:45 don't have to restart any process. So that's why I couldn't monitor my audio. And now that helps me determine
+1:25:52 whether something is or isn't playing. And so now I can see and I'm going to
+1:25:58 mute this. And um you can see the laptop audio capture is
+1:26:05 working. But now I don't know why the audio output capture which is disabled. So it's not showing.
+1:26:12 Um, I could just mute you instead.
+1:26:20 Um, so now it's working.
+1:26:27 Okay, so
+1:26:33 third time's a charm, right? I think that actually worked.
+1:26:38 and I will uh let this go again.
+1:26:45 All right, I'm going to mute my mic while we're playing through this. Third time is a charm.
+1:26:52 So, this is educational video showing how to edit down um an inspirational section
+1:27:01 into uh video short.
+1:27:13 Uh, and let me get this down here. All right. And I'll mute my mic.
+1:27:26 19-year-old Casey when he first arrived into New York City, what is the advice that Casey needed to hear at that point
+1:27:32 that he he just didn't get? And I'm speaking to all the Jacks out there that are 19 [ __ ] that's tough.
+1:27:40 I think that like nobody cares about you is something that was never made clear
+1:27:45 to me. And I mean that in the most positive, optimistic, inspiring, motivating way. Like I think that
+1:27:53 especially if you see yourself as a creative or you want to exist on YouTube or as a filmmaker or a musician or as an artist or a painter, any of those
+1:27:59 things, like you think that everybody's paying attention and because of that, it kind of controls how you think. And even
+1:28:05 when I was young and fearless and nothing to lose, I was still so cognizant of like how are people going
+1:28:10 to react to this and what's the we're turning off the mic so that uh I can hear the echo and I wonder how much
+1:28:17 echo is showing through here. Everybody is so focused on themselves in this world. Nobody has time for you. And
+1:28:24 the sooner you accept that as a creative person, the sooner you're free. Like
+1:28:29 you're totally free. Like do exactly what feels right to you. And if you can get yourself on that trajectory, then it
+1:28:36 goes back to what we were talking about before about being novel, about being original, about not being a photocopy of
+1:28:42 somebody who did something. If you're that photocopy, you will never be the original. But the moment you accept the
+1:28:48 fact that nobody cares, do your thing. Nobody cares. And then you start to go
+1:28:53 down that path, you will just get better and better and better. So that was inspirational to me. And
+1:29:00 again, hopefully there's no copyright strike here. in playing that segment.
+1:29:07 I can turn the monitor off. Uh I I will turn the monitor off. Um now that I know
+1:29:13 that the monitor is caused by um sound source.
+1:29:24 Thought I had a note on
+1:29:30 go into settings and I'll turn the monitor off.
+1:29:40 That's just the device, not the actual
+1:29:46 on off of it. The actual onoff of it is in this. And really, you have to turn them all on
+1:29:53 and off. Um,
+1:30:00 this seems kind of It's got to be a way to bulk change that.
+1:30:12 Okay. Um,
+1:30:21 is my mic muted? No, I came off mic. Okay.
+1:30:28 Um, so I'm gonna
+1:30:34 convert this into a short, which is duplicating
+1:30:40 as short. And I want to change the resolution to
+1:30:49 uh vertical. and
+1:30:59 4K 26 by 30. That's a lot. It's 4K. I wonder if they
+1:31:04 can I'm curious if you can do a 4K vertical.
+1:31:13 What is the YouTube short?
+1:31:20 YouTube short resolutions
+1:31:27 1080 by 1920. How about we just
+1:31:40 and my color space. Uh, container frame rate, bit rate, resolution,
+1:31:52 um, shorts, upload videos, shorts,
+1:32:01 upload YouTube videos, upload, record and upload a video. Where's shorts? Come on. Like, did they change shorts?
+1:32:09 Come on. YouTube shorts. Why? Why are things
+1:32:15 difficult you create YouTube shorts?
+1:32:37 You can upload shorts with a maximum resolution of 1080p. Okay,
+1:32:43 so I find that a little odd, but I give
+1:32:48 YouTube some credit for at least supporting 4K. Twitch doesn't even do 4K. So
+1:32:56 1080 um
+1:33:02 analyze clips for faces reframes can
+1:33:08 whose aspect ratio is different from the project's aspect ratio
+1:33:14 I did what is a good
+1:33:20 short.
+1:33:25 I think I already had searches chain duplicate this. Is there a keystroke to duplicate?
+1:33:36 Um 1080 by 1920.
+1:33:45 1080 by 1920.
+1:33:51 But they say you can only do 1080p,
+1:33:56 but they're talking 1080p horizontal, which is weird.
+1:34:05 And that that 1080 1920. Okay. It's
+1:34:10 Yeah, it's almost twice as long.
+1:34:22 1080 by 1920. All right, we do 1080 by 1920.
+1:34:28 This is 1920 x 1080. If I want to go vertical,
+1:34:37 there you go. That was there in the list. Um,
+1:34:43 I wonder if I could do it in that and then export it in. Uh,
+1:34:48 let's do it in this. That's 10. That's That's twice. Let's Let's do it. Let's not lose the resolution while editing.
+1:34:58 And that doesn't look vertical to me.
+1:35:05 I I duplicated but didn't
+1:35:11 This splitter ear is so annoying. So this is the short. So there we go. So
+1:35:20 on this I want to zoom in
+1:35:26 and so transform zoom. Um,
+1:35:39 scale X scale Y. Yeah, scale all.
+1:35:52 I want to go so wide. I do kind of want to get But I I might as well just do the
+1:35:58 whole thing. And I wonder how much it fits as far as
+1:36:11 zoom in a little. But how do I
+1:36:21 what? How do I scroll up? Is is how I'm using three fingers. I'm using four fingers. I guess it go up there right
+1:36:28 near the edge.
+1:36:47 I think I want 315.
+1:36:53 315 gives me that. 316
+1:37:01 gives me that. All right. And then zoom back out to fit.
+1:37:08 So now on this 90-year-old Casey when he first arrived
+1:37:13 into New York City, what is the advice that Casey needed to hear at that point that he he just didn't get? And I'm
+1:37:19 speaking to all the Jacks out there that are 90. Now here
+1:37:25 I'm going to split that.
+1:37:38 split. Now here I need to move transform.
+1:37:46 Can it position you?
+1:37:53 So slider on the position. How about I just guess
+1:38:00 uh th00and 2,000.
+1:38:07 Oops. No. No.
+1:38:16 What did I just do?
+1:38:33 You
+1:38:38 Why does it scale? Oh, because it's selected. I only want to select
+1:38:44 you. They're the only one I want to select.
+1:38:51 I want to see you 20,000. All because I missed a zero.
+1:38:58 Here we go. 2500.
+1:39:05 Too much. 2200. 2250.
+1:39:14 Okay. He He just didn't get I'm speaking to
+1:39:20 all the Jacks out there that are tough.
+1:39:32 I thought I would app Oh, because there was a cut there anyway. He did a um I already had a cut there.
+1:39:40 So, if I can copy that effect
+1:39:45 316 316
+1:40:01 So now I need to scale this where they
+1:40:11 cut there and then here transform you
+1:40:19 by what was that 2250 I had this one's totally different maybe a th00and
+1:40:27 Uh 800
+1:40:35 850 900
+1:40:42 950 That's really close to what it was. Yeah, that gets some I could zoom out a
+1:40:48 little. I could say 300, but that's gonna put the the black bar up top, which I don't
+1:40:55 want to do that. Okay,
+1:41:00 that goes. You just didn't care. I'm speaking to all the Jacks out there that are nice. [ __ ] that's tough.
+1:41:08 I think that like nobody cares about you is something that was never made clear
+1:41:13 to me. And I mean that in the most positive, optimistic, inspiring, motivating way.
+1:41:20 Like I think that especially if you see yourself as a creative or you want to exist on YouTube or as a filmmaker, a
+1:41:25 musician or as an artist or a painter, any of those things, like you think that everybody's paying attention.
+1:41:32 I'm going to pause this. I don't mind like showing a final result at the end,
+1:41:38 but I think your audio level is really low. So, I'm going to add a filter to
+1:41:47 um boost you basically. I don't need the noise suppress. Let's
+1:41:53 do a compressor boost. And we're going to gain you
+1:42:02 10 dB
+1:42:09 so that you actually sound.
+1:42:18 It's competing.
+1:42:32 If I want you to if I want the audience, the viewer to see it at full volume,
+1:42:40 when I mute the mic,
+1:42:48 Then I can play the laptop audio capture at full volume.
+1:42:55 So,
+1:43:03 but that'll never be true.
+1:43:08 Else if I can't do conditional ifs. I don't
+1:43:16 think I can do conditional ifs
+1:43:23 if inside of an if.
+1:43:28 I know you can do other um macros.
+1:43:34 I can do another I can do a nested macro. Trying to wrap my head around that. But that's another if
+1:43:51 Where have you
+1:43:58 um laptop
+1:44:04 audio capture? Um,
+1:44:12 pull if mic muted.
+1:44:23 Um, so this is if
+1:44:31 the audio
+1:44:45 the laptop mic or the lapel mic.
+1:44:53 But if it's muted.
+1:45:18 So that's still evaluating true. It's not really the audio.
+1:45:27 It's going to be
+1:45:33 if a source
+1:45:41 is muted or not. If source
+1:45:47 lapel mic is active,
+1:45:58 then restore
+1:46:04 audio of
+1:46:12 laptop audio capture. to -12
+1:46:19 else
+1:46:26 set I can make it a variable too. Um
+1:46:35 I could do it that way. Go back into here. Make it a variable.
+1:47:09 Um, laptop audio.
+1:47:33 save variable value set to value instead of starting
+1:47:48 But I want to set it.
+1:47:57 I could. Yeah. Move you up.
+1:48:08 Then set the variable
+1:48:19 to um -12.
+1:48:29 else
+1:48:34 variable set to value
+1:48:40 zero.
+1:48:47 If perform only when condition changes,
+1:48:53 if the lapel mic is active, then set that to 12. If that, then set that to you. and otherwise. So then on the
+1:49:01 restore,
+1:49:07 we're going to set you to a variable.
+1:49:16 But I want to set you to a variable. Should be able to set it to a variable.
+1:49:42 Yeah, right there. That's a bug.
+1:49:50 There was no variable, so that's a bug. Delete. Yeah.
+1:50:11 Yeah.
+1:50:25 on the restore.
+1:50:52 It has no value. So it's evaluating zero
+1:51:29 Um, I I have an idea what to do here. Let's save the value.
+1:51:40 If I want to start at -12, it would assume
+1:51:49 Okay. And so if I
+1:51:54 didn't use this mute, if I used this mute,
+1:52:05 but the variable doesn't change. Oh. Um,
+1:52:10 so I need to change here to be if the variable changes.
+1:52:26 or a variable
+1:52:32 value changed.
+1:52:41 So now
+1:52:51 wait if I mute
+1:53:08 Wait a second. That setting happens even if I'm muted.
+1:53:16 Oh, I'm learning something. Even if I'm muted.
+1:53:27 Yeah, I'm talking on a muted thing. So, my my it has to be muted.
+1:53:41 If the audio is not muted in the first place.
+1:53:59 If
+1:54:04 the source. I wonder if I combine those two then
+1:54:17 levels of weird source of
+1:54:27 lapel mic.
+1:54:37 Laptop mic.
+1:54:44 Lapel mic.
+1:55:13 or the value changed. Okay,
+1:55:20 I think I could simplify this maybe a little. But now if I mute the lapel mic,
+1:55:32 it's not muting. Why?
+1:55:55 Oh, it's not actually disabling. It's just muting.
+1:56:02 So, how do I test for
+1:56:08 if it's muted?
+1:56:23 I don't want the output volume. If the configured audio balance like I want
+1:56:28 to know the mute like it lets me mute.
+1:56:36 I can say audio mute but it doesn't let me query that it is muted
+1:56:43 mute unmute. It doesn't let me actually query the mute unmute. So instead of doing that,
+1:56:52 maybe I need to say
+1:57:02 source disable
+1:57:10 um laptop mic. This was the the
+1:57:17 that lapel mic. Let's go in order. Let's change these.
+1:57:27 And this will be source
+1:57:37 disable. Lapel mic.
+1:57:52 Um, it's better to turn both off.
+1:57:59 It's the on that I want to make sure that I disable. So let's say
+1:58:10 you're the source
+1:58:16 enable lapel mic
+1:58:23 and your source enable
+1:58:29 laptop mic disabled. And same with you
+1:58:41 source.
+1:58:48 Disable lapel mic
+1:58:58 source. disable.
+1:59:06 Laptop mic.
+1:59:19 It doesn't really matter if I turn you off. That's fine. It's you that matters
+1:59:24 whether I say source
+1:59:31 I had that backwards. This is turning on the B- Right back will disable
+1:59:38 the lapel mic
+1:59:44 source. Disable
+1:59:49 laptop mic. You
+1:59:55 do matter on you. I want to enable
+2:00:00 enable. All right.
+2:00:05 Mic on. Enable lapel mic. Don't do that. Mic off. Doesn't matter
+2:00:11 whether you disable or not. Detect on or off. Those don't matter. So
+2:00:16 that's correct. Disable. Enable. This is flipped. This is when I turn it off. I
+2:00:24 turn off to be right back. I want to enable the mics and mics. I turn V right back on. I want to
+2:00:31 disable the mic and the mic. It doesn't matter which one it is. This one is the audio ducking itself.
+2:00:38 And I could say if source
+2:00:45 select source lapel mic is active.
+2:00:53 So now if I deactivate you, not just mute.
+2:01:09 So if I
+2:06:32 Test one, two. Okay, there we go. I had this is the warning that they had
+2:06:43 um in this and I it is there's once you set the
+2:06:50 disable of it OBS can't show that and so I had I had called that hotkey to
+2:06:56 disable that and now I there's no way in OBS to do it other than to reauto back
+2:07:01 to doing it. So, now that that's working, um,
+2:07:09 but I probably did that to the, um, lapel mic, too. When I do on,
+2:07:17 let me do this source one more time. I got I probably have to fix this one for
+2:07:22 enable the laptop mic. I have to cycle this once.
+2:07:37 enable you and enable you. Laptop and lapel mic. Small echo. Turning off
+2:07:42 laptop mic. Okay. Um, interesting. The
+2:07:50 lapel mic shows up as stereo.
+2:08:16 It says stereo. That's fine. I thought it might be checkbox.
+2:08:22 So the audio ducking if the mic is is exciting the thing. But if I mute the
+2:08:28 mic, so that could be my indicator that I'm going to go into special mode. But all this stuff of the past 15 plus minutes was me going into a special mode
+2:08:35 that if I want to have the viewer see the audience and plus I learned that the
+2:08:43 um the level stuff uh monitors the level
+2:08:48 even when the mic is muted. So I have to keep track of that on the main game stream. But now if I mute the mic and
+2:08:55 play something then it's going to um go to a 100%. So, if I mute the mic,
+2:09:18 I need to fix that. Um, setting back to my con is now not the
+2:09:25 source enable. It's now the scene item visibility. Any scene show
+2:09:31 lapel any scene show laptop.
+2:09:40 But I don't want to do that if I'm using that that
+2:09:45 current scene. Show turn off that. Okay.
+2:09:52 Now let's try it one more time. muting.
+2:10:05 It did a double pump on the slider. If you notice this, when I go mute, it's
+2:10:11 going to creep up and then creep up a second time. I'm not sure why.
+2:10:25 But that's kind of if I can't automate that, it's not a big deal. All right,
+2:10:32 back to where we were with you.
+2:10:37 Um, I'm going to watch those levels now that we made it a video short. I I'm further closer in here.
+2:10:44 So, where were we on this? Now, if I mute my speaker, if I mute my
+2:10:51 mic through the Neo, then that's going to go into a special mode where um
+2:10:56 you'll hear the audio full. And plus, I've added a filter to boost its gain.
+2:11:03 Um so, you should hear it a lot better. So, let's let's start from the beginning again.
+2:11:11 And I'm gonna mute while I play this.
+2:11:16 can't. I can't while it's
+2:11:22 um not in the foreground. I gotta fix that. So, I'm gonna mute and tab over.
+2:11:32 19-year-old Casey when he first arrived into New York City, what is the advice that Casey needed to hear at that point
+2:11:39 that he he just didn't get? And I'm speaking to all the Jacks out there that are 19. [ __ ] that's tough.
+2:11:47 I think that like nobody cares about you is something that was never made clear
+2:11:52 to me. And I mean that in the most positive, optimistic, inspiring, motivating way. Like I think that
+2:11:59 especially if you see yourself as a creative or you want to exist.
+2:12:06 Okay. I don't need that filter. The the the problem was not that I needed to add
+2:12:11 gain. The problem was the automation. So I can come to your filter and um not
+2:12:20 boost you. Um
+2:12:25 it's going to be it is what it is. There's no reason for me to boost
+2:12:31 that. I do want to limit it so that if it's loud, I don't blow your eardrums
+2:12:36 out. So let's try that again. I'm going do the same thing again. I'm going to mute my
+2:12:43 mic, tab over, and hit play.
+2:12:51 19-year-old Casey, when he first arrived into New York City, what is the advice that Casey needed to hear at that point
+2:12:57 that he he just didn't get? And I'm speaking to all the Jacks out there that are 19 [ __ ] that's tough.
+2:13:05 I think that like nobody cares about you is something that was never made clear
+2:13:10 to me. And I mean that in the most positive, optimistic, inspiring, motivating way. Like I think that
+2:13:18 especially if you see yourself as a creative or you want to exist on YouTube or as a filmmaker, as a musician or as an artist or a painter, any of those
+2:13:24 things, like you think that everybody's paying attention. And because of that, it kind of controls how you think. And
+2:13:30 even when I was young and fearless and nothing to lose, I was still so cognizant of like how are people going
+2:13:35 to react to this and what's the best way to do like I was so aware. And the
+2:13:41 reality is nobody gives a [ __ ] Everybody is so focused on themselves in this world. Nobody has time for you. And
+2:13:49 the sooner you accept that as a creative person, the sooner you're free. Like
+2:13:54 you're totally free. Like do exactly what feels right to you. And if you can get yourself on that trajectory, then it
+2:14:01 goes back to what we were talking about before about being novel, about being an original, about not being a photocopy of
+2:14:07 somebody who did something. If you're that photocopy, you will never be the original. But the moment you accept the
+2:14:12 fact that you nobody cares.
+2:14:21 All right, there's another break. Uh, I'm making I'm making what I feel decent progress here.
+2:14:28 There's a break right here. I'll blade that.
+2:14:34 And then on this little segment here, we got to
+2:14:40 find the end. You start to go down that path, you will just get better and better and better. Then you sprinkle on that patient.
+2:14:46 There we go. It's a break
+2:14:53 that and better. Then you sprinkle on that
+2:14:59 patience I was talking about. You just keep going. You keep going and eventually like that persistence will
+2:15:07 just smash into like opportunity. Whereas it preparation will smash into opportunity. Persistence will smash into
+2:15:14 opportunity. and like your moment of explosion, your your detonation will happen.
+2:15:22 That was verbose, but you asked a big question. Okay. Um, and then we just need to
+2:15:30 resize this part and we'll shift it over. What would I
+2:15:37 have like a what I have before over on you?
+2:15:47 950.
+2:16:01 I go um 9 80
+2:16:07 90 uh 1,00
+2:16:13 I go 1,00
+2:16:20 moment you accept the fact that nobody cares. Do your thing. Nobody nasty to the 950. That was It's just the
+2:16:27 way he sitted for that frame.
+2:16:33 accept the fact that nobody cares. Do your thing. Nobody cares. And then you
+2:16:39 start to go down that path. You will just get better and better and better. Then you sprinkle on that patience I was
+2:16:44 talking about. You just keep going. Okay. And then finally the logo. We
+2:16:50 don't need to. Right. That one's good because that one's original.
+2:16:55 Um, when I tag that on, it brings it over
+2:17:00 two minutes. And shorts need to be uh under two minutes. So, I should let me
+2:17:07 double check that.
+2:17:13 Um, time limit that that in that video. I think they time
+2:17:21 time Nope, they don't mention
+2:17:30 up to three minutes. Record allows you to record one or more clips. Creating a short with a short form video creation
+2:17:35 tools create a short for a while. If your short is longer than 1 minute, you won't be able to use the audio picker to
+2:17:41 add sound. That's because shorts over one minute with copyrighted music will be blocked
+2:17:47 on YouTube. like and that's where there's this arbitrary weird um
+2:17:55 uh rules about uh if you're streaming you can or can't do this thing. Um it
+2:18:02 has you can't stream you can record copyrighted music but Twitch won't let
+2:18:10 you do this. So you have to basically uh it's it's so there's so many these weird
+2:18:16 arbitrary rules that people come up with. So
+2:18:22 it says two minutes. If it's over a certain It says three minutes. Um shorts over one minute with copy
+2:18:29 music will be blocked on YouTube. I don't know if this copyrighted um if I'm
+2:18:34 stealing from Diary of a CEO. Uh and if I'm allowed two minutes and to
+2:18:40 have that bumper. Um I've already lowered the gain. I get a lot of complaints about the gain. I
+2:18:46 promise I did not boost the gain on this bumper here.
+2:18:53 I did not the the the unaltered version of that is not me boosting the audio
+2:18:59 level. It is literally um iced tea um body counts
+2:19:06 uh just it's heavy metal rock and roll but it's the end of a song and you're already used to the sound. So it's still
+2:19:12 abrupt. I get that it's abrupt, but uh it's I'm not boosting it to be an
+2:19:17 annoyance. I And I do tend to lower it and especially is a kind of a quiet thing. Um if it's quiet, um
+2:19:26 I almost always intentionally set that level to be -10 dB or full. Um
+2:19:36 and this do I want to But you asked a big question.
+2:19:47 That's copyrighted music right there. Um, but the artist allows it.
+2:19:56 So, let's see what happens. I I I wanted I'm
+2:20:01 tempted to do that. And now if I export this. Um, so we're done. That's it. I
+2:20:07 was making another video
+2:20:14 that I'm essentially I get that I'm essentially stealing from
+2:20:20 D of a CEO at this point. Um, it's arguable
+2:20:25 on its in its simplest view. I'm stealing and it's um free use since I'm
+2:20:32 educating, I'm sat satarizing, I'm critiquing. It's it's fair use and I'm
+2:20:39 showing how to edit this. So, I could put um from Dire of the CEO on here as
+2:20:48 uh if I put it on the actual video, it doesn't really do any good. It needs to
+2:20:54 be metadata in a text that's clickable and linkable. Um I kind of wanted to put something at
+2:21:01 the beginning of this, but the fact that this thing came out to I thought shorts were limited to two minutes. the fact
+2:21:06 that it came out to 150. Um,
+2:21:12 yeah, I cut it down. It's 156. There was something I cut out that was like 157, 158. It was like right on the edge and I
+2:21:19 did a little cut. Oh, I It was the very beginning where um Steven is like laughing and mumbling and then turns and
+2:21:25 takes a deep breath and says, "So, my question really was to you."
+2:21:31 And then I cut it there. That's and then I start at Casey is a 19-year-old entering New York.
+2:21:39 Um, so I saved myself a couple seconds there. Um,
+2:21:44 I like it. I can try to export this and I can try to send
+2:21:49 a a 4K short up and see what the hell they
+2:21:54 think.
+2:22:00 Um, that's that's large. I wonder if they allow. So, let's see
+2:22:07 that. Um, NVK advice, somebody cares about
+2:22:14 you. and
+2:22:20 could also export a 1080.
+2:22:31 Yeah. So, let's just do that at 1080
+2:22:42 and then we'll see on
+2:22:50 I had you. I had you. I had you. Don't really
+2:22:56 you create.
+2:23:03 We'll see what
+2:23:12 it's not done yet. So, it's still exporting
+2:23:19 to All right. Uh, I'm getting a little
+2:23:24 headache. I got a lunch.
+2:23:30 So, that video you we watched it in its entirety. Did
+2:23:37 we? I'm a little nervous about the copyright strike.
+2:23:42 Let's look at the final product, people. Yeah, educational purposes.
+2:23:48 This is the 4K version. Let's see what happens when I mute my
+2:23:53 mic. Nope. Can't do that.
+2:23:58 I got to put OBS in the foreground. Not quite sure why that happens.
+2:24:05 Going to mute the mic and then do it.
+2:24:11 19-year-old Casey when he first arrived into New York City, what is the advice that Casey needed to hear at that point
+2:24:18 that he he just didn't get? And I'm speaking to all the Jacks out there that are 19. [ __ ] that's tough.
+2:24:26 I think that like nobody cares about you is something that was never made clear
+2:24:31 to me. And I mean that in the most positive, optimistic, inspiring, motivating way. Like I think that
+2:24:38 especially if you see yourself as a creative or you want to exist on YouTube or as a filmmaker or as a musician or as an artist or a painter any of those
+2:24:44 things like you think that everybody's paying attention and because of that it kind of controls how you think and even
+2:24:51 when I was young and fearless and nothing to lose I was still so cognizant of like how are people going to react to
+2:24:57 this and what's the best way to do like I was so aware and the reality is nobody
+2:25:02 gives a [ __ ] everybody is so focused on themselves in this world. Nobody has
+2:25:07 time for you. And the sooner you accept that as a creative person, the sooner
+2:25:13 you're free. Like you're totally free. Like do exactly what feels right to you.
+2:25:19 And if you can get yourself on that trajectory, then it goes back to what we were talking about before about being
+2:25:29 so that's kind of the the the fact of the matter and the point. It's like I
+2:25:34 mean I'm I'm unemployed. I'm I feel like I'm and this is the philosophical part
+2:25:41 of the stream and the reason for this and the reason why it's number one here and what's going through my mind.
+2:25:48 I'm unemployed. I've got savings. Um
+2:25:54 I'm also heating food. Sorry for Hopefully the background noise.
+2:26:00 Yeah, you don't it don't it's not registering so you can't hear it. This doesn't get much more freeing than
+2:26:07 standing here um in your pajamas in a Batman pajamas.
+2:26:13 Like this is pretty freeing and I'm I'm I I'm enjoying being unemployed.
+2:26:20 And if I'm going to ever make progress on this channel and take
+2:26:26 it seriously, now would be the time and the moment that I do that.
+2:26:32 Um, it's when I had a job, I never had time to focus on this. And it took me about
+2:26:42 9 10 months to kind of take this seriously and realize this
+2:26:50 that I can stop my pity party. I was dark and I still am dark. I still
+2:27:02 You can probably You can probably hear those beeps.
+2:27:11 I'm still pretty dark. I'm really dark.
+2:27:21 I'm Batman dark. Okay. I mean, I'm Batman, so I'm dark, but
+2:27:34 Sorry for the bump in the mic. I've watched
+2:27:40 Jamie, what's his name from the I do I do like his.
+2:27:47 Let's Oh, let's do the upload of the You want to try that? Try the 4K one.
+2:27:54 I'm curious what happens. see what happens.
+2:28:05 Well, while that's happening, test um
+2:28:12 what's his name? Um test
+2:28:18 bench Jamie.
+2:28:23 Um, who was the guy from?
+2:28:30 Oh, Mythbusters.
+2:28:43 It's Adam.
+2:28:55 Yeah, Adam Savage is tested. So, watching this guy, in fact, I should
+2:29:00 just subscribe to him on on this. I don't mind. Um,
+2:29:08 he has his little I'm not at all to his level of success. I mean, uh,
+2:29:15 for sure. I mean, no doubt about it. can't even compare myself to his level of success.
+2:29:22 Um, but I'm been in the software industry for 27 years and I've saved some money. I'm
+2:29:29 I'm not broke. I'm not financially poor. I currently at this moment I'm not overleveraged.
+2:29:35 Um, I I have quite a bit in savings. I can last for a couple of years. Um, I
+2:29:41 don't want to I'm going to kill my savings. Um, and I got to eat. Sorry, cuz I'm
+2:29:48 getting lightheaded again. Second second day in a row. It could be the
+2:29:55 not drinking water and that sort of [ __ ]
+2:30:07 But I feel like Jamie uh Adam Savage, I keep calling him Jamie. Jamie was the
+2:30:13 other guy.
+2:30:21 Need some water. Be right back.
+2:30:31 So, he's I'm at that stage. I'm at a I'm at a stage in my life. The other the other
+2:30:39 part of the video, I thought about editing this and I double check. I don't
+2:30:45 have a copyright strike. Make sure that I'm still going live.
+2:30:50 Nothing's cut me up. Okay, there's another video on Dire CEO,
+2:31:01 the indulgence thing.
+2:31:06 I can play this for you. We'll see how long this uh copyright
+2:31:12 strike avoidance continues to go.
+2:31:20 I think if you get a strike, you can cut that section out.
+2:31:28 So, and then a peel. I kind of want to learn that process.
+2:31:40 That's some water.
+2:31:56 My wife's also given me a list of [ __ ] to do, which includes
+2:32:05 the recycle, the compost.
+2:32:14 This is my job nowadays. Socks in the basement,
+2:32:20 breakfast put away, dishes loaded. I'll get there.
+2:32:26 Is it three? Whoa.
+2:32:32 Grabbing socks. Hey, let me try.
+2:32:38 I'll be right back. And I think it's going to blip on me. Yeah, it does.
+2:32:46 Let me um
+2:32:55 thought this worked yesterday. I was pretty certain maybe I was only when I had this in the foreground. So be right
+2:33:01 back.
+2:34:38 Um,
+2:34:44 so I'm trying to wrap up the philosophical part of this and I'll probably have to end soon, too.
+2:34:50 I might not have to, but who knows?
+2:34:56 Put this back on the corner here.
+2:35:14 But I'm going to try to make more of a point of
+2:35:25 wonder if I could make a OBS
+2:35:30 Sorry.
+2:35:38 Is there a No, there's not because I already have it plugged in. Um, offstream ideas.
+2:35:44 This is in the notes section.
+2:35:49 Um, stream deck neo
+2:35:56 OBS audio level
+2:36:02 in the idea here is that
+2:36:08 in the tray here in the info bar you can put in OBS. You can do some pretty cool
+2:36:14 things like um
+2:36:19 I can do it here. I don't think it's going to mess up the stream. I think it'll be fine.
+2:36:27 Nope, that's going to mess up the stream. If I dive Dang. If I dive into that, it's going to switch the scene
+2:36:33 now. Um, and I can't disable
+2:36:44 this that. So, that is a it's kind of a oneway. I couldn't have a button beside
+2:36:51 it. I can in I can make a button that does that. I copy this,
+2:36:56 paste it. That's a lighter weight version that doesn't
+2:37:08 actually launch. Um, that just goes straight in.
+2:37:13 And I don't want to change the scene collection. So,
+2:37:19 I just want to step inside of the profile and actually get rid of all this. Delete.
+2:37:27 Delete. Delete. Delete.
+2:37:34 Delete. So, it's a single step, multi-step.
+2:37:40 Um, and I same do the same thing for you. Copy paste because I'm going to want to go back into you.
+2:37:49 Get rid of you. you software is it functions. Is it ideal?
+2:37:57 Is it like optimized? No. So now I've got a lightweight version
+2:38:04 that I can basically step into and go to these timers. So
+2:38:12 here like the stopwatch. I can reset this and doing a stopwatch now. And it you
+2:38:20 can update it. You can see there it's it's animating
+2:38:26 and that's what I'm seeing on my Stream Deck Neo. So, you can animate this stuff. There's a small little frame
+2:38:32 rate. I don't want how many frames per second you can do on them.
+2:38:39 But I bet this is not original idea. It's really hard to have an original idea nowadays and come up with like
+2:38:46 really cool idea. Someone's already done it. Fairly cool idea. Someone's already done it. Shitty idea, someone's already
+2:38:52 done it. Even a bad idea are taken nowadays.
+2:39:05 It's probably coming up on the microphone pretty loud. My eating
+2:39:19 Anyway, info bar
+2:39:36 stream OBS audio stream Neo infoar. Neo infoar is that
+2:39:43 what they call it? What the [ __ ]
+2:39:49 Yeah, info bar. Stream deck Neo infoar.
+2:39:55 OBS audio levels.
+2:40:01 There's got to be a way to do that because what I don't notice is that if if I can see my microphone.
+2:40:09 Um, I can see it in OBS, but I'd like to know that that's doing
+2:40:14 the level. Um, and if how many pixels that is and how that's actually not a
+2:40:20 half bad idea. Do I digress? Um, I'm going to digress
+2:40:26 in a second for a bio break.
+2:40:56 going be a little hell to pay when I haven't done any done my job
+2:41:02 today on my honeydew list.
+2:41:15 I think it would have the clock.
+2:41:22 So, here's um I almost think that's a good enough idea
+2:41:29 to put in the goals of the coding is a Stream Deck Neo info bar.
+2:41:44 I have the clock on it.
+2:41:59 Um, I do. There's the thing. I thought I had
+2:42:06 that in the those in the notes. I can see it off the screen.
+2:42:13 Um, stream tweaks add redacted when redacting.
+2:42:19 Um, I was going to show the Casey Nesb Nistat. Casey Nesbbit. Who is Casey
+2:42:25 Nesbet? I don't know. Neistat. Um,
+2:42:32 to wrap up the philosophical stuff about this is why I'm doing more streaming
+2:42:37 than you than I have ever done, which is now I' have what, two days in a row plus Friday and Friday the week before. But
+2:42:45 I'm coding these little micro projects that kind of get me they're they're dualpurposed.
+2:42:52 the triple or quadruple on tandra meanings going on here. But um they're
+2:42:59 one just something to do. Idle minds type stuff. But um they're not just something to do.
+2:43:08 They're also ways to practice continuing to code.
+2:43:14 And then they're also relevant to
+2:43:20 improving or optimizing my channel automation.
+2:43:26 And I thought yesterday, is there such a thing as like an OBS engineer or a
+2:43:31 stream engineer? Is there a job that I can get where I work for a large
+2:43:37 streamer to build software for them to automate?
+2:43:42 like, can I just work for um like PewDiePie or I don't even know
+2:43:50 who the big streamers are. I think Ninja's probably like like a nobody
+2:43:55 nowadays. But whoever these big gamers are like I No one has a game stream like
+2:44:03 I do. I don't see anybody doing picture and picture. I don't quite understand why no one does picturein picture.
+2:44:09 So, I'm doing this because I think it's neat and fun and interesting.
+2:44:14 Um, why don't I see anybody else doing picturein picture streaming? Why is everyone all all of the streamers are
+2:44:21 all about me me? This is me on a stream playing games. How narcissistic
+2:44:28 uh how spoonfed, how cookie cutter that is.
+2:44:34 to finish up um what he what need what Casey's saying
+2:44:41 here and then I'll segue into the next thing. So, this is going to drop the audio level a little bit.
+2:44:49 Um he goes into um do forget that people
+2:44:54 are watching and just do what you want to do. Drop the barriers. But this is a guy who says he had no barriers, but he
+2:45:02 clearly was post-producing and had a barrier. But here I am trying to just
+2:45:08 almost exclusively live stream. Um, I might push out little my content
+2:45:14 creation will be a side effect of my live stream or if I have an idea while live
+2:45:21 streaming, then I will content create that idea. Um, other people, they're content
+2:45:27 creators and then, oh, because I got famous and they have it, to me, they
+2:45:32 have it backwards. My brain doesn't work that way. I think you drop the barriers, you live stream, and then you come up
+2:45:40 with something while live streaming and then you then you tag it, you make a
+2:45:46 note of it, and then you create that as content, as a result, as a nugget.
+2:45:53 Anyway, continue with Casey here. Focus on themselves in this world.
+2:46:02 And the sooner you accept that as a creative person, the sooner you're free,
+2:46:07 like you're totally free. Yeah. Totally free. Exactly what feels right to you. And if you can get yourself on that
+2:46:13 trajectory, then it goes back to what we were talking about before about being novel, about being an original, about not being
+2:46:19 a photocopy of someone who did something. You're that photo copy. You will never be original. If I talk, I want the level to be more
+2:46:27 of like a 20. I'm like a 30.
+2:46:33 Actually, let me experiment with that. I've done a lot of distractions. While he's talking, let me find the level.
+2:46:42 Um, this this is going to help my mainstream. Let me find the level
+2:46:49 that makes that good. Okay. So, I'm going to
+2:46:57 um scroll this to the side and make you any smaller. Not really.
+2:47:07 So, let's I can at least squeeze squeeze you over there,
+2:47:15 can I? I don't get the docking sometimes.
+2:47:24 I have an appointment sometime.
+2:47:33 So that's docked here. Of course it is off screen.
+2:47:49 And then you. So now I can
+2:47:58 tweak you a little bit. And this is this is pretty good where if I'm this will
+2:48:03 help my gaming streams
+2:48:08 by finding this level so that I'll let
+2:48:14 the ambient audio the this games the natural output of the speaker play
+2:48:22 at full volume until it starts to register on my microphone so much that I
+2:48:29 need to clamp clamp it out. The point is then if if I speak only
+2:48:34 when I speak what should it clamp the audio my microphone picking up the the output
+2:48:43 of the um I got room there.
+2:48:49 My microphone picking up the speaker's output shouldn't be clamping and ducking its own audio.
+2:48:56 All right, let's set this to high.
+2:49:05 Okay, if I talk that's that's enough for sure. Um,
+2:49:12 but if I start this motivated way,
+2:49:17 like I think that especially if you see yourself as a creative or you want to exist on YouTube or as a filmmaker or a musician or as an artist or a painter or
+2:49:24 any of those things like you think that everybody's paying attention and because of that it kind of
+2:49:29 controls how you think. And even when I was young and fearless and nothing to lose, I was still so cognizant of like
+2:49:35 if I talk then that ducks it what's the best way to do like I was so aware. And the reality is nobody gives a
+2:49:42 [ __ ] Everybody is so focused on themselves in this world, nobody has time for you. And the sooner you accept
+2:49:50 that as a creative person, the sooner you're free, like you're totally free.
+2:49:56 Like do exactly what feels right to you. And if you can get yourself on that trajectory, then it goes back to what we
+2:50:02 were talking about before about being novel, about being an original, about not being a photocopy of somebody who
+2:50:08 did something. If you're that photocopy, you will never be the original. But the moment you accept the fact that,
+2:50:13 and there's the photocopy, all these streamers just How narcissistic is it?
+2:50:19 Um, he mentioned in another one. So, this is me talking. I think that's kind of right near the threshold. If I If I
+2:50:27 talk a little bit quieter, a little bit quieter, a little bit quieter. This is not really going to trigger. It's probably going to start to climb here in
+2:50:33 a second. So, if I talk a little bit, this is me. No,
+2:50:38 that's that is enough to trigger it. So, that's probably pretty good.
+2:50:45 If I whisper or mumble or talk, that's still enough to trigger it.
+2:50:59 Let's just say 25. 24.
+2:51:05 Not yet.
+2:51:16 Let's call it 24.
+2:51:25 So I mumble and talk. At what point in time does my voice have to get that? That's pretty good. And then the second
+2:51:32 thing is I'm kind of realizing I don't with the game audio that's so constant
+2:51:38 that I I and I was looking at it like the other um
+2:51:44 people uh my other org members for this stream. It probably doesn't
+2:51:50 make much sense for me to say that that should be -12. So, I might
+2:51:56 just let you be zero. And watch that. Watch this. Go all
+2:52:04 the way back up to the the volume. The laptop audio capture is going to go all the way back to zero. Now,
+2:52:17 liar. Only when it ch Yeah, that's right. But
+2:52:22 only when it can because the variable is set to -12. I set to zero. Only when I mute does it
+2:52:29 actually do that. So I set you to zero. And now I let this thing go and let it
+2:52:36 return.
+2:52:43 Bam. That did pretty good. And that's a negative 24 drop when I'm
+2:52:50 talking, which if it's music for sure, I need to clamp the music because the music's like that I typically listen to
+2:52:57 on that stream is um pretty dramatic and epic just because
+2:53:03 I'm trying to come up with it for a stream. Did I get a text from my wife?
+2:53:15 Um that's on the Thursday. Okay.
+2:53:21 Um
+2:53:33 I think that's good. I think. But I I'm curious when I talk over Casey now
+2:53:39 if I how much I clamp over his audio and if I can basically kind of do a a
+2:53:45 reaction type of sound sound quality where I can talk and duck him just a little bit.
+2:53:53 Um, so let's repeat this section of his. I don't know the second that it's at,
+2:53:58 but let's repeat it again.
+2:54:07 those things like you think that everybody's paying attention and because of that it kind of controls how you
+2:54:13 think and even when I was young and fearless and nothing to lose I was still so cognizant of like how are people
+2:54:19 going to react to this and what's the best way to do like I was so aware and
+2:54:24 the reality is nobody gives a [ __ ] everybody is so focused on themselves in this world nobody has time for you and
+2:54:32 The sooner you accept that as a creative person, the sooner you're free, like
+2:54:37 you're totally free. Like do exactly what feels right to you. Do what feels right. And if you can get yourself on that
+2:54:43 trajectory, then it goes back to what we were talking about before about being novel, about being an original, about not being
+2:54:50 a photocopy of somebody who did something. If you're that photo copy, you will never be the original. Yeah. And like that's and that's kind of
+2:54:57 the point of this. Like no one's doing this. No one's doing
+2:55:03 it's I don't really get out there and maybe I should maybe I should get out there and see what's going on in the
+2:55:09 world but I do not see pictureand picture streams. I do not see anybody
+2:55:15 doing what I do. And I it's and it doesn't compute. It doesn't make sense
+2:55:21 to me how the esports is the way it is
+2:55:27 and I'm the only one on the planet that's doing gaming the way I do it. It
+2:55:33 doesn't make any sense to me. Um
+2:55:41 I just found a use for these um for these timers here. I thought they
+2:55:48 might only be useful in the game, but if I copied them over to the stream to the
+2:55:54 uh behind the scenes, I might be able to just time box myself, do countdowns and time boxes and um stopwatches and seeing
+2:56:04 how long it takes me to do stuff in the stream. I can basically give myself a 30
+2:56:10 second or 120 second um time box
+2:56:16 to wrap up one of my tears.
+2:56:22 So, I'll have to review how that audio went. I'm at what point in the stream am
+2:56:28 I? I can bring you up a little. No, I can't.
+2:56:38 I am two hours and 56 minutes into the stream
+2:56:43 and I can see at about 2 hours and 50 minutes into the stream. Um, if I say
+2:56:50 note to self, then later I can look at the transcript and see note to self and
+2:56:56 find out this section. So, I may copy this. Um, can I copy a
+2:57:04 whole page? I don't think I can copy a whole page.
+2:57:20 Uh, I'm confused. Okay. Sorry. That was
+2:57:29 That text it to only pins. All right. Um, if I could
+2:57:36 copy. Huh? I can. Look at that. And then go behind the scenes
+2:57:43 and
+2:57:48 paste. That works. Delete.
+2:57:55 Okay. That's doable. I copied them individually yesterday. Um, all six of
+2:58:01 those individually, one at a time, but you can apparently just right click and copy that whole thing. What does
+2:58:08 configure do? Change icon. We get an icon for it. Page
+2:58:15 name. Yeah, doesn't really not a whole lot, but
+2:58:26 So yeah, I'm I'm trying not to be cookie cutter. I'm I I feel like I'm a pretty original. What I'm doing I feel like is
+2:58:32 pretty original. Um and excuse me, the um
+2:58:40 I just build it and they will come. My dirty mind hates that last word. But
+2:58:48 um so here's the other Casey
+2:58:53 video. That one seems Let's see how uh YouTube strikes this. Here we go. Where's my YouTube strike?
+2:59:02 Um does it show up and it passed the checks?
+2:59:13 Um, diary of a CEO. Oops. Diary of a CEO
+2:59:24 Casey.
+2:59:32 Let's just grab the file name because I got it.
+2:59:51 thing is I don't think this is going to be a short. I think this is just going to show up show up as a
+2:59:57 as a video.
+3:00:02 Um 20 because I have it here and I'm kind of this
+3:00:13 Um 2023 121
+3:00:26 Casey knees stat cakey.
+3:00:42 Now, make sure I don't get his name wrong.
+3:01:04 Nobody cares.
+3:01:14 So, um whether this comes out as a short or not, I
+3:01:20 how to upload YouTube shorts. This is from the mobile. But then how do
+3:01:27 you upload a short?
+3:01:33 I use a smartphone. How to create a short.
+3:01:41 Create YouTube shorts from your videos.
+3:01:48 Only you can edit your long form video into a short. Tap remix. Edit into a short. Go to the
+3:01:56 watch page of your video. So, this will become a video.
+3:02:05 And can I make it a short from Android? I don't know. I mean, I can, but anyway.
+3:02:14 Um, so trying this upload
+3:02:19 next.
+3:02:25 This is nothing. No subtitles. It says checks fine.
+3:02:31 No copyright issues found
+3:02:36 public.
+3:02:42 And I wonder if that's where I was wondering if uh
+3:02:47 the long form, the standard form and then but that's going to jump around and it's going to be hard. This is like I I
+3:02:55 tailor edited this. I found this. This is a horrible um
+3:03:01 this is a horrible version. This edit is horrible.
+3:03:08 um they just they they cut it and it's so short and it's like not even it's 27
+3:03:14 this whole segment is two minutes long and you you miss the meat of it. Plus
+3:03:20 then he even kind of I cut out this first
+3:03:27 to get back to your point part anyway. Let me play this. Nobody cares about you is something that
+3:03:34 was never made clear to me. And I mean that in the most positive, optimistic, inspiring, motivating way. You think
+3:03:41 that everybody's paying attention. And because of that, it kind of controls how you think. Nobody gives a [ __ ]
+3:03:47 Everybody is so focused on themselves in this world, nobody has time for you. And
+3:03:52 the sooner you accept that, the sooner you're free. So someone else did it. Like this person
+3:03:59 did it, so I should be able to, right?
+3:04:05 Um, so
+3:04:10 I don't think I'll have a problem. This is a long form and I don't know if
+3:04:17 this I could do uh I could not list it. I can do a private
+3:04:24 and
+3:04:30 let me do it unlisted.
+3:04:39 and see what it looks like as far as in the videos.
+3:04:48 It does show as a short. Okay,
+3:04:53 so it shows as a short. How does it play?
+3:04:59 19-year-old Casey when he first arrived into New York City. What is the advice that Casey needed to hear at that point
+3:05:06 that he he just didn't get? And I'm speaking to all the jacks out there that are 19. [ __ ] that's tough.
+3:05:12 So, this was the 4K version that I uploaded and it took it right. So, this
+3:05:17 is where reading the instructions. The instructions say um my wife's going to probably text me
+3:05:23 in a moment saying I have to pick up the kids. Obviously,
+3:05:31 the 4K was allowed. So, there you go. I think that like nobody cares about you
+3:05:39 is something that was never made clear to me. And I mean that in the most positive, optimistic, inspiring,
+3:05:45 motivating way. Like I think that especially if you see yourself as a creative or you want to exist on YouTube
+3:05:51 or as a filmmaker or a musician or as an artist or a painter or any of those things like you think that everybody's
+3:05:57 paying attention and because of that it kind of controls how you think and even when I was young and fearless and
+3:06:02 nothing to lose I was still so cognizant of like how are people going to react to this and what's the best way to do like
+3:06:09 I was so aware and the reality is nobody gives a [ __ ] Everybody is so focused on
+3:06:15 themselves in this world, nobody has time for you. And the sooner you accept that as a creative person, the sooner
+3:06:23 you're free, like you're totally free. Like do exactly what feels right to you.
+3:06:28 And if you can get yourself on that trajectory, then it goes back to what we were talking about before about being
+3:06:34 novel, about being an original, about not being a photocopy of somebody who did something. If you're that photocopy,
+3:06:40 you will never be the original. But the moment you accept the fact that you nobody cares. Do your thing. Nobody
+3:06:46 cares. And then you start to go down that path, you will just get better and better and better. Then you sprinkle on
+3:06:52 that patience I was talking about. You just keep going. You keep going. And eventually like that persistence will
+3:07:00 just smash into like opportunity. What is it? Preparation will smash into
+3:07:05 opportunity. Persistence will smash into opportunity. And like your moment of explosion,
+3:07:11 your your detonation will happen. That was verbose, but you asked a big
+3:07:17 question this [ __ ] night.
+3:07:23 [Music]
+3:07:30 All right. Um I go public with it. It it took and
+3:07:36 it's let's go bubble g.
+3:07:51 Why not?
+3:07:57 Okay. Um so that was that. Um
+3:08:03 that's Jamie. There's the post that just came out.
+3:08:09 Um, keep saying Jamie Adam Savage's test bench. Um,
+3:08:15 I'll set up a behind the scenes. These are my shortcuts. Nobody cares.
+3:08:24 Uh, these are things I wanted to
+3:08:29 watch. All right. Uh, I'm going to take a break. Uh, but I'm gonna stay on the
+3:08:35 stream for a little bit and, uh, maybe tinker around a little bit. I'm
+3:08:41 going to do some dishes and do my honeydew list. You want to see my
+3:08:47 honeydew list?
+3:08:53 My honeydew list. I done most of them.
+3:09:02 Uh, but I'll try the be right back.
+3:09:10 Step up. Step in. And uh
+3:09:18 I'll do the be right back and be back in a little while.
+3:12:11 actually I am going to end the stream because um I got to go pick up my girls.
+3:12:17 So, um, I may I'll probably I'm make an attempt to start it up again later
+3:12:24 tonight. And I'm going to try to do this a regular thing, taking inspiration from
+3:12:34 just get out there and like I I have gotten out. I've I've done
+3:12:41 meetups. I've gone physical meetups and stuff and this is just it's a lighter weight version of it. Um, I'll still get
+3:12:47 out. This is not a substitute for getting out into the real world. Um,
+3:12:53 so yeah, I'll just keep streaming, keep getting out there,
+3:13:01 try to ignore my dark side. All right, thanks for watching. Like and subscribe.
+3:13:07 Um, and testing if my closure works here. All right, see you later.
+3:13:18 I'm not this [ __ ] night, [ __ ] [Applause]
+3:13:25 [Music]
