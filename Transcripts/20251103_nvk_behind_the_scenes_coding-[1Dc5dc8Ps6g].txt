@@ -1,0 +1,1345 @@
+2:58 Oh, I totally I totally goofed that one up, didn't I? Yeah. How about like uh
+3:06 where' that thing go? Starting soon. That's what I want to do. I actually want to do that and turn you off. How
+3:15 about that? This Am I overdriving the headset?
+3:21 That's pretty high on the on the levels. I meant to do starting soon.
+3:29 Um, so yeah, let me uh jump into this one here
+3:36 and meant to start with starting soon. I've actually even got that on the checklist uh
+3:42 right over here. Let's turn this off.
+3:49 I am. And there's the video player. Bam. That was that one.
+3:54 That was quantum by Riley. Now playing Frozen in Fear by White Bat Audio.
+4:02 That is the music player that I have been working on. But before I get into
+4:07 this, uh, let me look at my me shrink this window a little cuz it's
+4:14 if it's so big, then it I can't really see. And
+4:23 uh, we can shrink you. Well, well, if uh we have time, we'll get into this. And
+4:29 hopefully the audio is a whole lot better. And I would like to see
+4:37 that be over there. And yep, I got to switch this layout to I learned this
+4:43 last week. If I set these docks to be like turn you off. There we go.
+4:49 Now I can basically put my audio mixer all shove it all the way to the right side and I can bring you back and put
+4:57 you here so I can watch my audio levels during the stream.
+5:06 Um last Friday's stream was
+5:11 it's like 19 minutes. It was kind of a disaster. F it's Halloween. Halloween is a cursed
+5:19 day, right? Um it it just I was off the
+5:24 day was off. I had decor I had Halloween stuff to put out still. Um for
+5:31 trick-or-treaters still some Yeah, some decorations. I think the candy I was doing making a music playlist. Um
+5:39 all sorts of things. I was actually preoccupied and I was trying to squeeze in a real quick 30 minute stream. Um,
+5:45 and then my wife showed up. And I'm going to be eating on the side
+5:51 here, too, because uh my wife showing up was not a bad thing at all. It's just
+5:56 that she showed up and and that meant I had to get to work. So, I couldn't I thought I had another 15 20 minutes easy
+6:04 on the stream. Uh, I am going to still occasionally peek on the camera. I've adjusted the
+6:10 height. Oh, hey, there we go. Turn that off.
+6:16 Um, I'm adjusting the the height on this thing. Like if I go down here, the auto
+6:22 zoom, the camera, hello. Show that you're working. Center stage is there.
+6:29 And it's supposed to like figure out if I go over here, it tracks.
+6:34 If I go over here, it tracks. I come up here. I was playing with the height of
+6:39 this so that that it's not quite so down, but it's not not quite so up
+6:44 either. And that was this. I could drop the
+6:50 bottom side by like 90 pixels, 89 pixels.
+6:58 Drop you by about if that's 127. Let's try 75.
+7:06 and do 85 pixels. So that'll be 1350.
+7:12 That's still is a quite a bit. 40 47 55 51.
+7:18 It's not perfect, but there we go. And I'm going drop you down a little bit. And then I increase U on the text and
+7:26 the goals. And we'll change you to be more like I I could go 2,00. It really
+7:33 doesn't matter as long as it's kind of in general less than the height of the window. It doesn't even matter at that.
+7:40 Um, I'm going to be eating a little bit along the side here as I talk about
+7:47 the some of the topics here and um I hope I'm not overdriv audio. I
+7:55 have changed this microphone a little bit and I'll get into that as part of the Bluetooth A2DP
+8:02 um handsfree profile. Um I didn't really know it was called that, but I learned
+8:08 that over the weekend. Um and I did a pre-stream checklist. I don't think I'm
+8:14 going to suffer anyone through it. I think it came across uh okay. I think I don't have to show that anymore. I think
+8:21 I kind of have that. Not quite muscle memory yet, but it's getting there. Um,
+8:27 so I did do the street pre-stream checklist. I'm going to keep that. I
+8:32 don't need to have it as a topic anymore. Um, when I go through my notes,
+8:38 I always do I'm basically always going through this checklist and I'm improving the uh the setups.
+8:46 And what was the one thing I changed? I did change something which was the
+8:55 now playing path which I don't really need to change. That one's not going to change very often. That's only if I'm developing. So I don't need to add that
+9:02 to this list. And hopefully the audio is is pretty
+9:08 low. I have a variable for that. I can change this variable to be like 32.
+9:17 And that should drop that a little bit.
+9:26 Next time I'm talking, this should be a little bit lower. That should be about 30. It still says 24. I don't know why
+9:31 it took why it didn't take. That's the threshold.
+9:38 Um I say 20. 28 is what it was.
+9:44 And what I want to do is now playing
+9:50 is the mic audio ducking.
+9:56 Then drop it to - 24. This is where the 24. So uh the threshold would be
+10:05 uh mic ducking level. Mike
+10:11 ducking level. It's actually the name of the variable. And we'll call that
+10:18 30. Um, and that's the mic duck level. And I can
+10:26 change this to be the mic duck level. And I dust.
+10:37 Now, if I talk down, it goes to -30 in the right side. So I can change that
+10:42 level with a variable over here. And I can if I'm talking if the music is
+10:47 way too silent now I'd rather air the music to silent. It's just background
+10:52 stuff. This is a very loud we'll get I'll get into over time I will improve
+10:58 the playlist so there's more backgroundy music than just um
+11:04 than just uh random no random noise. So, I definitely want to improve the
+11:09 playlist a little bit. Copyright strikes, too. Oo, I could say the show the progress on the copyright
+11:15 strike. Uh, copyright dispute. Uh,
+11:20 um, copyright dispute, which which it wasn't really a dispute.
+11:28 It was just a, hey, you're using audio from White Bad Audio is what it was. And
+11:35 it's just saying you are. and it doesn't affect you right now, but it could affect your ability to monetize in the
+11:41 future. And like I really care, but um I mostly wanted to do it as a practice. And that's what I was trying to do two
+11:48 streams ago was to um
+11:55 check that and um to follow through on one of the videos and I did that on
+12:02 these and it was um my lives
+12:12 that's not even showing thumbnails. Hello
+12:19 Um, that was those those those these none. I don't even I don't even know if it's
+12:24 going to show it anymore. I think I've already um gone in and processed it.
+12:31 What's showing? Yeah, here's the claim. So, but here, look at his email. I went
+12:37 through and did a dispute on uh white bat audio and basically here's
+12:45 uh yeah one of five but there were a lot more than that. There's there were like 12
+12:52 are one of five total emails. It doesn't show me the thread count but basically I disputed all these songs and it took him
+13:00 about an hour or a day uh less than 24 hours. Uh, WhiteBat did that. I'm
+13:07 wondering if I can contact Whitebat Audio and ask for kind of a perpetual
+13:12 license so that we don't uh bug anyone. So, let me add a note for that as a
+13:18 followup. Um, offstream, I got a lot of stuff. So,
+13:26 White Bat ask for a license. There's also Utho, but I haven't gotten
+13:33 any strike any disputes from him at all ever.
+13:39 Um, so that's that's basically it on the copyright dispute. I basically cleared
+13:45 out all of that on that. And so now I know what to do for the other ones.
+13:51 um
+13:57 for these has shown up copyright. I know how to go in and and deal with that and
+14:03 this one. And I'm going to guess that I'm getting one right now on this one.
+14:08 uh or will get one eventually once the uh white bat
+14:17 copyright algorithms do the math. The math.
+14:25 Um that was the copyright dispute. I talked
+14:30 about that. Do I need to say did done?
+14:35 There's I I will put in notes that offstream I I I should
+14:43 continue to clear those out and kind of establish a pattern of disputing them
+14:50 and being granted and that would just help me
+14:55 uh I believe would help me show establish a track record of I'm granted these and granted these and it's no big deal.
+15:03 Um, back to the goals. Bluetooth. Now, before I get into this, another
+15:10 distraction. Tangent. Tangent. Tangent. Uh,
+15:15 CSS. Markdown. This is something that Markdown CSS.
+15:20 I'm using the Markdown plugin for this nowadays. This is That's really loud.
+15:28 Um, I can skip the song very easily. I should be doing that. This is more of a
+15:33 background sound and I'm cooler with this than that previous one. Um, that
+15:38 one's more of a probably more of a gaming sound. This is more of a background sound.
+15:50 Um, so in the past these notes,
+15:57 these goals, um,
+16:04 stream ETA is 2 hours because I have to go pick up kids
+16:10 around 3:55. It's 1:15 right now. It's 2 to 3 hours. I could say two to three
+16:16 hours. And this is this is for me as a note to
+16:21 myself to kind of try to time box this stream to a less than 3 hours. Also, as
+16:27 a reminder to go pick up the kids and don't forget. So, I'm now using the um
+16:34 the markdown I mentioned uh and I had a note uh over here to do markdown. Is
+16:42 there a markdown plugin? There is a markdown plugin. Excelro, of course, Excelro wrote it. So, I don't need to do
+16:49 that. Um, the markdown tech. There is a markdown text plugin, and it is this
+16:54 one. And you basically edit in here, but I'm using the um the source dock, which
+17:03 I can basically dock a source to the side and make it editable. But this plugin allows you to set a CSS. And I
+17:11 wanted to spend a moment to fine-tune this because in the markdown where it
+17:16 says topics, there's a large margin padding around the ordered list,
+17:23 unordered list, and I wanted to nitpick shrink that. And
+17:28 so I asked um I'm talking loud because it's probably not bad that I'm talking loud,
+17:34 but the music's loud and it's just
+17:39 reactive, right? When you have headphones on, you talk louder. So, I asked
+17:46 the chat GPTs to um
+17:51 where is that? Here we go. to um I asked it. I'm using the OBS
+17:58 markdown plugin. It provides a CSS field and I wanted to shrink it and I
+18:03 misspoke and um I thought I did this
+18:10 Yeah, I haven't even I haven't yet hit enter. So So I typed it out and I wanted
+18:15 to change that to um I want to change the padding around the unordered list
+18:22 ordered list. Um and just going to see what they have
+18:28 here and show kind of on the screen here. Optional fine-tuning if you want to remove the bullet indentation entirely.
+18:35 The indentation doesn't totally bother me. Um,
+18:42 or to completely remove the bullets. Not really. It doesn't really matter. Has a
+18:47 known class scope. Yeah, but it's it's a markdown. And because this is markdown,
+18:54 um, I'm not really attributing any specific element or class. And so I
+18:59 wanted to get grab the general one and just kind of let it do this. And I think this should uh shrink the margin padding
+19:07 left bottom. I'm going to play with that a little bit where I come back into OBS
+19:13 and I say for you. Bam. It took that out.
+19:20 Bam. And margin top bottom. Huh. Interesting. It still didn't take
+19:27 that. Uh how about padding? I'm going say margin zero.
+19:37 And what if I say padding zero?
+19:42 [Music]
+19:48 That's the padding left for the bullet. Uh padding top.
+19:56 It's still got that spot on the that section there. Um, if I do a screenshot,
+20:04 um, it sometimes can
+20:10 if I put this in here and say almost
+20:15 I want the empty space.
+20:23 That is not removing the empty space
+20:28 between topics
+20:35 and the bulleted
+20:40 list. Little nitpicks as I get the channel up and running. Ah, perfect example seen is margin top bottom.
+20:50 It might have been the elements,
+20:55 but that wasn't a a heading. There's no heading. I'm willing to try
+21:02 it.
+21:09 If your markdown plugin wraps everything container markdown body, let's try this a little bit.
+21:17 Still no. And actually added padding, which I didn't really want to happen.
+21:26 Um, can I do it this way?
+21:32 [Music] I think I have to just do it with a hashtag.
+21:42 Keyboard's off today. There we go. That's still So that's
+21:49 still not working. Still not working.
+21:57 The markdown text is
+22:05 pretty simple. Pretty simple.
+22:13 [Music] It looks like the attached, which is
+22:21 I've already done a screenshot, but I'll just do it again. Uh, I grabbed Bluetooth. There we go.
+22:34 That was Streets of Gotham. Uh, I'm drinking and eating here.
+22:46 Dying Star is uh it's an okay song.
+22:52 Little too. And there's two of them. There's two dying stars.
+22:59 I saw that as a duplicate in um
+23:06 the playlist and I thought it was a bug, but it turns out one is um
+23:18 Dying Star, Dying Star. The other one, if I hover over it, I can see that one is re orchestrated and extended at 5
+23:24 minutes 31 seconds. This is the original at 338. is just dying star.
+23:30 Um, and I don't know if this song was good enough to reorchestrate.
+23:36 Um, but he did. It's fine.
+23:53 I think this mic I'll get to the Bluetooth headset in a second.
+24:04 again as a behind the scenes.
+24:10 I'm a little apologetic about the unprofessionalism of the stream. But
+24:17 the point of this is to have these experiments here with the pressure of being live
+24:23 so that when I'm doing my the real game stream, I feel a lot more comfortable
+24:29 and natural and able to handle curve balls that may throw get thrown at me because I I run into curve balls all the
+24:35 time. All right, I was working on that.
+24:44 Cancel. So, I got this up here. I'm editing that CSS.
+24:51 P margin topics. No, there's no when you write that, it's doing a P around topics
+24:57 and you so P margin margin top. I mean, that might do it.
+25:03 I I can accept this might do it.
+25:10 Yeah, that did it. So if I say margin uh top
+25:19 and that's a margin bottom and I want to be
+25:26 give it a little margin. I don't want it to be zero.
+25:31 That's like right on top there. Eight.
+25:37 Um just to show that it's happening. I put in 50.
+25:42 Uh 10. 10's okay. Eight's eight's like kind of a, you know, 18. Eight. I'm going to go
+25:50 eight. And that's more what I was looking for. And that's the margin bottom. If I go margin top,
+26:00 then we can do that. That's real cramped. Um, if I did like 16 on that
+26:10 to kind of separate from the thing above it, but the stuff below it, keep it a little grouped.
+26:15 I almost could go 24.
+26:22 So, break the above stuff. And then I'm fine
+26:28 with all the other padding actually. So, that's that's good. That's good. That's looking good. Get rid of you.
+26:35 This is a little too of a bright of a song. I'm going to skip Tales of Legend.
+26:40 Tales of Legend. I kind of keep mental notes uh to myself. I sometimes come
+26:46 over here to the music tab. I'm going to hit okay on this. I'm going to call that CSS
+26:53 layout pretty good. Um
+26:59 I'm going grab that off of goals. This is a done
+27:04 on the on that uh shrink. We we we shrunk it
+27:13 shrunked. Um and then
+27:20 Bluetooth. Uh I was saying about music real quick is that uh I I do have notes
+27:26 for music on the side. Uh but really I kind of put the positive stuff in here.
+27:31 I can put the negative stuff in there, but um I'm not I'm not too worried about
+27:37 the negative since I only I've already pre-screened this is all this music is
+27:42 reasonably good for my purposes and like this. I think this is a
+27:49 pretty cool song. It's more of a background. This is stuff that would play in the stream. Gaming
+27:55 gaming stream game stream as I'm in space walking around.
+28:05 Now, my headset is freaking out right now. I've already swapped the batteries.
+28:12 Let's get into the change that that I made for this
+28:17 while I put up with this crackly [ __ ] in my ear right now. I'm not sure if this
+28:22 is a Macintosh a Macintosh Mac OS problem or not.
+28:31 I I'm curious right now. Uh note hashtag note to self. 28 minutes into the
+28:37 stream, my earphones uh started getting really staticky on my earphones. I'm
+28:45 curious if the microphone is doing okay right now. So, I will go and verify that
+28:50 later. I'm going to recycle the battery to get rid of this. Um,
+28:56 I'm trying something new with the headset and I'll talk about it in a second after I swap this battery. So,
+29:02 I'm going to swap. Actually, I can just um I can power off and back on. Let me
+29:08 try the minimal thing first. I'm going to do a minimal change. Um,
+29:16 can I toggle? Can I toggle away? If I toggle away,
+29:30 that's not actually that's that has nothing to do with that has nothing to do with the um the crackling that I'm
+29:37 hearing. Um
+29:46 interesting. My neighbor's pulling in with a trailer full of drywall or something. It
+29:52 looks like um processing that in my head.
+30:00 This is just rendering to my earphones. So, I'm going to power off and back on.
+30:05 I know. I'm going to do an OS swap out. See what if I change my OS to
+30:12 speakers. change my OS to speakers and then change it back to headset. It's
+30:18 still crackly. So, seeing if that minimal um was enough, but it wasn't.
+30:25 Waiting for another round of music here. It just takes a second. Starting correctly.
+30:31 I'm power off and back on.
+30:48 Still crackly. I power it off and back on. Now I'm going
+30:54 Still crackly. I'm going to unplug. See if it's the base station itself.
+31:01 Unplugging and replugging back in. Technical difficulties.
+31:08 [Music]
+31:15 And now it sounds fine.
+31:26 So, something's going on with my headset. And let me explain it
+31:34 when I get done with a word from our sponsor.
+31:47 Just kidding.
+31:55 [Music]
+32:01 So, I mentioned in the stream last week that the audio
+32:09 quality was bad when I was streaming
+32:15 and I don't stream all the time. So, it was notable to me because
+32:21 Turn this down so the music doesn't distract me so much.
+32:28 Let's find it. It It just It's crackly again. # Note to self 32 minutes into
+32:35 the stream. How does my microphone sound?
+32:44 Um, I wonder if I can put the mic bend it to the earphone so you can hear what I hear.
+32:52 Here's full volume.
+32:59 [Music]
+33:05 [Applause] [Music]
+33:11 I mean, that's that's unacceptable audio quality.
+33:20 It's unfortunate that it cut out so fast.
+33:26 [Music]
+33:35 I have I have a fix for this. This behavior is
+33:41 new as of today, this morning as I'm trying this out to I have hope I was
+33:47 hoping to have improved my audio quality and I clearly don't think I have.
+33:58 It's the fence guy. That's what it is. All right, I'm going to switch over. I
+34:04 switch over to Bluetooth. Here's the problem. And here's what was
+34:10 causing it. The crackling is back again.
+34:18 How to explain it? Um, that was -30.
+34:27 When I'm not streaming, I'm just listening to music and there and a Bluetooth on my MacBook.
+34:35 As I'm editing the music player, I'm listening to music.
+34:40 And that's streaming music uh over Bluetooth. And I've worked with
+34:45 Bluetooth headsets for years, and I'm well aware of A2DP.
+34:51 Um, it's it's so bad the audio quality.
+34:58 Uh, I'm going to turn it down so it doesn't distract me and I'm kind of hoping that my um, this looks like it's
+35:06 almost overdriv the microphone as if I'm talking too loud. Um, so hashtag noteto
+35:12 self 35 minutes into the stream. uh really evaluate whether I'm overdriv the
+35:18 microphone at that filter. I had boosted this guy's filter to be like 12. I could
+35:26 drop it to 10 dB or 8 or 6 or some reasonable level. That was when I was
+35:32 Bluetooth mode. I'm actually in 2.4 GHz mode is what I'm doing right now. I'm
+35:39 not using Bluetooth at the moment. And I'm very surprised that the
+35:44 I've heard this on my media downstairs. Uh these are Arctis Nova. These are
+35:51 Steel Series Arctus Nova Pro wireless headsets. The These are expensiveish.
+35:56 They're pretty expensive headsets. They're supposed to be the one of the best of the best. Um they're not like
+36:03 like audio file quality, but they're a high-end consumer brand. They're not
+36:09 pro, but they're borderline pro, but they're in 2.4 GHz mode, and uh it's
+36:16 just it's cutting out. Um, so note to self on the audio level.
+36:23 And I don't think my speaking too loud is going to be too bad. Let me drop
+36:29 this. I'm going to drop this hashtag noteto at 36 minutes and 30 seconds into the stream. I'm going to drop the uh
+36:37 compressor gain from 12 to six. I'm going to have it and I'm going to say
+36:42 that and let's see what how that does there. I don't think I'm going to be
+36:47 talking as loud. I can I think I can see that it takes a little more effort for me now to get it to kind of floor up to
+36:54 that max limiter level. All right,
+37:01 2.4 4 GHz is what I'm running at because prior to today
+37:08 and my comment last week's stream um when I'm not streaming and I'm
+37:14 working on the music app and I'm listening to audio, it's coming over A2DP which is wideband. And then when I
+37:20 go streaming, I made the comment last week at least once or twice and even had a to-do item which the note was to pull
+37:29 down better MP3s.
+37:35 Um future offstream
+37:41 high quality lossless. Uh I don't need to do this. Um they're
+37:47 already high quality. There's nothing that wrong with the MP3 qualities that
+37:52 are playing right now. So, I don't need to do this. The problem is um and I may just have to live with it.
+38:03 When you go into streaming mode, this the mic starts working. And this is a
+38:09 Bluetooth headset and you can't both A2DP the audio and use the microphone. Now
+38:17 it's sharing the bandwidth and so the A2DP gets swapped out into um a HFP
+38:26 hands-free profile and so that drops it into a narrow band where now that bandwidth is shared
+38:32 between microphone and headphone and so you basically get half the audio quality and I could hear it last week and I
+38:39 didn't m did not make the connection that that audio quality and I did make the connection um yesterday or over the
+38:46 weekend for sure that when I launch OBS, if I'm playing music, it sounds high. If
+38:53 I'm not running OBS and I'm playing music, as I am the majority of the time,
+39:00 um, the audio quality is good. It's high quality. The moment I launch OBS,
+39:05 um, and the moment anything starts using this microphone, um, there's that. I'm just going to go
+39:11 even lower. Um, I wonder I wonder if it's bad on the
+39:18 capture, too. I wonder if you if you can hear it on your side.
+39:25 Um, hello. Is it going to play? I'm at least
+39:31 one curious.
+39:41 I can't even hear that.
+39:49 It's It's basically It's faded out so bad right now. I had lowered it so it wasn't distracting me because it's
+39:54 crackling. Now it's all the way down for me. If I lower the system volume, does that
+40:00 lower it for you, too?
+40:06 No, I lower it that
+40:13 all the way low.
+40:19 That's just compressed. So, I can't hear the monitor right now um because of the way the headset is working and it's distracting me from completing my
+40:26 thought. So these were I was using these as
+40:31 Bluetooth in the moment that I use both the microphone and you now instead of just being an output, it's now both an
+40:37 output and an input. And it doesn't matter whether it's OBS or Teams or anything else. You open up the
+40:43 microphone and you'll get half the quality from this. And apparently there is no workaround except for to use um a
+40:50 dongle or a 2.4 GHz or to wire. You can wire in and I could wire in and that
+40:56 could be an option is for me to wire in, but I don't want to walk around with a wire on. I don't want to be jacked in.
+41:04 Um, so I may go back to Bluetooth. The the theory was that this microphone
+41:09 because it's 2.4 gigahertz microphone that this would be high quality. Um, and I actually don't
+41:17 have any confirmation right now if the let me go to settings.
+41:22 and audio monitor. Um, the monitoring device. Let's put
+41:29 that out to the speakers.
+41:35 Um, and then I'm going to I should have done apply, but that's fine. And then
+41:40 I'm going to go to my um sources here,
+41:48 and I'm going to monitor on and turn this up. So, I can tell there's
+41:55 probably a little echo, but I can tell from
+42:05 Okay,
+42:13 it's just a good dynamic song is all that really is. Um, I can tell that my microphone is
+42:20 fine. I had had I could have been speaking for the past five minutes without confirmation that my microphone was fine. I'm going turn the monitor off
+42:28 and um, so it should be a high quality microphone.
+42:35 Um, and the hope was that the theory was if I'm getting when I'm
+42:43 only using Bluetooth speakers, A2DP, that's high quality
+42:49 um, kind of full bandwidth audio. The moment you now start using the
+42:55 microphone, you now share the bandwidth and your half. So, my microphone quality is is also not as good as it could be.
+43:02 Not only am I hearing half of the audio that I could be, you're hearing half the audio quality from my microphone. And
+43:09 that's kind of shitty. So, um I thought it would be a win-win if I
+43:15 start using this base station or the
+43:20 uh 2.4 GHz so that I'm now a higher quality speaker. That would be a win-win
+43:28 where I can hear the high quality audio and the microphone is high quality audio and then the stream becomes higher
+43:33 quality audio and that would be a win. But I can't hear the this you played it
+43:40 into the microphone a moment ago through the earphone
+43:45 that um it's crackling and so now I got to figure out why that's happening on this
+43:51 pretty expensive ear headset. Um, I have had this happen. This this
+43:58 sound degradation crackling problem when I used to watch a lot of movies
+44:03 downstairs on the 86 in TV and I had this these headsets would cut
+44:11 out and start to crackle and I never associated it with a fault of the headset itself or even the base station.
+44:18 Um, I wonder if there's a there there is a software. There's this um GG software.
+44:28 Um, I was just looking at it yesterday. Arctis
+44:34 Nova Wireless. This guy
+44:40 downloads I was just here.
+44:46 Um,
+44:51 yeah, but I don't want the PC. I want the Mac
+44:58 um software.
+45:03 [Music]
+45:09 [Music] these all separate pieces of software.
+45:16 I saw that it was available on the um
+45:22 Mac.
+45:29 [Music] Um still series GG sonar.
+45:37 I got rid of the padding so I can close that out. So that's what it was was the the paragraph. It was the topic up
+45:43 there. Close that tab out. Compatibility
+45:49 Mac USB. This is the Arctis Nova Pro wireless for PC.
+45:58 Uh PC Mac. I'm pretty sure I saw the software.
+46:04 Yeah, these are not cheap. I didn't pay that price. I think I paid like 250 or
+46:10 225 for these. Um,
+46:18 it marketing, marketing, marketing. Yeah, you're still serious. You're getting free marketing from my stream of
+46:24 zero users. Um software requirements
+46:33 GG+ engine.
+46:39 Okay. So great GG plus engine.
+46:47 [Music] The engine the gear customization.
+46:54 There's a Mac. So, that's just lighting.
+47:00 Customize the audio. This might allow me to double check any firmware
+47:08 updates. I don't think this has a Mac version.
+47:15 I don't think you have a Mac version.
+47:21 I don't think you have a Mac version. And I don't think
+47:28 you have a Mac version. So now
+47:34 it's the mobile app. I did see that um audio driver app.
+47:45 [Applause] That's Windows. Anyway,
+47:52 I go back here. [Music]
+47:58 Oh, just it's a whole new tab. It says,
+48:05 where did I see it? Mobile Bluetooth. Now, I think where I saw this was on the
+48:14 Elite Arct Nova Elite on that tab. I was just
+48:19 looking at this the other day. That was if you want to change the colors. I think they
+48:25 boost. They might have boosted a little bit. I haven't actually done a sideby-side comparison of these.
+48:31 Um they mentioned in this information
+48:36 compatibility for Android that USBC
+48:46 is that a supposed to be a comma there? USBC
+48:52 USBC wireless. So meaning the base station cuz they don't make a dongle for this. Um is what is really weird. I'll
+49:00 show you that in a second. But USBC wireless is one thing, which
+49:06 means use the 2.4 GHz base station or Bluetooth.
+49:11 So that tells me that um I can plug
+49:18 that base station into my Android phone. That would be really weird to do that.
+49:26 gaming gear, accessories, dongles, and this is where it says Arctis Nova dongle. And I'm like, great.
+49:33 I could buy just a compact dongle to to be separate from the base station
+49:40 and I could plug that into my MacBook and that'd be cool.
+49:45 Wrong. It only works on the Arctis Nova 7. Well,
+49:51 then [ __ ] Maybe I'll buy an Arctic Snooa 7. Um,
+49:58 compatible with that model. Model model 7P 7X. What's the difference between
+50:05 that? That's massive. Looks the same. Five 5P. So
+50:14 um I mean I could such a crappy dongle. You can't really plug
+50:22 that into your MacBook. Um, and I don't even know if it would
+50:28 work with a MacBook. The price is uh pseudo reasonable
+50:34 uh as an extra if I could get quality audio from that
+50:40 dongle. Um, then uh reliable from the base station.
+50:49 So, um, let's let me switch over to Bluetooth and let me do a test and I'll
+50:57 say the magic words to the post-processing AI in a moment to do a
+51:03 comparison between jumping between the microphone. Uh, let me let me do that.
+51:08 So, I'm investigating and I'm not beyond considering getting an Arctis Nova 7
+51:15 with this with a special dongle on it and the five. There's like do Arctis Nova 5. If I just have a separate um
+51:24 kind of buming around headset for the streams that even though it's cheaper, has better quality because it actually
+51:30 [ __ ] works. Um, I don't know why this
+51:37 apparently the microphone is working fine.
+51:42 Why the headset Why does the earbuds not work? And I can look into do I want to
+51:48 spend the time? Do I want to go on the tangent? Do I voluntarily jump down this
+51:53 tangent which is looking into Arctis
+52:00 Steel series Arctis Nova Pro wireless and this is me like I'm highlighting I don't also don't
+52:06 get this about Chrome I'm highlighting that these things and it's just Arctus
+52:11 Nova Elite Arctis Nova Pro wireless gaming headset like
+52:19 Nova Pro Wireless. Anyway, Arctus Nova Pro wireless
+52:26 um noise crackling.
+52:36 [Music] Some else had issues with Arcus. No, this is three years ago. Same thing
+52:41 happened to PCUs. I'm getting super bad crackly lately. You would know other than restarting the audio service to the
+52:47 sound control. This has happened to me pretty seriously. I bunch of other things, but ultimately result is swapping out the original USB cable that
+52:53 I was using for the base station for the other one in the box. I am using uh a
+53:01 hack of a USB cable right now. I believe that I was just using for charging. So,
+53:06 I'm willing to give that a try. didn't know this is a
+53:14 h Olivo a a
+53:20 leivo is saying it doesn't work started happening again any luck with this same thing end up returning for a full refund
+53:27 I've had all sorts of troubleshooting say I wish I could but no longer return it
+53:33 same issue with wireless one it's crackling noise everywhere makes videos annoying bothers me isolated not a sonar
+53:39 issue but using my XM4. Uh, problem solved. I was getting
+53:46 frustrated issue. I even got a new headset through the warranty system. I tried all the troubleshooting. I went
+53:51 into my Wi-Fi router settings and disabled 2.4. Just remove the interference.
+54:02 [Music]
+54:08 But you can't reading this pregnant pause.
+54:16 [ __ ] You can't turn off 2.4 GHz if you use
+54:22 smart devices around your house. They require 2.4 GHz.
+54:30 I'm not turning off 2.4 GHz
+54:35 on my Wi-Fi router.
+54:41 That was gyroscopic. Now playing quantum eraser.
+54:46 Like it's no [ __ ] wonder that I go down
+54:56 tangents because of the [ __ ] that people build.
+55:05 I'm a long ways I'm not a long ways from a router, but I'm a ways from a router. Shouldn't matter too much.
+55:23 I have older device that do not support. Oh, believe me, I know it sucks and I've tried everything to fix the issue. Even
+55:28 got a refund for a new headset. This is the only station.
+55:40 Oh, it just started happening again. Setting the equalizer setting to zero
+55:47 for I was thinking of firmware. That's what I was thinking three years ago, but I
+55:52 already have the firmware. Setting the equalizer setting to zero for 31 hertz and 62 hertz.
+56:04 Uh maybe agree.
+56:10 [Music]
+56:16 Take my firstborn child. Um,
+56:30 [Music] didn't need to redact that, did I?
+56:35 I could practice redact. Bam. There. I just practiced redact.
+56:43 [Music]
+56:51 All right. So, I now have a new app installed,
+56:59 right? I never remember how to steel series.
+57:09 Okay, I just installed this app.
+57:14 Yeah. So, come up on my apps.
+57:20 You're launching. Okay. Yeah. Take over my computer.
+57:32 [Music] Um,
+57:37 questions, questions, questions
+57:45 [Music] ever.
+57:53 Uh, let me see on the redact here for a moment. Let's practice.
+58:07 Come on.
+58:13 I got that. Okay, there's my password.
+58:20 No two factor, so we're good. Check on the
+58:28 device.
+58:34 Um engine
+58:40 should be connected. That's not what I want.
+58:47 A classical approach. Um, so I installed something and I'm not
+58:54 sure what this is helping me with.
+59:11 So yeah, I mean I guess that's the shop. I
+59:17 don't care about that [ __ ] settings.
+59:29 [Music] I I feel like this is crap here.
+59:36 Um, Steel Series.
+59:41 I put the date in here. Steel Series. GG.
+59:47 That's the uninstaller, which I'm pretty tempted to click on.
+59:54 [Music]
+1:00:03 About an hour into the stream.
+1:00:15 Woo! That's going to be spicy.
+1:00:23 My ginger was in the wasabi.
+1:00:33 I don't see where this GG app gets me.
+1:00:42 GG app plus engine. Do I need to reboot? I sure hope not. There it says engine right here.
+1:00:49 Troubleshooting.
+1:00:54 [Music] Services in GG are only turned on once
+1:01:01 you choose to use them.
+1:01:06 [Music] I can try the cable.
+1:01:15 Um, am I still No, I'm not redacting.
+1:01:22 Um,
+1:01:30 sometimes I think I'm blind. I'm not seeing like what where to check a firmware.
+1:01:44 [Music]
+1:01:49 not seeing it and I'm kind of a little perturbed. I do know that I can plug this into another computer downstairs
+1:01:55 into a Windows PC. I get it. And I have a Windows VM.
+1:02:01 God damn. That would be a tangent to launch a Windows VM just to
+1:02:07 go down this [ __ ] rabbit hole of a tangent.
+1:02:13 [ __ ] But I'm a type of person to just do it.
+1:02:19 I haven't launched the The problem is if I if I have been using the VM recently,
+1:02:24 I would. And I also don't want to [ __ ] corrupt the VM by installing this [ __ ] on the VM.
+1:02:33 I'm going to table this issue and work on it. Uh, in the background, I'm probably
+1:02:39 going to uninstall that [ __ ] too. Uninstall.
+1:02:50 Yes, I need my password without a fingerprint, by the way.
+1:02:59 I think I typed that wrong. Yep.
+1:03:07 There we go. Yes. Uninstall that crap.
+1:03:17 Um, so let me do that audio test
+1:03:24 of this is 2.4. I believe the microphone is not
+1:03:32 crackling and not bad audio quality,
+1:03:37 which is so hard like
+1:03:45 Let me go get a quality USBC cable because I'm not convinced of the quality
+1:03:52 of this USBC cable. Let me go get my best quality USBC cable and just give it
+1:03:58 a try. All right, I'll be right back.
+1:05:44 All right, I am back and
+1:05:50 I'm going to This is the box, the base station.
+1:05:59 I go ahead and unplug it. Anyway, so um but one one of the cool things on
+1:06:06 this and the ex the elite is that it's got two USB ports on the back and you
+1:06:11 can plug one into your Xbox and one into your um PC.
+1:06:17 So I'm just going to It doesn't matter which one you use. I'm going to go ahead and plug that cable in. And so this
+1:06:24 could be a pretty hot quick swap.
+1:06:29 Um, but I'm going to do that swap. I don't expect this to make any difference
+1:06:34 because the person who posted that it made a difference already posted that. Oh, no, never mind. It didn't make any
+1:06:39 difference. I don't expect this to make any difference, but I'm going to try.
+1:06:46 Absolutely no way, no way, no way, no way, impossible
+1:06:52 for me to disable 2.4 GHz in my house.
+1:06:58 because I got a lot of smart [ __ ] smart adapters all over the place.
+1:07:06 So, I just can't do that. I I have never found the device that has
+1:07:13 had interference with 2.4 before. And
+1:07:20 when I have watched movies in the past with using these headsets, it does start to crackle after a while. Sometimes I
+1:07:28 never made the connection that it was from
+1:07:35 that it was the base station itself. I've already powered off and back on the
+1:07:41 earbud the earphones and anyway cannot get over that right now. as a
+1:07:47 requirement that Steel Series would ship product that has this problem.
+1:07:53 Um, I could try to change the bit rate. It's got some menu stuff in here if you've
+1:07:58 ever seen these before. Um,
+1:08:04 it's you've got an equalizer. You can go in and you can uh jog with stuff and uh
+1:08:10 here we go. You can that's the volume, but you can also I
+1:08:15 think go in and touch something over here and get into a menu. There's
+1:08:20 there's stuff you can do in software. Um I'll I can play with the level
+1:08:28 and see if it what difference it makes if I long hold it. Yeah, USB. I just did a long press. USB input, audio options,
+1:08:35 wireless line out, system settings, display, mic, LED, time off, power
+1:08:43 saving, about, tutorial, reset. I don't really care to reset.
+1:08:50 Um, back out of that
+1:08:59 system settings line out. That's type of speakers to stream
+1:09:07 wireless. Ah,
+1:09:13 wireless 2.4 Bluetooth 2.4
+1:09:19 pair mode range
+1:09:28 2.4 four. [Music]
+1:09:39 What if I try that in 2.4 speed mode?
+1:09:46 Uh, let me double check that I that actually applied. USB input,
+1:09:52 input one, input two. Um, I haven't plugged to in and UR1. And if I say USB
+1:10:00 one, um, I don't know what difference that made.
+1:10:08 One or two. One or two. It's just a selector. Oh, that's kind of silly.
+1:10:16 Um, audio options. Equalizer is just set to preset. Gain high. noise
+1:10:23 cancellation, side tone, low, mic volume.
+1:10:32 Um, I don't know if any of those really make
+1:10:37 a difference. This someone said if you lower the equalizer to
+1:10:44 a custom and you turn the 31 and 62 all the way down, like, oh my gosh. Um, let me undo
+1:10:52 this wire. I was so hoping to do this in
+1:10:58 software, but basically someone was saying that if you take the
+1:11:04 um settings and drop this down,
+1:11:12 then my crackling will disappear, which is redonkulous.
+1:11:19 Let's reverse here. Nope.
+1:11:27 And drop you. They say my crackling will disappear.
+1:11:37 Um, let's see. I'm going to raise volume again.
+1:11:43 I don't think I don't believe it. And I'm going to unplug. And I'm going to unplug and see
+1:11:48 what difference it makes. I'm keep this the same cable that I got. See what difference this makes. I'll be right
+1:11:54 back. Grab
+1:12:11 [Music]
+1:12:35 [Music] Uh test one two on this is using the built-in MacBook microphone. Going back
+1:12:42 to the wireless
+1:12:50 [Music]
+1:12:58 [Music]
+1:13:08 Hallelujah.
+1:13:16 [Music]
+1:13:24 [Music]
+1:13:31 [Music]
+1:13:41 in range mode. Range mode. So,
+1:13:46 this was me setting this thing. It's in range mode.
+1:13:52 And sorry, when my mic went out there, I didn't realize my mic had gone out for longer than I thought, but I set this to
+1:14:01 um from range mode.
+1:14:13 [Music] Oh, speed. Speed. Okay.
+1:14:19 But I still hear crap in my ears.
+1:14:27 [Music] Um, I would equate speed to quality,
+1:14:34 [Music] but that's that sounds horrible. If I unplug I'm going unplug again and
+1:14:41 see what difference it makes.
+1:14:49 [Music]
+1:14:56 Sounds okay. I hear I hear normal audio now.
+1:15:02 So, I'm going to play with this for a little bit until it becomes a distraction again. We'll let this sit
+1:15:08 here until it fails again and then I'll try the the still I have
+1:15:15 not change the cable. I've only unplugged the existing cable and plugged it back in.
+1:15:22 So, we'll let this get that fascinating by now playing Sabotage by
+1:15:30 White Bat Audio.
+1:15:38 I reset the equalizer, I think, while my mic cut out there for
+1:15:44 longer than I thought. Um, I was trying to play with the equalizer
+1:15:49 where someone had said in the forum this stupid thing, zero out your 31 of
+1:15:59 62, you'll get no base. [ __ ] Like, how's how's this for a $400
+1:16:07 headset? Uh, the new firmware MCU transmitter. Well, I'd like to get that new firmware,
+1:16:14 but I believe that I'm already running it. Uh, he says 12916.
+1:16:20 If I come into the device and look at
+1:16:26 system settings, display mic LED auto off power savings about, it's probably under about
+1:16:36 um MCU 129. I'm running 12927,
+1:16:41 so I'm already running that firmware. Um,
+1:16:52 I'm looking at what this says on the This is for my own reference on
+1:16:58 the stream cuz There we go. This is what my
+1:17:06 settings are. The MCU DSP headset Bluetooth.
+1:17:13 So, we'll see if me changing this to what I've really done was change the
+1:17:20 wireless mode to speed instead of range.
+1:17:26 So, maybe that lets me maybe it kind of
+1:17:33 says to get a longer range, you need a lot more error correction to get that range
+1:17:38 in. um the signal gets a lot weaker as you go out and you have to do some error correcting
+1:17:45 with speed. It's like [ __ ] that. Let's fix the error correction. Let's just throw out the audio and maybe the audio
+1:17:53 quality on this will be good. I said I would do it. So, I'm going to
+1:17:58 go ahead and try it. It's powered in. I don't think it's going to I hope it's not going to [ __ ] anything up. So, I'm
+1:18:04 going to go into Bluetooth mode. And so, let's try this again. Note to self
+1:18:12 hash noteto self audio test at 1 hour and 18 minutes into the stream. I'm
+1:18:18 currently on one on 2.4 ghahz audio and I'm going to uh attempt to do a pretty
+1:18:27 transparentish swap out to Bluetooth and see how bad
+1:18:32 the audio quality is on Bluetooth. So, let me uh turn on the Bluetooth side of
+1:18:38 this headset. It is now on. I heard it turn on. I'm
+1:18:45 going to turn off the um 2.4 GHz side of this headset.
+1:19:02 Heat.
+1:19:16 Heat. [Applause]
+1:19:24 [Music]
+1:19:30 [Applause]
+1:19:38 There we go. So, it wasn't as seamless as I was hoping that would be. This is me on Bluetooth. Uh, notice when I'm
+1:19:46 talking the it's not up in the yellow. It's not hitting the ceiling, the the
+1:19:51 max limiter there. So, the audio quality on this, I'm going to guess, is a lot less than it was a minute ago.
+1:19:58 See if I can go the other way around a little more seamlessly. This is me on Bluetooth right now, and
+1:20:05 my audio quality should be approximately whatever half of the quality that it was
+1:20:13 a minute or so ago on Bluetooth. So, I'm going to switch back to uh 2.4 4 gigahertz and see how
+1:20:24 that behaves. So I will um maybe turn
+1:20:29 off maybe that might have confused things. I'm going to turn off the ent headset entirely and then turn on the
+1:20:37 2.4 GHz and then reselect the audio device inside of
+1:20:44 uh yeah it has both here. Um, I don't know why it has that one when I guess it's
+1:20:52 physically plugged in. So, yeah. Um, but it's powered off. So,
+1:21:00 anyway, only way to do only way to learn is to try, right? So, I'm going to turn
+1:21:05 off the Bluetooth. The headset will be powered off. Then, I'll turn on the 2.4.
+1:21:10 All right. Audio test in um three, two, one. Turning off Bluetooth.
+1:21:17 [Music]
+1:21:29 and we should be back. And so this is the audio quality. This is a much I can see without any effort. It's it's
+1:21:35 already high quality a higher quality microphone without even hearing it. Um so that was
+1:21:43 the whole thought when I had this learning lesson, important learning
+1:21:48 lesson um about A2DP and um HFP
+1:21:56 is that Oh yeah, reminder microphone and speakers use are shared
+1:22:03 bandwidth. So yeah, let me just wire in and then now this
+1:22:09 2.4 4 GHz. Ridiculous. Absolutely ridiculous complication.
+1:22:16 So, we'll see how long this lasts in um speed mode.
+1:22:22 So, let's just see. That was a distraction. That's hopefully
+1:22:29 the end of the um I can close these and come back to them. It's not a big deal.
+1:22:36 Uh, do I want to do I have any bookmarks for this stuff?
+1:22:42 Um,
+1:22:48 don't really have anything there. PCs, uh, printers. I don't really have I can
+1:22:55 put it in there. It's just part of my general PC stuff.
+1:23:03 Yeah, we'll do that. All right, closing all this [ __ ] out. I'm not beyond trying
+1:23:08 a lower end um as a Nova 7. It ain't
+1:23:14 cheap. Uh wow, they don't have it for the PC. I guess they're out.
+1:23:22 Um and the Nova 5 is it's got that dongle, but that dongle
+1:23:29 is ridiculous on a MacBook. That would eat up a whole port. And now you need to
+1:23:35 actually now get a an extender to to extend that off and
+1:23:42 use it. Kind of ridiculous. Uh maybe it comes in the box. Maybe they
+1:23:48 have an extender.
+1:23:55 Don't want to spend money on the stuff I don't need to. and
+1:24:01 I've already bought a very expensive headset. Anyway,
+1:24:08 think I've talked that one to death. That was the Bluetooth A2DP
+1:24:14 transcript stuff. Um, let's do we'll do follow stuff.
+1:24:22 Just put it here. I don't really know what to do with it. It's not exactly resolved.
+1:24:28 Um, process transcripts. Do I want to deal with that right now? No. My last stream
+1:24:35 was uh 19 minutes. I think I did show in that stream how I was processing
+1:24:42 transcripts and then I had to bail. [Music]
+1:24:48 I kind of lost my I had so much going on that day with Halloween
+1:24:55 that I got real distracted. And it's kind of a disaster of a stream, but it's learning a lesson.
+1:25:05 Um,
+1:25:13 sounds like Tron drawn Aries.
+1:25:21 Put this in the trash. The time is 2:30. I got about an hour
+1:25:30 plus, a little over an hour before I have to wrap this up and end soon.
+1:25:37 In an hour plus end soon after an hour from now, if that
+1:25:44 makes any sense. All right, process transcripts. Not going to really get into this stream.
+1:25:52 Um, yeah. I'm gonna get rid of your host
+1:26:02 block. That was creeping song. Now playing intruder.
+1:26:09 How do I
+1:26:15 ban you? Warn you.
+1:26:26 Unblock report.
+1:26:38 Yeah, whatever. Um,
+1:26:46 do I want to get in transcripts? I really want to get into the media player and what I've been working on over the
+1:26:52 weekend cuz I learned I learned a lot over that too. There's
+1:27:00 also the instream chat. I'm I feel like I'm close to getting to the instream chat improvements. These are little
+1:27:07 baby slow slow slow baby steps, but if you've had kids then you know how it can
+1:27:14 feel like it takes forever. Um,
+1:27:21 I do want to get to the instream chat overlay, but I I want to
+1:27:28 present my Tari and QT situation
+1:27:34 and uh kind of talk through that out for my own sake.
+1:27:39 Um, is that a weird B? It is a weird B there. Okay, whatever.
+1:27:46 So, I'm going to kind of skip over that.
+1:27:53 Seattle Children's Hospital is calling me. No thanks.
+1:27:59 I have no kids at Seattle Children's. All you want is money.
+1:28:06 It's all right. Background stuff. It's just kind of general dark background
+1:28:14 music. All right, the media player. That's what's going on right now.
+1:28:21 Um, it's it's this guy. I run it under Chrome Canary. And so I've one of the
+1:28:28 things I learned, uh,
+1:28:33 this is it. Just pull it out and minimize here. This is the player.
+1:28:41 I've shown it before.
+1:28:46 It's kind of a gimmick, but the reason I wrote this is
+1:28:52 because I didn't like the VLC player. Uh definitely definitely do not like
+1:28:57 YouTube playing because of just incessant ads. Like just ridiculous. And
+1:29:04 then and then like two or three ads in between videos like it's getting worse. And then just the the worst part of the
+1:29:11 YouTube ads is that they keep fighting this this ridiculous fight.
+1:29:17 It's it's pointless. It is pointless for YouTube to fight ad
+1:29:23 blockers and they keep escalating and escalating and they there is no nuclear
+1:29:28 option. they they they don't have the ability to just stop at all. They might
+1:29:34 as well just say screw it and give it up because they're making the experience worse for everybody. I think if they
+1:29:40 detect that something's not showing an ad, then they throwing in a 5-second um
+1:29:46 mandatory wait before it plays. It's just a horrible experience. The ad
+1:29:53 block I'm on YouTube and whatever. I don't I don't think they're going to censor me at all, especially as a
+1:29:58 nobody. Well, they might censor me for being a nobody, for having these views.
+1:30:05 Um, but because of all the ads,
+1:30:10 um, I decided to just write my own cheesy player because I can, right? Nowadays, you can write, you can ask an
+1:30:18 AI to write any application that you can articulate. If you if you are able to
+1:30:26 articulate to an AI enough information for it to write the
+1:30:33 software, then bam, you got it. You can do that nowadays. So, I just wanted to write a media
+1:30:40 player. And I think I covered how I started this uh in a past stream.
+1:30:47 So, I've got this and I just start as a web page because that's where my mind was. Um, but I have had in my head that
+1:30:56 maybe this wasn't the best idea. Um, because I wanted this to grow in
+1:31:04 complexity and have a library and save metadata to the actual track itself. I
+1:31:14 wrote I hesitate to bring it up
+1:31:21 to flex or name drop or whatever. I'm watching birds outside in the tree.
+1:31:26 They're kind of cute flitting around. Um
+1:31:33 I've written successful big MB MP3 players in the past that got sold for
+1:31:41 millions of dollars. Um, I worked on lots of things from
+1:31:46 creating the idea to mostly the playlist editor is what I was really working on.
+1:31:52 Uh, it was the the vibe player, the Sonic player. Um, and a a couple MA
+1:32:00 player like this is like 30 40 years ago.
+1:32:05 Um, and I know about MP3s. Bronhoffer
+1:32:11 Institute in Germany and the MP3 and all that stuff.
+1:32:16 I am familiar with ID3 tags and saving the meta data of
+1:32:23 your likes and play history directly into the MP3. That's kind of where my
+1:32:29 head space is as far as a low-level understanding of what you can do
+1:32:36 nowadays. They don't really do that. They don't put the meta a lot of a lot of media players don't put the metadata
+1:32:42 inside of the MP3. It's complicated.
+1:32:48 You're mutating the MP3. You risk corrupting the MP3 when you write this
+1:32:53 data down. And most people don't want to risk that. So, but I don't mind learning and do
+1:33:01 learning ignoring lessons learned in the past and doing things the dumb way.
+1:33:08 Audio. Turn this down. I don't hear any.
+1:33:17 I don't hear any crackling yet. Um, so I wanted to write this to track the
+1:33:23 stars and the favorites. I've done variations of this in the past where I
+1:33:30 how was I saving the data? Um,
+1:33:35 trying to remember how I saved play history and likes in the past. I
+1:33:40 think I was just saving as a stupid [ __ ] JSON file in the root of the
+1:33:46 media folder, which I can do, but then when you do
+1:33:51 that, the the media then you got the pro the complication where your database
+1:33:57 gets out of sync with your audio. And I want to really keep this
+1:34:03 simpleish if that's This is not simple, but I'd
+1:34:09 like to simplify what it is. This sounds almost like um Interstellar
+1:34:19 the the time dilation. Yes, obviously it's a play on that. Um,
+1:34:29 so when I write started writing the web version of this, I wasn't accounting for all of that long tail of all the other
+1:34:36 complications of writing to the MP3.
+1:34:42 So, um, as I now evolved this and I've kind
+1:34:47 of ratcheting it to the next levels and I'm right on the threshold of saving
+1:34:54 this, uh, index DB stuff. I kind of want to write it to the MP3.
+1:35:00 Um, there was something else. There's one other
+1:35:08 kind of where you needed permission. Oh, audio. I think it was audio routing.
+1:35:14 Audio routing is what took me into the wrong direction enough for me to look
+1:35:21 back and realize that I'm over complicating this. I have already closed. I could pull it
+1:35:28 back up. Um,
+1:35:34 let's local. I closed the playlist, but the branch
+1:35:41 the pull request, but the branches there closed this one.
+1:35:57 This is totally Interstellar, but it's inspired by. So, I had a drop down where
+1:36:04 you I could pick the audio output device because I wanted to send this to NDI. Um, and I think there were variations of
+1:36:10 this. I don't know if it has any more previews of anything. No, it doesn't. But I was running into complications
+1:36:16 where I I got this to work.
+1:36:22 And surprisingly, I was kind of pleased with the ability for the web page to
+1:36:28 route the audio to the audio output device. And that was great. And I'm
+1:36:33 using it. And this music is inspiring me to talk very epic and dramatic as
+1:36:40 basically I realized oh [ __ ] the voice over the the speech synthesis which is
+1:36:49 one of the core things that I want in the stream so that I can hear the music
+1:36:56 artists and track name as the songs are playing. it is not getting routed to the
+1:37:04 same audio device and it can't be and I'm and I I believing I'm believing AI
+1:37:10 and in basically this conversation with AI that I that you can't program the
+1:37:18 speech synthesis output audio output device and I'm like oh [ __ ] well then
+1:37:25 that means it's just going to go across the system default and I don't want to record system default.
+1:37:32 So I I basically said here we're closing this PR because we can't set the sync ID
+1:37:38 on the the the speech API. It's just like well that's not good.
+1:37:48 Close this out. We're I'm not going to proceed with this because I had the thought maybe I'm
+1:37:56 doing this a little bit wrong. What if I on the game stream? I'm not
+1:38:03 doing it here. And I probably I probably should except that I I and I'm I'm probably
+1:38:11 going to I'm I'm going to try it here. I've got like about an hour. I need to leave in about an hour now.
+1:38:17 Let me try it here on the stream where I'm going to do what I'm going to really
+1:38:23 do in the um game stream. This behind the scenes stream is a
+1:38:29 little different where I'm doing screen capture audio. So this set this screen
+1:38:34 capture audio is it's believe it or not the display capture grabs the whole
+1:38:41 display including the audio. And I don't even know why that's not an option to
+1:38:46 not do the audio. You can mute it. I can mute. This is the screen capture. If I
+1:38:52 click this, it all goes away. It's just me talking, right? that this is the display capture
+1:38:58 and it is where the audio is coming from. So
+1:39:04 that works at a basic hello world level. But for a prof for aspiring towards a
+1:39:11 professional level stream that's that's not really going to work because it's going to introduce an echo when you ever
+1:39:18 go to do what I'm getting ready to do which I'm going to add audio capture.
+1:39:25 Um, do I want to do screen capture of the
+1:39:30 application? I wonder if that would be too much if I
+1:39:38 just want the audio because I can't I can't I can shrink the video to zero
+1:39:46 pixels. Let me just do an audio capture. So, let me do
+1:39:52 um they're going to we're going to jump
+1:39:58 around here a little bit on this. Um we're going to call this music
+1:40:04 music app audio capture. Okay. as laptop audio capture is okay
+1:40:12 existing source and it's going to be application
+1:40:19 and uh
+1:40:25 chrome canary bam now
+1:40:30 chrome canary music app audio capture notice that I'm not throttling it I'm competing with it
+1:40:37 I'll drop it here in a If I set it down here to the same as you
+1:40:43 here at 30. Yeah. Get it. Close enough.
+1:40:48 There's probably an echo in the stream. And this is where it's probably bad enough. Hashtag note
+1:40:56 to self. 1 hour and 41 minutes into this stream.
+1:41:02 Um, I have intentionally induced uh music app audio capture.
+1:41:09 I've intentionally added a music app audio capture which knowingly will induce a possible echo and I want
+1:41:17 to evaluate how bad that echo is. Um, and it may be such an identical capture
+1:41:25 that you don't recognize um the echo and they may be perfectly
+1:41:32 synced up and whatever. If I were to boost this, then obviously that's going to be uh eclipsing that.
+1:41:42 That was the greater. But notice that I cannot subtract
+1:41:48 the Mac OS screen capture output. It is capturing everything.
+1:41:55 So I really want to mute it. And that means I now have to have a dedicated
+1:42:01 desktop output. And at at that moment you can capture everything.
+1:42:07 You have a couple options. I have a couple options. I can capture everything and just live with it. And that's that's
+1:42:14 very simple. Or the moment you capture anything individual,
+1:42:19 you're introducing a possible echo plus the inability to
+1:42:28 subtract the audio that you're already capturing
+1:42:34 in case you wanted. If I wanted to mute this, if I wanted to mute audio, guess what? I'm not muting audio anymore,
+1:42:40 right? So this like if I wanted to actually just say mute audio as a
+1:42:46 discrete event in the stream, I'm not muting their audio. So how do I
+1:42:52 avoid that? Um
+1:42:59 but if I audio capture this, what this allows me to do,
+1:43:05 I can show filters here. It's brand new audio capture device here. I'm aware
+1:43:10 there may be an echo going on right now. Um, I'll evaluate it.
+1:43:16 Let me evaluate it now. Let me go into settings and turn on a monitor. Uh, monitor is on
+1:43:24 uh on audio. It's It's monitoring out the um speakers. So, let me listen out
+1:43:33 the speaker to these. And if I go
+1:43:39 um monitor output
+1:43:44 monitor output
+1:43:55 if I mute this. Hello test one.
+1:44:02 Okay, I'm going to boost them both so that I
+1:44:08 can hear them both. I'm going to shut up and um listen to both of these at full
+1:44:15 levels and see if I can hear the echo in the monitor.
+1:44:31 There's a double. And that double shouldn't be there.
+1:44:36 [Music] There shouldn't be hearing that double
+1:44:43 when it's quiet like this. It's not It's not very noticeable because it's pretty quiet. 30 dB is really quiet. Um I'm
+1:44:51 going to evaluate whether this audio is this. Now, have I shrunk the music too much? I think it's going to be somewhere
+1:44:58 between -30 and -4 somewhere in that range.
+1:45:04 Um but now I can't
+1:45:11 basically you if you choose an individual application audio capture
+1:45:17 that individual application is still also going out the main output and so
+1:45:23 you're going to have that echo and I basically have to mute it
+1:45:30 right but then you can't hear that. And so
+1:45:36 how do I then capture Chrome audio output and this audio output? And now
+1:45:43 you have to b if you have if you open any application then you have to add application audio for that. Unless you
+1:45:51 send stuff out a virtual audio cable and you route everything to that virtual
+1:45:58 audio cable and then you control that devices volume.
+1:46:06 That was Solitude by White Bat Audio. Now playing Ember by Riley.
+1:46:15 If I were to pull up because I had been thinking of doing um
+1:46:20 this is a little side t it's related as far as audio and
+1:46:27 brainstorming and solving this problem for an idea
+1:46:35 um is
+1:46:44 PewDiePie. pie and whether I drop
+1:46:50 the kind of do a type of name drop or
+1:46:57 reaction video on a PewDiePie thing and basically
+1:47:04 it it would result it would in inevitably it'll result in increased
+1:47:09 exposure um on the ch on this night versus night channel if I were to do a reaction video
+1:47:15 to PewDiePie and put that out there in the title. Um
+1:47:21 because this this is a pretty good video. Um I have my ultimate all this is
+1:47:29 I feel a pretty good video. uh
+1:47:34 digression here, but I want to be able to cover things like this in the stream
+1:47:40 and so I want to come generate a solution for this. So this is not exactly a tangent. This is an
+1:47:47 exploration into designing a solution that covers
+1:47:54 what I that allows what I want to do. And what I wanted to show here is
+1:48:03 Zack Snyder. Uh Snider
+1:48:11 um is not him. Um
+1:48:18 home automation. Zack Freriedman. Here we go.
+1:48:24 This this this is like
+1:48:30 more more ads. Look at this. Two ads. [ __ ] you.
+1:48:36 So, I got to take a small bio break here for a moment. So, um let me leave you
+1:48:44 staring at Zack Freriedman. Not not Zack Snder. Different person. Zack
+1:48:49 Freriedman. And uh Oh, my title is off. Here we go.
+1:48:56 Uh,
+1:49:01 yep. Stream
+1:49:06 set channel titles.
+1:49:14 There we go. So, I verify stream and set channel titles. So, I I am doing a Halloween. The title is wrong on this.
+1:49:20 So, I need to change the title. So, um, let me do a bio break and I'll
+1:49:26 be right back.
+1:49:40 That was Ember now playing Bleeding Edge.
+1:50:20 [Music]
+1:51:03 Heat. Heat. [Music]
+1:51:27 [Music]
+1:51:40 [Music]
+1:51:51 [Music]
+1:52:10 [Music] So, you can probably hear
+1:52:17 the monitors is playing.
+1:52:24 That's Yeah, not that. I'm not controlling the the speaker volume of
+1:52:29 that. Let me change the settings to have the audio monitor come out my Arctis
+1:52:37 Nova. Okay, that and now I hear that. And now I can go. I now hear the echo,
+1:52:46 which is the final output. And I would actually like to be able to mix it to my left side. Um, so that I hear it.
+1:53:00 Can I mix the pan? Can I change the pan of the
+1:53:05 monitor output? Not really without changing the pan of the whole
+1:53:12 output. Um, if I were to monitor out to a VB
+1:53:20 cable, then that VB cable I could uh put
+1:53:26 all the way to the left ear and I could listen to that left or right
+1:53:32 ear as the final mix. [Music]
+1:53:37 Um, I'm competing with the audio because I
+1:53:43 haven't looped you in yet.
+1:53:48 Yeah, I'm competing with the audio which I'm aware of as I'm in kind of that was Bleeding Edge by Arthur Riley
+1:53:55 now playing Evil Behind the Mask by audio normally be automated to drop that uh
+1:54:01 decibel level by that amount.
+1:54:08 So where this
+1:54:14 where this is going watching the time here
+1:54:22 what I want because of the game stream all of this is
+1:54:30 95% focused on the end goal of the game stream if not 100% focused on the end
+1:54:35 goal of the game stream in the game stream.
+1:54:40 I have the music. I want It's a matter of the way the way I have things, the
+1:54:46 way I want things. I want the music that's on the the
+1:54:52 background audio. I I want music. I a lot of this would be simple if I
+1:54:58 just didn't bother about any music during the stream. [ __ ] it. No music. Simplifying it. But I
+1:55:04 want the music. I want to complicate it enough to put music in on the stream that I sort of curate the songs to be
+1:55:14 good no copyright songs that would be good background stuff like
+1:55:21 this is kind of a cool little I'll boost it a little bit as I'm
+1:55:27 talking. This is negative 24
+1:55:32 and you probably hear it a little bit better if I just kept it low. I I don't have the audio ducking. If I have the
+1:55:39 normal audio ducking, which you can see in that disabled slider, when I stop talking, it would boost up
+1:55:50 and then when I stop talk, when I start talking, it it drops down.
+1:55:55 So, that's just fancy to get that automation. I could just leave it low, but when
+1:56:02 nobody's talking, it's kind of nice to boost the audio up a little bit.
+1:56:10 But I not only want the music to come in on the stream. I also want the music to
+1:56:17 be heard on Kigot's headset
+1:56:23 when I'm playing the game. So the music is streamed to him.
+1:56:31 And I've done a complicated convoluted. It worked. And this whole thing's been
+1:56:37 working for years as I'm tweaking it. Um, one big large huge general algebra
+1:56:44 equation. Um, and should have like a little button
+1:56:49 to like do that little meme thing where all these functions and calculations come over my face right now. all the I'm
+1:56:56 doing the ma I'm mathing the math as
+1:57:04 as this guy says PewDiePie which this is just a freaking hilarious video that I
+1:57:11 want to do a reaction to evil behind the mask. He posted this three days ago.
+1:57:16 It's been viewed three million times. This one I find this to be hilarious.
+1:57:23 This Zach Freriedman um it's this is Oscar winning here. Um
+1:57:29 Pulitzer something. It's got to win some sort of an award.
+1:57:37 [Music] Much of the setup has worked in bits and
+1:57:44 pieces and almost in its whole entirety for years.
+1:57:49 There are some things like the NDI that I gave up on recently and I'm now just got two capture card. I bought finally I
+1:57:57 I bought one nice capture card for the F1 um movies the ripoffs that I had on my
+1:58:06 stream which for some strange reason Apple Music hasn't uh struck them out.
+1:58:14 It says they allow it. Like, okay, that should actually be my response to the to
+1:58:19 the guy. Let me do that. Um, that some guy has complained
+1:58:27 about my Let's go to community. Yeah.
+1:58:37 85k for this. Yeah. Uh, so this is what I'm gonna do with this guy is I'm gonna
+1:58:44 come to the actual video itself. Uh, as bad as they used to be. Pop you out.
+1:58:51 This is that. And um, if I edit you, I'm going to say
+1:58:57 there's a copyright restriction.
+1:59:04 See details.
+1:59:10 where it doesn't say it right here. This is not a copyright. See details.
+1:59:19 I want I want that wording that he has. If you're a member, take action. I don't
+1:59:25 want to this Apple IP intellectual property something or another.
+1:59:30 Doesn't restrict. Sure. I can't monetize this.
+1:59:35 That's fine. I want this text.
+1:59:47 And I want to put that here for this guy.
+1:59:53 [Music]
+2:00:04 Uh, and then if I had the shrug emoji,
+2:00:11 come on.
+2:00:18 Oh, come on.
+2:00:27 So, this guy's kind of being a bit of a dick.
+2:00:36 So, thanks for commenting, like and
+2:00:42 subscribe. Achilles is the modern in the modern
+2:00:49 world is an F1 driver, but he's happy ending more or less. Happy ending. Death
+2:00:54 43 now. Chef's kiss. Uh, 43 seconds in on you. What's 43?
+2:01:05 I'm not sure. Okay, it's a spin up.
+2:01:13 I'm not sure what that's all about, but whatever.
+2:01:19 I'm not sure what I give you a like. Not really sure what an idiotic movie. Max
+2:01:26 is doing actual movie magic. I'm not going to get into that
+2:01:33 bait of Oops, I didn't even want to close that.
+2:01:40 Know why I did that. All right,
+2:01:45 live stream game. The game live stream. I want the
+2:01:52 music to come in on my gaming PC's headset. I
+2:01:57 want to hear the music, the same music that's played out the broadcast. I want to hear that music on
+2:02:04 my PC. They're on separate PCs. One solution is for me to play the music from the gaming PC. And that's a
+2:02:11 possibility. I could just route its audio to my headset
+2:02:17 and I can Vband it out. And that might be what I do.
+2:02:24 Uh in the end
+2:02:30 this media player app,
+2:02:36 not you, but you.
+2:02:44 Uh well, yeah, I got I had to have a few words to say there.
+2:02:50 Um I'm struggling finding a way to capture
+2:02:58 this. It it's Chrome Canary so it's individual application. I can capture this.
+2:03:04 And here is where the epiphany that I had was I've already shown I've already shown
+2:03:10 the pull request where I am I was able to and I've canceled and closed the pull
+2:03:16 request. I actually just moved it up to here. I had a drop down right here on the screen where I can change the output device and bam, it went to NDI and it
+2:03:23 and it [ __ ] worked. And I was like, "Holy [ __ ] I' I've pulled it off." Except for the
+2:03:32 [ __ ] the voice isn't getting announced.
+2:03:56 I'm brainstorming here about like all the half a dozen different ways that I
+2:04:02 could skin this cat. Um,
+2:04:13 is 24 dB acceptable on that? Am I competing with
+2:04:21 that uh audio at this level?
+2:04:28 I've got a music player. I've got artist name and track title being output to a
+2:04:35 file. And I could have advanced scene switcher shell out a
+2:04:43 macro that when the now playing changes,
+2:04:48 then show instead of just showing or hiding, I could add a macro
+2:04:56 to run
+2:05:02 a speech a script. I could have it script speech synthesis
+2:05:08 Python to speak the file contents.
+2:05:15 So that's one thing I could do. But my heart by Riley now playing into the void by White Bat audio.
+2:05:34 And I could have it set a variable.
+2:05:40 The software engineer in me wants to walk that tight rope of
+2:05:47 complicating this but keeping it simple.
+2:05:52 Complicating this enough to be able to handle
+2:05:58 Excuse me. Nope. Complicated enough to be able to handle
+2:06:05 all of the requirements that may be thrown at it.
+2:06:10 Um, in the future,
+2:06:17 I could have it
+2:06:39 condition changes. We could go a couple of different layers
+2:06:45 here. A lot of it depends on if I have the
+2:06:50 music player on the MacBook itself. If the music player is on the MacBook,
+2:06:59 I could remove the voice
+2:07:05 announcement, the DJ essentially, the voice DJ. I could move it out of the
+2:07:12 player, but that kind of makes the player pointless. The player is now just a dumb player that just plays songs. And
+2:07:17 okay, maybe it might keep track of stars and favorites and play counts and that sort of stuff.
+2:07:23 And all it does is it updates maybe two text files. Um a that was play
+2:07:32 file and a now playing that was and the content of that file here is where um
+2:07:41 if I pull up the editor and I look at the now playing
+2:07:47 this should it's playing to the other one. Um,
+2:07:52 is it not even updating for the stream? Yeah, it's not. It's right. It's not doing it. So, that was an error on my
+2:07:59 site where I'm got this. Um, I haven't don't have this set right. Um,
+2:08:05 it says not configured. So, if I come to dev GitHub, I hadn't didn't have this
+2:08:12 set up. Media. So, now I'm going to put that right there. And it's enabled. And
+2:08:20 now that was into the void. Now playing.
+2:08:25 There we go. That wasn't working. And now it is the now playing feature
+2:08:31 because I that's a little touch that I want on my stream so that I do tell the
+2:08:39 world what the song is so that if it's free no copyright then I can go one
+2:08:47 better than just saying hey I put it in the in the description actually announce it live in the stream with voice. I
+2:08:53 think a no copyright license person would be like, "Well, yeah, that's
+2:08:59 pretty cool. It's hard to track that with metadata, but maybe in the transcript it would come up."
+2:09:05 Uh, I wonder if that now playing shows up in the transcripts. Um,
+2:09:11 but I could have it output and that was if I come over here, this is that file. If now I pick the next track,
+2:09:19 um, the hotkey is not working. So, if I pull up the next track, pull up the next
+2:09:25 track. I'll move you off to the side. I will
+2:09:31 minimize you and maybe bring you back in a second in a little bit. But here's
+2:09:37 this. If I say next, it does that with a now playing text file.
+2:09:43 if I had the player also output maybe a second file.
+2:09:50 Again, I could do this a couple of different ways. Um, several different ways. I could have a CSV of a now playing a that was column
+2:09:59 and a now playing column. Or I could have a JSON file with a that was property and a now playing property. Or
+2:10:06 I could output to two separate files. and two separate files would allow me to basically um but that's going to be hard
+2:10:15 to sync up the now playing with with the I would know that if it if the now
+2:10:21 playing has changed then I could also then load the that was and then play
+2:10:26 them together. Um that's an option. Uh and that's if I have the player local
+2:10:39 If I have the player on Kigot or the gaming PC,
+2:10:47 where it gets complicated is I I have a button where I can swap between Kigot
+2:10:52 and and Knight. And so they can physically change their
+2:10:58 screens. So the right now 99% of the time kigot is the PC on the
+2:11:05 left and knight is the PC on the right and by default when everything boots up
+2:11:10 and if it doesn't remember how it was oriented um kit's the p the screen on the left
+2:11:16 and night is the screen on the right but I have a button that I can and it does work I can swap the screen so that night
+2:11:22 becomes the big screen and kit becomes the small screen and that lets me focus
+2:11:27 on the big screen. It's a gimmick, but I find it a nice touch, a neat to have.
+2:11:34 And um close this you
+2:11:42 and bring you up.
+2:11:48 Uh bring you to there.
+2:11:55 [Music] GB beat and put you
+2:12:02 right there. If I ever push the button to swap the
+2:12:09 two out, then um the headset is connected to a USB hub on the big on the
+2:12:16 big screen connected that's logically
+2:12:23 uh associated with the big screen. It's not physically plugged into it. But when I do the swap now, night the headset
+2:12:31 would now be connected to Mike to to night. Um, and so if the player was over there,
+2:12:37 it would it would mess things up and who knows if it would even pause the
+2:12:43 audio. It probably is up to me to write the code to pause the audio,
+2:12:48 but um
+2:12:53 I think it would just be complicated to have one of the gaming PCs
+2:13:00 be playing the audio that it doesn't feel
+2:13:09 appropriate, efficient. It doesn't feel right to have the gaming
+2:13:16 PC playing the music for for lots of for lots of reasons.
+2:13:23 Some some of them more important than others and really one of the least
+2:13:31 one of the least the lesser important reasons, but one of the more obvious reasons is you probably want your gaming
+2:13:38 PC to be doing the least work as possible. So, there's no reason to be
+2:13:44 playing the audio on the gaming PC. It's going to be cranking out frames per second,
+2:13:51 especially if the streaming PC, the MacBook here, has plenty of headroom. And and I'm not seeing that in this
+2:13:58 stream right now, it says it's only using 12% CPU. Um, by the time I do gaming from
+2:14:05 two to five PCs, it can push up there, but I'm I'm never getting to 60 70% CPU.
+2:14:16 So, because I have the headroom on the streaming PC, it just makes sense to have the music
+2:14:22 player on the streaming PC. So, I'm now I've been rambling here for
+2:14:30 whatever 3 to five to 10 plus minutes easy on
+2:14:38 justifying where I would or would not want to have the music player playing. And it just does not make any sense to
+2:14:45 me to have the music player playing on the gaming PC.
+2:14:53 And I'm kind of insistent on that. If I could come up with a any sort of rational justification that that makes
+2:15:00 great sense. It does make great sense as far as the
+2:15:05 audio routing that I can on the gaming PC
+2:15:12 use some of its resources and pipe the audio
+2:15:19 um the music audio um route it to Vband, but that had to be
+2:15:27 using OBS.
+2:15:37 I can just do app application capture. I could do application audio capture and then on that on that on that PC's
+2:15:46 um voice meter applicate using ear trumpet or built-in Windows, it doesn't matter.
+2:15:52 using Windows application audio output. I can have it output to voice meter
+2:16:01 a VB cable and then I can have that voice meter VB cable popped up onto voice meter
+2:16:09 and pick an output uh channel like B123 or whatever A1 through 5 and then send
+2:16:17 that to Vband. And then this is part of the ramble of why I'm talking about this
+2:16:23 is it I had this epiphany and I think I even wrote it down as far as a note or
+2:16:29 something. I'm not even really going to probably find it very well. I think I didn't even write it down enough to
+2:16:36 maybe in the dead column. Um I don't think I even wrote it down in
+2:16:44 the dead column. But this is [ __ ] awesome. Let's say I have
+2:16:52 music audio music app audio capture. Watch this [ __ ]
+2:16:58 Um I've known for a while I can do a dedicated because I work on DRAV.
+2:17:06 Um we can do NDI output and that's what I was doing. So I do
+2:17:14 NDI. I do. Oh, the way this setup is actually currently set up for the game
+2:17:19 stream is I have
+2:17:25 um OBS.
+2:17:31 No, what I I had SoundStream, which I'm not using because I learned that SoundStream conflicts
+2:17:40 um it can cause some conflicts with OBS. There's a exclamation warning sign whenever you pull it back up. When you
+2:17:46 pull it, whenever you run OBS and sound source,
+2:17:53 sound stream, sound, whatever, sound source. Um,
+2:18:01 sound source. Whenever you run OBS and sound source
+2:18:06 together, sound source is going to say it's detected there's another capturing audio application. sound sources
+2:18:12 disabled processing. Um, close the other app or force enabled
+2:18:20 processing and it causes complications. you lose the monitor output, that sort of stuff, which that's why I got no
+2:18:27 monitor a week ago in the stream and I was noticing I had no monitor.
+2:18:33 And that's how I got the monitor working and I can turn it back on and off now. um because I'm not using sound source
+2:18:41 but I did the on the game stream I it is expecting and I have to figure this out before my next game stream is
+2:18:50 um sound source was going to capture Chrome Canaries music player and route
+2:18:59 the audio to NDI output and then
+2:19:06 Um, I can capture that through DROAV as an
+2:19:12 in as an NDI source, I can capture the audio. Um,
+2:19:20 and since it's on NDI, since sound source is sending that to NDI, then it's
+2:19:27 on the network. And then the game PC, any any any PC on the network because
+2:19:33 it's a broadcast, any PC on the network that's listening for NDI can pick up
+2:19:40 that NDI music and uh play it. And so that's basically what the setup was. And
+2:19:46 it worked.
+2:19:51 But I'm trying to sort of go away from
+2:19:56 NDI. Uh I've mentioned this before. It's a bit of a heartbreak.
+2:20:05 Um because I work on the project. I really wish I could get it to work reliably, but I just can't.
+2:20:14 And it's kind of always been a stop cap. Anyway, I'm not going to describe the
+2:20:20 NDI woes there.
+2:20:26 So, if I wanted to go away from NDI, what's what's weird here is that great,
+2:20:31 it's on NDI pulls up and now uh the the gaming PC picks up. It's
+2:20:37 running NDI studio monitor. So, it's running a music player,
+2:20:43 essentially a music an audio capture
+2:20:49 off the network. It's reading the audio and video, but there's no video, so it's no op on that. So, it's reading the
+2:20:55 audio off the network and then that audio is p is being picked up by
+2:21:03 um ear trumpet or Windows application routing application audio routing and
+2:21:09 sending it to voice meter that I can then send to the headset. So, it's just like it's this it's still like five
+2:21:16 steps before it gets to the playing PC's
+2:21:22 earpiece. So then I thought, why not? I wonder if
+2:21:28 there's a Vband audio filter. And Norro Hero, Nori,
+2:21:34 Norihero, Norohhero, um, wrote this Vband audio output.
+2:21:40 And great, I can now actually take this audio output
+2:21:46 and put it onto the network. I can say um
+2:21:51 MacBook music
+2:21:57 and I can do it to myself.
+2:22:02 Uh sample rate, sure. Um
+2:22:07 24-bit energy's only doing 48 kHz. I'm looking at the
+2:22:19 So that's outputting audio to Vband and I can basically come up to Vbandi
+2:22:26 Vband receptor and launch my Vband receptor and pretend that this is
+2:22:33 the streaming PC. The streaming PC has voice meter and in the streaming PC's
+2:22:39 voice meter it would basically pull up
+2:22:44 uh
+2:22:51 there. That's the MacBook music right there.
+2:22:56 And then I can route that to my headset. I forget where I can do
+2:23:04 that at
+2:23:09 hardware output. Here we go. I can route this to my
+2:23:14 there. So now I hear it.
+2:23:24 And that's basically the setup that I can do inside of here if I do application audio capture.
+2:23:30 And that would be if it was Chrome Canary playing
+2:23:47 and OBS is doing an application capture of Chrome Canary. But
+2:23:59 since I wanted to be able to write to MP3s and manage playlist audio and blah
+2:24:05 blah blah transcendence by audio kind of just because it
+2:24:11 not so much a look what I can do but that I at the time and I I thought it makes sense and and still I think it
+2:24:17 still makes sense for me to
+2:24:25 not limit the music player to
+2:24:31 permission to not have permission limitations from running inside of a web
+2:24:36 browser. I'd like to be able to walk the file system
+2:24:41 as a fully gr elevated non- sandbox application.
+2:24:48 This is a application. So I worked with this is the the Tori QT
+2:24:56 media player that I'm getting into.
+2:25:03 Um, can I class that?
+2:25:16 I wonder if I can if you're bold.
+2:25:21 I wonder goals. I take you off
+2:25:30 and I make you bold.
+2:25:38 What if you were uh here? What if you were bold itallic to make you green?
+2:25:45 Let's try this.
+2:25:55 Did I close you already?
+2:26:01 Kind of. But I can pull you back up.
+2:26:10 Um, that was this one. I did close it. So, I
+2:26:17 can just pull you back up.
+2:26:23 What about ch CSS
+2:26:29 change to make
+2:26:40 Triple star tech. Triple starred.
+2:26:47 Starred text green.
+2:26:55 Uh, bright green.
+2:27:04 Nice one. I marked down triple strong bright green.
+2:27:10 If you want to make it pop even more, add an optional glow or bold emphasis.
+2:27:15 Woo. Um, and then we come in here and we look
+2:27:21 at goals and we change our CSS to basically say
+2:27:27 um you and now boom. So that's what we're talking about right
+2:27:33 now because I've triple um
+2:27:38 triple starred you. All right, that's cool that I can do
+2:27:43 that. Um,
+2:27:50 [Music] if there were arrows,
+2:27:58 is there a way to change the arrow? Is there a way to have custom
+2:28:07 bullets so that
+2:28:14 one? So that one could
+2:28:22 be a type of current
+2:28:27 concept. Example, that was the mysteries within arrow memories.
+2:28:35 A right pointing arrow on the left of the text
+2:28:45 and the others are just
+2:28:51 unchecked boxes.
+2:29:02 Yeah, but I don't want to.
+2:29:15 If OBS mark don't support get style check boxes, then you can hide the raw and replace it visually with an
+2:29:23 arrow.
+2:29:29 can make the first item the first item use a right arrow and all others will look like empty check boxes.
+2:29:37 Yeah, that's true.
+2:29:42 You can target a specific item instead of first child if you add custom class.
+2:29:48 Some markdown renders support current after the line or use an attribute like to mark the
+2:29:56 option two use a task list style if supported by your plugin. So,
+2:30:03 um I thought about that and if I come in to you and I say
+2:30:12 uh like
+2:30:20 that
+2:30:27 you're not really doing.
+2:30:37 Yeah, it doesn't really quite work that way, buddy.
+2:30:44 Um, I could get rid of the
+2:30:52 remove the bullet point.
+2:31:06 Yeah, I could try this and put you in here.
+2:31:25 type checkbox. Is that kind of getting in the weeds there on
+2:31:31 that one? Oh, it's about time for me to leave. That was memories by Riley.
+2:31:38 I'll play with that a bit. White bat audio. I I This is a good a decent temporary
+2:31:46 right now. I will I will continue to evolve that.
+2:31:51 Um,
+2:32:04 yeah, whatever. So, I'll play with They're still talking
+2:32:10 about that player. So, I'm going to wrap this up and then end the stream here
+2:32:16 that in writing the the
+2:32:22 web app player, I wanted to
+2:32:28 be able to operate outside of a permission restricted web page. And so,
+2:32:33 I had a ticket to investigate making it a standalone application for a couple of reasons. Maybe there'd be like
+2:32:40 notifications of um if I wrote a chat app.
+2:32:46 Um there's a cyst tray notification. That's one of the actual tasks over here is in the coding is a cy tray
+2:32:52 notification. Um so
+2:32:58 that chat like right here on the on the left side I've got these chats. I' I'd like to replace this with my own version
+2:33:05 of Social Stream that I write that basically just pulls up very simply these three chats. Um maybe as a column
+2:33:13 like this. Um, but I could minimize as a standalone application. And um,
+2:33:21 I wonder if there's like an OBS plugin that will let you put all of these
+2:33:28 um, inside of a floating dock. If I can just
+2:33:34 make a spontaneous floating dock inside of OBS. Um,
+2:33:46 if I had that in the URL, if I made a custom browser doc of those just being
+2:33:52 vertically rendered as 30 33%. One/ird
+2:33:58 and then I could float that around. But what I want is notification.
+2:34:04 distraction here is that um as I was playing with different concepts of writing my own standalone
+2:34:10 applications, I thought, well, why not just make the music player standalone application? And so, I had a ticket to
+2:34:16 do that. Speaking of which, I had this ticket to um
+2:34:23 uh I wanted to do this on on screen here. #noteto. This is how you can open
+2:34:30 uh if you hook together your GitHub MCP through codeex, you can basically I'm in
+2:34:35 a codec session right now. I can say codeex and I'm in a session. I have my MCPs
+2:34:43 initialized and this is the all the stuff you can do with the GitHub MCP. And so I can say
+2:34:50 using it. It sometimes doesn't quite know that it has the MCP. It's a bit brain dead. So um I can say use the
+2:34:57 GitHub MCP and a after you do it once it kind of remembers now that oh yeah I have that available to me to create an
+2:35:05 issue to have the uh media player
+2:35:12 um which is already on that GitHub repo anyway. Um I have short have hot have
+2:35:17 shortcut keys 0 1 2 3 4
+2:35:22 5 6 7 8 9 that will jump to that
+2:35:32 percentage times 10 in the song. Example
+2:35:39 0 = 0% 1 = 10%
+2:35:46 90 9 equals 90%
+2:35:52 uh just like YouTube does. YouTube
+2:36:01 does. And then poof away it goes. and it'll create the ticket.
+2:36:10 And bam, there's the text that it
+2:36:18 entered. Um, there's actually writing the issue. That's what it was thinking.
+2:36:25 Um, well, it's already gone off the screen. Create a new request. There you go. And so then it creates this
+2:36:35 Canary um this guy local web pages issues I should
+2:36:43 have a 16th issue now and that's this issue that I just created and all that like bam da da da that was pretty easy
+2:36:50 so only but I only had to type uh that amount and it basically filled in the
+2:36:57 blanks and that was just kind of natural language speech so I thought that was kind of So, I went been meaning to do that and
+2:37:05 um also wanted to
+2:37:15 show that um I had been working with
+2:37:22 AI to write this and it wrote a a ticket for me to write a Tori application. It
+2:37:28 recommended Tori. T A U R I had kind of heard of it um but uh hadn't
+2:37:36 ever really focused on it and I looking looking for an excuse to use Rust
+2:37:41 and write a Rust application and so Tori wasn't now a chance to do it. So that's kind of why I leaned into that and
+2:37:49 um but I would have defaulted towards using QT from my experience of working with
+2:37:55 OBS and DRAV. So I'm like, well, why would you write a Tory application which is Rust and it's really wrapping a web
+2:38:02 page um and you've got these bridges. Why not write QT? And so I had it do both. I I
+2:38:07 went off and did sidebyside projects. Um and I have sitting right here. Um this
+2:38:14 is the QT version of this player. Um so here is the web player that's built in a
+2:38:21 web page. It's kind of a one single monolithic web page. Um, and here is the
+2:38:27 QT version of it. And here is the Tory version of it. And they both work um ra
+2:38:33 just rather just fine. This one's not resizable. I actually told the code not to let it be resizable. This one is
+2:38:40 resizable because I didn't tell the code to not be resizable. And it actually sort of um surprisingly
+2:38:47 reacts not half bad. It doesn't have any scroll uh you know scrolling up and down ability, but I can
+2:38:54 do this and get some of that ability. Um so that was kind of cool. And I can
+2:39:02 pause this player over here. Um but in order for this to work, I'd have to change the application audio capture
+2:39:09 from here. We've got this app.
+2:39:15 Um I can't Oh, because it jumped that. Yeah, that's kind of annoying.
+2:39:20 Uh, if I were to resize, does it does it pop? There it goes. Yeah. And if I resize back again, does it pop the right
+2:39:27 way? It kind of does. Eh, that's I haven't ever worried about size on this
+2:39:33 thing yet. But if I come into OBS and I say I change the application capture,
+2:39:40 notice it's not capturing. I would basically come into uh you and I would
+2:39:45 say which one which one which one were you? The QT. Um
+2:39:52 I think it's you.
+2:39:59 You're the QT web engine prototype. I haven't tried this. I'm doing this
+2:40:05 live. Um it didn't actually take
+2:40:14 Interesting that it's not taking it's going to go back to Yeah, that's weird. Um, so I'm playing with chat GBT helper.
+2:40:23 I don't know why that's there, but for some reason it's not letting me successfully select this QT web engine
+2:40:29 prototype process as a something to capture.
+2:40:35 totally new um spontaneous ad livinging that right now and it's not going to
+2:40:41 work. But I've got standalone applications and I'm still debating on a
+2:40:47 good way to efficiently capture the audio and then put it on Vband so that
+2:40:55 um so that it can be routed to the game player. I could also route it out on NDI
+2:41:05 also once I get its application hopefully the
+2:41:11 application audio um I'm not going to get into this because I
+2:41:19 got to go. That was uh see you on the other side. If I come to you and I say
+2:41:27 see you on the other side
+2:41:32 see you on the side this one should capture
+2:41:38 if I come to chrome canary and there's that
+2:41:45 and if I change the song skipped see you on the other side now playing we fly together
+2:41:52 notice that that application audio capture does capture the voice and so it
+2:41:58 captures the voice and the volume and I think the other problem was um I can
+2:42:04 control the volume of the voice but I can controlling only control the volume of the voice at the moment that I put
+2:42:10 the voice into the queue once it is speaking and it starts saying something
+2:42:15 if it's going to be like 10 seconds and I jam that volume down to zero it's still going to play that speech at that
+2:42:23 volume that it was originally in queued at. That's kind of weird. Little things
+2:42:29 like that. But I got to go and pick up some kids and uh probably we'll be done
+2:42:35 streaming for today. And I'm going to try to do this again tomorrow and just
+2:42:41 keep chugging away at my system. And um I might actually game tonight
+2:42:48 uh if my org mates are still around and available to do that. All right. Um I
+2:42:56 did see that there were some people there were some increase in viewer counts
+2:43:02 um for my streams. even though no one uh
+2:43:08 was in on the live stream, um I did see that the view counts went up more than I
+2:43:13 ever viewed the page. So, um some people are viewing it and so I appreciate it.
+2:43:19 Uh and you probably already have liked and subscribed, so I appreciate it. Um I
+2:43:24 I I am staying sane. um watching the channel grow a little
+2:43:31 bit, giving me some sort of a purpose in this world be uh in the technical world
+2:43:37 because co corporations aren't doing it. Getting a job is not uh helping me stay sane,
+2:43:46 right? It's actually giving me very dark thoughts and I I can
+2:43:53 go into that, but I'm not going to go into that right now. Got to end the stream. Thanks for watching. Um, it
+2:43:58 keeps me sane to have to see that there's some interested that I'm doing
+2:44:06 something interesting. All right, thanks for watching. Like and subscribe, but you probably already have. I got come up
+2:44:12 with some taglines. Um, talk to me, communicate, comment. I
+2:44:19 appreciate it. Thanks.
+2:44:25 I'm not this [ __ ] night, [ __ ] [Applause]
+2:44:32 [Music]

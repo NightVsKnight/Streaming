@@ -1,0 +1,1437 @@
+0:07 [Music]
+0:19 Hey, hey,
+0:29 [Music]
+0:43 Hello there. You get to hear my still flim
+0:48 voice from being sick a few weeks ago. The cat wiped me out. I don't know what
+0:54 was up with that. Still been recovering since then. Um I am going through another checklist.
+1:04 Let me come out of uh first thing first. This is uh
+1:11 pre-stream checklist um to make sure that the stream is
+1:17 working before I come out of be right back. So, uh, I'll typically do this,
+1:23 but I wanted to cover it on the, um, stream
+1:29 to show what, uh, to show what it is, what the pre-stream checklist is.
+1:34 So typically I would be continue to show the be right back or I'd really, you
+1:40 know, there semantics here. I would say stream starting soon and I would be muted while I go off and verify if the
+1:48 streams are really running or not. So that's what I'm going to do. But I'm going to come out of be right back mode
+1:54 and come into showing you on the screen what I do to verify
+2:01 on the Neo here. a little popup. This video is not sponsored by Elgato, I
+2:08 wish. Um, I have a button to start streaming and then I'm using um this uh
+2:17 I forget what the Soryuki's multi output stream It's different from there's a
+2:22 there's a couple of multiart RTMP plugins, but when I start uh Twitch,
+2:28 which is the primary in order to get the hand enhanced broadcasting um Twitch has to be first. And then once
+2:36 that's on, then you can get the kick and YouTube can be automatically started um
+2:42 when you start the primary, but it sometime doesn't know doesn't always start. So, that's where I would
+2:48 typically stay in back uh be in B right back mode while or
+2:55 or truly really semantically uh I'd be in stream starting soon. When I hit that start button,
+3:03 when I hit the start button, I need to go off and verify the stream's up and running, which is what I'm going to go do. And I could be saying all of this
+3:10 with YouTube not being uh live. So, I've
+3:16 got that behind this tab. And hopefully my audio levels are good.
+3:22 Um, let's see. Refresh this page. Sometimes it doesn't take. It should be
+3:27 a green dot. Um,
+3:32 we're live. Okay. The stream's current bit rate is higher than recommended.
+3:41 We recommend they use a stream bit rate of Okay. Um, I can do that.
+3:49 Uh, and then I like to make sure while I'm in here that these are all checked because I see I often see the videos
+3:56 come in as chats in uh chat replay disabled comments turned off. Like what
+4:03 the I don't know why it does that stuff. I don't know if on details advanced way
+4:09 down here comments and ratings off like why why was comments and ratings turned off. I never have turned this off but
+4:16 yet moderation basic like I've never adjusted these settings ever before but
+4:22 yet somehow they got done like that. So this was me verifying again prestream is what I I
+4:30 usually would not have come off of starting soon. Um but I'm showing what I do here. Uh, I'm going to what is see
+4:37 the suggestion? I'm going to go ahead and and take care of that. On the
+4:43 modify, I'm going to set the bit rate to be what they recommend. Oops, that one.
+4:50 And we'll see. Uh, 30 frames per second. Yeah, because I dropped to 30 frames per
+4:56 second. Um, we'll do that.
+5:01 Um, we'll just make sure that your bit rate is reasonable in your 30s frames
+5:06 per second. Is that okay? And then Twitch is already
+5:15 set. I can go look at it at least and see on the stream output.
+5:23 The output itself is 51. Do I really want to send that to
+5:32 6,000 warning. The stream video bit rate we set to 6,000. Um, that's fine. Uh, this
+5:40 is weird thing on on MacBook Pros. If you do this hardware note, not note to
+5:45 sell um uh FYI. Uh,
+5:50 pro tip here. Pro amateur tip here. Uh, don't use hardware encoding cuz it'll
+5:57 drag your especially your 4Ks down. So, this is saying video bit rate is set
+6:02 to 6,000. So, I can do that. I'm getting ready to verify this stuff. So, I will come over to um back over here and I'll
+6:10 verify kick is up and running. If I refresh this page, um, yep, kick is up and running.
+6:18 And then I go to Twitch and refresh this page. And Twitch is up and running, so
+6:24 we're good. But I go to Twitch inspector
+6:30 and look at this stream, and that is this stream right now. And I look at its bit rate, and it says 6,000. So that is
+6:37 correct. 6,000 is what I should be using. Um because um it's because it's Twitch,
+6:44 they don't allow 4K. Um, but since this is the enhanced broadcasting, so they're automatically
+6:51 capping at 6,000. So, I will I will agree
+6:57 and um I can't change it while uh yeah, I can I can change it while streaming.
+7:04 So, I'm going to change this to they say 6,000 here. So, I'm going to say 6,000. And I'm going to say okay. And that
+7:10 should now drop this guy to being um the warning will go away. This this
+7:17 was capped anyway. And hopefully it didn't affect any of my other streams.
+7:23 Um make sure that warning goes away on the output. The warning has gone away. It's now only the standard record
+7:30 warning. Um and then I can just verify that the
+7:35 Twitch is still back up and running. Uh, and this is Twitch has got a real
+7:41 quick delay. Yeah, that's me. There's that. And kick is I can raise my hand
+7:47 here. And yeah, and then YouTube
+7:52 uh is a little behind the times. And I can just refresh it. And
+8:01 it takes a moment. And it's got this warning still, but
+8:06 I've dropped the bit rate. So, if I were to
+8:11 stop the stream, I don't trust that bit rate. Stream settings. Um, stream
+8:18 health. Excellent. This higher than usual. Should I stop and restart the YouTube? Um, it should not really like
+8:26 it's not terminal. So, I'll basically come over here and I'm going to say stop
+8:32 YouTube and I'm going to restart YouTube. And you you probably won't even notice the difference.
+8:37 All right, stopping and restarting YouTube to pick up the uh change in bit rate that was recommended.
+8:46 All right, this says we're now doing that. It's about that 2500. Um, right,
+8:54 which is about that right bit rate. I wonder why I would send kick at what was I sending kick at
+9:02 8,000 when um Twitch is only getting 6,000 but this is
+9:08 1K so um yeah whatever um I could drop this to
+9:15 6,000 uh probably safely. I'll just do this. I
+9:22 guess my better judgment. Change that. And I'll do the same thing on kick.
+9:27 While I'm here, I'm going to stop and I'll restart kick. Any prayer won't even notice it. So, stop and kick in. 3 2 1.
+9:38 [Music] And we're back at kick. And now our bit
+9:43 rate is uh not eight anymore. It is now six. And now that those are there, uh, I
+9:50 would, and I usually would do this, um, these distractions of the bit rate
+9:55 warnings are part of this new channel in this new behind thescenes streams. And
+10:02 hopefully these will be mitigated and removed. Um, but let me refresh this and verify.
+10:09 Once I verify, this should only take like 30 seconds to verify the stream. And if it doesn't, then I stop and start. I keep stopping as restarting
+10:16 until it works. Um, this one, if I go stats for nerds and I look at it, it
+10:23 says it is not. So, I actually, that
+10:28 concerns me a little bit. Um, I'll pull up my the real channel. Um, this is just
+10:34 kind of this um stream preview. If I do this,
+10:40 that one is uh raise this hand and yeah, that delay is pretty short.
+10:48 And verify that Twitch is unaffected by any of this. Raise this hand.
+10:55 Yeah. All right. And then uh because I kind of don't trust the stat for nerds,
+11:02 I'm going to uh this is part of a the
+11:08 things to work on. So I'm going to uh
+11:15 uh yeah, open like a new tab and come back out here and look at the live
+11:21 stream that's current. And I just want to uh not view it in the control room,
+11:26 but I want to actually uh go to it and I want to verify that.
+11:34 Oh, it's right there. I'm already here. Yeah. Yeah. Brilliant.
+11:39 I want to go to this link and verify it's 4K. This is part of the process. And and I'm only really doing this
+11:46 because I changed the bit rate and I don't trust that the bit rate will go
+11:51 through. So, you're going to hear uh 10 second echo here, which is not really an
+11:56 echo as I mute. And then I announce stats for nerds.
+12:03 This should be Yeah, this is 4K, so we're good. All right, so we're at 4K
+12:09 and my wife's home, so I'm going to go one on one ear here.
+12:15 Um, we're going to work on these stats in a second. this I the transcription is part
+12:21 of the uh goals that I'm working on.
+12:28 So now that I verified the stream, I would normally
+12:34 uh I would normally be in this mode for stream starting soon and I would have
+12:41 verified the streams in like 30 seconds to a minute and uh then I come out and
+12:48 be right back and the stream is live. Um oh so I don't actually that is a lie.
+12:56 Uh, I would I there's the checklist. I've added a couple things to the checklist. So, this is new where I turn
+13:02 the B right back on. I do the stream, I verify the stream, and then I have to verify that the chats are up and
+13:07 running. Um, and basically that means that if I refresh this now, since now
+13:14 the stream is running, it should um pick up Chad's disabled for this live stream.
+13:21 Why? Why? Why? Why? So, if I come over here,
+13:26 um, because it's probably a different stream. If I come to you and I grab
+13:33 copy, pop you out, pop out the chat, and it's this stream ID has probably
+13:40 changed. So, if I grab this whole URL
+13:46 and I paste it into the um docs, custom
+13:53 browser docs, and I say YouTube, and
+13:58 this is going to be the new one. I'm going delete the old one. And I come over here. You notice that
+14:04 that is MXK and this is UAPL.
+14:09 So this one's dead and this is the new one because it's a whole new stream and I get that and that's why I'm need to
+14:17 basically make sure that that matches the stream and this is what social stream does. Uh
+14:24 it's kind of designed to do automatically. So I will apply that and that should pop up a new
+14:32 doc because it's the named the same. I have to delete
+14:37 that one. is not taking. I have to delete this one or really just change the URL and apply and close and refresh
+14:46 and it automatically did it. And then I had a tech note
+14:51 which I almost want to I want to put it here that this is to me annoying and
+14:57 stupid this little card that they put in here. So I can come into inspector
+15:05 and I can basically set the the card right here. I set its display
+15:13 to none and the card goes away. And now I have a bigger window to view
+15:19 the chat in. And I say um
+15:25 uh what should I say? Yeah.
+15:30 Welcoming all humans.
+15:38 Uh keyboard shortcuts inside these uh docs don't u um copy paste type stuff doesn't
+15:45 work probably for a good reason. But right click works. So, if I do that and
+15:51 paste and this and paste, then I basically can verify Twitch
+15:59 kick and YouTube. Um, and then the last verification
+16:05 before I come out of uh stream starting soon is
+16:12 um I look at the chat, the chat worked. I look at this chat, that chat worked.
+16:17 Got to go look at this chat. And that chat worked. So chat's all working. I can collapse this and um we're good. I
+16:26 don't need to be that. This is one we're going to uh review in a moment as part
+16:32 of the tasks, the goals, the tasks, the topics.
+16:38 Um okay. So, I would be
+16:44 I would be in this mode that actually would be more of a stream starting soon. Um, and mic muted as I kind of get up
+16:51 and running. And this is kind of a practice then for what I would do for the actual game streams. Um, and then
+16:58 now that I've verified the I've gone through my checklist,
+17:04 um, which I'm gonna I'm gonna once I'm going to show the checklist, but I would
+17:09 basically come out and be right back because that's part of the checklist. And it's this, um, checklist where I've
+17:16 done the I'm on the mic stuff. I' I've got my number one thing is to do a mic test here. And then, um, I set the
+17:26 stream deck. I choose the button for the lapel or mic headset. Turn be right back
+17:32 on. And then I start the stream. I verify the stream. I verify the chats. And now I turn be right back off. And so
+17:38 the first topic that I wanted to cover is um I want to compare the headsets.
+17:44 And I think that's going to take a moment to do methodically. We're I'm 17
+17:50 minutes into the stream and I was hoping to do it right out of the gate so that I could um
+17:58 kind of evaluate right at the beginning with no uh with a fresh set of ears. Um,
+18:04 but um, related to the microphones, I've noticed yesterday I adjusted the
+18:10 microphone a little bit and I think I was coughing or brushing my face or
+18:15 maybe I grabbing some eating something and the microphone went out to here. Uh,
+18:21 you can't see it that way, but you can see it. It's And I turned on face tracking yesterday
+18:28 uh to help that whole vertical space thing. Um, it's got some range. but
+18:33 it'll figure it out. Um, and that was it just on the Mac. It's got the stuff
+18:38 built in. Um, it does light correction.
+18:44 I like to curious to see on the live preview. Um,
+18:51 and all that. I can actually just do it a different way. We're going to go hollow mirrors uh for a second while I
+18:59 um send this whole scene to the um
+19:06 project it to the display. So, we're going to go hollow mirrors and I'm really just real quick want to look at
+19:12 the um get this mic in the right location. I'm
+19:17 dealing I'm getting with that. Um, but I got this distraction of the camera that I'm going just test real quick. I don't
+19:24 think it will take more than 30 seconds. I'm going to project go to hollow
+19:30 mirrors here. All I'm looking at is the lower right corner. Um, could I go be
+19:35 right back? Uh, I can't
+19:41 and I can do that. But if I come up here now and I turn on the
+19:47 um
+19:53 will you do you see this on the stream is what I'm curious about. Is my be
+19:59 right back overlay completely blocking and it is. I can actually see I can see my mouse. Yeah. So you don't you don't
+20:05 see what I'm seeing. Let me turn be right back off. Um, now you can see what I'm seeing. Um,
+20:17 yeah, it's only showing that part. It doesn't show the actual camera. What I'm looking at is not the currently sharing
+20:23 thumbnail in the top. I'm actually looking at my face in the lower right corner. But here is where if I turn off
+20:29 center stage now, it doesn't follow me. So that's that setting. Um, so this will hopefully follow me and
+20:37 track me a little bit better if if I'm just kind of moving around. It's not too annoying.
+20:43 Portrait is probably a little controversial. I think it kind of airbrushes your face a little bit. It makes you look a little prettier. And I
+20:50 don't really I'm not really sure what portrait really does.
+20:55 Um, uh, there's the settings here. Uh, you can like max it to 11. If I turn it
+21:04 off, it doesn't I don't really see it doing
+21:09 anything at that level. If I move that, I don't see it.
+21:18 I'm not really seeing what it does. So, I almost could just turn it off and look into what portrait does. And there's
+21:24 studio light, which helps kind of that that helps
+21:29 it. It white balances so that it's not quite such a harsh
+21:38 so it's not such a harsh background. I want a couple waters over here. Maybe it can follow. How far can it
+21:43 follow me? Can you follow me this way? No, it's pretty far outside the range.
+21:52 Um, and then let me take a sip here.
+22:05 Okay, coming out of House of Mirrors. Um,
+22:12 still a little mini House of Mirrors here. Um,
+22:18 so that was the camera distraction. What I'm
+22:25 focusing on is the microphones. Um the camera is just a change. I noticed that as it as I moved it
+22:32 followed me and I just wanted to explain that slight difference most to myself obviously um that the camera angle has
+22:40 the camera setup's changed a bit. I don't have to adjust this so much anymore. It'll kind of zoom in and zoom
+22:47 down. It should follow me. It doesn't matter which what my angle is. Yesterday I did that as I was reviewing the
+22:53 stream. As I was reviewing the stream, not only just the video that I just described, but the audio, I noticed the
+22:58 microphone. Um, I moved it and the sound got a little up and down. And then I
+23:04 messed with the gain and I changed the gain um on the compressor filter
+23:11 and maybe it improved it. But I think the core problem was the positioning of
+23:17 my mic. And I can try to be more specific about where I put it.
+23:23 And I think this microphone, it needs a pop filter so that I can it
+23:28 needs a probably a I think I probably have a I think the box came with the
+23:34 these are the Arctis Nova Steel Series Pro. No, Arctis Nova Pro, whatever.
+23:40 Um, they're really good headsets and I think it comes with a little screen for that. But when you recoil this, when you
+23:46 slide it back up in there, you have to take the thing off and then where are you going to store it?
+23:51 So, I don't use the screen, but I probably should for um more professional
+23:58 streams. So, I probably should put that pop filter on. I I'll note to self to go get that
+24:05 um offstream, get the uh Novvice
+24:12 uh pop filter. I think that's what they call the little
+24:19 screen that goes over top. I know there's a software pop filter. You can defeat it with software, too.
+24:25 Um, but this first part, 24 minutes into this, um, is going to be a mic check.
+24:30 And it's going to be a little complicated because of the way I I kind of I can't
+24:36 I don't I never intend to just kind of bounce around except for emergencies, but I do have to kind of reconfigure a
+24:42 few things when I change the microphone. So, I want to do this fairly methodically and with and without music.
+24:49 So, if I can stop the music for a moment. And I want to just do kind of a
+24:56 an objective mic test on this microphone is in the um what I think would be the
+25:05 typical ideal position, but I can still if if you can put these kind of
+25:11 microphones in the location where they're catching the pops, that's actually the ideal coverage. And then
+25:19 you just put a pop filter on it to keep it from blowing like that. So, the fact
+25:24 that I I'm right here with it so close um probably makes it sound pretty good.
+25:32 And I I want to compare the quality of this to the lapel mic, which is the next
+25:37 easiest to set up. Um when I do so, I'm going to turn off the this Bluetooth
+25:44 headset. I'll just I don't have to turn it off. Um I can
+25:50 leave it on and have the speakers continue out that way. So I I can go ahead and turn this lapel mic on. It's
+25:55 not shouldn't make any difference at the moment um because I have it hidden. And the lapel mic typically um goes on the
+26:04 lapelish area and it's not direct. So it's more of an omniirectional.
+26:10 Um, but I almost thought that the audio quality was better and I want to do a sidebyside AB test of these two.
+26:18 Um, I also want to test the um nothing earbuds, which I'm pretty certain
+26:25 uh I have high confidence that these nothing earbuds are going to uh not
+26:31 sound very good, but these are um handy
+26:38 to uh if they sound if they surprise me and they actually sound good, then they
+26:43 might be handy. They're less conspicuous. They don't sound as good. Um, but they're more of an informal type
+26:51 of uh microphone that I could be using. Um, so I wanted to try that out as a
+26:56 third headset here. Um, let me put something else on the screen so that I'm not staring at
+27:02 myself. There's that. Um, and I can see the chats on the side.
+27:10 And at least this is out of the way. I do like to
+27:16 um what was Oh, it was it busted um the visualization.
+27:23 If I
+27:28 something about the if I refresh this now, it'll work. But
+27:34 as soon as I go next, there's a bug here. I got this working yesterday.
+27:40 We'll get to that. That's later on in the the task list here. I just wanted to put this on the screen so there's some
+27:46 something other than me staring at me. So, I want to do the um actually I lie
+27:54 because I kind of do want to monitor that video at least a half
+27:59 screen there. So, I'm going to do an audio mic test. Uh note # noteto self
+28:07 audio mic test around the 28 minute mark. This is the Arctis Nova Pro Steel
+28:14 series Arctis Nova Pro um Bluetooth headset microphone with the positioning
+28:20 at nearly ideal. Um and then I'm going to try the lapel mic and switching over to it. And by
+28:29 doing that, I just I'm going to do it here on OBS screen. And let's see, I
+28:37 have to toggle uh a a variable. Um to get this to all work, right, I
+28:44 changed the variable to mic lapel. And I'm not ready to do that yet.
+28:52 Um squish this down. So, I'm going to
+28:58 turn on the lapel mic. Test one, two. My lapel mic is uh not Is it not? Is it
+29:06 even on? I don't see it even on.
+29:12 Lapel mic on. Maybe this turned off cuz it wasn't Yeah, this turned off cuz it
+29:17 wasn't even connected. Lapel mic on. Connected.
+29:22 All right. Now, you're going to hear an echo. And that's the two microphones working uh side by side. Um I do have a
+29:30 filter on the lapel mic, but you can hear if I
+29:38 um there's this ducking that the duck that's only the ducking, right? That
+29:44 only matters on the ducking. So it actually This is the um maybe this test
+29:50 is going to be kind of easier. Maybe I can just go side by side. This is the lapel mic. testing one, two, three. It's
+29:56 not exactly a fair comparison because the filters are set up a little bit different.
+30:01 Um, mostly the these are all this noise suppression is the same and the limiter
+30:07 is the same, but the compressor here on the lapel, these are all the same, I
+30:12 think. Um, I could screenshot that. Can I bring up the
+30:18 This is the lapel. Can I bring up those filters at the same time? No. So, here
+30:25 I've got on the mic headset. If I take a screenshot of you.
+30:33 Um, this is the headset.
+30:40 Um, oh, because it's not letting me. All right. The It's catching the edit. It
+30:47 didn't grab that. Interesting.
+30:54 Grab that. And now will let me paste. Why are you not letting me paste into preview?
+31:03 That's a little odd. Um,
+31:14 okay. I can just copy to the desktop then. Fine. Oh, I think it's just that.
+31:22 So, this will make a file on the desktop. This is the headset. Uh,
+31:27 verifying that file is on the desktop. That's the one I just took right there.
+31:32 It just showed up. And then, um, I can bring up the lapel settings
+31:41 and go to its compressor. And this is its screenshot.
+31:48 So, they're different settings. And if I
+31:53 close you and open preview, which I already have open. Nope.
+32:00 And I go to desktop and take the ones that I just took and
+32:06 open them. Oh, it grouped them. And I didn't want
+32:14 it to. Okay. Preview open
+32:20 new I was going to edit maybe it was a new from clipboard then I'm a
+32:26 desktop U and open desktop U. Here we've got the
+32:34 two settings. Um, lapel is the more defaults and the
+32:44 headset, this thing I boosted to 22, which is interesting because it seems
+32:51 that um, and I can just make an impromptu um, image source.
+33:00 Uh headset will browse to you
+33:06 desktop. Uh which one did I take first? I took this one. The head. I think I took the
+33:14 headset first. Yeah, that's the headset. And then uh image source
+33:21 um lapel and I browse to the second.
+33:27 So now I can see them and put them here. So now I've got those
+33:35 two on the screen and
+33:40 the I want to click away from you. There we go. Um
+33:49 hold on. Oh, that might Oh, right. It's the
+33:56 Neo is saying that the headset is muted because I have hidden it. So,
+34:02 distraction there. This is the lapel mic. How does the lapel mic at 18
+34:08 threshold and a 12% gain compare to the Arctis
+34:14 Nova Pro, which I should set to be the same default. Um, I've got a screenshot
+34:20 of that. So, I'm going to just do something that's a little risky, but I'm
+34:26 going to change it back to the default. I've got a screenshot of it. I've got all those values. Yes.
+34:34 Um, actually, then I'll set this gain to be 12. There weren't all the defaults.
+34:40 This is what I had changed. But at 12. Now I have set
+34:47 the live filter compressor to be the same as the lapel 186612.
+34:57 So now it's apples and apples. This is where you can do that side chain ducking where you pick another source to mute
+35:03 and that's fine and that can work. Um, but it doesn't really let you control
+35:11 like the speed of that ducking.
+35:16 So, this is the um lapel mic and
+35:22 this is the headset mic. Lapel mic set. So, note to self uh hashtag noteto self
+35:31 at 35 minutes into the stream. The um headset mic audio test one two
+35:39 three and the lapel mic audio test testing one
+35:45 two three. Now, um just how this audio quality of the lapel
+35:52 versus the headset mic. I could probably even like do some fancy thing with the advanced
+35:58 scene switcher and just kind of randomly rotate through them and see if I can tell which is which and put on the
+36:04 screen what is showing or not. That would be nerdy of me to do that and I could do
+36:11 that. Um, but I'm not going to. But what I am going to do is I'm going
+36:17 to try
+36:22 the nothing earbud which turns on the moment you take it out of the dock.
+36:28 Um, and I'm going to make sure how it's it's connected. All right. So, the
+36:34 nothing earbud is connected and let's check its
+36:40 filters. It only has noise suppression,
+36:45 a compressor, and a limiter.
+36:51 And I'm on headset right now. So, I'm talking to this mic here. Uh, I'm going
+36:56 to set compressor to 12.
+37:03 And let's see how the earbud mic Let's see. Let's verify that it works. First
+37:10 of all, um, earbud.
+37:16 I don't hear the earbud. Um, I don't think I need both of them
+37:23 on. Uh, my head.
+37:38 It may be paired to the phone. Turn off the phone because they have the dual pairing. They do say paired to the
+37:44 phone. So the earbud
+37:54 say that
+38:02 I'm not seeing trigger.
+38:07 Why are the ears that are connected
+38:13 in unless I just do something silly which is do that should be
+38:23 that actually should be
+39:03 testing. One, two. That's I've routed this to the lapel mic.
+39:11 Yeah, there's Okay, we're back on the Arctis Pro. This is the headset.
+39:18 Okay. Um, that level looks real low because Oh, because the microphone's
+39:24 it's real far away. Um, I This is meta where I'm wearing the
+39:33 Bluetooth earbuds underneath the headphones.
+39:38 Um, so that works. I don't know how much that messes up any sort of
+39:47 noise suppression that I might be trying to do. Um, but why can't I get the nothing ear
+39:54 to work? If I grab then you that's I'm routing. It's called the earbud and I'm
+40:00 routing to that. And if I pick
+41:35 Test one two that. So this is the lapel and is the Yeah,
+41:43 I'm going to ban you. Um
+41:51 can block and mute. Can I do it inside of this UI?
+41:57 block
+42:03 and whisper. Um,
+42:12 I don't want to reply. I want to
+42:20 ban you.
+42:25 Warn mod. Time out.
+42:32 Ban. All right. Try to be a little more responsive on those.
+42:40 Um, you do have to deal with those sorts of distractions when they come up unless you have a mod, which I don't.
+42:48 So, this headset's working. um that as doing these tests is kind of what I was afraid I was going to run into some sort
+42:54 of technical problems of trying to jump between these three microphones. I was
+43:00 talking and the mic cut out. I'm not sure where it cut out as I was talking about these nothings have this talk
+43:07 button on their um case. And maybe the reason why I can't talk on
+43:15 the nothings is because I'm not using this. maybe to save battery. They don't
+43:21 stream like a normal microphone. They only stream when you trigger them to
+43:28 open. So, this one has a it's either a double tap and hold or I think it's a
+43:35 double tap. I can check on the on the my phone and the nothing X app. Um, it's
+43:43 turned off. I can reconnect you and see what
+43:49 you are configured as um it's connecting. And I look at how the controls are set
+43:58 for the case. And it is if I double
+44:03 pinch, which I'm not sure what double pinch just means, double tap,
+44:11 it'll latch the microphone. Um, and if I just hold it, it turns on
+44:17 the assistant. And that's during calls.
+44:24 No action. I'm looking at what I can do with these nothings. And this is this is a stretch. If if in
+44:30 the end I can't use these nothings for the stream, you're welcome. It's probably a good
+44:36 thing. The audio quality probably isn't that great. I'm just curious to see if I if it's possible for me to use them. So,
+44:44 I'm going to double tap and that should latch. And I guess you double tap to tap the toggle.
+44:51 uh return to earbuds mic with a single press. So I will double press this to uh
+44:58 go into mic mode. Latch the mic and this becomes the mic. It's not the earbuds
+45:04 mics. This is the mic. And I think it's I'm not sure which element it is. I
+45:12 think I see the screen that I talk into. So, I guess I kind of hold it like this
+45:18 where that's the the microphone is that thing beside there's a little screen
+45:24 beside the uh underneath that LED. See the little black screen just between the the LED
+45:31 and the USBC port is a screen that I talk to and my thumb is on the uh push
+45:37 to talk button right here. And that's it's not a bad it's not completely
+45:44 unorganic. Why did you zoom so much? Do you really need my face that close?
+45:52 Uh does it have gesture away? Anyway, double tap to turn on this mic, single
+45:58 tap to turn off the mic. It's the mic that's in my hand, which is a little
+46:03 weird, but then again, whatever. Um,
+46:12 message was deleted by Yeah, that's fine. Um, all right.
+46:20 All that talk is pointless if it can't handle having both running at the same
+46:27 time. If turning on the earbud turns off the headset, like that's
+46:33 pretty shitty. So, I'm going to try again and I'm going to try to watch the um the levels here and I hope that it
+46:42 stays um they stay connected. Anyway, trying that
+46:48 test. Uh hashtag notetool. Trying the nothing earbuds that are giving me
+46:55 problems to connect right now. Trying the audio quality on the nothing earbuds at about 47 minutes into the stream.
+47:03 All right. I don't think this is going to work. So, it got that headset here. I'm double
+47:09 tapping. Um, yeah, has the testing
+47:15 and it shows it shows green on that's lit up green
+47:22 and single press to go away. I double pressed. I can hear that and
+47:30 but I'm talking into the mic and it's not leveling at all.
+47:36 I want to I want to have see both levels both duels come up.
+47:41 Um but it's not. So
+47:46 how do I treat this maybe a new area just for Bluetooth earbuds? How do you
+47:54 get them to be microphones? And does this only happen when I'm in a
+48:00 call? Does it only work when I'm in a call? Weird.
+48:07 So, pressing the mic. Um,
+48:13 I'm not sure. I'll have to investigate how that works. So, at a minimum, I've accomplished testing the headset
+48:21 and uh lapels. Uh I can
+48:26 at least make this a little more correct. Uh and then
+48:34 microphones and then I'll add notes to compare the get get offstream.
+48:40 Uh try to get the try to get the nothing
+48:46 ear mic working
+48:51 and then compare to lapel headset.
+48:59 All right. Um that was the I've done the
+49:04 test so I'll have to come back and review it later. I don't have anyone here listening to me, monitoring. So, I'm
+49:11 going to come in. Why did you go away? Did I just Did I just leave the screen?
+49:16 You're really zoomed out. Is there a gesture that I can do to you to reset
+49:24 the center stage? I mean, other than turning you off, turn it off and back on again.
+49:31 Um, well, see here, if I turn you off,
+49:38 it goes full out. And if I move
+49:44 um, and turn you back on, then it's going to still zoom into my
+49:51 face. I don't need you to like see my face that way.
+49:56 If I step back, what do you do? Are you zooming still into me a little
+50:03 bit? Digital zoom.
+50:08 Um, whatever. So, I've done the microphone
+50:14 test. We'll see what that's like. I will put that in notes that we did it.
+50:22 Um, it's technically a work in progress because I haven't
+50:28 I I'll review off stream review.
+50:34 Uh, there we go. Offstream
+50:39 review. Uh, review that comparison. I I don't
+50:46 have to speak coherently to myself always. Um,
+50:54 that was that mic test. Copyright strikes. I don't really have a
+50:59 strike. I don't have a copyright strike, but I I wanted to review this on camera
+51:06 to see and I might even pull this out as a segment. I was playing looking around at a couple things on YouTube yesterday.
+51:14 I think Twitch has this. I haven't explored with any kick tools or whatever, but
+51:20 I do. So, on uh if I open you in new tab,
+51:28 so there's these um
+51:33 oh, it's it's somewhere. It's it's it's down in the actual video itself. But as I was looking at this list, I
+51:40 noticed restrictions. None. None. Here's my lives. Um, this was yesterday's
+51:45 stream. None. Here's the day before. Um, I got a copyright strike
+51:53 and not a strike. It's not a strike. It's just copy protected content found. See the details.
+51:59 Uh, and then it says this doesn't affect your channel. It is
+52:05 not a copyright strike. It's just saying the ch the copyright claims on your channel don't affect your channel. This
+52:10 is not a copyright strike. There are no visibility restrictions except that
+52:16 um it's content used. The content type is audio. The claim doesn't restrict your video. See the details if it's free
+52:24 then because this is the song society by Carl Casey.
+52:32 Is that That's U O'Reilly actually.
+52:41 That's U O'Reilly. He's um URL is just his artist name.
+52:53 I was under the impression that it's royaltyree and copyright free that he's put it out
+53:01 there to free to use and that's where I wanted to take a moment to make sure
+53:09 um some of these though I did see this radiation sickness no
+53:15 radiation sickness this is white bat and but I thought into avoid a
+53:22 proletariat.
+53:28 Um, I can go look at my audio songs
+53:34 and there's Society by White Bat audio. Yeah, covering up the chats a little
+53:40 bit, aren't I? So, this is saying copyright strike
+53:46 society. Carl Casey says this isn't O'Reilly. This is white bat. And in fact, I I know it's
+53:55 I thought I recognized the into the void. And I guess that's where I'm confused.
+54:00 Here's a small tangent here. I thought into the void.
+54:08 Into the unknown. There we go. That sounds like a frozen song.
+54:15 Uh proletariat. And this is where these aren't sorted alphabetically and I've got it tasted to
+54:21 it. If I just search for proletariat um that's under white bat. So these are
+54:27 all under white bat society. All these I'm going to assume Carl Casey is white
+54:33 bat which is fine is that they're not
+54:38 restricting me at the moment. But what I want to understand as I'm
+54:46 kind of getting started off here is to see the details. So this is where I get
+54:52 confused when basically it's saying on behalf of white
+54:58 bot whiteaudio.com we are era musicb on behalf. So the claimants are that
+55:05 it's society by Carl Casey content found at this moment and that moment by the
+55:11 claimment is we are era music BV on behalf of white bat audio and this is
+55:16 where I'm confused is if I pull up white bat audio which I have right here um in
+55:22 this tab and I just pull them up
+55:28 um and go to videos and I go find society
+55:36 It's probably not loaded. So if I I go find just search for society.
+55:43 Here it is. Royaltyree no copyright here. Royaltyree no
+55:49 copyright background music. If you have questions about the SR16
+55:54 this is why I want my own media player 167 because I can't even do this in
+56:00 if I were him. I bump my home in auto and pick up the wheel. Victory savings. Are you talking about
+56:08 So you're muted. Was the audio coming across? I
+56:14 wasn't hearing it. If I play you and do that,
+56:20 it is coming across. I don't hear it.
+56:26 Is I hadn't been monitoring that. um
+56:31 the headset microphone. It hasn't done the weird cutout where it stopped working. I need to keep my eye on that.
+56:40 But this is the song where it says royalty-free. No copyright. It says no copyright. It's It's free.
+56:49 This track is 100% copyright free to use in your projects. Just credit when you
+56:55 use it. I do credit in my stream.
+57:01 Um, and I This is where I don't know if if it's credit enough.
+57:07 Pop pop. Um, I I have at the footer of all of my
+57:20 That's not the full text. Odd.
+57:28 Um, so that's this copyright strike. I'm
+57:34 pretty sure I have and this this is where YouTube is changing settings and
+57:39 changing my content description. Um, that
+57:45 why I'm I am trying to keep it consistent. I'm trying to follow good
+57:50 practices. And YouTube, you're not making this easy when you just go in and
+57:55 change the settings on me. Um,
+58:01 I guess I have I guess it doesn't hit the live streams.
+58:08 I was pretty certain that I have
+58:13 in my settings
+58:18 upload defaults music usually from I have this
+58:26 um and I just went and edited it. So I have this in there and this is my
+58:33 attempt Carl Casey at Wat Audio. This is where I attempt to credit them.
+58:39 And so maybe this isn't necess I um
+58:46 I'll I should put this on the live streams, but I need to figure out how to add this to the live streams.
+58:52 Um let me just make sure. I've been meaning to do this anyway. I'm going to take this
+58:58 whole text, the whole upload text, and I'm going to come over to this guy,
+59:04 and I'm going to edit, and I'm going to put you in there.
+59:11 So now that text is in the
+59:17 those 1365 characters are in choose a broadcast type streaming software public
+59:24 gaming thumbnail playlist. It's not meant for kids.
+59:30 That's not altered content. Um sure automatic chapter Star Citizen.
+59:37 Technically, we're not doing Star Citizen-ish, but this is all to get it up and running, and I'm not going to get that
+59:43 specific recording date, whatever. It'll figure
+59:48 that out. Um,
+59:54 yeah. And then this is where this had been turned off. So, I'm going to set this and save it. And then I've got that
+1:00:02 on the other videos. So now if I come out to you and all this that tells me
+1:00:09 that all these streams stop right there.
+1:00:14 So if I paste you save
+1:00:23 um if I I don't um only this recent
+1:00:33 April Friday multistream chat I've been I've been
+1:00:39 having a good pretty good track record of every Friday doing this. I don't want to go too far back.
+1:00:46 Um, that whole page
+1:00:53 if I uh
+1:01:00 I'm curious what this that's 5 seconds. I don't need to worry about that.
+1:01:18 I don't want to I don't want to edit these right now,
+1:01:24 especially if they have comments. If they're just these basics, then yeah, it's a candidate candidate. Candidate
+1:01:31 candidate candidate. Um, notice that none of these I guess this
+1:01:37 one had copyright strike. Copyright strike. It's not, and I say strike, it's not a
+1:01:44 strike, but none of these picked up the music, I guess. Here on that first
+1:01:49 copyright, this is what I'm going to do. I'm going to put you in here, and I'm going to say I do give quote
+1:01:58 white bat. So everything that says copyright
+1:02:04 I need to make sure has please like and subscribe.
+1:02:11 I might as well do you anyway.
+1:02:21 Did I click on the wrong one? Uh, I want to go.
+1:02:32 That was right. That was the only one of the Friday fl Fridays. Sorry. I thought there was multiple Friday fl Fridays that were copyright strike. Uh, please
+1:02:39 like and subscribe. Again, not copyright strike. Um,
+1:02:49 this is where I would put that.
+1:02:57 There too many characters.
+1:03:06 And yeah, it's just it's just too much by 46 characters.
+1:03:13 Um, I want this up here.
+1:03:30 I don't need This could save me 46 characters right there.
+1:03:37 Um, if that's the make or break on the
+1:03:43 characters. And so save this sort of
+1:03:49 go back. Grab
+1:03:54 you
+1:03:59 and edit. Please like and subscribe. Please like
+1:04:05 and subscribe. If I edit you
+1:04:10 and come in down here and say
+1:04:15 paste and
+1:04:21 pull you up here.
+1:04:29 Um, I have my own Discord server and I should be promoting
+1:04:35 Uh, put I don't YouTube streamers that are professionals have people that go in and make sure everything's ship shape
+1:04:41 and night versus night Discord
+1:04:47 server, which is Discord GG Discord me.
+1:04:55 Um, he's got that. I've got um Discord me
+1:05:05 night versus night, which is on the stream footer down here. Discord. Meight
+1:05:12 versus night. Um this is the invite. Wonder what Discord.gg.
+1:05:24 Um, that's the invite goes to there. You
+1:05:30 can't custom if you want a vanity one. There you go. So, it's it's the vanity
+1:05:36 um Discord me night versus night. So, this I want to put in the
+1:05:42 uh default save you.
+1:05:49 I come back out and edit you and put put mine there. Too
+1:05:57 long. Yeah, that all that text.
+1:06:08 I'll get rid of this.
+1:06:21 Save.
+1:06:31 This is the one with the copyright where I grab this.
+1:06:37 Oh, it didn't take. It did take. I just changed it.
+1:06:51 that. Put you in here.
+1:07:05 Restrictions, copyright, C details, whatever.
+1:07:12 I want this whole text.
+1:07:17 Um, I've edited you. Please like and subscribe. Please like and subscribe. Please like. Um, let make
+1:07:23 sure that you don't have the
+1:07:31 this line in it. So, update you.
+1:07:43 I could just pop open windows for them. It's too hard to jump around. So, um,
+1:07:51 bam, bam, bam, bam,
+1:07:56 bam, bam. All right,
+1:08:04 this one's got it. We're done. This one's got it.
+1:08:10 We're done. This one's got it. We're done.
+1:08:19 I pull up you because you're my
+1:08:24 source. This one doesn't have it. So, if I pull
+1:08:30 you and
+1:08:36 replace you
+1:08:52 and save and close.
+1:08:57 Copy this. This is the one that didn't have
+1:09:04 that at all in it. This is yesterday's
+1:09:11 that I haven't transcribed yet, which is another task coming up.
+1:09:17 So, that's updated. This one is today's. This is the live.
+1:09:25 This is today's where I'm adding this.
+1:09:32 Um, if I refresh this, this is going to
+1:09:37 this window I already had open, so we're good there. This is what I was reviewing yesterday. And now it should
+1:09:46 um have the updated text in it. So, mute refresh.
+1:09:56 And this one needs the transcription put
+1:10:01 into it, but at least I've got that. Uh, interesting that it redirects.
+1:10:09 It's cute there. But uh anyway,
+1:10:18 so that's we want to review. This is um
+1:10:24 re uh this is Friday. This is the source. So yeah, and then this is the
+1:10:30 one we're going to update. And this is the one that's live.
+1:10:37 So the copyright what I could do and I might do but um
+1:10:49 I I could do the right thing and say I I have I I
+1:10:58 could appeal basically and I I
+1:11:04 come in here say copyright see detail s that take action.
+1:11:11 I I site this is copyright free. And if I come in here and I say
+1:11:19 um uh I've got another screen here.
+1:11:35 There's another topic here about this count of this thing. Refresh this thing. Mute it.
+1:11:46 All right. Um, this was one of my videos, but I haven't It's gotten zero
+1:11:52 views in couple of days. This is a tangent.
+1:12:04 Um, I I want to understand this.
+1:12:10 It's not it's not in the realm of uh understanding copyright but it is understanding
+1:12:16 uh content the video itself
+1:12:23 there short this one that I made
+1:12:30 the analytics on this one show that in in one day
+1:12:39 I got 1,200 00 views in one day. I'm like, whoa. I mean, that's for this tiny
+1:12:46 little thing where I made in a stream a few days ago. I showed how to edit this and I thought
+1:12:52 I would get a copyright strike and this is where it's there is a tie in here. I thought I would get a copyright strike
+1:12:59 on that. Um,
+1:13:05 here is editing a Casey uh Nistat video and I didn't get any copyright strike
+1:13:12 while editing it. Um, and I'm playing this and so I don't know if podcast or
+1:13:18 copyright I don't all these kind of arbitrary rules kind of don't make a a
+1:13:23 whole lot of sense to me. Um, I guess they make sense to
+1:13:29 non-technical people, but I'm a ones and zeros guy, and this doesn't make any logical sense. You You can't articulate
+1:13:36 it clearly enough to me for me to understand that uh I edited this video, thought we
+1:13:43 got a copyright strike, got none, and then yet the the songs that are copyright free. Now, I will give it that
+1:13:51 I forgot that on his site he says um
+1:13:56 just credit Carl Casey a white bat audio when you use it.
+1:14:01 Um so, which I'm totally willing to do and I did it in and I did it not negligently.
+1:14:11 I did it in my uploads. Um, that's really leaning, but I guess I missed it
+1:14:18 on the stream uh information. So, that
+1:14:24 was uh an oversight of mine and I can basically say
+1:14:29 um we're going to use it. So, I'm going to appeal this one Friday so that I can
+1:14:37 kind of keep track of um where I'm at. So this one Friday copyright I'm going
+1:14:44 to come in and say see details of this. I'm going to take action and I'm going
+1:14:51 to dispute
+1:14:56 um submit to fill out a claim form so
+1:15:01 you'll have everything and start the process. Continue. Um
+1:15:12 uh the content claim on video is my own. No, I've significed the content. No,
+1:15:19 public domain. The content claim is public domain is no longer protected by copyright. There is a license
+1:15:26 and it's license free.
+1:15:40 So, this is where I this is I don't I'm confused. The owner of the copyright information
+1:15:48 says just give me credit and then YouTube is saying just giving credit is not appropriate. But the owner is saying
+1:15:55 there is no license. So, I'm going to try this on a Friday fly Friday and see
+1:16:03 what difference it makes on that. I have permission to use the content
+1:16:10 from the copyright owner.
+1:16:19 Um, copyright owner
+1:16:25 source is
+1:16:35 copyright owner says
+1:16:40 source coverer says quote this is uh I give
+1:16:47 credit in my video
+1:16:56 is that. So the content is
+1:17:01 this
+1:17:10 lost in the matrix. So let me pull up lost in the matrix.
+1:17:17 So, Lost in the Matrix.
+1:17:26 This track is 100% free when you use it. He says the same thing. So the source is this
+1:17:33 and it's
+1:17:39 source copyright owner says in source
+1:17:46 this track is 100% just say I give credit in my video
+1:17:52 which is where I say does where I say
+1:17:58 music usually usually from that
+1:18:04 uh and it's this is that
+1:18:12 my vid is not please review statements and check the boxes to agree. I understand the claimant will be able to
+1:18:18 review. I understand that filing fraudulent. Yes. Uh Paul, this is
+1:18:26 putting my name in here for this
+1:18:36 uh DBA. Um so I'm going to do this for the
+1:18:42 Friday flight Friday and we'll see how this goes. I've got several songs that I
+1:18:47 play in there and this is a learning experience. Um, as I
+1:18:54 explore more about YouTube.
+1:19:06 So, filing that claim now. Someone's I talk and chatting on YouTube.
+1:19:13 Uh, hello Christian. How's it going?
+1:19:18 Um, and yeah, I guess that's all I have to
+1:19:24 do. Now, I've got scores, dozens of these that I've been playing these songs
+1:19:29 in my streams that were copyright royalty-free where the guy says you
+1:19:34 they're you're free to use it as long as you just give me credit. I was giving credit in my uploads, but the text on
+1:19:41 the streams the because of the way that YouTube keeps changing things. I had I had
+1:19:48 chapters or I put I generated chapters for a stream from a couple of days ago
+1:19:55 and I edited the the actual final saved um stream content and then I go into my
+1:20:03 next stream and the text is there and something said that uh your comments are
+1:20:08 turned off and your chat replay is turned off or whatever. like they can't
+1:20:14 if YouTube can't keep settings persistent then whether I did or didn't
+1:20:19 I might have put in the the stream description giving credit to white bat
+1:20:25 audio and then they might have replaced it. So who knows um best effort first
+1:20:32 strike but I'm going to try this and see
+1:20:39 try this and see what difference it makes. Um, and then I'll learn from this and see where it goes.
+1:20:51 Disputes submitted. So, that was on that one. I got a lot, right? Um, dispute
+1:21:00 under review. It expires in 30 days. So, we'll see how that goes.
+1:21:05 Um, and I could have said,
+1:21:10 um, if I dispute again, I could say may I can improve the process on my next if
+1:21:16 this one goes successfully, then I could try to do another dispute
+1:21:22 and then I can try to say in that dispute I've I've got multiple uh
+1:21:29 restriction uh doesn't claim it copyright details. What are these? What happens? Dispute dispute. I've got
+1:21:36 multiple disputes all in the same category. Please uh clear them all.
+1:21:43 And again, it was only um in my uploads. I had been giving credit in my live
+1:21:49 stream. I thought I had been giving credit. So, the intention was always good. But I've got that copyright here,
+1:21:57 copyright there, and the copyright yesterday. So today uh I don't yet have
+1:22:03 a copyright restriction. None yet. And I have now added into the description
+1:22:11 the somewhere in here the music is from here. So I give credit. I don't know if
+1:22:17 that's enough. And if you have to say like every song you use in the stream.
+1:22:22 Um come on. You you're making billions of dollars. You can automate that.
+1:22:30 So, um, closing you. So, that's the copyright
+1:22:37 strikes that I I I think I've talked that one to death. Um,
+1:22:43 I next want to do the um dead done
+1:22:50 follow. I'm going to do uh uh this is I've already done the action on it and I can follow up on
+1:22:59 uh on copyright strike uh copyright disputes. They're not the strikes,
+1:23:06 they're disputes. That's the correct term. Um oh, I have these things on the
+1:23:13 screen, man. Oh, I was showing those on the screen the whole time.
+1:23:20 Ah, yep. So, let me put like a Scratch group in here.
+1:23:30 Group. Scratch. Oh, it's already right. Yeah, because
+1:23:35 I've got a scene called Scratch. Scratch source. Group.
+1:23:42 Scratch. Group. Scratch. Scratch. Group. Group.
+1:23:48 Scratch. No. Drag. You're in there. You're in
+1:23:54 there. Hide. Man, I did all that with those uh showing on the screen. That was
+1:24:00 a bad idea to do that. That was about uh 30 minutes of talking
+1:24:07 there with nothing really relevant showing on the screen. Um
+1:24:14 quick review for my own sake was that all these videos
+1:24:21 um even that one man I botched that one
+1:24:27 didn't I content widen widen come on widen a
+1:24:35 little bit there we go there's that break point.
+1:24:41 Um I was noticing on especially the lives these ones are the owner allows the
+1:24:49 owner allows the owner allows uh which all these were also the owner allows copyright strike the owner allows
+1:24:56 the owner allows so they're just disputes and um
+1:25:01 I'm not going to dispute the F1 stuff because that might open uh I kind of
+1:25:06 want to keep my 226,000 uh views
+1:25:14 Wonder what the blue means. Oh, the blue's just hover. Okay. I wonder why they hover that. I guess you can click
+1:25:20 on it. Yep. Um the lives I was getting these copyright strike copyright disputes and
+1:25:29 I have gone into this one and submitted a dispute on this. All these
+1:25:39 all these are from white bat. I guess it was partially showing on the screen so it wasn't like a 100% fail. It was only
+1:25:46 like a 70% fail. Um
+1:25:51 so uh I went in and disputed to took action
+1:25:58 against these citing the original source that they said and it was aired on
+1:26:03 screen. So, at least you saw that on the bottom half that
+1:26:08 the copyright holder says that you can give credit even though on YouTube they
+1:26:15 say you can't. So, hashtag noteto re review that crazy segment from the
+1:26:24 past 30 minutes where I was disputing a copyright. I was disputing a copyright
+1:26:30 dispute. Okay. I was responding to a copyright dispute. It's not important uh
+1:26:39 really yet, but um because the channel's so small, but I'm just kind of curious
+1:26:46 to how that process works. So, this was all just an educational uh process on that.
+1:26:54 All right. So done with the
+1:27:01 copyright dispute process transcripts. I wanted to show how I process the transcripts and do it from yesterday the
+1:27:08 stream. Uh so hash new chapter uh
+1:27:14 uh process transcripts. Um
+1:27:22 let's do this with the lapel mic.
+1:27:32 the lapel mic. And I'm going to turn off the earbuds. You're doing nothing.
+1:27:38 Uh, this is the lapel mic's off. Hello. Test one, two. Yeah, lapel mic's now on.
+1:27:45 Um, and I'm going to turn off the headset. But before I do that, I need to
+1:27:50 basically come up to advanced scene switcher and I need to change this to be
+1:27:56 lapel. Uh, are we spelled correctly? Yep. Mike
+1:28:03 lapel. And now if I come to the macro and look at you, it sees that the mic desired
+1:28:10 audio level is is is true. Um, but it
+1:28:15 hasn't changed. So if I stop talking
+1:28:23 and then I start talking, it evaluates true again and it drops that down. So
+1:28:29 now that I just set that one variable, um, both of these will pick that up. And
+1:28:36 then there's nothing else I need to do there. The mute is on the headset. So I
+1:28:41 should step up on the uh Neo and then step into the this thing. Uh that has
+1:28:51 the wrong the lapel that is using the wrong Let's
+1:28:57 go to this. Um, bam. Configure.
+1:29:03 This is diving into the wrong profile lapel. Or maybe it's not. Maybe
+1:29:10 the profile is correct. Configured incorrect.
+1:29:16 Excuse me. Um, the lapel is saying headset
+1:29:25 mic headset. That was just manually typed in there
+1:29:33 and that's all it was. So, it was still controlling the right uh value. The be right back is a
+1:29:40 multi-action and it changes the mic lapel.
+1:29:46 Uh, so that's all good. All right. So, it was only a superficial cosmetic touch. If I do a test here real quick
+1:29:53 and I mute lapel and that unmutes the lapel and ah,
+1:30:01 there we go. Um,
+1:30:07 all right. Process transcripts.
+1:30:12 What I do? Let's reset this. #noteto 1 hour and 30
+1:30:20 minutes into the video. I am now kicking off processing transcripts. So, could I
+1:30:27 do things like in the future say hashtag new chapter
+1:30:35 processing transcripts. Um, where a hashtag is kind of like my keyword right now. I don't really have
+1:30:41 any better of a keyword at the top of my head. It's what if my assistant was
+1:30:46 hashtag um I just that's my assistant hashtag this hashtag that's uh
+1:30:54 hashtag is my assistant my kids saw we were driving down the road the other day and driving behind an Audi I think it's
+1:31:02 quattro it's a fancy expensive car um like one of the rons or something
+1:31:07 like that like a nice Audi quattro and uh
+1:31:13 uh the license plate was AFK and the girls loved that.
+1:31:18 So, um, hashtag hashtag hashtag totally confusing now my transcription process
+1:31:27 for this stream when I'm done with it. I noticed last night
+1:31:33 after the stream, which was done at like 2:30, 2:15,
+1:31:39 I went back an hour later. transcript uh processing will process shortly in I can
+1:31:46 show here in this list on the live it would it
+1:31:52 said here it it came down to this section um and where it says please like and
+1:31:58 subscribe in this area it said processing will begin shortly at first
+1:32:04 it says shortly and then within a few seconds it goes from processing will
+1:32:09 begin shortly to processing will again within 24 hours.
+1:32:14 Um, and I checked about a couple hours later and a couple hours later and a few more hours later and it just kept saying
+1:32:22 it and I noticed that in the stream. Um, that this one's saying live chat replay
+1:32:27 is not available for this video even though I have that setting set.
+1:32:37 I I don't understand. Um but then
+1:32:42 uh how these settings get toggled off. So then I um was waiting for the
+1:32:50 transcripts and waiting and waiting and waiting and they never came in. I even up to 2 three 2 or 3:00 a.m. I was I was
+1:32:57 watching um this video and listening to the audio at 2 or 3:00 a.m.
+1:33:03 And even then still a transcript didn't come in. Um and even then still this is last night's um
+1:33:12 yeah this is last night's that I wanted to trans like but live chat replay is off. I'm 100% certain that live chat
+1:33:20 replay was not turned off. It's annoying.
+1:33:27 Um but here's the show transcript. Finally, I went to bed at 4:30 whenever. 4:20.
+1:33:36 No, not that 4:20. And uh uh just looking for messages. If I get
+1:33:43 distracted, it's cuz I'm looking at the left edge there. And woke up this morning and refreshed
+1:33:50 and now I have transcripts. So, now that I have the transcripts, this is the process. And I'm going to be documenting
+1:33:56 it as I go. And here is the read me. collapse you um on the transcripts.
+1:34:06 Let me pull up the transcripts read me and put you all the way over here since
+1:34:15 you're what I'm really working on. And I don't need you at the moment. I'll shove
+1:34:20 you down here. So
+1:34:29 processing uh it it just is the process. I can just
+1:34:35 say the process that I use this plugin. Um and so I come over here.
+1:34:43 Could I automate this? Yeah, I could. Um, is it important enough to risk like
+1:34:49 taking out any built-in quota or token limits or whatever?
+1:34:54 It's it's simple enough that I basically just do a couple of things. I have seen
+1:35:00 this fail, but I have a cheesy the the obvious fallback. But here, I pull this
+1:35:06 up and I just all I want is the timestamps and I say download. And this where it says no video ID found. Like
+1:35:14 So, here we go. Retry. No video ID found. I don't know why it's saying
+1:35:20 that. So, whatever. Even when I'm showing the transcripts,
+1:35:27 boom, here come the transcripts. Heat, heat, heat, heat. I don't know
+1:35:32 what that means or where it's even coming up with that.
+1:35:39 So, now if I try the this one, it's still not going to work. It still won't doesn't work. So then you basically do
+1:35:45 the cheesy thing which is you just grab all these
+1:35:50 and you can't control a it. There's probably
+1:35:56 a better plugin, but I think I could write my own. I thought about writing my own and in the end right now this is
+1:36:04 this works enough.
+1:36:11 Curious how that ended. So I have the transcript. I basically will end up
+1:36:19 since I don't have the file, I'll just create a new transcript which is
+1:36:25 um 20 25 10 30 um
+1:36:33 behind the scenes coding. And I'll I'll fill in
+1:36:40 the ID here in a second.txt and I'll paste you in. And then I got to
+1:36:47 fix this in a second. But here, let me grab this. Um, this is the live.
+1:36:57 So, this is showing under that live header. If I
+1:37:02 come over here and go to live and pick yesterday this one, then
+1:37:10 it's no longer live. It's now watch. And so here's the ID and here comes
+1:37:16 the transcript will work. So
+1:37:21 um I didn't have to do that. I can click this X. This then might work. So it's only because I was viewing it from the
+1:37:27 live tab. Um that download preparing download. There we go. Now I got it. So
+1:37:37 um go to the actual stream. Go to the actual recording, not the live. So
+1:37:44 that's part of the process.
+1:37:49 uh browse to the actual
+1:37:55 recording, not the live stream.
+1:38:02 It can take up to 24 hours before a transcript
+1:38:12 is gener before YouTube generates. Okay. Transcript.
+1:38:24 Um. All right. So, I have that file. It's in
+1:38:30 my downloads. So, I basically just come over to you and
+1:38:39 list and grab and move you into
+1:38:46 is using the
+1:38:52 and we're in um transcripts. So, bam.
+1:38:59 And now that ID was it's to me it's pretty obvious that I
+1:39:05 need to grab the the video ID.
+1:39:11 Um, so and I put that in the name of the
+1:39:24 2025 10 30
+1:39:29 10 1029. It was yesterday's, right?
+1:39:36 So that one's new. This one's delete. This is that. So, um,
+1:39:47 let me easily delete that. I don't think it prompted me. Anyway, maybe I can go back and review. It's
+1:39:54 fine. Um,
+1:39:59 just thinking about the audio quality for a second. Getting distracted that. So on the readme collapse you
+1:40:17 this is what it looks like. But um
+1:40:26 I to to not confuse the AI, I'm going to
+1:40:32 um change this. I'm going to modify these
+1:40:37 to square to uh take them out entirely. So I have this reax here on my find and
+1:40:43 replaced. Um you don't have to be on the first line because I'm going to do reply all anyway.
+1:40:50 I'm going to change all anyway. But here I grab this text
+1:40:58 and I replace it with this text. But I do have to say that your uh reax and
+1:41:03 we're good. And basically it replaces all the lines. Ah,
+1:41:09 go figure. Dollar one. And replace
+1:41:17 all the lines. And we're good. So now
+1:41:22 we come up to chatbt
+1:41:27 and this is where it's going to be a little different where I'm experimenting with this
+1:41:33 and pull out these very uncomfortable nothings that are doing nothing for the stream.
+1:41:43 They're mostly uncomfortable because they're
+1:41:50 inside my headphones. And
+1:41:58 using a lapel mic. Okay.
+1:42:04 Popup chat GPT.
+1:42:09 Uh why you doing It's kind of you're automatically
+1:42:16 pulling those up, which is cool. I I didn't mean to do that. So,
+1:42:27 what if I cancel and then try this again where I Bam.
+1:42:33 I don't want the read me. See, like I I just did nothing for
+1:42:39 I don't want both of them. Thanks for
+1:42:45 trying. But here I'm clicking the X on the readme. Um this is not really a look at what AI
+1:42:52 can do type of thing, but um I'm clicking the X on the readme and
+1:42:58 they both go away. So anyway, I will upload a file manually, the hard way,
+1:43:05 which is um
+1:43:18 transcripts. That would be yesterday's. And then
+1:43:24 that's there. And I say bang. But I want to change something in this prompt. And
+1:43:32 this is so small. Like I can't um pop it open right here.
+1:43:41 Uh I could Man, they do not know how to write software,
+1:43:48 do they? Because now I'm going to do this and this. It's just it's a disaster.
+1:43:54 Um, and it you can't right click on it open chat GPT window. All right.
+1:44:02 Dream summaries. And because I do want it in a project, so I do want to do it here. So this is where I really prefer
+1:44:09 it to be on transcripts yesterday's.
+1:44:16 And now I paste the prompt that this is a summarize the attached
+1:44:24 transcript into timestamp milestone titles for use in a YouTube video
+1:44:30 description. Each row formatted as h how minute a second text with the hours
+1:44:35 optional summarized transcript by meaning not line by line. that was uh
+1:44:41 AI chai GBT it volunteered that line and I don't quite know exactly what that
+1:44:49 really means but I it might mean something to the AI
+1:44:54 um I think that might have been where it was confused
+1:45:00 by meaning not line by line don't literally summarize each line group them
+1:45:05 into clusters of meaning marginal related sections remove filler or repetition and capture all key insights,
+1:45:12 decisions, takeaways, output as one clean list where each line follows the format hour, minute, second text and the
+1:45:18 hourly needed if uh only if needed. Do not format 00 minute second. Keep
+1:45:24 phrasing concise, professional, easy to scan. Do not reformat the timestamps. Keep as is or include any markdown numbering or extra commentary.
+1:45:32 Condensed to be under 4,500 characters. Now, what I want to do is tag on a
+1:45:40 couple of things that I thought about um which is
+1:45:47 to
+1:45:52 look for hashtag note to self, chatbot, etc. keyphrases and summarize what I was
+1:45:59 talking about as bullet points at the end.
+1:46:04 Look at where I tell myself to take action on things, etc. Look into
+1:46:10 example, look into something, follow up on something, do something, research something I should, and summarize those
+1:46:17 as bullet points at the end. Suggest ways for me to improve staying on topic for future streams. Psychoanalyze my
+1:46:24 stream to evaluate my mental health. LOL. Um recommend
+1:46:33 um
+1:46:40 other ways. Finally,
+1:46:46 recommend other ways that the content of this
+1:46:55 the content
+1:47:01 of this transcript, the topics
+1:47:08 that it covers, of this transcript
+1:47:16 can be used better.
+1:47:22 Um, for
+1:47:28 it's kind of vague, but for more creative ideas,
+1:47:34 it's probably going to throw me a huge response here
+1:47:40 that the content, the topics that it covers of this transcript can be
+1:47:45 used for bigger better, bolder ideas,
+1:48:04 forwardlooking creative ideas, um, and
+1:48:13 followups and action items that I did not even
+1:48:22 think of. All right, so that's kind of a weird
+1:48:28 prompt. Uh, I'm going to throw this this last part in. Can I do more with this transcript than just generating a
+1:48:34 summary? Can I then take this transcript and generate action items and things to do and follow up on so
+1:48:43 that I can um
+1:48:51 condense uh as a footer.
+1:49:02 Add a footer as a footer. As a footnote.
+1:49:14 Okay. As a follow-up footnote.
+1:49:22 Let's see how this goes. Um, it's probably going to it's probably going to complain. The first part of the prompt
+1:49:28 has successfully generated transcripts with no back prompting. No,
+1:49:34 no. What did you mean? XYZ, give me permission. Please
+1:49:40 confirm. Like I I told you to do it. Just go do it.
+1:49:45 So, uh, here we go. Uh, crossing fingers. At least I've got the prompt in
+1:49:50 history and I can always try to put it in the read me and save it later. as
+1:49:56 after I fine-tune this because I have no idea how this is going to go. All right, clicking in 3, two, one.
+1:50:04 Well, how is this going to transcribe?
+1:50:15 Oh, that's not what I want. There we go.
+1:50:24 That that is not
+1:50:30 uh useful.
+1:50:40 So I don't know where I came up with that
+1:50:45 kind of inline summary not line by line merge related sections
+1:50:52 remove filler eruptition and capture
+1:50:57 output as one clean list where each line follows the format
+1:51:05 like why did you summarize and and what you can do is you can you you can back
+1:51:12 prompt it. Um once you get the effect that you wanted,
+1:51:19 you can then ask it to generate the prompt that I could have used to get
+1:51:26 this output in the first place. So I want to ask it why are you summarizing?
+1:51:34 It's like doing I don't want um
+1:51:53 I could I could take that, but that's a lot of that's not how the it's going to
+1:51:59 show up. I just want the summary. I don't want the
+1:52:05 um those details.
+1:52:10 No, it's like uh
+1:52:23 I'm not really sure how to talk with it about this. like
+1:52:29 came up with a title and like a very very long like this.
+1:52:38 What in the prompt? What in my prompt
+1:52:46 caused you to generate the output
+1:52:53 as Um, hour, minute,
+1:53:00 second.
+1:53:06 Um, um, like title
+1:53:17 line feed. Here we go. as as a two line
+1:53:35 title details
+1:53:40 way longer than asked for details.
+1:53:50 way shorter than asked or summary.
+1:53:59 I wanted single lines,
+1:54:05 single lines, single line
+1:54:11 milestones
+1:54:18 of hour, minute,
+1:54:23 second. Um,
+1:54:32 useful summary of this
+1:54:42 of what is being talked about around
+1:54:48 this time stamp.
+1:54:56 So, I just hit enter. I don't need grammatically correct question mark. What in my prompt caused you to generate
+1:55:02 the output? Is it a good catch? The short answer is nothing in your prompt explicitly told me to break each milestone into multiple lines. You
+1:55:08 hallucinated that. But one subtle wording in your instruction allowed it to happen. The key part in your prompt
+1:55:15 that left room for that. Summarize a transcript by meaning, not
+1:55:20 line by line. Merge related sections, remove filler or repetition, and capture all key insights, decisions, and
+1:55:27 takeaways. That capture all in key insights phrase combined with no explicit each time stamp must be a
+1:55:33 single line enforcement gave me permission to elaborate when I felt two distinct thoughts existed near the same
+1:55:40 timestamp. So I output both in one block, two lines, thinking I was helping preserve
+1:55:47 the detail rather than compressing it into one concise sentence. To force
+1:55:52 single line milestones in the future, add a strict formatting constraint. example.
+1:55:59 Each time stamp must appear on exactly one line formatted as text where
+1:56:06 is what I have.
+1:56:12 How is that different than the prompt?
+1:56:18 My prompt was, can I side by side this? I I can I can pull up this and I can
+1:56:25 squish you up. And I I changed the top part of my
+1:56:31 prompt, but not the bottom. I don't really have a complaint with the bottom. So, here was my prompt
+1:56:39 right here. I can get rid of this. This transcript was just showing me how I I parsed the and the massage with through
+1:56:47 a reax. uh um taking out the this cur the the curve brackets the the
+1:56:54 parenthesis. Um so here is the request
+1:57:02 that I sent to it. Um all of that and I can make you a little
+1:57:09 I do this one I can I'll just put down there. So that was my
+1:57:15 prompt and it is saying
+1:57:21 I said I didn't say exactly on one line formatted. I said output as one clean
+1:57:29 list where each line follows the format. I mean if you want to call that
+1:57:35 ambiguous I don't think I was too ambiguous. He's saying he it has a gender now,
+1:57:42 right? Um,
+1:57:48 all right. That phrasing. So, create the prompt for me. And this is stuff
+1:57:54 afterwards. And I can even like restart this whole thing. I don't I haven't even yet evaluated this this footnote stuff.
+1:58:03 Um, it might be good. It might be crap. Uh but but while we're on this
+1:58:09 discussion, you can do these things like uh go off on you can just ask it to
+1:58:14 break off onto a tangent. I thought um there was a way to edit this or
+1:58:22 voluntarily go off on a a new branch. I forget. I read about that and I
+1:58:30 thought I had done that at least once or twice and now I'm not seeing it. So, generate a new prompt that would get
+1:58:42 me the results
+1:58:47 that that would cause you
+1:58:56 that right. Generate a new prompt that would instruct you
+1:59:04 to generate
+1:59:11 the results that uh
+1:59:18 I am asking for. That's a little vague.
+1:59:24 generate a better prompt
+1:59:29 that would instruct you to generate the results that
+1:59:35 I think I'm asking for.
+1:59:41 I mean just to be like enlightened about I think that's what I'm asking for.
+1:59:48 time is 140.
+1:59:55 So here I just here's a refined version of your prompt written to precisely communicate what you're expecting while
+2:00:01 still giving flexibility for quality summarization.
+2:00:08 Let's see. Um I I often have done this uh speech
+2:00:17 stuff. I don't know if it shows up. If I do this, will it play um on the output?
+2:00:23 My my audio is Oh, I think it was going to
+2:00:29 the um Arctis Novas
+2:00:34 and so MacBook Pro speakers, which are down.
+2:00:40 I want to go to you because everything was plugging in and
+2:00:45 out during that audio test which messes things up sometimes. Um, let's see what instead of me reading
+2:00:52 it, why don't I let it read it. Here's a refined version of your prompt.
+2:00:58 I'm not hearing that thing while still giving flexibility for quality summarization and postream
+2:01:04 analysis.
+2:01:11 How can I not be hearing that?
+2:01:19 Here's a refined version of your I see it rendering rewritten to precisely communicate. You can hear it
+2:01:24 while still giving flexibility. But I can't hear it. How is that even possible?
+2:01:30 Optimized prompt for So, let me pause this. I'm going to turn
+2:01:35 my um Bluetooth off and back on. And maybe that'll kick the system into
+2:01:41 outputting audio. I've seen this happen a couple of times, especially when I reboot cuz I was using
+2:01:47 sound stream sound source and uh I'm currently not using it. Let
+2:01:53 me turn off Bluetooth. Actually, you don't care because I'm using the lapel mic anyway.
+2:01:58 Um so that's turned off. I don't know what that blip was there.
+2:02:04 Turn this back on.
+2:02:11 Bluetooth is on. Artist nerv is connected. Now if I hit play,
+2:02:18 here's a refined your prompt. Rewritten to precisely communicate what you're expecting while still giving flexibility
+2:02:25 for quality summarization and poststream analysis. Tash optimized prompt for timestamped
+2:02:31 YouTube milestone summaries. Open quote. Summarize the attached transcript into
+2:02:36 timestamped milestone highlights for use in a YouTube video description. Formatting rules strict. Each milestone
+2:02:43 must be exactly one line. Formatted as MMss concise summary text. Do not
+2:02:49 include blank lines, bullet points, or extra formatting. Include the hour only if necessary. No leading zeros. Keep
+2:02:56 each line under 120 characters. Good point. Written in a concise, scannable, and professional style. Each line should
+2:03:03 summarize what's being discussed or done around that time, not a transcript snippet. Content rules. Merge nearby
+2:03:10 timestamps that refer to the same topic. Remove filler, repetition, and casual aides. Capture key actions, insights,
+2:03:17 decisions, and technical problem solv. Removing casual aides.
+2:03:23 Um there's a whole lot of casual aides. This is just tangents everywhere which
+2:03:30 is part of the stream. So I wonder how um remove filler repetition and casual
+2:03:37 aides. That one's questionable. Um
+2:03:44 all right, that's my comment on that. Let's resume on capture key actions,
+2:03:50 insights, decisions, and technical problem solving steps. Focus on moments that matter for viewers
+2:03:57 following the project's progress or learning process. Maintain chronological order and readability for YouTube
+2:04:03 viewers scanning the description. Length goal. The final summary must stay under 4,500 characters total. YouTube limit
+2:04:11 buffer. Post summary section. After the time stamp list, append these four sections. One, hashtag noteto
+2:04:18 selfmentions. Summarize any segments mentioning # noteto self chatbot, etc.
+2:04:24 Two, action items. Summarize things I told myself to look into, fix, research, or follow up on. Three, stream focus
+2:04:31 tips. Suggest ways I can improve staying on topic in future streams. Four, creative follow-ups. Recommend new,
+2:04:38 bigger, or bolder content ideas inspired by the stream's topics. Output. Produce a clean, ready to paste
+2:04:44 text block with no markdown or numbering. Every time stamp must be one self-contained highlight line.
+2:04:51 Close quote. Would you like me to tune this prompt slightly for maximum compression? Shorter, easier to reuse
+2:04:58 directly in a Google app script or codec CLI prompt.
+2:05:04 Um, it's asking me a question and I'm thinking
+2:05:12 I it seems okay. It kind of lost my psychoanalyze
+2:05:18 uh humor. Um, I kind of So, I I think I will uh
+2:05:26 edit this. Can I copy just that one section? Can I paste you in?
+2:05:32 Uh, let's try this. Let's try this. How about pasting? Does it mess it up? So,
+2:05:41 I I'm going to override and strike out the remove the filler repetition. I
+2:05:47 think it will just naturally come out. Uh, it it'll naturally filter out
+2:05:52 instead of me saying it's highlighting. It should be uh
+2:05:59 documenting highlight milestones. Um but I could be highlighting a
+2:06:05 milestone on a casual aside. And if if that 30 second comment rambles off into
+2:06:14 a minute or five, at what point is it no longer a casual
+2:06:19 recide or a filler? So, I'm going to remove that. And
+2:06:27 otherwise, the uh I'm going to add back in my cute little funny I thought
+2:06:37 um it uh this stuff it is a little weak in
+2:06:44 this in the um paraphrasing of that part of the prompt.
+2:06:50 So post summary section if I work on that a
+2:06:56 little bit. So I could try this in
+2:07:02 um
+2:07:12 Visual Studio here. It's I like to have this
+2:07:18 up so I can see the time stamp of the how far are into the stream.
+2:07:28 Um,
+2:07:33 okay. So, this is what it came up with.
+2:07:39 And then this is where I'm bringing down my old. I do kind of like how it summarized that
+2:07:50 section. It it it took this and generated
+2:07:58 that. I can split this down.
+2:08:06 Split down. So, it took this text
+2:08:11 and generated that text,
+2:08:18 which is not bad.
+2:08:24 And it's probably a little more um precise,
+2:08:30 which I would hope so since an AI generated it.
+2:08:36 It's always the hope. And then
+2:08:57 um I kind of like that part. The stacking is is big, but whatever.
+2:09:08 Yeah, I like that part. I can't really see any flaws in that. the post summary
+2:09:15 section. Um, which was
+2:09:25 this is what I came up with for from that and this is part of the todo which that
+2:09:32 was me already summarizing that. So I can compare that part
+2:09:42 to
+2:09:49 no markdown or numbering. This really should be up there.
+2:10:12 I'm not sure why that output was. Um, so then there's a post summary section
+2:10:18 and I was saying look for hashtag note to self
+2:10:23 chatbot keyphrases.
+2:10:37 Um, examples
+2:10:42 suggest more intuitive
+2:10:49 key phrase trigger words
+2:10:54 to use in the future. It's like if it can come up with uh recommended key key phrases
+2:11:02 for me to talk to it back again.
+2:11:09 um suggest more into the keyways, trigger words to use in future
+2:11:17 transcripts when I want you to do
+2:11:23 something with the transcript
+2:11:30 from what is going on at that around
+2:11:37 that moment.
+2:11:46 Um,
+2:11:54 how does the Yeah, it's fine.
+2:11:59 It does these cute little icons, which is fine to throw those in, I guess.
+2:12:10 So uh I was talking about as bullet points at the end
+2:12:16 the output.
+2:12:28 Yeah, maybe that's they're maybe that's what they're talking about for like this highlight section. I'll give it a try
+2:12:34 and see what difference it makes. Um, that seems to cover all that point.
+2:12:43 Look for areas where I tell myself to take action items. Uh, action items. Summarize things I told myself to look
+2:12:49 into, fix, research, follow up on, and summarize them as bullet points at the end. That's that's fine.
+2:12:56 Suggest ways for me to uh stream focus tips. suggest ways I can
+2:13:01 improve staying on topic in future streams. So, it kind of dropped this one. Um, I
+2:13:09 can throw in some
+2:13:15 artistic license of that. And
+2:13:21 I saw something on
+2:13:28 uh here on the stream deck. I saw that it can do
+2:13:34 this and I'm going to play on this. If I add in
+2:13:47 system keys, hotkey, if I have it hotkey,
+2:13:55 um, this is a little fun thing here.
+2:14:00 Others, emotes. I thought it wasn't. If I can
+2:14:07 F keys emotes
+2:14:14 function help emotes. I thought I saw something
+2:14:19 bring up emotes preset actions. There we go. Uh, no.
+2:14:32 Open application emotes.
+2:14:40 Um, click to assign a key. Alpha numeric
+2:14:47 left, right, F keys, others, menu, modifier,
+2:14:55 function, alpha, numeric, preset action. I thought I saw where it brought up this
+2:15:02 emote. So now it's uh I wanted to do something silly.
+2:15:10 Mac OS emote emoji shortcut keyboard
+2:15:19 control command space function E
+2:15:28 control command space all right I didn't know that one or
+2:15:34 function E function E or emotes is that the same
+2:15:41 It is. This pulls up character viewer character global key. On some nums, you can press
+2:15:46 the globe key. I think that's it.
+2:15:54 You can press the key to bring up if you hold it
+2:16:00 keyboard globe key and you can do the system settings, but I changed that. So,
+2:16:06 um, function E, I can remember. I can probably remember function E.
+2:16:12 Um, all right. And then
+2:16:18 I was going to be silly here. Since it's using characters,
+2:16:28 why don't I use characters? And uh function e
+2:16:35 give me a clown.
+2:16:49 Uh LS uh
+2:16:56 mental
+2:17:01 crazy uh produce clean outputs. Creative
+2:17:07 follow-ups. So that was the recommend ways that content creative follow-ups. recommend ways that the
+2:17:13 content ideas inspired by the stream's topics. The trans can be used a bigger, bolder,
+2:17:20 forward looking creative example suggest
+2:17:26 uh and then the um
+2:17:32 where is my keyboard?
+2:17:39 Make sure that that
+2:17:59 Um, and then this would be like trigger key trigger words key phrase
+2:18:06 trigger words key
+2:18:12 phrases.
+2:18:17 So just more intuitive key writer where the transcripts can
+2:18:27 when I want you to do something with transcript from
+2:18:33 in future transcripts when I want you to do something with the transcript
+2:18:40 from what is going on around that moment. Okay, with from a lot of kind of
+2:18:46 prepositions there. Um, trigger key phrase of E and say key.
+2:18:52 Um,
+2:18:58 I got to actually put the
+2:19:04 function E key. I wonder what like Yeah, it doesn't have it. So key.
+2:19:14 Ah, why did you not?
+2:19:23 Uh, that's obviously more human written, but whatever.
+2:19:30 And then that. So, if I then take this
+2:19:35 right here and
+2:19:41 uh I'm I'm curious before I nuke. It can handle the context, I
+2:19:47 suppose. Yeah, it can handle that context.
+2:19:55 All right.
+2:20:00 And if I were to start from scratch essentially
+2:20:08 this 1029 with a fresh prompt, I've got the above
+2:20:14 stuff where it's summarized and I can pull from it and um play with it
+2:20:24 um what it generated and see if it how it differs from this from the second generation. So, let's send this off and
+2:20:32 see how it goes.
+2:20:41 Uh, I have no music playing. I'm kind of nervous with that whole copyright
+2:20:46 um dispute thing, but I'm going to go ahead and play some anyway.
+2:20:55 [Music]
+2:21:01 If I talk, it drops down. Yep. So, there's the That's a That's a long
+2:21:07 That's a That's a laundry list. That is a lot a lot a lot a lot a lot.
+2:21:13 Got it. I'll now generate a single line timestamp mouse that's covering a strict prompt. Then append the six most post
+2:21:20 summary sections. Working through the full 4hour transition. Now, please hold for a moment.
+2:21:27 Um, that's a lot. Hashtag not to self mentions.
+2:21:33 So, if I take this right now and put it in the uh
+2:21:42 [Music] edit of this.
+2:21:48 Here is the edit from yesterday. And I basically want to put it after kind of the please like and subscribe Discord
+2:21:55 server and then bam, I'm over the 5,000 character limit.
+2:22:03 That's way too many characters. So that's way too many characters. That's
+2:22:09 5,500. So I have to basically say that
+2:22:17 timestamp summary is
+2:22:24 5554 characters long.
+2:22:30 It is supposed to be less than 4500.
+2:22:41 [Applause] Um regenerate
+2:22:47 the time stamp summary to be more condensed.
+2:23:01 All right. So the the main goal the main output of
+2:23:08 this is to get this timeline summary
+2:23:15 still generating and I didn't tell you to generate the other stuff did and I wonder if it
+2:23:22 some of the stuff is like asking it semi-ambigous questions to learn how to ask it better questions.
+2:23:31 So if I un if I paste this I have one character. How do I even have one character? I don't even have one
+2:23:37 character. That is 4100. Now that I can
+2:23:42 deal with so this if I undo all of you
+2:23:47 and paste you now that's my fault
+2:23:54 5585 because I was
+2:24:01 14. I said 4,500. It needs to be I didn't I
+2:24:07 didn't realize this was 1400 characters that I have in here. Um
+2:24:13 it's a lot of fluff stuff. Uh but this is like brandness weirdness and it needs
+2:24:21 to be there. So new new character constraint is um 3500 characters.
+2:24:28 So I should change this to be 3500 characters.
+2:24:39 Must stay under 3500 characters total.
+2:24:45 [Music] When my boiler
+2:24:51 plate color is added, when my
+2:24:58 about 1,500 character
+2:25:05 boiler plate is added. It doesn't need a comma.
+2:25:13 All right. So, new character limit 3500. My bad.
+2:25:18 I'll just repeat. And actually, I'll just since I don't really care about
+2:25:23 that. Um, I can say needs to be below 3500
+2:25:33 is supposed it needs to be I'll just say it needs to
+2:25:40 be below a new character
+2:25:49 max. a new max length of
+2:25:57 30 of less than 3500 whatever. So, I'll just regenerate that.
+2:26:07 Um, 3500 characters is a lot and it it can do this fairly well. It's what it's
+2:26:15 designed to do. Even that's a wall of text.
+2:26:25 [Music] Wall of text. My voice is working. Okay.
+2:26:31 I think the lapel mic works. Okay. If I were to um swap over in the middle of
+2:26:36 this and go to bang bang, um the
+2:26:41 volume's going to go up because I stopped talking.
+2:26:52 because it doesn't trigger, right? It doesn't trigger the because the That's kind of an interesting side
+2:26:59 effect. Um I could say if it is that and if it is that and set the variable. Oh,
+2:27:04 I could do that. I could I could actually make it another compound conditional variable. I could do that.
+2:27:12 So, right now the dynamic music is off because of the way the microphone's set up.
+2:27:18 Um, so I believe I copied that and let's
+2:27:23 paste that into this section.
+2:27:32 That's still over a character limit.
+2:27:37 I didn't grab it.
+2:27:47 Maybe I didn't actually copy it.
+2:27:56 Let's paste you. Nope. It's still over a limit.
+2:28:05 I told it to generate. Wow. Even that new one that I just told the
+2:28:12 generator which looked like a lot.
+2:28:20 I just told you condense it. That is 4172. Look at what AI can do. Hash look
+2:28:28 at what AI can do. That time
+2:28:35 line summary is 4172 characters
+2:28:44 less than 3500. Condens it
+2:28:52 to be less than 3500. It doesn't do math very well. But the
+2:28:59 computer AIS doesn't surprisingly don't do math. They can't handle character
+2:29:04 counts. They can get the ballpark and the fuzzy
+2:29:10 range of it. Um so if you say less than 3500 might give you 3600 and then that
+2:29:16 that's probably okay. Usually I'm near the threshold.
+2:29:31 Let me um that's fine. It's it's all just
+2:29:37 here. I can just say right here on this prompt.
+2:29:47 I'll just do it right here.
+2:30:00 Um, this is the headset mic. And if I were do an AB test between this mic and
+2:30:09 talking this mic and talking on that mic, this this mic is uh note to self
+2:30:15 hash noteto at 2 hours and 30 minutes into the stream. Um, does this lapel mic
+2:30:22 sound better or does this headset mic sound better?
+2:30:28 They're both uh the headset mic is is now at about the normal expected area.
+2:30:34 Um, but it has no pop filter on it. And uh, does this mic the headset mic sound
+2:30:40 better or does the lapel mic sound better? I think the lapel mic's going to sound
+2:30:45 better. Uh, just a moment.
+2:31:38 All
+2:31:54 right. Lapel mic. Um, lapel mic. We're using the lapel mic.
+2:32:02 Um, so we were doing this. is generating
+2:32:08 that. Here's the 3500 characters. How true to 3500 characters. Is this that
+2:32:15 looks that looks shorter. So this if I bring it in, it generated 3430.
+2:32:22 That's a lot better. So now Z all this
+2:32:28 um paste you in. Now I'm below the 50 the 5,000 and we're good. And I just
+2:32:35 save this. And so now after all that, this was kind of round number. Yesterday
+2:32:41 was me experimenting with ways to just functionally get the transcripts. Um,
+2:32:47 and then today was uh adding on uh an add-on to see if I can get that
+2:32:55 summary. So I'm curious to see how that summary works. And um I'm going to pause
+2:33:03 the music to listen to that and have it speak to me so that uh and I
+2:33:11 need to end the stream in uh pretty soon uh in about 10 15 minutes when I need to
+2:33:19 end the stream. So I might as well end on this note. I have kind of gone through most of the checklist
+2:33:25 um on the goals. The we've done the process transcripts. I'd like to kind of
+2:33:31 strike this through or put a mark. Excuse me. I'd like to do a markdown. And can you strike through on a
+2:33:37 markdown? That'd be kind of cool if you could strike through on a markdown. Um, but I want to listen to what it says
+2:33:45 about these. Um,
+2:33:52 uh, and if I can speak,
+2:33:57 uh, not the highlighted section. If I right click this, it's going to, it's going to read that whole,
+2:34:06 um, I wonder if I could kind of do a split
+2:34:12 prompt. I wonder if that's a thing. Um,
+2:34:18 if if I don't ask it for that summary, just just generate that. That's it.
+2:34:23 Generate me the summary. So, let's start over. This is uh um this
+2:34:31 is getting good. If I do follow-ups, let me not overload
+2:34:37 uh that. So, um suggest
+2:34:45 more into a key phrase. All right, footnote.
+2:34:52 So I think time so uh generate timestamps
+2:35:00 generate timestamps which is going to be this prompt.
+2:35:14 So if I do this
+2:35:22 Uh, generate
+2:35:28 summary. Generate follow-ups. Generate um
+2:35:39 Yeah, generate follow-up. Why not? Um,
+2:35:47 I kind of want to put the generate title first. Um, cuz then what I do is
+2:35:56 Yeah. Uh, that and then this would be
+2:36:03 I just copy that instead of which is fine. Summarize near merge length goal.
+2:36:10 um length goal must be it's almost ambiguous length the goal must be but that's fine
+2:36:20 and then put you in generate summary
+2:36:26 and
+2:36:35 so if I I'm going to end the stream pretty soon if I were to make um another
+2:36:45 attempt to prompt. So,
+2:36:52 this was um a learning exercise.
+2:36:57 I'm almost afraid that in this conversation it might be
+2:37:05 biased or guided down a path already. So, I'm going to create a new
+2:37:13 one. It should have done that. Yeah. And then I'm going to try the new. So, close
+2:37:20 you. Um, generate timestamps.
+2:37:26 So, here, uh, I'm not going to use these timestamps. I just wanted to generate
+2:37:31 them. So it on my next stream I'm going to try it this way where I upload a file
+2:37:39 which will be this file
+2:37:44 and I give it a prompt and hit send and
+2:37:50 it generates a summary
+2:38:00 and Oh, does it really matter?
+2:38:08 Uh, running is starting soon. Like, what a wall of
+2:38:14 text. It's still going. I I can tell that's more than 3500 characters. Character count, please.
+2:38:21 So, it's done. It says 3440. I don't believe that.
+2:38:33 That is not 3440 characters.
+2:38:45 That is 5537.
+2:38:56 All right. generate a summary for me.
+2:39:02 I trust the YouTube character count more than that. I mean, it's including those. So, yeah.
+2:39:11 Okay.
+2:39:25 [Music] Mhm. Um,
+2:39:31 I'm going to leave it I'm going to leave the lapel mic set up this way so it's not fluttering so that I know next time
+2:39:36 I have an idea. Hashtag note to self if I haven't done it already. Um, for the
+2:39:43 audio, set the um,
+2:39:48 use an advanced scene switcher to detect if the lapel mic is active. Then set a
+2:39:56 variable that the desired mic is the lapel mic. Else set the desired mic as the headset
+2:40:05 mic or some variation of that. And then
+2:40:10 um use that variable um to that's all you really need. Um
+2:40:18 yeah uh really if if it's just between those two
+2:40:23 Excuse me. Um, so
+2:40:31 let's check the car character count. Um, it should just give me generate general summary. It's not telling me the
+2:40:37 character count. Now, if I paste that, that still looks like a lot.
+2:40:42 4409. I don't want to. That's not less than.
+2:40:49 That's still 40. Jesus. That's
+2:40:56 um I am going to 4409 characters
+2:41:02 maybe you're not including not including the time stamp
+2:41:11 characters uh and on the prompt I should say
+2:41:16 including time final must stay under 35 characters total including
+2:41:27 including the timestamp
+2:41:32 characters.
+2:41:52 total including timestamp characters
+2:42:01 care characters. All right,
+2:42:08 maybe you're not including the time
+2:42:14 the time stamp characters in your character
+2:42:20 count limit calculation.
+2:42:33 Um, I believe my prompt says 3500. Must stay below 3500.
+2:42:42 Um, getting really close to countdown. I am going to do something. I have this
+2:42:47 little um on the stream deck. I have a little bam bam
+2:42:54 countdown. I can give myself um two minutes here. So, I've pressed two
+2:43:00 minute. It's not uh it doesn't trigger on the screen here. Weird. Um I can see
+2:43:06 on my screen I've clicked 120 seconds on there and I'm seeing
+2:43:13 a countdown clock which is over there. That's counting down and giving me 2
+2:43:19 minutes to sort of time box this. Uh there's some test buttons on that screen too. Um so
+2:43:28 you're right. My early camera was off. Here's a tighter pass that that's safely under 3500 characters including
+2:43:35 timestamps. So, how many characters is that?
+2:43:40 Um, safely under 3500.
+2:43:47 That is true. That is safely under 3500. Okay. Um,
+2:43:54 do I want to use this? Do I want to compare this generated thing to that generated thing? Not really. I don't
+2:44:00 really want to. If I refresh this and put these two side by side,
+2:44:06 I'm going to have that transcript and I'll put you over here and I have this
+2:44:12 transcript and I'll put you over. Yeah. Why? Um, why not?
+2:44:21 Hello. And I'll put you two side by side. And
+2:44:27 it's like really
+2:44:33 um uh how much longer?
+2:44:46 Uh I I'm I'm curious as a data point entry on that. I
+2:44:53 got six seconds. Dang, that two minutes went fast. Beep beep.
+2:44:58 I hear it. And did you hear that is the question. If I do a 30 second timer and
+2:45:04 will you hear that? Here's if it like would beep beep beep
+2:45:11 if it would beep for me um while it's counting down as it's as it's getting
+2:45:17 close. Uh and I can set like Star Citizen timeout values and limits
+2:45:23 on the screen. the the wiggle of the mouse away from keyboard timeout limit. You just set a timer and it'll alert
+2:45:30 you. I already have software handle that. It did. So, all right. You did hear
+2:45:36 that. Um, uh, Echo Grace 221. Hello.
+2:45:46 Um, so I don't know if Echo Grace is legit or not. Are you legit, Echo Grace? I'm
+2:45:54 actually getting ready to was just saying a few minutes ago and I'm trying to sign off here. So, um if you've been
+2:46:00 here since 2:21 and you're a human, then you probably heard me. Uh so, I was done with the uh generating
+2:46:08 the transcripts. I I'm gonna go off on the side and do an AP comparison between these two just
+2:46:16 again for uh not the FOMO or the fear of missing out
+2:46:22 on a good thing. There's a little bit of that to be honest in there. But um I'm I'm curious as far as data wise, how how
+2:46:31 how similar or how different are these generated texts from just two different
+2:46:38 sessions where I made very slight tweaks to the um prompt and how much of a
+2:46:47 difference it generate. And I can put these side by side in a spreadsheet and kind of do it a little more methodical
+2:46:52 than this. and see how they line up. Um, anyway, thanks for watching. Like and
+2:47:00 subscribe. Uh, I got to go to a doctor's appointment, so I'm going to bail out of
+2:47:06 here. And, uh, on my eyes. My eyes are bad.
+2:47:11 Um, talk about it some other time. All right. Uh, I will switch back here. No
+2:47:18 one's replied, so I'm going to bail. And, uh, Yeah, closer time. I had turned off one
+2:47:27 thing I did was I turned off the um now playing. So, I'm going to as a test here, I'm going to start the now playing
+2:47:35 and start the music and then I'll wait like a minute uh 30 seconds and then
+2:47:41 I'll hit the closer and you should hear the audio. Um
+2:47:49 I'd like to fade it. Uh, and I could probably get advanced scene switcher to do that. So, as a test for next time,
+2:47:58 uh, hashtag noteto self, um, get advanced scene switcher to,
+2:48:05 um, fade the audio, uh, the n any the screen
+2:48:11 capture audio as it's transitioning uh, as the, um, closer scene becomes
+2:48:20 active. So the rephrase that when the closer scene becomes active
+2:48:26 um include in the closer scene the Mac OS screen capture audio but fade the
+2:48:34 audio down in about I don't know 2 3 5
+2:48:39 seconds some reasonable amount of time. Um all right anyway I'm going to start
+2:48:44 the music and sign this off. Thanks for watching. Like and subscribe.
+2:48:54 We go out with a bang. Can we go with a bang? What was the Yeah, that was the end. What's next?
+2:49:01 What's our final? Notice that the the spectrum analyzer
+2:49:07 isn't working. That's a bug in the way that this thing is picking. That's a
+2:49:13 whole other stream. That's for next stream is talk about my music player. uh
+2:49:18 situation and Silver Shamrock. Awesome. This is how I started. This is the song I think I used to start the stream with.
+2:49:24 So, definitely good vibes on this. Um, thanks for watching. Like and subscribe.
+2:49:32 This is a little wide. I think that's a little bit wide
+2:49:39 there. Let's do that and bring you back up. That buys me a little bit of real
+2:49:45 estate. It it expends extends you guys a little bit. But I don't want that. I
+2:49:51 want you to be minimal. I actually kind of want you to be minimal, but you are minimal. So, if I'm going to do that,
+2:49:58 then I might as well line you up with that. But I don't want that to be full height. I do want the uh I noticed also
+2:50:06 another thing my my camera is not mirrored so that it's when I point to
+2:50:11 the left, you see me point to your right. And when I point to my right, you see me point to your left. That would
+2:50:19 cause letters and words to be reversed. And I don't know if I want to go that
+2:50:24 way. Homie, don't play that game. So, um,
+2:50:31 I'm going to sign off with that in the foreground here later.
+2:50:41 [Music]
+2:50:49 We'll do the uh this lapel mic, not this mic. I can slide this one up.
+2:50:56 And uh we're going talking to the lapel mic. We're about halfway through the song. We're at 2:30. I need to start
+2:51:03 bailing out the door. So, I think it was pretty productive stream.
+2:51:11 Um, I I got through goals and maybe I can ask AI to measure my stream and give
+2:51:19 me a metric on how good I'm doing. Positive reinforcement, echo chamber. Right.
+2:51:25 All right. Thanks for watching. I'm going to wait. Just wait till the end song. I got 30 seconds here. What
+2:51:32 can I do in 30 seconds? I don't know. Um
+2:51:37 um my brain's kind of fried right now. I need some food. I need to grab some
+2:51:42 food. My eyes are bad. Uh tomorrow's Halloween. Happy Halloween. Trick or
+2:51:49 treat. Don't eat too much candy. Go scare some kids. And uh
+2:51:57 thanks for watching. Like and subscribe.
+2:52:12 I'm not this night, [Applause]
+2:52:19 [Music]

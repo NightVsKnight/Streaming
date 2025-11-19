@@ -1,0 +1,1881 @@
+0:01 [Music]
+0:21 Heat. Heat.
+0:36 Heat. Heat.
+0:56 Heat. Heat. [Music]
+1:11 [Music]
+1:25 Okay, I am learning the value of uh starting
+1:34 soon or a be right back. Um, and turn the volume down on the
+1:46 music to here. I have a a task
+1:54 to um
+2:00 I want to be able to control this app's
+2:08 audio. [Music]
+2:15 A little narrower. How narrow can you go? That's that gets the job done.
+2:23 Um, I don't really need all this other stuff. I've got definitely some space down here. Uh, when I go full width like
+2:31 that. Bam.
+2:38 I was also working on the starting soon. I can put that in the note in the goals. Starting soon.
+2:48 Uh, I have this song on loop
+2:55 and maybe not a scene scene scene. I I've been in the past like individual
+3:01 scenes is what I've been doing for this behind the scenes. Uh, I'm actually
+3:08 almost working exclusively inside of one scene. and I have a closer um but maybe I can just overlay on top
+3:16 the starting soon. Um
+3:22 I was saying starting off I'm learning the value of the starting soon.
+3:29 Um and my voice might be competing. So let me lower the volume of this.
+3:39 I think 20 is going to be pretty low, but I wonder if I was reviewing the
+3:47 stream uh here in the background.
+3:54 I was reviewing the stream. Yeah.
+4:00 Going through here and listening to the different audio levels to see what it's like.
+4:07 uh at 100% what I can do is I go through here and search the transcript for like
+4:12 note to self. Um,
+4:17 sometimes it splits. Think I saw it do a if I just do a note. I went there. 20
+4:24 notes. Not notes. Notes. Take notes. That's notes. Yeah. Hashtag. Uh, also
+4:30 was another search. I did hashtag.
+4:36 Um, then I can go back later and I have AI process this and summarize it. And I
+4:43 wonder if I in my prompt I could say look for
+4:51 a lot of stuff, a lot of distractions. This fun I find it fun and good.
+4:59 Um, where would I have that? I have it here inside of this of a transcripts
+5:05 repo. And I even could bring it up in GitHub.
+5:13 I don't know what that is, but
+5:18 transcripts. Uh, it's public repo
+5:25 kind of long file names. I may change the file names and I may change how I
+5:30 organize this. This was written by hand. I could have an AI
+5:37 with codeex. I can probably prompt codeex to keep this thing up to date.
+5:43 Um, if there was an MCP for chat GPT,
+5:48 uh, uh, I talking through codeex uses my
+5:54 tokens and I wonder if I could have codeex talk to chat GBT, which won't use
+6:00 up my tokens in my quota. Um,
+6:06 so hashtag I could try this by saying um hashtag
+6:13 um idea or something like that. I haven't
+6:19 quite got a system up, but when the AI crawls through um
+6:25 I have this prompt where I hand it the the file
+6:33 will be the window for that
+6:38 one where if I do chat GPT
+6:45 probably a whole bunch of stuff here I can redact act and make sure and I'm going to make sure that redacting is
+6:52 working. I don't think there's anything too much in here that I care about.
+7:00 Um, so here's stream summaries where I will um attach the file. There's
+7:09 a plugin and somebody tell me if I'm doing something weird here. If I go to my
+7:16 video, which is this one, I've got found a
+7:22 plugin. I've got enough plugins. I'm not going to pin it, but all it does is it finds the transcript window and and
+7:31 copies it to clipboard or downloads it. So, if I download it with no real decorations except for timestamps
+7:39 and then hand it to the um
+7:45 and so then I I bring it into my transcripts folder.
+7:50 Uh and let me document that process. Uh here's the process.
+8:01 Um, sometimes that doesn't work.
+8:09 So, if I view that, it's in this
+8:15 uh I just changed the title of this to process. And I haven't reviewed the markdown to
+8:21 see if this looks okay. Uh
+8:27 that preview pose here. [Music]
+8:33 Um select video transcripts from Night Versus Night.
+8:39 I don't have quite have a great system here yet, but I have the skeleton of a
+8:44 okay system. Sometimes that messes up uh when that
+8:50 happens. Um,
+8:56 sometimes copy to transcript.
+9:01 Make that blue. I don't know why you made that blue.
+9:07 I don't need to loop this song anymore. I can turn off loop. A hot key for loop.
+9:12 Interesting. Uh, let me put into you.
+9:20 uh create a GitHub issue to
+9:27 have hotkey or stream deck
+9:33 control or toggling loop
+9:40 uh random. Um that's about it.
+9:49 loop, random, pause, preview. I've already got pause, preview, next. I've already got a issue for the volume
+9:56 slider. I could do them all at once.
+10:04 I've got that. I could also just say find
+10:10 the GitHub issue. This is just kind of free form. I'm
+10:16 experimenting here with free form natural language
+10:21 scattering of thoughts out there to just let an AI do the work for me. So find the GitHub issue related to
+10:31 controlling the volume the app volume
+10:42 music volume with
+10:47 hotkey stream deck
+10:53 and add to get the ability to control
+11:03 control/toggle loop random. I think that's about all.
+11:10 Um, seek forward, backwards, skip. Um, yeah,
+11:18 hotkey. Hotkey seek. That could be if I just want it in the background hit the
+11:23 player. Um, seek.
+11:32 Fast forward. Rewind. What do I do? 5 seconds. 40. Oh,
+11:38 here we go. Turn off the loop.
+11:44 5 seconds.
+11:50 I don't think there's anything else I the spec this the visual
+11:56 um I don't really care about needing to auto hotkey that um toggling the this is
+12:02 the new UI that's going to go off and show here is it's not working yet still
+12:08 in process
+12:14 um [Music] wonder about the song I'm now running
+12:19 the player. In order to get this uh audio output device working, you can't
+12:26 host it from a local file. You have to host it from local host. And I knew was
+12:31 ready for it when I did it that I've said it several times in the stream
+12:38 that I'm all of my star ratings are just practice.
+12:43 Uh, and I'm not I'm not at all let down that I lost it
+12:48 when I moved to local host because I'm going to move to a standalone app anyway.
+12:54 Anything else on here that I want to automate? I don't think so. Star rating. I do. I think I had star ratings. Can I
+12:59 Can I hotkey stars? There we go. Um, loop random
+13:07 ratings.
+13:16 I think that's a good prompt. I got another one here. We'll see how this works. Now, I can go off on the side and
+13:22 kind of verify these. I know that it's uh um
+13:31 [Music]
+13:40 Yeah, that's the volume track. It's this one. [Music]
+13:48 Yeah. So we I just added this up updated issue to broaden the scope to
+13:54 cover um task audit current volume track
+14:00 handling research APSOS prototype uh it should say edit edits. Yeah, most recent
+14:07 just did it. So that's pretty cool that I could just kind of naturally ask it to do that.
+14:12 I've got another issue that I've noticed. Um, hopefully I'm not competing with the
+14:18 audio. I'm kind of competing in my own head with the music. In my head, the music is a distraction. And I, um,
+14:26 hashtag note to self. I wonder if the, um,
+14:32 instream audio music is how it's competing with my voice right now. This
+14:39 song, this song is
+14:47 It's fun and bright and jumpy, but I'm not really that into it. I find this song a little on the lesser side.
+14:56 Um, it's probably got some purpose and point
+15:01 in the game, but I find this song a little distracting distracting. Skip Not on My Watch by Arthur O'Reilly.
+15:09 Now playing Mysterious Green Fluid by White Battle. something a little a little more background, a little not
+15:15 quite so in your face about what's going on. Um, another issue that I've noticed
+15:22 here is um, now that I took out all of the if I
+15:28 hover over this one, let me also check about the status of
+15:35 the code. I've got one change. I got this. So, I can hop back to main and
+15:40 work on a couple of things outside of this co-pilot support ticket. So, let me
+15:46 switch to main. And
+15:52 there's two two little nitpicks. I had a a ticket that I worked on yesterday,
+15:58 which was uh closed
+16:04 um display the short track. When I did this, great. It freed up a bunch of um
+16:12 uh we go player. It freed up a bunch of space and I said that I'll um clean up
+16:19 the the layout. Mostly I meant this this area, the now playing area. This area is kind of now large big vacant space. I
+16:27 could I could scrunch all this up into one line and then ellipse. The only thing that's really going to be large is
+16:33 the title. And that's nowadays not even really very large. And then I can just ellipse if it's in here. So I can
+16:40 scrunch this up. Shrink. There's no reason now playing font needs to be that big anymore. Um I clean that up. But the
+16:49 thing I noticed I did two things. I think I instructed it to use the hover text.
+16:55 Um keep the hover text while keeping keeping the full file name
+17:02 available on hover. Well, when it implemented it, um, it kept it over here.
+17:09 So, there's that. That's fine. I kind of I like that it has that metadata in there that it says it's a horror synth
+17:16 trans um uh a dark um so that sort of stuff. The the URL
+17:23 ones are a little more a little more categorized. He'll say powerful emotional versus
+17:30 epic. Um, uh, this is epic there. Epic music. It's
+17:39 all epic music. Some of these he changes the prefix. He goes into some
+17:45 I'm not going to really spend too much time trying to find it. But he does these in the title. It's kind of
+17:50 verbose. I like that it's there. But what I also meant was for it to be over here. So that's one thing is the hover
+17:57 tip needs to be on this. Um the second problem, the slightly
+18:04 bigger problem is now it's now it's not alphabetical.
+18:09 Um this one happened to be it's just happens to be alphabetical because of
+18:16 the way that URL had prefixed everything. It's always URL
+18:21 um indistinguishable magic um is he's always has the title at the beginning so
+18:28 that's fine. These are all alphabetical. These are not because White Bat audio
+18:34 puts um they put like the description at the beginning. So this is like 80s sci-fi
+18:40 horror. So that's why it's at the top of the list. So I want to add two more
+18:47 tasks which is create a GitHub issue to
+18:54 show the
+19:00 and let me where that in that code um the hover tip on the list here's the
+19:07 player I want to split this into files
+19:12 uh to do
+19:17 split into CSS andJS file.
+19:24 Uh it's getting I've known it's getting quite unruly, but I want to go to the
+19:30 That was mysterious green fluid by White Bat Audio. Now playing Leap of Faith by
+19:36 Arthur Riley. There's the Now that's the
+19:42 playlist, the volume, the visualizer, the list.
+19:48 So he just has the playlist and then that's the playlist is built
+19:54 dynamically. So the list
+20:01 is
+20:06 um I just want to get the element for the list. The list, the list, the list, list
+20:12 element. Don't worry, they um get the hover text.
+20:20 So the the track name now title, that's the now title
+20:30 [Music]
+20:35 rapper div render list.
+20:41 And so this is where render track leaf render director node render
+20:47 track leaf. There we go. This is where it renders the track lead and those are
+20:52 the ratings. Put that in first. The name
+20:57 display name build announcement detail.
+21:05 Um I'm curious. I'm doing this to explore the code and not it not just be this
+21:12 complete unknown to me. Distraction.
+21:22 Distraction. I wanted to make sure that all of the This is the content creator.
+21:31 [Music]
+21:38 Um, that title. Interesting. But it didn't put it in only general
+21:45 chat, did it? Okay, that one's completely vacant. The
+21:50 other day I said yesterday I said it should no longer show up. I'd only moved the YouTube. I didn't move the kick,
+21:57 which is just the kick link. And this is the Twitch link
+22:03 here. Here's the title. Coding coding coding.
+22:08 Um
+22:15 beyond this that title
+22:23 and it kept that like why why why did you keep that? I didn't ask you to do
+22:29 any of that. This is from the previous. This is from editing the previous.
+22:36 Am I using YouTube wrong?
+22:42 Probably. And I hope that didn't mess up the other
+22:49 one. Um,
+22:58 that one. Left that one alone. So, this one's good.
+23:06 I suspect you're supposed to create a fresh um stream ID every time, but I'm not
+23:16 jumping all over the place here. Uh, hashtag noteto self chatbot chatgpt
+23:25 psychoanalyze my randomness in this stream and
+23:33 get me some psychological counseling to be more focused.
+23:39 Um, need that.
+23:45 Don't need that. I was looking for where it does this
+23:52 the meta data where it gets that raw
+23:57 fallback artist raw. I want the title raw.
+24:03 Normalize spaces title raw. It's the hover.
+24:09 That was leap of faith. Now playing legend has it.
+24:16 [Music] Um, I could also look at it inside of the this and see
+24:26 um [Music]
+24:32 the hover text. The title
+24:37 title data index 50
+24:44 title there's nothing else. Rating star legend
+24:50 has it with legend has it. So it's the title but it's just the the title element of
+24:59 the data index. Is there a data index?
+25:07 Title's going to be in here a lot. [Music]
+25:17 Turn title. Title artist summary. Okay, it takes the title.
+25:40 It's used in several places.
+25:49 See down some actual detail.
+26:02 This is where it does it details.
+26:10 [Music] It's making
+26:16 a div. The class name is
+26:23 name the name element [Music]
+26:30 the track leaf did item class name item track item
+26:37 here we go
+26:43 row class name data set index index.
+26:48 Um, there's the data set
+26:54 index is data. The roll is a button. The title row, this is relative. Yeah.
+27:03 And then that's what So that's what I want to do on the prompt.
+27:11 I don't need to get too specific. I can not try to be the expert. I can try to
+27:17 just be a layman and just say do the do the magic. Do your magic. But I feel an
+27:26 obligation to have some understanding of what's going on inside here when I read
+27:31 this problem. Create a GitHub issue to show the raw
+27:39 um a night
+27:48 um of the
+27:53 found now that was legend has it by Arthur Riley
+27:58 now playing bloodless by white bat audio
+28:05 to to add a hover tip create a create a GitHub issue to Add a
+28:13 hover tip to the now
+28:18 playing song track title.
+28:29 Um that shows the raw file name
+28:36 similar in the same way in the same way that
+28:44 the playlist shows the raw
+28:52 file name when you hover.
+28:59 over a track slash track. I don't know. It's how it's
+29:07 terminology. Um,
+29:14 do I should I give it any detail? I went in there to find out how it works myself.
+29:20 Do I tell it the data index the the do I copy and paste this node
+29:27 example?
+29:38 I think I want that whole thing. But um if I paste this
+29:48 [Music]
+29:55 to you. Sure, it'll it it's a computer. It should be able to figure that out.
+30:05 We'll see what it does there. Um, that's the now playing hover tip.
+30:10 adding in the other um [Music]
+30:18 the other one to fix.
+30:24 [Music]
+30:35 Sorry. Um, the other one to fix is the sorting
+30:40 order. Hey, get that was blood lust. Now playing
+30:47 darkness awaits.
+30:53 [Music]
+31:00 All right, I'm just want to I can go switch out here and see what it wrote. I'm still handholding.
+31:09 Yeah. Show raw file name tool tip on now playing title. So I could send hopefully these these things if they're discreet
+31:15 enough I can send co-pilot off to just kind of work that work that work that work that and then review them and then
+31:24 merge them and um things work good.
+31:29 The other one is this uh [Music] to
+31:37 sort the
+31:43 items in the playlist by their
+31:49 amount. [Music]
+31:56 to sort the track.
+32:02 Sort the playlist song tracks songs
+32:12 by their announced name.
+32:18 Create a GitHub issue to sort playlist songs
+32:24 slash tracks. I don't know how it refers
+32:29 nomenclature on that. By their announced name, which that
+32:34 would fix the issue here where it's very hard to find. I was looking for
+32:40 um I was looking for a very specific song and in the white bat and I couldn't find
+32:47 it because they're not an alphabetical order. They're in this cyberpunk.
+32:54 Cyberpunk cyberpunk
+33:02 uh free 80s. I don't want them sorted by their kind
+33:08 of weird meta prefix. I want them sorted by the dis by the
+33:16 announced which is going to be the displayed
+33:22 by their announced.
+33:27 And then I got another one. Create a GitHub
+33:34 issue to clean up the now playing
+33:48 artist track.
+33:55 Number [Music] artist track
+34:09 Clint. That was Darkness Awaits by White Bat
+34:15 Audio. Now playing black. Now that the
+34:22 title
+34:32 now that the titles are
+34:39 shorter and
+34:46 opened up [Music] a lot of empty space
+34:58 and created slashoped opened up
+35:08 a lot of undesirable
+35:17 So then I could have it kind of clean that up so that I don't have to
+35:23 definitely struggle with CSS layout and that seems to be something that AI can
+35:29 handle quite well. I'm pretty glad that AI can do CSS layout pretty well
+35:37 so I don't have to mess with it. Um,
+35:47 let's see.
+36:00 So, here's where it this is the live. This is going to take me to the I don't
+36:07 want to do that. But I want to see the the this live.
+36:15 Yeah. And this is all going to be
+36:26 Oh, hey, I've got I've got people on kick. Look at that. Hello, people on kick. Hello, actual
+36:34 live human. People
+36:39 on on but
+36:46 human people on kick.
+37:02 [Music] Music keeps cutting into here. talking as loud as
+37:07 All right, so here's some human feedback. Yeah. Um,
+37:16 some of this is junk. I think Harmon is a bot. I think Pinex
+37:24 is uh a bot.
+37:30 Blue Saber might actually be you in person.
+37:40 Is there a time stamp on this? There's no timestamp. Is there a way to
+37:46 view timestamps? Um,
+37:53 pop out the chat. What I'd like to do is
+37:58 put these in tabs.
+38:04 This this is getting into the chat stuff. I have a very specific way of learning chat.
+38:11 [Music] Yeah, you're a bot.
+38:19 Um that full of backup is. Hey, have you
+38:26 personally kick fam? Music. That was black hole merger by Arthur Riley. Now play Darkness Awaits by White
+38:33 Bat Audio [Music]
+38:41 and Blue Saber.
+38:47 [Music]
+38:59 [Music]
+39:09 [Music] Uh, starting soon. I could lower that. I
+39:16 I before I hit enter, that is not a true statement. Let me come over to uh the
+39:23 general and move that down. And
+39:28 um the starting soon is low priority. Uh so I have no problem moving that down.
+39:40 Buttercup is I think real. Blue saber I think is real.
+39:48 Um I missed them. It was probably I don't have a time stamp for this and they obviously bailed out.
+39:55 Like now you're talking about the music is up too loud. There is a a bug.
+40:01 There's a flaw and I'd like to fix that.
+40:06 Uh and let me check Twitch while I'm at it. No one's chatting on Twitch, which
+40:12 is this is a pop out. I can So I know how to pop out those three chats.
+40:19 What I And I have app I have an app on my Windows and I was thinking of writing Um, I have the code here and I uh
+40:30 scattered all over the place. Uh, again repeating hashtag note to self
+40:38 um chatbot. How can I keep a more linear focused
+40:46 thought when I just literally am running into so many distractions?
+40:53 Um there's just so much to keep track of. I have um
+41:00 this right now I'm calling it OBS Trey Guard, but it's basically a QT application.
+41:06 There's a main and it's a tray app that runs up in the tray
+41:12 and just a tray app very small. Um well, not so small here. You can just look at
+41:18 the H. Um I have actually any methods uh
+41:27 can these are the actions from the the icon itself creates the menu that'll do
+41:32 those things. This is the this was created by AI and it's just kind of a brainstorm of idea. I have done this on
+41:39 Windows. I have a Windows my Windows agent that I do on my game streaming on my game PC. I have Windows and Windows.
+41:46 I could rewrite those in QT, but man, that's going to be I could rewrite them
+41:51 in QT. They do a lot of stuff, but all they really do is Darkness Awaits.
+41:57 There's nothing that they memories of a murder innet C. I don't think there's anything
+42:02 that those Windows apps do innet that I couldn't write in QT. I'm I'm
+42:09 okay. I'm I I would say I'm decent at QT.
+42:16 Um, and so I was I I have had variations of that NVK agent.
+42:24 Um, that one of them was a a cyst tray application that I could pull up and in
+42:31 it were the three panes of chat. And this was back in M when Mixer was a thing ever when I wrote this. And I had
+42:38 the a column for the YouTube chat, a column for the Mixer chat, and a column for the Twitch chat. and I could see
+42:44 them all. And what I should also have done is added Discord in um
+42:51 so that I could have you so I can see them all there side by side. This integrated stuff on the chat. Um,
+43:00 I have here as a note to um I liked the note on the
+43:11 I like the note on the right side so that people viewing along at home
+43:20 because I talk to this I highlight this stuff. I'll I'll come over here and I'll highlight the text, but it doesn't get
+43:27 highlighted in the actual stream. So, usually if I'm highlighting, then I'm showing OBS. So, I guess I'm just kind
+43:33 of being too particular there, but I Let me bold this to be instream
+43:40 chat. Like, I I know that that's high priority.
+43:49 Um, I want to get that in so that I can see when people chat with me. So now I'm
+43:55 kind of like a I had humans actually chatting with me. That's exciting.
+44:02 Thanks. So thank you um Buttercup and Blue Saber
+44:09 wherever you are, whoever you are. Um
+44:14 I I'm call it a loss. Um, lesson learned. I
+44:20 I'm working on and I'll get there on the chat and I should probably stop focusing
+44:27 on the music app and do that. Uh, hopefully the
+44:34 the audio here it is. All right.
+44:43 Feedback from the chat was that see it's not cancelling. Is it?
+44:53 [Music]
+45:01 If I talk, it drops.
+45:07 But if I talk, see, it still did.
+45:13 And if I talk now, and it's not going up. And now I'm talking and it's going up. So, it's not doing it while it's fading. So, while it's going up, it's
+45:19 not actually going back down. And so, it hasn't within the last second. And so, it's not going down. That's where this
+45:26 is latched high. And the music is too loud. And that's what they were complaining about. So, what can I do
+45:31 right now? I'm basically just keeping talking. As I'm talking right now, it's it's evaluating true, but it's not
+45:38 actually triggering on change. Perform it always. Perform action only on
+45:44 that was memories of a murder. If I were to do this and just there now playing Reawaken by Arthur O'Reilly
+45:51 and I can do this right now, but it's Yeah,
+45:56 but it's on its way up. And how can I cancel the up?
+46:03 I've done this before. I've seen this before in the game stream. It only does it when it's on its way up. It's
+46:09 evaluating true and it's keeping it down.
+46:14 But if I start talking on it way up, it just pops down. So that's that's at
+46:21 least it heals itself. Um,
+46:26 but how can I make it better?
+46:33 So if if the desired mic, which is this headset mic, that part's working fine
+46:43 within the last 3 seconds, then do that.
+46:50 Else if it's not within the last second, um for at most for exactly for at least
+46:58 um this is what made the difference was the within the last
+47:05 Um, in previous streams I used to have it just kind of for at least but uh the
+47:10 within the last seem to make the difference for at least 3 seconds and that the big difference with I've been
+47:17 talking for the past 3 seconds for exactly for at most. Um, I think within the last is what I
+47:24 want. But here, if I'm talking, it's not
+47:30 cancelling.
+47:36 if I made them separate. Um, I wonder if that would make the
+47:44 difference
+47:50 if I duplicate you and turn you off
+47:59 and then call you uh
+48:07 mic audio duck. All all the other audio up rename.
+48:19 Um this is this is ducks. All other audio
+48:28 silence rename mic silence
+48:35 restores. I made them separate.
+48:42 [Music]
+48:52 So if that is that and it's and it's within the last
+49:00 and not
+49:07 Then copy,
+49:15 remove, paste,
+49:20 remove. Let me remove you.
+49:28 So I have no I have no else. I have no else. I only have
+49:37 these two that might simplify this so that I don't have
+49:44 that bug. At least I'm able to repro it pretty easily. So now I'm going to enable this
+49:50 and see look it's it's competing.
+49:58 But if I talk it goes back down.
+50:03 And if I talk it Yeah. Okay. So there it comes down now it's keeping it floored
+50:11 and if I talk it comes down
+50:16 and then maybe I could do performance on chain. I think this makes a little more efficient
+50:23 only on change. If I talk, it comes down.
+50:32 If I talk, it comes down.
+50:40 And if I don't talk, it comes up. So, I think I think that's an improvement. So,
+50:46 uh at least with having humans humans in the chat,
+50:53 uh let's see if I can find them again.
+51:08 [Music]
+51:22 How do my music and voice audio levels?
+51:27 sound now. Might as well just put that in
+51:34 here. And might as well put it in here.
+51:42 All right. And let me get the chat in stream. But I
+51:51 the reason I'm delaying the chat is there's a specific particular way that I
+51:56 want I'm pretty I think this is going to be good. I think that might have fixed
+52:05 that. Let me go to the notes and say what I've done is I think I I think what
+52:11 I just did nailed fixed fixed slashnailed fixed
+52:17 nailed the mic ducking problem.
+52:25 Uh, that one I need to all these lessons that I've learned on this behind the
+52:30 scenes stream I need to apply to my game stream. Uh, my actual game stream.
+52:37 Was Night of the Crees audio. The catch is it's normally on Friday
+52:43 and this Friday is Halloween, so I'm probably not going to game as I'm out
+52:48 with the kids. Um, let me go get I'm at 30% battery. Let me go get get my
+52:54 charger. Um I'm going practice. Be right back.
+53:46 All right. Um,
+53:59 it's not going. Oh, there is. If I wasn't just I wasn't loud enough right there. And that would be if my uh that
+54:07 that one I can control the decibel level and I should make that a variable of the
+54:13 uh decibel level. If I add um
+54:18 uh talking threshold um
+54:23 mic talking threshold
+54:30 uh and I'll probably call it uh negative 12 I forget if it was 128
+54:38 something like that. um
+54:43 set to we'll save the variable value
+54:50 um 28
+54:55 because I want these to be the same 28 28 so set you to 28
+55:03 - 28 Okay.
+55:10 And you going to set you to be
+55:15 threshold. And that's good. Set you to be
+55:23 threshold. It's a desired
+55:30 desired mic at um
+55:36 say mic desired. Can I rename you
+55:48 Mike desired?
+55:58 Um, mic audio duck all other audios. Mic silence restore.
+56:06 Uh, mic talking, mic audio, non mic non-silence, whatever.
+56:12 That was Ember by Arthur Riley now playing. Here's my badass. I just think I think this song's pretty
+56:18 cool. Um, Mike Desired
+56:26 and use Mike Desired.
+56:31 Oh, that was another thing I was going to do on the all this stuff like hashtag noteto self chatbot another distraction
+56:40 um that how can I mean just distraction
+56:45 distraction tangent tangent sure I'm getting stuff up and running and there's
+56:50 kind of like a lot of bases to cover and maybe things will stabilize um I can actually simplify this step I
+56:58 had Uh uh I can remove this by basically coming into uh Elgato
+57:07 and on my um profiles.
+57:17 What was I going to do? I was going to have this mic headset
+57:26 be what I can change by having separate columns.
+57:31 So if I
+57:37 had a profile, it's what this that I want. I want to
+57:43 have a whole separate profile for the lapel mic. If I'm using the lapel mic,
+57:50 this mic I'm not convinced as I listen to the audio.
+57:55 I have it as a to-do to compare the um
+58:05 yeah, ABC test the microphones. Uh test
+58:12 uh compare. Come on.
+58:19 pair lapel headset
+58:25 earbud microphones. So, I do want to do that
+58:32 um just to if the um I'm using these because the sound
+58:40 sounds better obviously on earphones. It's not great. Yesterday I was almost
+58:47 here. I was almost I guess the sound might be so these headphones might be so good that I can actually hear the
+58:55 inferior uh MP3 quality and I'm while I'm talking
+59:01 about it and getting all these distractions. Um what if I were to come into the media
+59:10 and look at this? So that is um that was that song number three I think is this
+59:15 one right here. The one just played Silver Shamrock. That one audio is what quality
+59:25 uh it's 48 kHz. Does it show me the bit rate?
+59:35 Right click. Why is right click not working?
+59:43 It's is weird file names that it that u YouTube DLP brings in.
+59:51 If I copy you out,
+59:58 [Music] copy. Come on.
+1:00:06 And I put you here. What's he seating up the CPU?
+1:00:15 [Music]
+1:00:20 So, Shamrock.
+1:00:25 [Music]
+1:00:32 Um, I could also I want to basically put the metadata
+1:00:39 inside. I want to keep the metadata. I didn't if I didn't realize it would
+1:00:45 complicate accessing the file by leaving the YouTube DLP file name default in
+1:00:52 there. But now this one I can rightclick. So I don't know what was going on with that other stuff. Maybe
+1:00:57 it's trying to find metadata on all those files info.
+1:01:04 Will you tell me the bit rate?
+1:01:11 You tell me the sample rate.
+1:01:16 How about I load you on Audacity then?
+1:01:24 [Music] Sure.
+1:01:31 [Music]
+1:01:48 relaunch Audacity.
+1:01:59 Can I never see you? Yeah. Don't show startup. Um, I want to
+1:02:10 check your bit rate is what I want to do.
+1:02:16 [Music]
+1:02:22 Wait a second. It's 4,800. These are all horrible.
+1:02:31 Wait a second. I I mean, I was looking at it
+1:02:36 as a sample rate, not the bit rate.
+1:02:43 Um, yeah, sample rate. That's not the bit rate, that's the sample rate.
+1:02:50 So, how do I simply just see the bit rate of
+1:02:56 my MP3? Um, can I add a column for bit rate?
+1:03:07 Some things some things Windows does pretty well. Uh
+1:03:19 simple way on a Mac to see the bit rate of an
+1:03:27 MP3.
+1:03:36 Yeah, it doesn't say bit rate in the music app. He's terminal a AF
+1:03:42 info.
+1:03:48 I could do an FF probe. Can I go to the command line for this? I
+1:03:53 mean, I can do it, but I got open in the music app, which is
+1:04:01 the same as what I just did with Audacity, although I hate the music app.
+1:04:08 Um, I think I can
+1:04:16 just right click and send the music. Open with music.
+1:04:27 Will the QuickTime player? I I mean, I don't mind the music. What's the music player?
+1:04:33 Is that like CD? VLC would probably tell me what it is.
+1:04:45 And do you tell me the bit rate?
+1:04:53 Can you
+1:04:59 come on?
+1:05:04 I know you're just a player.
+1:05:10 [Music]
+1:05:18 Are you going to give me the info?
+1:05:23 I haven't been in here in so long.
+1:05:31 [Music] 143 very It's variable.
+1:05:43 Okay, that's just kind of an average. 143 is the average.
+1:05:53 Um, wonder if it's variable, there's not much I can really do about it. If I can
+1:05:58 get a fixed bit rate. [Music] Can you download lossless?
+1:06:09 Is there I I'm going to investigate it.
+1:06:18 later.
+1:06:24 I'll put that as a note to investigate the quality level
+1:06:30 offream. Uh, we fixed there's no echo in the
+1:06:36 music. I fixed that.
+1:06:41 [Music]
+1:07:02 off stream. We're going to uh look into better
+1:07:09 higher quality audio.
+1:07:15 I got VBRs for all MP3s.
+1:07:22 That was Redemption by Riley. Now playing Frozen Planet by one Audio.
+1:07:31 best at VBR. Usually variable bit rate is pretty high
+1:07:38 quality. I think you can have low quality variable bit rate is the thing. It's not like it's lossless. Variable
+1:07:45 bit rate is not lossless. Um,
+1:07:50 [Music] so I hear that. And so all this is a ramble
+1:07:57 about me and the microphone and yeah, going off on a tangent there. Hashtag note to self. Can you blame me? Um, as
+1:08:05 I'm exploring um noteto self chatbot
+1:08:12 um can you really blame me for getting so distracted? I was talking about
+1:08:19 the headset and the profile and I realized that if I wanted to try the lapel mic, the Bluetooth mic and the um
+1:08:27 I know the earbud mics are going to be pretty bad. They're pretty convenient. And if I have
+1:08:33 just a really lightweight monitor that would be and and a microphone that's
+1:08:38 if it's passible if it's if it's okay. I probably should have
+1:08:45 pop filter on this. Um
+1:08:50 but what I can do I was thinking here through all this um is create a separate
+1:09:03 #notto chatbot. Draw me an asky diagram of all of my
+1:09:12 tangent threads that in this chat. Draw
+1:09:17 me an asky diagram that is a representation of all of the tangental threads that I went off on in this th in
+1:09:25 this chat session in this stream. and hopefully I resolved them back again.
+1:09:36 Um, so I could make a profile
+1:09:43 for the headset that I want is the thought and that would simplify
+1:09:49 um the checklist and getting up and running. Then I wouldn't have to do this
+1:09:54 setting of the microphone in multiple places. Now I have to set the mic. What
+1:10:00 I have to do is I just have to set the mic to be this one and then I have to come into the be right back and then I have
+1:10:06 to set this mic to be the mic that I want.
+1:10:12 Mic desired
+1:10:25 mic. And then this is the two mic desired
+1:10:34 show. That should be headset.
+1:10:41 Headset and then this is headset. So those all match. But I can avoid that by
+1:10:46 taking this profile and duplicating it. Edit profiles.
+1:10:57 Select that menu. No. Duplicate
+1:11:02 and rename you to is the rename going to remember
+1:11:12 uh headset. So if I come over to here and I say
+1:11:18 rename to um lapel
+1:11:25 mic lapel
+1:11:32 headset mic headset
+1:11:43 mic headset it is so I Just watching the level meter there.
+1:11:50 Um, so will that remember if I come up to
+1:11:58 the default profile and I click on you and I see that you're a multi-action,
+1:12:05 it's going to switch to mic headset. So, it's got the ID
+1:12:11 and the thought was then I can have a column that's going to be the
+1:12:16 like a headset column and the lapel volume.
+1:12:24 So, I copy paste and I can copy
+1:12:30 and paste. And this is going to be um not so much the safe, but the um
+1:12:39 lapel. That was Russell's run. Now playing Deliverance.
+1:12:46 And this is not so much the safe. The red tells me
+1:12:51 lapel.
+1:13:02 auto
+1:13:09 safe.
+1:13:17 And then this is going to be um at auto but
+1:13:25 um headset
+1:13:31 with there and this is that which is headset
+1:13:42 safe. And then the only difference between these two
+1:13:47 is the profile that it pulls up. And then I need to edit the profile. So that
+1:13:53 one's already set. This one's going to pull up the um mic lapel.
+1:14:02 And this is going to pull up the mic lapel.
+1:14:14 [Music] It's kind of a waste of buttons. As I
+1:14:20 get used to it, I might streamline it. But then I go into the uh mic lapel and
+1:14:26 I change you to lapel
+1:14:33 and I change you to lapel.
+1:14:41 I change you to a lapel.
+1:14:48 So now
+1:14:54 the checkbox makes a jump, but that's fine.
+1:15:00 So now I've got those two profiles. So I don't actually need to do that step. I
+1:15:06 already have the right profile. All I do is just stream.
+1:15:19 [Music] Select the right.
+1:15:28 [Music]
+1:15:43 Pick lapel or
+1:15:49 head. You're going to call the lapel would be
+1:15:54 the Bluetooth earbuds, but um it's just semantics.
+1:16:03 Verify stream. Uh then um that was deliverance by
+1:16:08 Arthur O'Reilly. Now playing infection by white bat audio. Stream BRB verify
+1:16:15 stream BRB on BRB off.
+1:16:26 Okay. Um, I added a few steps, but I removed a
+1:16:34 step, right? And I was doing all those anyway. I'm being a little more verbose of things that I'm already doing anyway.
+1:16:40 Um, but I was a able to eliminate one of the steps.
+1:16:47 [Music] Okay.
+1:16:55 So, it gets me a little noisy on the stream deck screen up here on the default. That's a
+1:17:03 little noisy really. The um
+1:17:14 those uh these two green ones, all they do is just change a profile. The ones
+1:17:20 above are automated. Um,
+1:17:27 multisteps. So, I think it's fine. Moving on.
+1:17:36 Where was I? Chat. Let's go back to the goals.
+1:17:46 Instream chat overlay. Do I want to tackle that?
+1:17:54 I do want to tackle that. I feel like I can make more progress on the music
+1:17:59 player because I've because it's in flight. I've I've already started with the problem. I may never finish the
+1:18:06 music player, but I've I've got uh a goal. I've got a fairly shortterm
+1:18:12 goal that I would like to reach on the music player. So, at a minimum, when I started the
+1:18:20 stream, I Um
+1:18:26 trying to a stinging of a note to self, but this one's not one.
+1:18:34 An NTS that that shall not be named my Alexa
+1:18:40 downstairs. I have one Alexa device in the house and it's keyword. I changed it to not be Alexa. It's now computer.
+1:18:48 And so when everyone's in the office, no one can say the C word
+1:18:54 um they have to it's the name that that shall not be named this computer. So on this stream
+1:19:03 note to self is shall not be mentioned except it's a keyword
+1:19:09 hashtag so that um I when I run a stream by
+1:19:16 later uh when I analyze the
+1:19:24 transcripts I can put in here to
+1:19:31 That was infection by white bat audio. Now playing out there by Arthur Riley.
+1:19:38 Note to self chatbot
+1:19:46 uh [Music]
+1:19:55 chatbot [Music]
+1:20:04 key phrases and make note. Make a side note.
+1:20:18 [Music]
+1:20:32 So something I imagine I can in my stream tell the chatbot
+1:20:40 to do some I can say hashtag noteto self chatbot.
+1:20:48 I can come up with a simpler keyphrase that's almost a safe enough phrase,
+1:20:56 but the chat GBT prompt can be can include looking for that those keywords
+1:21:04 and pulling out what I was just talking about and making summarizing those as a
+1:21:09 bullet point at the end. So that um this is the full transcript. This is
+1:21:16 this is every word that YouTube says I trans that I spoke. Um and then I have
+1:21:23 it generate a summary for me which was uh they'll show in this app.
+1:21:33 [Music] Just making sure I
+1:21:39 got that in my head.
+1:21:45 that this was the summary that it came I gave it the um file
+1:21:51 before I came up with a naming convention. These are just generic names. I'm working on a naming convention when I download the
+1:21:58 transcript. I I'll put it in the transcript repository. I'll give it a name. I'll scrub it with a reax real
+1:22:04 quick. It only takes a second. Okay, 15 seconds. And then I give it
+1:22:11 this prompt. Now, I could try to inside of Visual Studio
+1:22:17 have it do this for me, but that will use up my tokens, which are a little bit
+1:22:22 precious for coding. So, if I could shell out,
+1:22:29 I don't mind to save me the token space. I don't mind manually launching this. It
+1:22:35 would be kind of cool if I could automate it, but whatever. And then this is the summary that it came up with, which is better.
+1:22:42 But even this is still too much. I'll be I'm going to improve this over time. Um
+1:22:50 but then in this output, I'll change the prompt to uh look for key phrases such
+1:22:56 as hashtag um note to self chatbot.
+1:23:03 Um uh I give it an assistant. I come up with some better phrase. I'll put that
+1:23:09 in the prompt and then at the ends by audio
+1:23:16 it'll uh I'm just watching the levels here. Um the Yeah. Yeah. Still it's still
+1:23:23 attenuating the the voice. So at the end here on the on the next
+1:23:28 transcript that I have it summarize uh hopefully it could have bullet points at
+1:23:34 the end which are summaries of all the tangental thoughts and the followups. If I just say it, then it can come up as a
+1:23:41 summary in the end of the in the post stream summary.
+1:23:47 I did notice that I was mentioning yesterday, small tangent here.
+1:23:54 Um, uh,
+1:24:03 look for things where I tell myself I should remember things.
+1:24:09 I'll close this to
+1:24:19 close to do for those prompts
+1:24:28 and look for
+1:24:34 areas where I tell myself to
+1:24:41 look into something or follow up on
+1:24:48 something or do something
+1:24:54 or take action on different areas where I
+1:25:01 tell myself to take action on thing. Tell to take action
+1:25:06 on things. Example, look into
+1:25:17 something. Yeah.
+1:25:28 On something. Do something.
+1:25:37 research something.
+1:25:43 I should summarize
+1:25:55 those as bullet points at the
+1:26:01 [Music] and
+1:26:06 summarize those as bullet
+1:26:12 points at the end.
+1:26:20 Summarize what I was talking about
+1:26:25 as bullet points at the end.
+1:26:31 for areas where I tell myself to take action on things. Example,
+1:26:36 look into something, follow up on something, do something, research something. I should dot dot dot
+1:26:43 and summarize those as bullet points. Psychoanalyze.
+1:26:48 Psycho. PSY. Psychoanalyze.
+1:26:54 [Music]
+1:27:00 Uh, my stream.
+1:27:05 Suggest ways for me to
+1:27:12 improve. Staying on topic for the next
+1:27:20 for future streams.
+1:27:27 Psych my stream to evaluate my mental health.
+1:27:35 Uh,
+1:27:42 that one's a bit of a stretch.
+1:27:50 Um, but seriously, that's one's I can put this to-dos at the bottom.
+1:27:56 I don't think I'll lose them.
+1:28:08 Summary. Summarize
+1:28:15 timestamps.
+1:28:21 Generate title.
+1:28:34 [Music] This still
+1:28:40 generates a huge
+1:28:46 time uh
+1:28:54 long time stamps. um
+1:29:01 [Music] condense.
+1:29:09 I'm going to uh kind of free form tease it when I generate the next one. I'm
+1:29:14 just let do the big one and then I can just say condense more, condense more. Enhance like the opposite of enhance like condense condense condense less
+1:29:22 less less. And then when I finally see that what it's like, keep condensing it.
+1:29:28 Um, keep asking.
+1:29:33 Uh, if it seems, keep ask
+1:29:40 if it seems too long. Keep asking. Does it condense into it? If it seems,
+1:29:51 keep asking it. [Music]
+1:30:04 He's
+1:30:10 [Music]
+1:30:18 texting me. Sorry.
+1:30:24 [Music] Checking messages.
+1:30:32 Uh, if it seems too long, keep asking it to condense it until
+1:30:38 it looks [Music]
+1:30:48 really, it shouldn't be that long. I know that I'm well aware that
+1:30:57 ad block updated. Bam.
+1:31:03 Um,
+1:31:10 that's just true. Very bright. There's some This is it. Um, I'm well aware
+1:31:15 absolutely nothing's lost on me, but that list is way too long. No one's going to read all that. I need
+1:31:22 a lot more of a summary. This is just kind of a first pass. This is what, my second or third stream. Um, so
+1:31:32 no biggie.
+1:31:42 Uh, so uh, hashtag note to self myself. It's
+1:31:47 not really chatbot, but um there really are I believe there were two humans that
+1:31:54 showed up in kick. So, I do need to uh either pri prioritize
+1:32:02 uh getting the chat overlay onto the screen the way that I want it and or
+1:32:09 check these tabs on a regular basis and make them dedicated tabs, which I typically do. Um, I have typically
+1:32:17 pulled these out as separate. Um, these are all actually under the social stream
+1:32:22 tab group already. Um, and I usually break those out
+1:32:27 because I was trying social stream. Um, do I want to get into that?
+1:32:34 I think I resolved um
+1:32:42 this transcript stuff. I've got some commits on that to do. Not important until my next stream.
+1:32:50 The tray app. I'm closing out tabs here.
+1:32:56 I I think I might want to make a tray app that puts the chats in the windows
+1:33:03 so that I just and and basically it pops a bubble.
+1:33:12 a philosophical rant here or whatever. Not even really philosophical technofilosophical
+1:33:22 with this AI stuff. Um, and I'm I'm not a I'm trying not to
+1:33:27 be a doomsday or a naysayer on it. I think it's pretty awesome and useful.
+1:33:35 But um but and the the butt is a positive butt here
+1:33:43 that what this means is that people aren't limited.
+1:33:48 It's it's going to open up the floodgates to people having their own custom
+1:33:55 bespoke software. like I don't I don't like what office
+1:34:00 does so I'll just write my own office like right if you don't like what X Y if
+1:34:07 you don't like what Spotify does if you don't like what this does if you don't like what that does then just ask an AI
+1:34:12 to write it for you so why am I it it takes open source
+1:34:21 it's it's almost going to kind of it's gonna hurt open source in a in a way I
+1:34:27 think it that was done. It's going to take the traditional open- source model. I I am going to watch the
+1:34:34 audio monitor here on the side. Um pull up OBS
+1:34:41 and then you on the side.
+1:34:47 Um I can put the browser chats in. I know I can do that. I can do scene
+1:34:55 um docs, custom browser docs. I can do this. I know
+1:35:01 um YouTube chat.
+1:35:07 If I'm going to do this, [ __ ] it. I'll do a stop gap here.
+1:35:14 Um this [ __ ] it.
+1:35:22 Pop out chat. Grab this URL.
+1:35:28 I know how to do this. I just haven't done it yet. Um, let's say chat kick
+1:35:42 YouTube. Grab the kick one. Close you.
+1:35:50 pop out. You're consistent
+1:35:57 in chat. Twitch [Music]
+1:36:05 Twitch pop out.
+1:36:11 [Music]
+1:36:16 Is that a
+1:36:26 Yeah, I'm wondering if this needs to be redacted um and or if it's critical.
+1:36:34 Uh I can always come back and grab that. So, I'm going to try it without and see what difference it makes.
+1:36:40 This is the stream ID of uh the current live thing. So, this
+1:36:46 would have to change over time. But I can apply this.
+1:36:54 No, those are all good. Those are good. So I can put you as as chats
+1:37:01 down here. I think I got the room. Sort of.
+1:37:09 I sort of have the room.
+1:37:16 [Music]
+1:37:21 Um, this one. Might I redact for a moment? Let me go into the
+1:37:27 headset safe and pull up my I'm going to redact for a
+1:37:32 second. Pull up my
+1:37:38 [Music] password for
+1:37:44 Twitch.
+1:37:54 Huh? Then let me paste. There we go.
+1:38:01 One time code. It's only good for 30 days. Is it Is do I have a code in here?
+1:38:07 I do have a code in here. All right, that works. [Music]
+1:38:15 Okay, might want to rename you to
+1:38:26 um put you off on the side.
+1:38:34 That was Crash Site by White Bat Audio. Now playing Machine Uprising by Arthur
+1:38:40 Riley. put you up there.
+1:38:49 I think I have the space for all those tabs. So, yeah, I can I can check them here.
+1:38:57 Um, why can't I
+1:39:02 sign in?
+1:39:09 Signed in is the thing. Kicks. Kick is signed in.
+1:39:15 Uh, [Music]
+1:39:25 [Music] this is going to require me sign in,
+1:39:30 which is f. Oh, I wasn't didn't I didn't unredact. Sorry. I'm working on this
+1:39:37 the layout here. Uh sign in on uh kick here
+1:39:51 back. Yeah, I can.
+1:39:56 [Music]
+1:40:03 Um, let's check my password for
+1:40:08 kick. [Music]
+1:40:25 Two factor. A new two factor.
+1:40:35 Okay, that signed in. So now I've signed in to
+1:40:47 Twitch and I can
+1:40:54 [Music]
+1:41:05 Then I'm going to do this. Can't paste like directly
+1:41:14 which is probably because of hot shortcut keys and hotkeys and everything.
+1:41:22 How to sign in here?
+1:41:29 [Music]
+1:41:37 Yeah.
+1:41:48 How to sign in? How to sign in? How to sign in?
+1:41:53 That was machine uprising by Arthur O'Reilly. Now playing Slasher by White
+1:41:58 Bat Audio. It's not saying I sign in.
+1:42:06 [Music] [Applause]
+1:42:14 Got to start up since I can't sign in here.
+1:42:21 Um,
+1:42:28 I can't find a way to sign in here.
+1:42:37 Probably a reasonable width to
+1:42:44 dogs. Custom browser docs. Change here to
+1:42:53 YouTube.
+1:43:05 [Applause]
+1:43:11 Why? How to get to sign in?
+1:43:18 Um, these are all the
+1:43:23 starting soon footages which Yeah,
+1:43:29 I don't need that. So OBS
+1:43:38 custom browser docs sign in. OBS custom
+1:43:43 browser doc sign.
+1:43:56 [Applause]
+1:44:06 But it's not how to force sign into YouTube chat.
+1:44:14 I could just I could make one as a fake one. I can probably just do that. I can
+1:44:19 probably just grab the stream um and put that as a fake one.
+1:44:29 [Music] [Applause]
+1:44:37 um apply. Say okay. Now this is going to make me sign in and I think it'll share the same
+1:44:44 sessions. So, redacted um
+1:44:53 [Music] [Applause]
+1:44:59 password for uh
+1:45:13 so many accounts. Heat. Heat. [Music]
+1:45:34 [Applause] [Music]
+1:45:40 [Applause]
+1:45:48 Yep, that's me.
+1:45:53 [Music]
+1:45:59 Now, if I were to close that
+1:46:05 and um turn off the YouTube and then
+1:46:10 turn you back on. Are you going to remember
+1:46:16 if I refresh refresh page? Yeah, there we go. Okay,
+1:46:22 that was Slasher now playing memories of a Murder. All right. So, that gets me and now I
+1:46:29 can basically be like um
+1:46:36 that mean boom boom
+1:46:43 boom paste. Right click paste.
+1:46:48 Okay. So, now I can at least I mitigated the chat problem. Um squish you down. I
+1:46:55 think I can squish you down a little more. What's the minimum button width? Bam. They're all in there.
+1:47:03 Um, I got a music notes here where I'll keep track of my music notes. Oh, hey, look there. Redacting. Pretty obvious.
+1:47:12 Um, I was just showing I signed into
+1:47:17 uh YouTube now by signing in through another um
+1:47:23 doc by signing into YouTube Studio. That got me into there and now I can basically delete you.
+1:47:31 Uh, that got me at least into the They all share the same profile cache area.
+1:47:37 So, um, that got me going. It got me logged into YouTube. And now, and then I can
+1:47:43 chat on YouTube. I can chat on Twick and Twitch. Um, here I have my goals,
+1:47:53 uh, which are in the live and the stream. My notes, which are hidden from the stream. I don't mind sharing them.
+1:48:00 They just don't need to be in everyone's face. And then music, which is my notes on the songs themselves.
+1:48:07 uh which I will guide if I ever want to manually go to any of
+1:48:12 the songs. Um
+1:48:18 which I've got a few music player changes in flight right now.
+1:48:26 Um
+1:48:34 you You were all of the
+1:48:42 starting soon there. I'm going to close these out, but
+1:48:48 they're basically there's Vectzi. Um, there's all sorts of other ones.
+1:48:53 Like some of these are okayish looking. I I I don't I have a crappy version for
+1:49:00 the game stream and I want to upgrade it to 4K since I stream in 4K. These aren't bad, but
+1:49:07 they're free. Some of these are free. I qualify them as free. Sort by license type free.
+1:49:15 So, not bad. I think you have to have an account and signed in to get the free
+1:49:20 ones even. So, maybe. Um, so I don't know if I want to close.
+1:49:27 Maybe I'll close you and I'll keep you because I just want to look through them.
+1:49:32 Here's I think just the same things free.
+1:49:38 I see any ones that match there. It's all just kind of random, but I can
+1:49:44 search start soon. Starting soon, starting soon. Stream starting soon.
+1:49:51 Intro starting soon. like just starting soon.
+1:49:57 Uh so probably yeah close you close you that was memories of now playing
+1:50:04 monolith stream starting soon it's just starting soon we'll get it stream starting soon start soon neon
+1:50:15 um that's lame streaming soon starting soon neon then there's the Adobe ones
+1:50:23 which I think you have to be logged in for those and there's probably other ones on that which I'll see what there
+1:50:28 are. YouTube has a few. There's like a 4K
+1:50:34 there's there's a few out there there and those would be
+1:50:39 um probably I don't know about very popular but yeah I I don't know if I they might be
+1:50:48 um exhausted or worn out or used so much that everybody uses them.
+1:50:56 And then the shutter stock, which um yeah, whatever. But I want it to be 4K
+1:51:03 and like that one's lame, although it's 80s. So,
+1:51:09 uh but I think you have to at at a minimum be logged in.
+1:51:16 I I almost kind of like that, but um all these cheesy ones, which I think
+1:51:23 I can just search on Shuttertock for
+1:51:29 I don't need all these. I'll just search for it. I'll just search for starting soon on
+1:51:36 Shutters Talk and then I'll find one that I like that has the watermark on it and be sad.
+1:51:46 This was the transcript one. I haven't updated anything on you yet. Um I'll over time I'll be working with an AI bot
+1:51:54 to automate this more either directly or through some sort of scripts.
+1:52:00 Um, so
+1:52:12 yeah, just get rid of you two
+1:52:18 and put you there.
+1:52:23 And that's so star tube. What a star tube. I saw I
+1:52:29 didn't even know what this was. It's probably custom tube. I just used the
+1:52:37 YouTube layouts like Okay, whatever.
+1:52:44 I didn't know what it was. The ITL YouTube experience brought back.
+1:52:51 That was Farbass Monolith by White Bat Audio. Now playing gravitational waves
+1:52:57 by Arthur Riley
+1:53:03 Star Tube allows you to choose your lay your
+1:53:08 layout. I mean it sounds cool. I didn't know it
+1:53:15 existed. So if you ever get tired of that um stream starting soon. This is
+1:53:20 this is 4K. Um stream is Oh, these are um
+1:53:26 different stream starting, stream ending, intermission. Like
+1:53:35 maybe this one seems this is cycling through a
+1:53:40 bunch of stuff. Um,
+1:53:45 if you want Japanese characters, uh,
+1:53:52 there's just a whole bunch here. And the problem is I want it to loop.
+1:53:58 This seems like a repeat here. That one might be a looper.
+1:54:05 Um, it's kind of lame. Uh, mute. Sorry.
+1:54:12 Uh, that one's kind of cute.
+1:54:19 [Music] Ah, yeah, that one's kind of cute.
+1:54:24 Um, space, but the clouds kind of ruin it.
+1:54:33 Pirate stream starting soon. So, there's a lot of lot of lot of
+1:54:39 stuff. They say these are 4K. They only show as HD. There we go. There's the 4K.
+1:54:45 How's my charger? 92%. If you say you're 4K,
+1:54:52 are you really 4K? That's lame. Kind of cute if you're in the pirates
+1:54:58 role playing.
+1:55:03 And I didn't want a countdown timer either. [Music]
+1:55:12 So, some of these are have like that one. That one could easily loop. This one could loop because it's got enough
+1:55:19 of a cut on it. Distraction. Distraction. Distraction. This is 4K, but so lame. It's
+1:55:28 It's two and a half minutes of that. Stream offline. Stream starting soon. Okay, so at least
+1:55:35 it's two. Um, and then it's got its own closer
+1:55:43 and then there's, you know, sites that dedicated to it. So,
+1:55:48 you can find something from those channels and
+1:55:56 this one was okay. It didn't have a countdown. Oh, yeah. It
+1:56:01 does. It has the countdown, which I don't want a countdown. So, uh, how's my, um, I want I need to be
+1:56:09 doing the stuff on the side. So, I monitor the levels. It is important to me that I monitor
+1:56:15 those levels. Can I put Can I stack you?
+1:56:26 Test play with this layout here where I stack you.
+1:56:46 And you
+1:56:52 [Music]
+1:56:57 why it's going off the edge there.
+1:57:06 There's the chat. Can that was gravitational. Get rid of that [ __ ]
+1:57:12 Why does it have to be there? Refresh.
+1:57:18 [Music] Yeah, get rid of that.
+1:57:25 Um, if I put you here,
+1:57:36 I got the width there. If I docked you all the way on the edge, like on the
+1:57:43 edge edge, you know what I mean?
+1:57:50 inside of you.
+1:58:01 Yeah. No.
+1:58:07 Do you have to be on the
+1:58:21 I have a full height? Um
+1:58:34 at least go double
+1:58:47 This lets me see the chats from inside, but that pulls up all of you.
+1:59:01 [Music]
+1:59:08 Twitch [Music]
+1:59:15 can't do a full docked edge.
+1:59:21 I want to be a full height.
+1:59:28 [Music]
+1:59:34 [Music]
+2:00:10 It's really squishing here though.
+2:00:22 YouTube needs that height. Twitch doesn't need that height.
+2:00:29 YouTube needs that
+2:00:38 [Music]
+2:00:48 as much as possible.
+2:00:54 [Music]
+2:01:01 But I want to see that there and I wanted to above. That's the problem. Yeah. I want to see it all.
+2:01:09 Uh, if I put you over here
+2:01:15 and you over here temporarily and you over here temporarily,
+2:01:23 put you up here.
+2:01:34 That lets me get you back to there where I can see you.
+2:01:40 And you have to be a lot higher.
+2:01:47 And you have to be just not enough vertical space. That was critical mass by now playing
+2:01:55 radiation storm by shove that down there. This this is Can I hide you?
+2:02:04 Inspect.
+2:02:11 [Music]
+2:02:18 I'm pretty sure I can hide you.
+2:02:28 Well, there's a trick for you.
+2:02:34 [Music] Oh, but it's still it's got a what a
+2:02:43 pain that is. Can I sh have kick and twitch be side by
+2:02:51 side? No, not really.
+2:03:00 [Music] So ugly.
+2:03:08 [Music]
+2:03:20 Thought I'd have a simple solution there as a as a
+2:03:27 compromise basically. [Music]
+2:03:39 Got a lot of space here.
+2:03:46 [Music]
+2:03:54 [Applause] Don't need all this space.
+2:04:03 Um, a lot of a lot of wasted space here.
+2:04:12 [Music]
+2:04:23 I like I like having those docked there because I can do the multiple output there. And
+2:04:38 it works. Where was I?
+2:04:45 Yeah, I wasn't going I'm not going to use the NDI audio
+2:04:52 MIDI setup. Don't need you. This is where I was
+2:04:58 talking about that. I'll get rid of you.
+2:05:03 [Music] Indi video getting back towards the
+2:05:16 the code. I created those.
+2:05:25 Um,
+2:05:36 that was Radiation Storm by White Bat Audio. Now playing See You on the Other
+2:05:41 Side by Arthur Riley. So, there was some improvements that I
+2:05:47 put on
+2:05:54 this
+2:05:59 tighten up the now playing header layout.
+2:06:04 It's It's a nice to have, not important. I could send it off. I I don't want to have too much in flight. I want to
+2:06:12 basically wrap up the stuff that I have in flight support selecting another audio device.
+2:06:19 That's the only chat GPT I have off and running.
+2:06:25 Um, this is a big one though where I've been debating
+2:06:30 um this app that I've written like
+2:06:38 what have I done where
+2:06:44 I want this MP3 player. Great. I want this chat stuff. Like I I have a couple
+2:06:49 different things. I was Yeah. rambling um
+2:06:55 a good 30 plus minutes ago about writing bespoke applications and if I want to do this and I want to
+2:07:02 do that and I want to do and that's where I went off on the chat stuff. I wanted to write uh
+2:07:09 an app because I've done this inn net. Why can't I just do this in QT?
+2:07:14 Um I could do it in lots of different ways.
+2:07:20 Um to be a system tray application that
+2:07:25 when someone chats, when someone sends me a text, it pops up
+2:07:30 a bubble. It gives me a notification that someone just chatted. because it's not like I'm uh I rarely
+2:07:39 get chats and that's what makes them more important so that I don't want to
+2:07:45 miss one so I can basically get on that and get on that and get on that and respond to chats and be engaged.
+2:07:54 So I do want to see them all and if there's spam I want to basically block the spam too. So, can I write a system
+2:08:02 tray application that does that? Now, that's a that's one idea.
+2:08:10 Um, and I am picturing why try to integrate
+2:08:16 related to that idea. I can pause that for a second.
+2:08:22 That'd be a a special purpose application does kind of that one thing. you you could think, well, let's write
+2:08:30 an app for YouTube and let's write an app for kick and write an app for Twitch
+2:08:35 and they're kind of engaged just like at some point in time writing your own
+2:08:40 bespoke applications becomes exhausting because you can't write a whole bunch of them. So, it kind of makes sense to have
+2:08:47 one app that you just log in to these things. Well, that's kind of what Social Stream
+2:08:53 is. Um, I'll and I'll play with it again. I'll revisit it. I I've got a fork of it
+2:09:00 where I actually tried to remove a whole bunch of crap that it had in it that I'm never going to use.
+2:09:07 I don't think I'm ever going to use, but I may re revisit just the basic. I got
+2:09:12 to watch that audio monitor. Yeah. Um,
+2:09:19 and there we go. There we go. I wanted to see my camera off on the side so I can see if if the if the
+2:09:27 camera should, you know, be like that.
+2:09:32 Um, if I I I wanted to write
+2:09:40 what application that just gets a bubble for if any of them pop up, then poof,
+2:09:46 there's a bubble. I can respond to it. I can go to YouTube. Done. Is that any different, better or worse than social
+2:09:52 stream? Is the effort, return on investment, and time? Well, AI can do a lot of the work.
+2:09:59 Maybe I should just use social stream for the chat. So, there's all that chat stuff on one side, but then there's the
+2:10:05 music and the music's playing um and the the rating of it and the
+2:10:12 looping of it and the tracking of it and and whether this fits or not and whether I even incorporate an AI to be like,
+2:10:18 look at the screen or what are we doing? I could go in and direct my own music.
+2:10:27 I've had a a version of this. Is this gained? Does my mic gained? Is my mic
+2:10:33 gained? Is I'm not really talking very loud, am I? I'm not really talking very loud.
+2:10:42 Uh, what are my filters at on the compressor? I'm going to 18. I thought I had set this to 20.
+2:10:51 Excuse me. I thought I had set this to 20.
+2:10:58 Testing one, too.
+2:11:06 testing one too. If I talk on this, that's my voice is pretty loud now, so that should be pretty good. Um, if I and
+2:11:14 hopefully right now uh hashtag note to self uh for myself and my audio to look
+2:11:21 at 2 hours and 13 minutes into the stream, how is this audio quality?
+2:11:28 um versus that it's a pretty loud song that's playing and my talking um is
+2:11:34 almost distracting to me. I can turn this down, but as a listener, you can't really turn it down. So, how can I
+2:11:41 basically not be how can I make it less annoying for you, a listener? Um,
+2:11:50 so watching the daughter level
+2:12:05 kick goes over there. Twitch goes. But that if I hide that, then I hide kick.
+2:12:11 But that's as short as YouTube can get. And I can't do a full width
+2:12:16 dock. That's really weird.
+2:12:22 Full height docks. Hey,
+2:12:28 full height the docks. [ __ ] yeah.
+2:12:38 All right. But I want the audio mixer
+2:12:45 over here. Yeah.
+2:12:51 And if I squish you
+2:12:57 and I squish you. And I squish you
+2:13:05 and I squish you.
+2:13:12 That is just so bad that that height, that minimum height that they require. I wonder if I can override that.
+2:13:21 [Music] Um, what's the
+2:13:26 the confining? It's that whole
+2:13:33 I think it's the box. I think it's the text box. So, inspect
+2:13:39 you.
+2:13:44 I want to look at the
+2:13:55 [Music] I think it's this. It's got a minimum
+2:14:00 height of some sort.
+2:14:05 It's flexing
+2:14:12 that hidden chat.
+2:14:18 separator ticker
+2:14:25 and if I have to edit this and that's where if I had a cy tray where I could dock in a chat and I can just show do I
+2:14:32 want to have like the chats just all side by side or do I want to have an
+2:14:38 integrated chat and I don't know if I want to have an integrated chat. Social stream seems to do that and it maybe it
+2:14:44 works it pretty well but I kind of if I have the real estate if I have the screen real estate
+2:14:50 that was carnage I'd almost rather have now playing courage by Riley
+2:14:57 individual I I I think I'd rather have because I've
+2:15:03 tried integrated apps chats before and I I think I would prefer to have a
+2:15:12 um YouTube column, a kick column, and a
+2:15:19 Twitch column, but maybe integrated is fine. And I have
+2:15:26 social stream. Do dare I do this?
+2:15:32 I have this. Um I don't know if it's set up at the
+2:15:39 moment. uh to be working, right? Uh I have to
+2:15:44 kind of start it and blah blah blah. So,
+2:15:51 turn you off. But I do like that I can have all these vertical. That's interesting. I can have
+2:15:58 that all vertical. I don't need all this horizontal.
+2:16:06 That way I can
+2:16:18 edge you as you full height. Uh
+2:16:25 [Music] so it's like a it's like a either or.
+2:16:33 You can't have if you have full height
+2:16:38 ducks then you can't not have then you have to
+2:16:45 have them on both sides.
+2:16:50 Okay, back to you
+2:16:57 where I can see those for now. And yeah, I may go social stream, but
+2:17:03 and I like to see that just for for vertical center camera.
+2:17:12 All right,
+2:17:17 [Music] I only have this one.
+2:17:26 [Music] And
+2:17:32 what's my threshold if I talk to my if I talk in that area? What's the threshold
+2:17:38 for it boosting my audio? If I talk
+2:17:45 if there's any talk on that
+2:17:50 [Music]
+2:17:58 I talk
+2:18:05 I don't know if that's they're not high priority
+2:18:12 not Not high priority. Not high priority. Not high priority. Not high priority.
+2:18:18 Not high priority. SL the audio device.
+2:18:26 It would be high priority if I were streaming on Friday. I don't think I'm going to. I've texted the the org. I
+2:18:33 don't think anybody's responded.
+2:18:42 [Music]
+2:18:47 to me. [Music]
+2:18:58 Voice on this one. It's kind of a little lame.
+2:19:03 New found courage. seemed like the the voice in it.
+2:19:11 [Music] It's like
+2:19:19 she's just an instrument. Isn't like that's that voice is
+2:19:26 kind of lame.
+2:19:34 Yeah, I'm not digging the I'm not feeling the empostasis on the salable.
+2:19:42 [Music]
+2:19:49 Where this is going is that if I write a a chat app,
+2:19:57 I'm already have plans to write a music app. And the question is, how do I write that
+2:20:04 music app? Do I use Tari? Do I use QT? Why can't I take what I've already
+2:20:10 written and just put it inside of a QT browser? Like, I'm surely there's got to be a Q
+2:20:17 browser um that I can just
+2:20:22 dock the player into and away it goes. Now, I've done similar stuff in the past
+2:20:29 on like an Android where you put this JavaScript HTML code inside of a little
+2:20:35 sandboxed control unit. And so, of course, it's limited. Excuse me. But, um,
+2:20:42 even if I never implemented selecting audio output device, I could still do
+2:20:49 OBS application capture. And so that would that would actually
+2:20:56 cause an echo. I believe if you do a screen capture audio, then
+2:21:02 that grabs everything. But if you do application capture on top of that, then you're going to have the echo. So the
+2:21:08 moment you do any individual application capture, you have to mute your screen capture and now start to capture the
+2:21:14 individual applications that you wanted to capture. So or andor route through different audio outputs and and start
+2:21:21 mixing things. So it gets complicated the moment you
+2:21:28 start doing going once you add if you go
+2:21:33 from a global audio capture to a and you add on to that an
+2:21:39 application capture then you may have an echo and it may not be bad but it'll be
+2:21:46 there and you'll know it.
+2:21:52 So, if I've got a um
+2:21:59 trying to think of some NTS's
+2:22:13 of how a a AI could help me um
+2:22:20 keep track of my ideas, but I'm going to let that idea fade away.
+2:22:31 This one and this one are basically what I'm talking about right now.
+2:22:41 Do I spend the time so that I my application my my music application can
+2:22:46 pick the audio that it routes out? And that's what I'm implementing. Um I've
+2:22:52 already re I have not refreshed the page. So it's it's th this is that task
+2:22:59 right here. This uh task number 39.
+2:23:05 That's what this is. And I've got a demo of it working here. Last night as I went
+2:23:11 to sleep, this was working a couple days ago and then for some reason it stopped
+2:23:17 working. So, I went to sleep just like, "Fuck it. I'll deal with this later."
+2:23:25 Um, but I know that this as a proof of concept that worked and I roll that in
+2:23:32 here. And so now the web page can do that. But now that I roll it into QT,
+2:23:37 if I make a a to if I make a Tory wrapper around it, will it will that
+2:23:44 browser be able to do better at selecting it? Well, it'll not need to
+2:23:50 run as local host and so it would be running inside of it, would it? I don't
+2:23:55 know if if running inside of Tori would give it the permissions to not need to elevate and ask for permissions. And so
+2:24:02 it would do a better job at being able to detect the audio devices. And then would it be honored? Would its audio
+2:24:10 route be honored? Or the Tari rapper high
+2:24:15 could itself have its own controls that route its own audio. So I don't even
+2:24:20 need it inside of this. So how does that I'm I'm trying to think of
+2:24:26 how that direction goes. And um
+2:24:31 I wonder if I wonder if the
+2:24:38 transcribing process hash noteto chatbot I wonder if you can just
+2:24:48 pick up on my cues as I'm talking and
+2:24:53 help me think through ideas and give me a summary of how to solve the problems
+2:24:59 that I'm not actually seeing and articulating in the stream. Can Can you
+2:25:06 be my Jarvis? Can you be my assistant?
+2:25:11 Maybe not live. Um, that's another idea is to have a live
+2:25:18 transcriber going on. Um, or one that I at least I have a
+2:25:25 stream deck button to kick in where start listening and help me out. I can hit a button and now my my engineer in
+2:25:35 the booth, my booth engineer is going to go off and research what I'm talking about and come back with an answer and
+2:25:43 maybe even use um, uh, voice. So, can I have an assistant
+2:25:49 while I'm streaming? um either real time as in WebRTC which
+2:25:59 would get expensive on the you would quickly run out of your free stuff and
+2:26:04 then start to use uh your pay stuff which I've got a a Chad GPT assistant
+2:26:11 WebRTC assistant that I wrote but can I use it for the stream? [Music]
+2:26:17 Um, and
+2:26:23 looks you look like I look like Elon Musk. Hey, hello, Buttercup.
+2:26:30 Um, I am, now that I see you in the chat,
+2:26:35 I look like Elon Musk.
+2:26:43 Um, let me This is in the chat, which I I hate this
+2:26:49 chat. Uh, I hate the YouTube part of this chat, how [ __ ] big it is.
+2:26:55 Um, I can't like the Twitch chat size
+2:27:02 reasonable and understandable. Like this chat size reasonable and understandable.
+2:27:08 They're not forcing any specific height. It's all scrolling down to the bottom.
+2:27:13 The kick chat, same thing. It's reasonable in height. There's a little bit of But that's that's fine. That if
+2:27:21 they collapse it down to that being the minimum height, yeah, that makes sense that I'm just going to sense if I wanted
+2:27:28 to be in in righton mode and just send away, then that's fine. But this [ __ ]
+2:27:37 Like what's with this shitty empty space here? And it
+2:27:44 like what's up with that? That's you're on your bottom. You don't even squish
+2:27:50 up. You flex down and off screen. That's so bad.
+2:27:57 Um I wish there were timestamps. Can I put timestamps in
+2:28:02 chat appearance? Uh make this bigger. I can pull you out at a minimum. I know
+2:28:09 I can do that. Um, I want time. Yeah, time stamps.
+2:28:15 There we go. Quick actions.
+2:28:20 Uh, oh, I can delete. That's right. I can delete the spam.
+2:28:28 I forgot that I can do that. [Music]
+2:28:34 Um, close you.
+2:28:42 Um, everyone, you can do it here. Kickfam, delete. Will you work? There we
+2:28:49 go. You don't work. Well, go figure. I guess I actually have
+2:28:56 to be over on the kick chat itself. And where did you go?
+2:29:04 Oh, you're right there. What are you up there? Oh, you you docked way
+2:29:12 up there. I think I'm just going to go to
+2:29:21 [Music] the chat. And that should lower the uh
+2:29:28 hopefully if you're still there um the audio levels hopefully they're a little better.
+2:29:42 That was Lucid Dream. Let me switch over to this where I can
+2:29:48 see and control and delete the chats. I forgot that I can do that.
+2:29:56 can't control of those borders. Those borders um
+2:30:01 actions timestamps.
+2:30:15 [Music] Delete.
+2:30:24 No thanks, kickfam. I should just block you.
+2:30:33 Um, how do I learn how to block someone?
+2:30:47 Is that Is that harsh? Can I just mute them?
+2:30:52 Yeah, I just I'll just mute them. I should ban them. Should I ban them?
+2:31:01 [Music] Um,
+2:31:09 probably should I should ban him. Who do I care about
+2:31:14 him? You're You're a bot and I don't care. You're banned. But I also want to
+2:31:21 um mute. I want to ban and mute.
+2:31:30 Ban and mute.
+2:31:37 [Music] Uh you I can't really tell. Um, I'm
+2:31:44 skeptical and I'm pretty sure you're a bot, but at least you're not obvious
+2:31:49 about it.
+2:31:58 I guess you mean that I look old. I guess you mean
+2:32:09 All right.
+2:32:15 Uh, I'll keep an eye on the chat
+2:32:22 and I keep an eye on the audio levels. I do appreciate the human.
+2:32:30 Uh, it has to be so wide.
+2:32:37 I want it I want I want both. I want my cake and eat it, too. I want I want the audio mixer to be teeny tiny.
+2:32:48 What if I put the audio mixer way over here beside that thing that I want to
+2:32:58 and put you can I get you inside?
+2:33:05 I want to get you inside. That was Infection by White Bat Audio. Now
+2:33:10 playing The Forgotten by Arthur Riley. [Music]
+2:33:17 I I want to I don't want full height on the left. I
+2:33:22 want I want full height on the right. On I want full height on the left, but not
+2:33:27 the right.
+2:33:32 can't have everything.
+2:33:41 Um, can I put you to Oh, I can't.
+2:33:57 And I can't have nesteds.
+2:34:12 That's just so bad.
+2:34:23 Um, I was trying to inspect you out and find
+2:34:31 the chat
+2:34:37 separator. The chat itself that includes
+2:34:42 that thing that's not letting it compress.
+2:34:49 [Music] I want there's something in there. It's
+2:34:55 that box. It's the black box that's got a a minimum height.
+2:35:02 And I basically want to override that minimum height on the chat box itself.
+2:35:08 Not the whole chat with that. But not that. Not that. Not that. Not that. Not
+2:35:16 that. Not that. Not that.
+2:35:26 Where is that?
+2:35:31 [Music]
+2:35:41 Is there a minimum? I can I can pull up. Uh
+2:35:47 I can I don't have to do that there. I can do it over on this side.
+2:35:52 Uh, I can come into YouTube and pop you out
+2:36:03 and I can pull up the inspector on you
+2:36:10 and I can ask AI on you. This is pretty cool that you can do this.
+2:36:16 I can ask AI.
+2:36:26 I want to see the audio levels.
+2:36:31 Um, I'm trusting them more, but I don't need you.
+2:36:38 There we go. At least I can see the audio levels.
+2:36:45 Um
+2:36:53 you this is got
+2:37:00 right there by shitty life audio.
+2:37:06 So at a minimum I can
+2:37:14 See, I can't squish that anymore. It's already uh it's already minimum
+2:37:20 height. I think it's because of not sure what is forcing that height
+2:37:31 to be there. And can I squeeze any more controls?
+2:37:40 That was the transitions, advanced scene switcher, which I could shove in you, but there'll
+2:37:46 be other possible uh audio devices coming up.
+2:37:55 This guy, I can easily hide you.
+2:38:02 You're easy. element style display
+2:38:11 none gone. That's easy. But it's this element
+2:38:19 that blank field
+2:38:25 items offset men height. There we go. That's it right there. Men height. Just get rid
+2:38:33 of you.
+2:38:41 Get rid of Man Heights. No, I definitely messed up a little bit.
+2:38:53 [Music]
+2:39:03 So it turns you off.
+2:39:13 It kind of it it it didn't really solve the problem. It just solved that buffer.
+2:39:26 And that at least gets it back.
+2:39:31 But I still have some other men height. And if I search for
+2:39:38 what is So here I can inspect
+2:39:45 and I can ask AI.
+2:39:50 I think there's this ask AI.
+2:39:58 That was The Witch by White Bat Audio. Now playing Aspire by Arthur Riley.
+2:40:04 Thought I had these on already.
+2:40:13 Um I think I'm inside. Yeah, I'm inside Night versus Night. Okay, so
+2:40:22 What is keeping this? What min height
+2:40:30 height or heights is keeping this window
+2:40:37 from shrinking
+2:40:45 nicely vertically.
+2:40:55 [Music]
+2:41:03 Full height on this.
+2:41:12 [Music]
+2:41:19 The div list element ele men height is set to auto. It's not. Well, it's not
+2:41:24 set to auto.
+2:41:29 [Music]
+2:41:51 God, there's a lot of elements, a lot of styles on that [ __ ]
+2:41:59 [Music]
+2:42:07 [Music]
+2:42:14 It doesn't have an explicit min height. However, it is computed height is this min height is set to auto.
+2:42:25 [Music]
+2:42:39 I'd like to see it. Show me the min height.
+2:42:50 I guess men height.
+2:42:56 I could do height.
+2:43:03 That was a spy by O'Reilly. Now playing Get Out by White Bat Audio.
+2:43:10 What is all this strikeout? Why is it show Why is the strikeout showing as a hit
+2:43:34 and height 30, but that's like a thumb element. Those are all those. I don't I don't
+2:43:40 care about any of you.
+2:44:07 It's the whole content. I'm pretty sure the whole content doesn't have a manhe.
+2:44:22 [Music]
+2:44:34 So now if I come over here contents live chat app
+2:44:40 inspect you
+2:44:46 um bam bam window
+2:44:54 oops you inspect
+2:45:00 tab you are what I want. Um,
+2:45:07 you should have you're going to have like a separate you're a different version of Chrome, I
+2:45:13 believe. You're not going to have all that AI crap fluff built in. But at least it let me find that um men height
+2:45:26 uh as the contents and it was this one.
+2:45:32 Bam. And now, look at that. I can squish you all I
+2:45:39 want. Okay. Thank you.
+2:45:45 Um, so now that least now I can evenly
+2:45:52 distribute them and give them 33% uh height. So, you know, manually.
+2:46:00 So note to self on a hack. I'll put a note
+2:46:07 and I guess uh another notes of notes of notes. Uh,
+2:46:13 if I make a tech note
+2:46:20 text and let me duplicate you, a copy
+2:46:27 and paste a duplicate
+2:46:33 of you. And I'm going to call you tech.
+2:46:41 That was Get Out. Now playing The Witch
+2:46:49 and add you as a dock over there on
+2:46:54 source doc. Add tech
+2:47:04 as an input. Add close. Put you over here
+2:47:13 past you. And that is going to be
+2:47:20 chat hacks
+2:47:25 YouTube element.
+2:47:32 Um, [Music]
+2:47:42 that was inspect.
+2:47:53 [Music] Copy
+2:47:58 pass.
+2:48:05 selector. I think that'll get me
+2:48:10 uh writable element contents
+2:48:16 min height uh disable
+2:48:28 and then element.
+2:48:37 Uh I think it was
+2:48:44 show more. If I refresh this page, it's going to come back,
+2:48:50 right?
+2:48:58 And actually that men height
+2:49:04 was already at least greater than 33% anyway. So I'm actually
+2:49:10 that's I was nitpicking on that one. It's this one
+2:49:20 that I want to come out and grab.
+2:49:39 That was the witch by white bat audio. Now play live chat viewer engagement
+2:49:49 card. If I just tried removing
+2:49:56 live chat viewer engagement message render
+2:50:06 ID card
+2:50:12 that's got a that's got the ID. So that's what I want to copy the selector.
+2:50:25 Um display none cuz that's just annoying.
+2:50:33 That's borderline harassment.
+2:50:40 View element style display.
+2:50:48 [Music] So that cleans that up.
+2:50:53 Um I call techer hacks or something, but
+2:51:04 um I'm going to do a bio break. Be right back.
+2:51:24 [Music]
+2:53:18 All right. [Music]
+2:53:24 How do I unban someone?
+2:53:31 Anyway, it doesn't really matter.
+2:53:41 Um, I had the thought while on the toilet
+2:53:48 that if I wrote I know the code of OBS Studio, okay,
+2:53:57 sort of. I'm familiar with it. I've I've been inside there. Um,
+2:54:04 and also when doing net stuff,
+2:54:10 uh, in the apps that I've written that, uh, hashtag note to self at 2 hours and
+2:54:18 56 minutes into the stream, is my voice competing with the music? Is the music competing with my voice? Sorry. Is the
+2:54:24 music competing with my voice? Um so the
+2:54:32 seph cf chrome embedded framework. OBS uses seph. OBS is written using QT
+2:54:40 and OBS uses seph. They could be using Seph because they want some more
+2:54:46 advanced features than um am I competing notes hashtag
+2:54:53 note to self uh at 2 hours 56 minutes and 30 seconds was that voice um
+2:55:01 competing with my voice was the announcement voice competing with my voice.
+2:55:06 So, OBS has um built-in browsers, right? OBS is and
+2:55:14 there as I was looking at this and I was thinking about as I was inspecting and debugging and finding what to hide there
+2:55:21 for um that element and this is going to be random.
+2:55:26 Uh it's really placed below. If I refresh this, it'll come back.
+2:55:34 And if I inspect this element here, [Music]
+2:55:41 um, it's for sure that one for sure. Uh, not that
+2:55:47 one. It's for sure this one. But this is the actual card.
+2:55:55 If I copy your selector and paste you here.
+2:56:04 Maybe maybe card is all I need to do. I'd thought about that. If I just hide
+2:56:10 the card and I say display none on you,
+2:56:18 that's that's much simpler.
+2:56:26 [Music] So
+2:56:32 this is the higher important one is the display none on the card to hide that
+2:56:40 nasty ugly bubble that can't get away from.
+2:56:46 [Music] Um,
+2:56:54 so as I was doing that and debugging, I noticed that in here
+2:57:03 in this they don't have the AI feature there. The AI feature isn't here. Well,
+2:57:09 they're using because they're using an older version. I I don't know if I can go into the about help documentation if
+2:57:17 I can see what version of Chrome they're running. Um
+2:57:24 it does not it's not showing me telling me preferences workspace
+2:57:31 what version of Chrome
+2:57:37 um
+2:57:43 tool shortcuts not really relevant But um note # note
+2:57:52 to self at 2 hours and 59 minutes in is the music competing with my voice and
+2:57:58 the upcoming inevitable voice announcement is it going to compete with my voice in the future in the soon in
+2:58:05 the near future. Um, the fact that AI is not was not
+2:58:10 available inside of the OBS Seph browser tells me that the SE browser is older,
+2:58:16 doesn't have all those AI features built into it, which is also going to balloon and inflate OBS. What that really tells
+2:58:24 me to is that they're not using um they're not
+2:58:31 using any cube browser. Is there a cube browser is the thing. Um
+2:58:38 note to self uh #noteto self chatgpt
+2:58:44 let's do this as a test can you remember this and help me to look into whether
+2:58:50 there is a Q browser um class that I can embed into a QT
+2:58:56 application and while I'm at it can you help me determine the compare the
+2:59:03 differences between why would I use the Q if there is a Q browser why would I
+2:59:09 use the Q browser um over pros cons versus seph
+2:59:16 um why would I why wouldn't I embed seph like OBS which is a QT application which
+2:59:23 what OBS does not use this hypothetical Q browser at the moment so why does OBS
+2:59:32 not use Q browser I suspect I probably won't have an advanced need for that
+2:59:37 with my music player. I'm just curious for knowledge reasons. So, um chat GPT
+2:59:43 think you can help me out with that. Um, so that in in note um, so that'll be
+2:59:50 kind of a note to self to see if I can if I can follow up with things and again
+2:59:57 um, uh, #oteto chatgpt
+3:00:04 um, maybe you can help me look into investigator or research how I can have
+3:00:09 kind of a real time instream assistant
+3:00:14 um, ability ability to um without having to really pay too much for an open AAI
+3:00:20 API key without I pay a little bit um to do these side things. I as much as I'm
+3:00:26 not willing to pay like $25 a month for some stupid little streamer tool and nickel and dime me on that level. I
+3:00:33 would be willing to pay openai or some other company.
+3:00:38 um uh a few dollars a month for sure. At least a few dollars, maybe even 5, 10,
+3:00:44 $20 more than I'm already paying a month to help me automate my creative thoughts
+3:00:52 with some sort of an instream assistant like an engineer in the booth. How can I
+3:00:58 have an engineer in the booth to be listening either live real time? Um,
+3:01:06 which I can picture a couple ways to do that, but I think it would be expensive with WebRTC listening um all the time.
+3:01:14 But is there a way that I could maybe for my stream deck or through a hotkey um
+3:01:20 fire up an assistant, turn its mic on, have it start listening so that um I can
+3:01:27 get real-time feedbacks of prompts to chat GPT and maybe even get a real-time
+3:01:32 answer within a few minutes. um kind of my own little Jarvis
+3:01:38 um assistant in the stream to help me
+3:01:43 hold co be coherent in my thoughts and follow through on my thoughts and that
+3:01:49 sort of stuff. Um so that's about the end of this uh
+3:01:55 hashtag chatgpt. Um,
+3:02:04 [Music] so that was the I might rename this to hacks. I think
+3:02:12 where the crash was before this uh OBS had crashed on Sunday uh two times. It
+3:02:19 was because the source doc um it was confused about the names and
+3:02:26 basically um if I renamed you uh I'd have to basically delete you and
+3:02:32 and read you over um
+3:02:38 if I do that uh if I select
+3:02:44 Q and delete Um,
+3:02:51 not sure what it's going to if it's going to delete the selected item or
+3:02:57 uh what are these little check boxes?
+3:03:07 Is that what I thought?
+3:03:12 I can do it. I can do that. Yeah.
+3:03:23 Yeah,
+3:03:28 I think that's what I want.
+3:03:35 Do want that. I want that to be full height cuz this this gets me usable chat
+3:03:42 and that gets me doc source docs. That's cool because this just gave full height
+3:03:51 docs which basically locked those down to the outside. But now that let this lets me Oh, that's really useful
+3:03:59 for controlling that. And now I've got the audio mixer. But now my last
+3:04:08 my last tweak that I want to do is I
+3:04:14 really want to be able to put something right in there, right in that spot.
+3:04:22 Um cuz I
+3:04:30 at least audio mixer is there. my video is is not um
+3:04:37 that's the minimum width there. And this one I could
+3:04:43 the the smaller I make it, the more crowded it's going to get. And that
+3:04:49 this seems like a reasonable
+3:04:55 width for chat. So this is um when I bring up another
+3:05:03 window though, it's at least I can see it. So I don't have to have the whole thing there. And then this lets me put
+3:05:10 you there and I can do that. And I can see the
+3:05:16 audio mixer. I can see the chat. I can see the audio mixer. I can see the notes. I have a small 4x
+3:05:23 a 4x3 like almost was a 4x4 what a one by one essentially uh
+3:05:31 ratio screen in the middle but that's fine I can work inside of that cramped I
+3:05:36 am cramped here on the laptop um hash noteto at 3 hours and 7 minutes
+3:05:46 into the stream as my is The a music is it competing with my voice at the moment
+3:05:52 or is the levels okay? Should I drop the audio even more?
+3:06:00 Um,
+3:06:06 it's 1:25 and I have to go pick up my kids at 2:25.
+3:06:14 So, let me set an alarm. to remind myself at
+3:06:23 2 10 to go get the kids.
+3:06:32 And what were you speed test? Okay.
+3:06:41 Um,
+3:06:47 that was if I talk right now and is the is the is the voice is that voice competing with
+3:06:54 my voice? Is the announce did that announcement voice compete with my voice?
+3:07:00 Hashtag uh note to self at 3 minutes and 8 seconds into the stream. Did the voice
+3:07:08 uh announcement that just happened, did that compete with the voice that I was
+3:07:13 artificially introducing into the stream? Um,
+3:07:27 thinking here.
+3:07:32 I have a stop gap for the chat at the moment. I could look into social stream
+3:07:40 or I can keep working on the music player. Let me pull up my
+3:07:46 goals.
+3:07:53 Let me They're not the same width, which is fine. You don't need to be the same
+3:07:59 width. Um, [Music]
+3:08:07 but I'm making it the same width because I'm being OCD.
+3:08:14 Um, tech doesn't need to be there. Tech should be over here.
+3:08:23 Um,
+3:08:29 so [Music]
+3:08:38 music player cy tray notification stuff. The cy tray notification is this is
+3:08:44 where all this stuff ties in. I'm still torn on
+3:08:50 I'm having a hard time making a choice here on
+3:08:56 where to go um next.
+3:09:02 I see a lot of paths. I don't I don't have any problem with having an idea,
+3:09:08 coming up with ideas of what to do next, but I have a problem of making that
+3:09:13 actual choice. #noteto self is my voice is the music competing with my voice at
+3:09:19 3 hours and 11 minutes into the stream so that I can uh if can I talk naturally
+3:09:25 and fluently at this moment or is is that audio just completely overpowering my voice?
+3:09:32 Um the monitor I could I could try to monitor out the left ear or the right
+3:09:38 ear, but I'm not going to do that.
+3:09:43 Um, I think that would introduce an echo.
+3:09:52 And I I it's too much. It did hurt my brain to concentrate on that right now.
+3:09:58 My brain's doing too much already.
+3:10:06 These two checkbox items on the music player.
+3:10:12 me taking the time to select the audio output device
+3:10:20 andor and or most likely and taking this standalone application which
+3:10:28 now requires a local host in order to run for permission reasons
+3:10:33 just make it a Tory based application or
+3:10:38 is there a QT I can just add in here.
+3:10:44 Um as another option
+3:10:51 what is there is there
+3:10:57 something like a is there a
+3:11:04 cube browser that would allow me
+3:11:10 that allow the music
+3:11:16 app, HTML, JavaScript, CSS code to
+3:11:26 be easily [Music] loaded and run and honor audio routing.
+3:11:36 Conversely,
+3:11:42 [Music] will can a Tori app
+3:11:49 is that right? T A U R I T A U R. Can a Tori app run as a cis
+3:11:59 tray? That was meant to be. Now playing indistinguishable from magic. either
+3:12:07 set or honor audio routing.
+3:12:27 So that's that's kind of where I'm at on where do I
+3:12:36 got as is a point of no return type of thing that you go down the slippery slope and then you realize the beast
+3:12:43 that you've created. I can search for that now. QT Q browser.
+3:12:51 There's got to be Q text browser.
+3:12:59 That's not what I want.
+3:13:04 Based on Python WebKit
+3:13:13 Web Engine, Gecko based QT pattern QT apps in the browser with web assembly.
+3:13:21 Well, that sounds cool.
+3:13:29 [Music] That's old
+3:13:36 cute browser. the keyboard driven Viml like browser
+3:13:45 but it needs to be Chromiumbased.
+3:13:53 Uh note to self at uh # note to self at three 3 hours and 15 minutes into the
+3:14:00 stream. Is this also a fairly recognizably loud music uh competing
+3:14:05 with my voice and then the soon impending inevitable voice announcement
+3:14:11 uh of its end and the beginning of the next song so that um I'll have to
+3:14:19 remember to keep talking here so that I can hear how it's audio um behavior
+3:14:26 works. [Music]
+3:14:32 towards the end of the song. Uh we're 30 seconds from the end.
+3:14:42 Uh I think it has to be. So it's getting ready to end. It's going
+3:14:48 to do an abrupt end here. If uh if I'm talking and it goes d
+3:14:56 So if I talk and say once I once to you used to once I used to know a new that had a nose for news that a nose for news
+3:15:03 that no newsman ever knew but now he's dead and though I know another news nos he knew did I I never known and knew to
+3:15:10 know the news of that that new knew. Um, so that at 3 hours and 16 minutes into
+3:15:16 the stream, did that have uh too much competition with my voice? Do I need to
+3:15:23 drop its level even more? Which I can. I can totally do that.
+3:15:30 I just I just need the live mixing. If I had a human here with their own
+3:15:37 earphones that could twist tweak this live, then then that would rock, but I
+3:15:44 don't. Um
+3:15:50 note that I think all any solution must
+3:15:59 run must be chromium based.
+3:16:09 [Music]
+3:16:22 [Music] QT web engine module provides a web browser engine that makes it easy to
+3:16:29 embed content from the worldwide web in your QT application on platforms that do
+3:16:35 not have a native web engine. The QT web engine provides C++ CQML.
+3:16:41 This sounds like exactly what I want.
+3:16:48 Um, so yeah,
+3:16:55 there's this. I can
+3:17:01 edit this.
+3:17:08 [Music]
+3:17:18 Um um um if I the if I that's the attack delay
+3:17:24 that needs to be less forgiving needs to be pretty aggressive
+3:17:30 on the um the compressor needs to kick in on
+3:17:36 the uh time delay. um attack at six milliseconds.
+3:17:44 That's already pretty small.
+3:17:50 Um um [Music]
+3:17:57 um [Music]
+3:18:08 um That was me talking and that well yeah
+3:18:14 if I could again hashtag note to self uh at 3 hours 20 minutes in is this next
+3:18:22 voice inevitable voice that's going to come in here and announce what that song was is going to is that was that competing with the music competing with
+3:18:29 me and is this voice right now competing with what I'm talking about? I'm probably going to keep repeating this
+3:18:34 until I hear uh get confirmation that I I'm happy with the audio quality.
+3:18:40 I think the uh compressor settings are probably okay.
+3:18:48 Um so there was there is this QT web engine
+3:18:54 which looks like what I want. So,
+3:19:04 hashtagnote to self chatbot. Um,
+3:19:11 that uh in my request for is there a QT
+3:19:16 browser or QTbased browser? Um, I'd looked into it myself and I see there's
+3:19:22 a QT web engine that says that it is Chromiumbased, which is a requirement
+3:19:28 and I I believe is a requirement in order for me to embed this and get it to
+3:19:34 work in an application, the music application in a standalone application,
+3:19:40 the music web page in a standalone application. So, um I'm curious on this
+3:19:47 request that hopefully you're still listening to is why either either do you
+3:19:54 do or don't know or can you can we go off and research why does OBS not use
+3:20:00 the QT web engine? Um, it I have a hard time believing it's because, you know,
+3:20:07 they're out of date or the QT web engine is behind or whatever because even the
+3:20:13 Seph engine is a little bit behind. So, how the Chromium that the QT web engine
+3:20:19 uses and the Chromium that Seph uses, which is Chrome embedded framework,
+3:20:25 those two chromiums are obviously not the latest Chromium. So how do those three chromiums compare in version
+3:20:33 numbers? Which is obviously the chromium chromium is the most recent one. What is
+3:20:39 the second most recent one? Is it seph or is it QT web engine? Um and then why
+3:20:47 why does OBS use and why doesn't Qtbas based OBS use the QT web engine? Um
+3:20:58 I think that's the end of note. Thanks. Uh I'm thinking of putting in here if I
+3:21:07 put into notes I can say uh um hashtags
+3:21:16 uh I can say hashtag note to self. I can say hashtag
+3:21:25 uh chatbot. I can say hashtag look at what
+3:21:36 AI can do. This is my other channel that
+3:21:43 I've created. I have yet to push any content to
+3:21:48 as I'm I'm trying to come up with ways part of this behind the scenes and why
+3:21:54 I'm doing this stuff is not only to help my stream my night versus night game
+3:22:02 stream when I do the gaming nights and to work on getting the infrastructure for to make those game nights better
+3:22:09 um for for this night versus night channel and any behind behind the scenes night
+3:22:14 versus night sub channel. But I'm also trying to come up with ways to automate
+3:22:22 look at what I can do or look what I can do. Look at what AI can do. It's all
+3:22:29 kind of a blur, but it's the actual phrase look at what AI can do.
+3:22:35 um that I as I stumble across train wrecks,
+3:22:43 AI train wrecks or like unicorn rocket launches. Um it it's it's meant to show
+3:22:50 the good and the bad. Um that I there might be an unfair a biased bad like
+3:22:58 level of ratio of bad to negative. Um, but as I find content, I might uh
+3:23:06 tag some of the stuff as look what what look at what AI can do. Um,
+3:23:12 I wonder if there's uh or some other sort of uh
+3:23:21 TBD. I I I don't know. It's not TBD. It's something else.
+3:23:27 Um, but then I can come back in afterwards
+3:23:33 uh when I'm reviewing the transcription.
+3:23:38 Uh, what can I do? Um, follow up or there. What else?
+3:23:46 Follow up all sorts of ideas.
+3:23:56 [Music] Um,
+3:24:02 so [Music]
+3:24:10 another loud song. Um, why not? Hasheoteto.
+3:24:16 Um, is my is the audio competing with my voice right now? This song is inevitably
+3:24:22 going to close based on my understanding of and familiarity with Uther Riley. Oh, it's only halfway over. Look at that. We
+3:24:28 haven't even We just got halfway over and we did that. So, um, how did my
+3:24:34 voice compete there at uh how did the audio compete with my voice at 3 hours and 26 minutes into the stream?
+3:24:45 All right, so I've got a note here on this. I'm still not quite
+3:24:54 There's the Atari one and the the 39. These two
+3:25:00 on where I go with writing a cystray app
+3:25:07 notification that would do the chats.
+3:25:15 Um, the original idea of the cyra notification was more of an OBS letting
+3:25:22 me know whether my mics are live, but I've resorted to using the stream deck and it I can see right here on the
+3:25:28 screen. Um, it's levels. Uh, it'd be
+3:25:34 kind of cool if I could make a cy tray app that has the levels right there in
+3:25:39 right there on the MacBook title bar uh, notification bar area.
+3:25:46 If I can have little bouncy sliders showing me the the levels
+3:25:54 [Music] and uh yeah, that should come down,
+3:25:59 right? Yep. I I'm not going to do the whole,
+3:26:04 you know, that thing. One of the keywords that shall not be named.
+3:26:12 Um, it'd be cool if I could do level meters.
+3:26:21 The original plan of the sister notification was to
+3:26:27 uh monitor OBS
+3:26:34 and to let me know if I'm in redact mode or if I'm in be right back mode. um or
+3:26:42 my mic is muted, that sort of stuff. And it used websockets to talk back and forth. I think that's a little
+3:26:48 unnecessary now. The effort required to lift that and then maintain it and use
+3:26:53 it, it's just I don't think I'd ever use it. This physical stream deck,
+3:26:59 it's it's pretty handy and I can dive deep in it and it's pretty flexible.
+3:27:07 um having an idea about like
+3:27:14 I tried to I I did reasonably successfully reverse engineer the the Blackmagic
+3:27:21 Android application to find out how to remote control it. I
+3:27:27 haven't followed through. I got some areas I got some felt it out for some
+3:27:33 areas to um do remote control with my Android watch.
+3:27:41 Um, and I'm just wondering if I could do the same thing with uh Stream Deck Neo
+3:27:47 Info Barar. If there's some way to
+3:27:55 firmware debug, what's going on there with that?
+3:28:04 When you do the plugins, does it install the plugin under the actual Neo itself
+3:28:11 or is it installed in the on the operating system and then it just kind of pushes it over? I think you installed
+3:28:17 in the operating system. I don't think I can I can't go to another computer and plug in the
+3:28:24 Neo and all of its plugins show up in
+3:28:30 the Stream Deck editor. So, there's something in the stream deck editor,
+3:28:35 the code itself of the um
+3:28:42 applications stream deck. It's probably under Elgato,
+3:28:51 [Music]
+3:28:59 plugins, and
+3:29:06 icon engines,
+3:29:12 image formats, mult Ultimia
+3:29:22 [Music] ability Coco
+3:29:28 position. Okay. Styles
+3:29:35 T. Is this security? Okay. TLS security.
+3:29:40 Um I'm in our helpers. No resources.
+3:29:48 Uh, here we go. This is probably it.
+3:29:54 Arrow.
+3:29:59 That was Aspire by Arthur Riley. Get out by White Bat audio.
+3:30:06 I got the stream deck dial keys. Multi-actions page profile.
+3:30:12 Um, did they have the info bar?
+3:30:17 System action bar debug digital time hotkey.
+3:30:24 Action bar. I wonder if
+3:30:29 curious what
+3:30:34 [Music]
+3:30:42 action.
+3:30:48 Action bar
+3:30:55 sure
+3:31:01 website text sleep page nation open app open multimedia mouse key brightness
+3:31:09 debug. Wow.
+3:31:16 Okay. Close images button. Close. Close.
+3:31:24 Whatever. Um, soundboard.
+3:31:31 Weird.
+3:31:38 Page multi-actions. These are SVGs. So
+3:31:50 dial. Oh, it's if think if you have the knobs,
+3:31:58 touch, backgrounds, translations, actions, audio assets,
+3:32:04 plugins, icons, profiles, default profiles,
+3:32:12 distributables,
+3:32:24 [Music]
+3:32:29 info bar layouts. There we go. Aha.
+3:32:35 There. At least we got this. I can do um
+3:32:46 path notes. Um
+3:32:54 [Music]
+3:33:02 get info. Grab the path on that.
+3:33:20 Interesting. Good. But that's that's not there's something in here
+3:33:29 manifest. There's some way to
+3:33:38 That was Get Out by White Bat Audio. Now play those Journey to the Edge by Arthur
+3:33:44 Riley with different fonts.
+3:33:50 I'm curious to um browse to you.
+3:33:58 If I add to you a folder
+3:34:06 which is applications.
+3:34:13 [Music] Um kind of step into that.
+3:34:26 [Music]
+3:34:31 It's just a directory. I don't know why it doesn't
+3:34:39 there. [Music]
+3:34:53 How to step into quick. Yeah, it doesn't really get me in
+3:35:00 there [Applause]
+3:35:06 to get
+3:35:13 how to big
+3:35:19 [Music]
+3:35:31 [Music] How to get
+3:35:38 Visual Studio Code on a Mac.
+3:35:47 How to get Visual Studio Code to add
+3:35:54 folder to workspace. [Music]
+3:36:04 Hold on.
+3:36:12 [Music]
+3:36:21 Be right
+3:37:11 All
+3:37:23 right. And then I'm curious why that pause didn't kick in.
+3:37:31 Is it not listening to the hotkeys anymore that it's local host?
+3:37:37 Um, if I come here and I
+3:37:42 Yeah, it's not hotkeying. Hot keys aren't working anymore now that we're local host.
+3:37:49 bug
+3:37:54 open create a GitHub
+3:38:02 issue that hot keys that media
+3:38:11 control keys
+3:38:19 OS browser media control keys are not
+3:38:24 working when the app is run.
+3:38:32 Um as
+3:38:40 local host
+3:38:55 um player.html
+3:39:03 ears itching. Ever had your ear itch?
+3:39:13 Yeah, it doesn't they don't work. So,
+3:39:21 [Music]
+3:39:32 let's see here.
+3:39:37 If I talk Yeah. Still still getting used to that on the
+3:39:43 um
+3:39:48 where was I on chat GPT on a Mac? How to get V shooter code to add folder to workspace.
+3:39:59 a folder
+3:40:04 under the
+3:40:13 folder that now playing night sky
+3:40:21 an application.
+3:40:28 uninstalled.
+3:40:38 that can be that can usually be browsed
+3:40:46 to by right clicking and saying and selecting
+3:40:58 right when you come into any of these you right click and you say show package contents
+3:41:15 So I come into this I I can go into you
+3:41:23 and contents resources info bar layouts
+3:41:31 and drag you into
+3:41:40 if I come over here, bring you up and I
+3:41:47 drag you into the workspace. Will that Would you like to copy or add folder to
+3:41:54 workspace? Do you trust? Yes. Info bar. There we go. That got me. And just to
+3:42:01 make sure
+3:42:06 [Music]
+3:42:14 what is it not saving the workspace.
+3:42:22 So, this is getting into the area of these
+3:42:29 digital time layouts and the page nation lads. The digital time is what I'm more interested in, but um the manifest
+3:42:38 and how this sucker works.
+3:42:44 Um, there's some sort of a meta language in
+3:42:50 here. I can actually even say
+3:42:58 [Music]
+3:43:06 drag and drop. That's what I did. Open it manually.
+3:43:12 R3 is the go to folder in the file dialogue.
+3:43:23 Yeah, all right. I figured it out, so I didn't need that anyway.
+3:43:29 Um, I already had a question for I'm pretty sure I put it in the
+3:43:40 [Music] projects.
+3:43:45 All right. I've learned,
+3:43:51 I've discovered
+3:43:59 [Music] Elgato stream deck application
+3:44:08 [Music]
+3:44:16 here. [Music]
+3:45:00 layouts digital pageionation just grab you.
+3:45:05 Uh, I want to do it from you.
+3:45:12 Copy path
+3:45:19 [Music] is this. And that's
+3:45:27 the whole layout.
+3:45:33 [Music]
+3:45:42 Is this useful to possibly
+3:45:48 hack uh creating and installing
+3:45:55 a custom info bar to
+3:46:03 my stream deck. [Music]
+3:46:12 So So like I don't know why you didn't volunteer to me that
+3:46:21 it's just a config file.
+3:46:29 [Music]
+3:46:40 [Music] duplicate. Um,
+3:46:46 so this is back on the table. Uh, as an idea,
+3:46:55 [Music]
+3:47:06 R&D There.
+3:47:26 Um, I got this dangling work in progress here. It's not really a work in progress. Uh, I could get bang that out
+3:47:32 of the way, too. um that the closer which I'd want to disable the um
+3:47:40 in order to work on that in order to work on that I would want to um disable the closer task which basically
+3:47:47 when it sees the closer video ends then it basically stops streaming. So, um
+3:47:54 we can do that and
+3:47:59 um [Applause]
+3:48:10 what's the simplest way to do that than now playing show hide
+3:48:16 if
+3:48:39 I could just do a simple
+3:48:46 or scene.
+3:48:52 Current scene is closer
+3:48:59 then hide both of them. So the file is blank or if the scene is
+3:49:06 closer cuz we're going to match that most of the time. So here this would basically
+3:49:12 fix that. Um,
+3:49:22 I can test this out real quick by going to closer and uh advancing switcher
+3:49:29 won't kick in the stop stream hopefully. So, here we go. Oh, and
+3:49:40 we're unable to write the file because we're hosted. [ __ ] See, I can't write the file because I'm
+3:49:46 in a local host and I have to send the header
+3:49:53 that I'm insecure. Okay.
+3:50:00 And I talked to chat GBT about this.
+3:50:05 Um, and this is where it said
+3:50:11 in order to do some things. Yep.
+3:50:17 But that was the websocket. No, that was totally different.
+3:50:23 Totally different.
+3:50:29 [Music] Yeah.
+3:50:36 This is where it took me in a different direction.
+3:50:46 It said you had to have like
+3:50:53 browser security.
+3:50:59 Um,
+3:51:19 that was Catacombs. Now playing Carnage.
+3:51:25 So this is where it gave me some stuff, but it's about uh hand.
+3:51:38 Let me just ask it again.
+3:51:50 Um Let's
+3:51:57 [Music]
+3:52:04 [Music]
+3:52:13 command here on the this guy.
+3:52:22 [Music]
+3:52:47 right to files And uh
+3:52:53 listen for
+3:53:00 media control
+3:53:05 hot keys.
+3:53:12 [Music]
+3:53:20 [Laughter]
+3:53:26 Carnage. There's like Doom type music.
+3:53:31 I don't know if I would even call it cyberpunk industrial synth metal.
+3:53:36 Industrial synth metal. This is uh this is definitely an aggressive song. Skipped Carnage by
+3:53:44 White Bat Audio. Now playing Achieving Dreams by Arthur Riley.
+3:53:58 [Music]
+3:54:14 [Music] Maybe I have to re I have to reset it.
+3:54:21 So here if I come in here settings configure
+3:54:28 that I want to go to in uh music
+3:54:34 NVK now playing save replace
+3:54:42 I think oh because everything reloaded because everything was reloaded
+3:54:51 Um, I don't think the skip dreams. That was far. Now playing
+3:54:57 achieving dreams. What the [ __ ] I mean,
+3:55:03 okay. Like, really?
+3:55:09 That wasn't working. Is that all it took to take to get working? Whatever. Um,
+3:55:17 so now I should have on OBS there's a no playing now playing.
+3:55:24 Um, I'll fix those fonts later. But now if I go to um closer
+3:55:32 that will disappear because of the rule here that the
+3:55:40 the file will be not null but the scene will be the
+3:55:47 closer and the text will go away. So on
+3:55:53 closer without stopping the stream I'm not this [ __ ] night, [ __ ]
+3:56:00 [Applause] [Music]
+3:56:16 All right, so that was a test that worked. And
+3:56:22 um I got to go pick up the kids. Duh.
+3:56:29 I gotta stop the stream while I go pick up the kids. I'm not going to leave it. I'll be right back while I step out of the house. That's just kind of weird.
+3:56:47 All right. Um, I'm going to take off. Weird. Uh, I'll work on a way to AI
+3:56:56 summarize and get some meat out of this. It's not just data that just sits there
+3:57:03 and occupies space. It's data that some AI outputs action items and to-dos and
+3:57:12 uh, followup signs and tells me where to go find it. It tells me to it would tell
+3:57:18 me in the summary, go to this point and this point and this point and go look for the audio. It tells me how to follow
+3:57:23 up on my audio stream if I made a note of it in the stream. So, I'm going to play with that and I might even live
+3:57:30 stream how I do that. Uh, so that's what I might do later this afternoon. I think
+3:57:36 there's going to be no kids around when I get back, but I got to go. I got to go. So, I'm going to turn this back on
+3:57:44 and turn on the closer. Yep. And one thing I noticed on the closer is
+3:57:50 that
