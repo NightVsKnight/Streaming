@@ -2,3 +2,5 @@
 *.code-workspace
 
 Transcripts/scratch.txt
+
+.DS_Store
