@@ -1,6 +1,3 @@
-Something in OBS is hourglassing every so often.  
-(every few seconds/minutes?)
-
 Chat Hacks:  
 YouTube:  
   Element #card `display: none`  
